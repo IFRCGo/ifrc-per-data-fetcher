@@ -1,0 +1,61 @@
+name: Update PER Data
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual trigger
+  
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Fetch and process data
+        run: |
+          npm start
+        env:
+          # Add any required API keys or environment variables here
+          NODE_ENV: production
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Commit and push if changes exist
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Get the current date for the commit message
+          CURRENT_DATE=$(date -u +"%Y-%m-%d")
+          
+          git add data/
+          git commit -m "Update PER data: ${CURRENT_DATE}"
+          
+          # Get the last update timestamp from the JSON file
+          LAST_UPDATE=$(jq -r '.lastUpdate' data/last-update.json)
+          
+          # Add detailed commit description
+          git commit --amend -m "Update PER data: ${CURRENT_DATE}" -m "Last data update: ${LAST_UPDATE}"
+          
+          # Push changes
+          git push

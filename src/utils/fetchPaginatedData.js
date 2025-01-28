@@ -15,7 +15,7 @@ async function fetchPaginatedData(baseUrl) {
             const response = await axios.get(nextUrl, {
                 headers: {
                     Accept: 'application/json',
-                    'User-Agent': 'IFRC-Data-Fetcher',
+                    'User-Agent': 'IFRC-PER-Data-Fetcher',
                 },
             });
 
