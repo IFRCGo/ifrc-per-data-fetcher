@@ -16,7 +16,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.PAT_TOKEN }}
+          persist-credentials: true
         
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -45,6 +46,8 @@ jobs:
           
       - name: Commit and push if changes exist
         if: steps.check_changes.outputs.changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -54,6 +57,9 @@ jobs:
           
           git add data/
           git commit -m "Update PER data: ${CURRENT_DATE}"
+          
+          # Push using token-based authentication
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main --force
           
           # Get the last update timestamp from the JSON file
           LAST_UPDATE=$(jq -r '.lastUpdate' data/last-update.json)
