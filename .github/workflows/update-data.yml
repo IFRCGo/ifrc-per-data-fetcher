@@ -25,7 +25,7 @@ jobs:
         
       - name: Fetch and process data
         run: |
-          npm start
+          npm run update-data
         env:
           # Add any required API keys or environment variables here
           NODE_ENV: production
