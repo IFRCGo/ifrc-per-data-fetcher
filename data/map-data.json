@@ -13530,7 +13530,26 @@
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
-    "components": []
+    "components": [
+      {
+        "component_id": 25,
+        "component_name": "RESTORING FAMILY LINKS (RFL)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 19,
+        "component_name": "WATER AND SANITATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": ""
+      }
+    ]
   },
   {
     "id": 108,

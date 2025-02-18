@@ -85,17 +85,6 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 159,
-          "assessment_number": 3,
-          "country_id": 60,
-          "country_name": "Ecuador",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2025-02-17",
-          "rating_value": null,
-          "rating_title": ""
-        },
-        {
           "assessment_id": 109,
           "assessment_number": 1,
           "country_id": 61,
@@ -17471,6 +17460,17 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 108,
           "assessment_number": 2,
           "country_id": 60,
@@ -21870,6 +21870,17 @@
           "date_of_assessment": "2015-10-02",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
         },
         {
           "assessment_id": 108,
@@ -64417,7 +64428,26 @@
       {
         "assessment_number": 3,
         "date": "2025-02-17",
-        "components": [],
+        "components": [
+          {
+            "component_id": 25,
+            "component_name": "RESTORING FAMILY LINKS (RFL)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 19,
+            "component_name": "WATER AND SANITATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": ""
+          }
+        ],
         "phase": 2,
         "phase_display": "Assessment"
       }
