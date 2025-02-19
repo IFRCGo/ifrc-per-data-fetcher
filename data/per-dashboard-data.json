@@ -666,6 +666,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 108,
           "assessment_number": 2,
           "country_id": 60,
@@ -1597,6 +1608,17 @@
           "date_of_assessment": "2015-10-02",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
         },
         {
           "assessment_id": 108,
@@ -64444,6 +64466,24 @@
             "component_num": 14,
             "area_id": 3,
             "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 1,
+            "component_name": "RC auxiliary role, Mandate and Law",
+            "component_num": 1,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 2,
+            "component_name": "DRM Strategy",
+            "component_num": 2,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
             "rating_value": 0,
             "rating_title": ""
           }
