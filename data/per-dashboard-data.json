@@ -673,8 +673,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2025-02-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 5,
+          "rating_title": "High Performance"
         },
         {
           "assessment_id": 108,
@@ -4420,6 +4420,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 108,
           "assessment_number": 2,
           "country_id": 60,
@@ -6284,6 +6295,17 @@
           "date_of_assessment": "2015-10-02",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
         },
         {
           "assessment_id": 108,
@@ -44297,6 +44319,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 159,
+          "assessment_number": 3,
+          "country_id": 60,
+          "country_name": "Ecuador",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2025-02-17",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 108,
           "assessment_number": 2,
           "country_id": 60,
@@ -64452,6 +64485,24 @@
         "date": "2025-02-17",
         "components": [
           {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 46,
+            "component_name": "Finance and Admin policy and emergency procedures",
+            "component_num": 32,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
             "component_id": 25,
             "component_name": "RESTORING FAMILY LINKS (RFL)",
             "component_num": 14,
@@ -64475,13 +64526,22 @@
             "component_num": 1,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 5,
+            "rating_title": "High Performance"
           },
           {
             "component_id": 2,
             "component_name": "DRM Strategy",
             "component_num": 2,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
             "rating_value": 0,

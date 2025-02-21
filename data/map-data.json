@@ -13532,6 +13532,24 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
         "component_id": 25,
         "component_name": "RESTORING FAMILY LINKS (RFL)",
         "component_num": 14,
@@ -13555,13 +13573,22 @@
         "component_num": 1,
         "area_id": 1,
         "area_name": "Policy Strategy and Standards",
-        "rating_value": 0,
-        "rating_title": ""
+        "rating_value": 5,
+        "rating_title": "High Performance"
       },
       {
         "component_id": 2,
         "component_name": "DRM Strategy",
         "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
         "area_id": 1,
         "area_name": "Policy Strategy and Standards",
         "rating_value": 0,
