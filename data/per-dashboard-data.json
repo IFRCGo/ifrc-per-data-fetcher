@@ -294,6 +294,17 @@
           "rating_title": ""
         },
         {
+          "assessment_id": 160,
+          "assessment_number": 1,
+          "country_id": 159,
+          "country_name": "Spain",
+          "region_id": 3,
+          "region_name": "Europe",
+          "date_of_assessment": null,
+          "rating_value": null,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 80,
           "assessment_number": 1,
           "country_id": 189,
@@ -91353,6 +91364,15 @@
         ],
         "phase": 3,
         "phase_display": "Prioritisation"
+      }
+    ],
+    "Spain": [
+      {
+        "assessment_number": 1,
+        "date": null,
+        "components": [],
+        "phase": 1,
+        "phase_display": "Orientation"
       }
     ],
     "Tanzania, United Republic of": [

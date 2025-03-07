@@ -44235,6 +44235,28 @@
     ]
   },
   {
+    "id": 160,
+    "assessment_number": 1,
+    "date_of_assessment": null,
+    "country_id": 159,
+    "country_name": "Spain",
+    "phase": 1,
+    "phase_display": "Orientation",
+    "type_of_assessment": null,
+    "type_of_assessment_name": null,
+    "country_iso3": "ESP",
+    "region_id": 3,
+    "region_name": "Europe",
+    "latitude": 40.463667,
+    "longitude": -3.74922,
+    "updated_at": "2025-03-06T10:23:35.419083Z",
+    "prioritized_components": [],
+    "epi_considerations": false,
+    "climate_environmental_considerations": false,
+    "urban_considerations": false,
+    "components": []
+  },
+  {
     "id": 80,
     "assessment_number": 1,
     "date_of_assessment": "2019-08-01",
