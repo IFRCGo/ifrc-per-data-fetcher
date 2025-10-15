@@ -17,8 +17,8 @@
         "is_deprecated": false,
         "fdrs": "DAF001",
         "average_household_size": null,
-        "society_name": "Afghan Red Crescent Society",
         "name": "Afghanistan",
+        "society_name": "Afghan Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 38,
@@ -53,8 +53,8 @@
         "is_deprecated": false,
         "fdrs": "DAF001",
         "average_household_size": null,
-        "society_name": "Afghan Red Crescent Society",
         "name": "Afghanistan",
+        "society_name": "Afghan Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 36,
@@ -89,8 +89,8 @@
         "is_deprecated": false,
         "fdrs": "DAL001",
         "average_household_size": null,
-        "society_name": "Albanian Red Cross",
         "name": "Albania",
+        "society_name": "Albanian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 11,
@@ -125,8 +125,8 @@
         "is_deprecated": false,
         "fdrs": "DDZ001",
         "average_household_size": null,
-        "society_name": "Algerian Red Crescent",
         "name": "Algeria",
+        "society_name": "Algerian Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -158,8 +158,8 @@
         "is_deprecated": false,
         "fdrs": "DAM001",
         "average_household_size": null,
-        "society_name": "Armenian Red Cross Society",
         "name": "Armenia",
+        "society_name": "Armenian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 118,
@@ -194,8 +194,8 @@
         "is_deprecated": false,
         "fdrs": "DAM001",
         "average_household_size": null,
-        "society_name": "Armenian Red Cross Society",
         "name": "Armenia",
+        "society_name": "Armenian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 69,
@@ -230,8 +230,8 @@
         "is_deprecated": false,
         "fdrs": "DAZ001",
         "average_household_size": null,
-        "society_name": "Red Crescent Society of Azerbaijan",
         "name": "Azerbaijan",
+        "society_name": "Red Crescent Society of Azerbaijan",
         "translation_module_original_language": "en"
       },
       "assessment": 67,
@@ -266,8 +266,8 @@
         "is_deprecated": false,
         "fdrs": "DBS001",
         "average_household_size": null,
-        "society_name": "The Bahamas Red Cross Society",
         "name": "Bahamas",
+        "society_name": "The Bahamas Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 2,
@@ -302,8 +302,8 @@
         "is_deprecated": false,
         "fdrs": "DBS001",
         "average_household_size": null,
-        "society_name": "The Bahamas Red Cross Society",
         "name": "Bahamas",
+        "society_name": "The Bahamas Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 10,
@@ -338,8 +338,8 @@
         "is_deprecated": false,
         "fdrs": "DBD001",
         "average_household_size": null,
-        "society_name": "Bangladesh Red Crescent Society",
         "name": "Bangladesh",
+        "society_name": "Bangladesh Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 54,
@@ -374,8 +374,8 @@
         "is_deprecated": false,
         "fdrs": "DBB001",
         "average_household_size": null,
-        "society_name": "The Barbados Red Cross Society",
         "name": "Barbados",
+        "society_name": "The Barbados Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 51,
@@ -410,8 +410,8 @@
         "is_deprecated": false,
         "fdrs": "DBZ001",
         "average_household_size": null,
-        "society_name": "Belize Red Cross Society",
         "name": "Belize",
+        "society_name": "Belize Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 5,
@@ -446,8 +446,8 @@
         "is_deprecated": false,
         "fdrs": "DBO001",
         "average_household_size": null,
-        "society_name": "Bolivian Red Cross",
         "name": "Bolivia",
+        "society_name": "Bolivian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 100,
@@ -482,8 +482,8 @@
         "is_deprecated": false,
         "fdrs": "DBA001",
         "average_household_size": null,
-        "society_name": "The Red Cross Society of Bosnia and Herzegovina",
         "name": "Bosnia and Herzegovina",
+        "society_name": "The Red Cross Society of Bosnia and Herzegovina",
         "translation_module_original_language": "en"
       },
       "assessment": 47,
@@ -518,8 +518,8 @@
         "is_deprecated": false,
         "fdrs": "DBA001",
         "average_household_size": null,
-        "society_name": "The Red Cross Society of Bosnia and Herzegovina",
         "name": "Bosnia and Herzegovina",
+        "society_name": "The Red Cross Society of Bosnia and Herzegovina",
         "translation_module_original_language": "en"
       },
       "assessment": 45,
@@ -554,8 +554,8 @@
         "is_deprecated": false,
         "fdrs": "DBG001",
         "average_household_size": null,
-        "society_name": "Bulgarian Red Cross",
         "name": "Bulgaria",
+        "society_name": "Bulgarian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 109,
@@ -590,8 +590,8 @@
         "is_deprecated": false,
         "fdrs": "DBF001",
         "average_household_size": null,
-        "society_name": "Burkinabe Red Cross Society",
         "name": "Burkina Faso",
+        "society_name": "Burkinabe Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -623,8 +623,8 @@
         "is_deprecated": false,
         "fdrs": "DBI001",
         "average_household_size": null,
-        "society_name": "Burundi Red Cross",
         "name": "Burundi",
+        "society_name": "Burundi Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 146,
@@ -659,8 +659,8 @@
         "is_deprecated": false,
         "fdrs": "DKH001",
         "average_household_size": null,
-        "society_name": "Cambodian Red Cross",
         "name": "Cambodia",
+        "society_name": "Cambodian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 135,
@@ -695,8 +695,8 @@
         "is_deprecated": false,
         "fdrs": "DCM001",
         "average_household_size": null,
-        "society_name": "Cameroon Red Cross Society",
         "name": "Cameroon",
+        "society_name": "Cameroon Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 68,
@@ -731,8 +731,8 @@
         "is_deprecated": false,
         "fdrs": "DCF001",
         "average_household_size": null,
-        "society_name": "Central African Red Cross Society",
         "name": "Central African Republic",
+        "society_name": "Central African Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -764,8 +764,8 @@
         "is_deprecated": false,
         "fdrs": "DCO001",
         "average_household_size": null,
-        "society_name": "Colombian Red Cross Society",
         "name": "Colombia",
+        "society_name": "Colombian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 110,
@@ -800,8 +800,8 @@
         "is_deprecated": false,
         "fdrs": "DKM001",
         "average_household_size": null,
-        "society_name": "The Comoros Red Crescent",
         "name": "Comoros",
+        "society_name": "The Comoros Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 119,
@@ -836,8 +836,8 @@
         "is_deprecated": false,
         "fdrs": "DCK001",
         "average_household_size": null,
-        "society_name": "Cook Islands Red Cross Society",
         "name": "Cook Islands",
+        "society_name": "Cook Islands Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -869,8 +869,8 @@
         "is_deprecated": false,
         "fdrs": "DCR001",
         "average_household_size": null,
-        "society_name": "Costa Rican Red Cross",
         "name": "Costa Rica",
+        "society_name": "Costa Rican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 98,
@@ -905,8 +905,8 @@
         "is_deprecated": false,
         "fdrs": "DCR001",
         "average_household_size": null,
-        "society_name": "Costa Rican Red Cross",
         "name": "Costa Rica",
+        "society_name": "Costa Rican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 4,
@@ -941,8 +941,8 @@
         "is_deprecated": false,
         "fdrs": "DCI001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of Côte d'Ivoire",
         "name": "Côte d'Ivoire",
+        "society_name": "Red Cross Society of Côte d'Ivoire",
         "translation_module_original_language": "en"
       },
       "assessment": 105,
@@ -977,8 +977,8 @@
         "is_deprecated": false,
         "fdrs": "DHR001",
         "average_household_size": null,
-        "society_name": "Croatian Red Cross",
         "name": "Croatia",
+        "society_name": "Croatian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 140,
@@ -1013,8 +1013,8 @@
         "is_deprecated": false,
         "fdrs": "DCU001",
         "average_household_size": null,
-        "society_name": "Cuban Red Cross",
         "name": "Cuba",
+        "society_name": "Cuban Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 61,
@@ -1049,8 +1049,8 @@
         "is_deprecated": false,
         "fdrs": "DKP001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of the Democratic People's Republic of Korea",
         "name": "Democratic People's Republic of Korea",
+        "society_name": "Red Cross Society of the Democratic People's Republic of Korea",
         "translation_module_original_language": "en"
       },
       "assessment": 53,
@@ -1085,8 +1085,8 @@
         "is_deprecated": false,
         "fdrs": "DCD001",
         "average_household_size": null,
-        "society_name": "Red Cross of the Democratic Republic of the Congo",
         "name": "Democratic Republic of Congo",
+        "society_name": "Red Cross of the Democratic Republic of the Congo",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -1118,8 +1118,8 @@
         "is_deprecated": false,
         "fdrs": "DCD001",
         "average_household_size": null,
-        "society_name": "Red Cross of the Democratic Republic of the Congo",
         "name": "Democratic Republic of Congo",
+        "society_name": "Red Cross of the Democratic Republic of the Congo",
         "translation_module_original_language": "en"
       },
       "assessment": 78,
@@ -1154,8 +1154,8 @@
         "is_deprecated": false,
         "fdrs": "DCD001",
         "average_household_size": null,
-        "society_name": "Red Cross of the Democratic Republic of the Congo",
         "name": "Democratic Republic of Congo",
+        "society_name": "Red Cross of the Democratic Republic of the Congo",
         "translation_module_original_language": "en"
       },
       "assessment": 15,
@@ -1190,8 +1190,8 @@
         "is_deprecated": false,
         "fdrs": "DDJ001",
         "average_household_size": null,
-        "society_name": "Djibouti Red Crescent Society",
         "name": "Djibouti",
+        "society_name": "Djibouti Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 121,
@@ -1226,8 +1226,8 @@
         "is_deprecated": false,
         "fdrs": "DDM001",
         "average_household_size": null,
-        "society_name": "Dominica Red Cross Society",
         "name": "Dominica",
+        "society_name": "Dominica Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 46,
@@ -1262,8 +1262,8 @@
         "is_deprecated": false,
         "fdrs": "DDO001",
         "average_household_size": null,
-        "society_name": "Dominican Red Cross",
         "name": "Dominican Republic",
+        "society_name": "Dominican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 108,
@@ -1298,8 +1298,8 @@
         "is_deprecated": false,
         "fdrs": "DDO001",
         "average_household_size": null,
-        "society_name": "Dominican Red Cross",
         "name": "Dominican Republic",
+        "society_name": "Dominican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 30,
@@ -1334,8 +1334,8 @@
         "is_deprecated": false,
         "fdrs": "DDO001",
         "average_household_size": null,
-        "society_name": "Dominican Red Cross",
         "name": "Dominican Republic",
+        "society_name": "Dominican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 29,
@@ -1370,8 +1370,8 @@
         "is_deprecated": false,
         "fdrs": "DDO001",
         "average_household_size": null,
-        "society_name": "Dominican Red Cross",
         "name": "Dominican Republic",
+        "society_name": "Dominican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 17,
@@ -1406,8 +1406,8 @@
         "is_deprecated": false,
         "fdrs": "DEC001",
         "average_household_size": null,
-        "society_name": "Ecuadorian Red Cross",
         "name": "Ecuador",
+        "society_name": "Ecuadorian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 129,
@@ -1442,8 +1442,8 @@
         "is_deprecated": false,
         "fdrs": "DEC001",
         "average_household_size": null,
-        "society_name": "Ecuadorian Red Cross",
         "name": "Ecuador",
+        "society_name": "Ecuadorian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 80,
@@ -1478,8 +1478,8 @@
         "is_deprecated": false,
         "fdrs": "DEC001",
         "average_household_size": null,
-        "society_name": "Ecuadorian Red Cross",
         "name": "Ecuador",
+        "society_name": "Ecuadorian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 18,
@@ -1514,8 +1514,8 @@
         "is_deprecated": false,
         "fdrs": "DEG001",
         "average_household_size": null,
-        "society_name": "Egyptian Red Crescent Society",
         "name": "Egypt",
+        "society_name": "Egyptian Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 81,
@@ -1550,8 +1550,8 @@
         "is_deprecated": false,
         "fdrs": "DSV001",
         "average_household_size": null,
-        "society_name": "Salvadorean Red Cross Society",
         "name": "El Salvador",
+        "society_name": "Salvadorean Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 132,
@@ -1586,8 +1586,8 @@
         "is_deprecated": false,
         "fdrs": "DSV001",
         "average_household_size": null,
-        "society_name": "Salvadorean Red Cross Society",
         "name": "El Salvador",
+        "society_name": "Salvadorean Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 87,
@@ -1622,8 +1622,8 @@
         "is_deprecated": false,
         "fdrs": "DSV001",
         "average_household_size": null,
-        "society_name": "Salvadorean Red Cross Society",
         "name": "El Salvador",
+        "society_name": "Salvadorean Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 1,
@@ -1658,8 +1658,8 @@
         "is_deprecated": false,
         "fdrs": "DSV001",
         "average_household_size": null,
-        "society_name": "Salvadorean Red Cross Society",
         "name": "El Salvador",
+        "society_name": "Salvadorean Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 73,
@@ -1694,8 +1694,8 @@
         "is_deprecated": false,
         "fdrs": "DSZ001",
         "average_household_size": null,
-        "society_name": "Baphalali Eswatini Red Cross Society",
         "name": "Eswatini, Kingdom of",
+        "society_name": "Baphalali Eswatini Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 86,
@@ -1730,8 +1730,8 @@
         "is_deprecated": false,
         "fdrs": "DET001",
         "average_household_size": null,
-        "society_name": "Ethiopia Red Cross",
         "name": "Ethiopia",
+        "society_name": "Ethiopia Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 14,
@@ -1766,8 +1766,8 @@
         "is_deprecated": false,
         "fdrs": "DET001",
         "average_household_size": null,
-        "society_name": "Ethiopia Red Cross",
         "name": "Ethiopia",
+        "society_name": "Ethiopia Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 13,
@@ -1802,8 +1802,8 @@
         "is_deprecated": false,
         "fdrs": "DFJ001",
         "average_household_size": null,
-        "society_name": "The Fiji Red Cross Society",
         "name": "Fiji",
+        "society_name": "The Fiji Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 134,
@@ -1838,8 +1838,8 @@
         "is_deprecated": false,
         "fdrs": "DGE001",
         "average_household_size": null,
-        "society_name": "Georgia Red Cross Society",
         "name": "Georgia",
+        "society_name": "Georgia Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 59,
@@ -1874,8 +1874,8 @@
         "is_deprecated": false,
         "fdrs": "DGH001",
         "average_household_size": null,
-        "society_name": "Ghana Red Cross Society",
         "name": "Ghana",
+        "society_name": "Ghana Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 76,
@@ -1910,8 +1910,8 @@
         "is_deprecated": false,
         "fdrs": "DGR001",
         "average_household_size": null,
-        "society_name": "Hellenic Red Cross",
         "name": "Greece",
+        "society_name": "Hellenic Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 57,
@@ -1946,8 +1946,8 @@
         "is_deprecated": false,
         "fdrs": "DGD001",
         "average_household_size": null,
-        "society_name": "Grenada Red Cross Society",
         "name": "Grenada",
+        "society_name": "Grenada Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -1979,8 +1979,8 @@
         "is_deprecated": false,
         "fdrs": "DGT001",
         "average_household_size": null,
-        "society_name": "Guatemalan Red Cross",
         "name": "Guatemala",
+        "society_name": "Guatemalan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 92,
@@ -2015,8 +2015,8 @@
         "is_deprecated": false,
         "fdrs": "DGT001",
         "average_household_size": null,
-        "society_name": "Guatemalan Red Cross",
         "name": "Guatemala",
+        "society_name": "Guatemalan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 7,
@@ -2051,8 +2051,8 @@
         "is_deprecated": false,
         "fdrs": "DGN001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of Guinea",
         "name": "Guinea",
+        "society_name": "Red Cross Society of Guinea",
         "translation_module_original_language": "en"
       },
       "assessment": 82,
@@ -2087,8 +2087,8 @@
         "is_deprecated": false,
         "fdrs": "DGY001",
         "average_household_size": null,
-        "society_name": "The Guyana Red Cross Society",
         "name": "Guyana",
+        "society_name": "The Guyana Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -2120,8 +2120,8 @@
         "is_deprecated": false,
         "fdrs": "DHT001",
         "average_household_size": null,
-        "society_name": "Haitian Red Cross",
         "name": "Haiti",
+        "society_name": "Haitian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 20,
@@ -2156,8 +2156,8 @@
         "is_deprecated": false,
         "fdrs": "DHT001",
         "average_household_size": null,
-        "society_name": "Haitian Red Cross",
         "name": "Haiti",
+        "society_name": "Haitian Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 19,
@@ -2192,8 +2192,8 @@
         "is_deprecated": false,
         "fdrs": "DHN001",
         "average_household_size": null,
-        "society_name": "Honduran Red Cross",
         "name": "Honduras",
+        "society_name": "Honduran Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 122,
@@ -2228,8 +2228,8 @@
         "is_deprecated": false,
         "fdrs": "DHN001",
         "average_household_size": null,
-        "society_name": "Honduran Red Cross",
         "name": "Honduras",
+        "society_name": "Honduran Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 89,
@@ -2264,8 +2264,8 @@
         "is_deprecated": false,
         "fdrs": "DHN001",
         "average_household_size": null,
-        "society_name": "Honduran Red Cross",
         "name": "Honduras",
+        "society_name": "Honduran Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 48,
@@ -2300,8 +2300,8 @@
         "is_deprecated": false,
         "fdrs": "DHN001",
         "average_household_size": null,
-        "society_name": "Honduran Red Cross",
         "name": "Honduras",
+        "society_name": "Honduran Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 22,
@@ -2336,8 +2336,8 @@
         "is_deprecated": false,
         "fdrs": "DHN001",
         "average_household_size": null,
-        "society_name": "Honduran Red Cross",
         "name": "Honduras",
+        "society_name": "Honduran Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 21,
@@ -2372,8 +2372,8 @@
         "is_deprecated": false,
         "fdrs": "DID001",
         "average_household_size": null,
-        "society_name": "Indonesian Red Cross Society",
         "name": "Indonesia",
+        "society_name": "Indonesian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -2405,8 +2405,8 @@
         "is_deprecated": false,
         "fdrs": "DID001",
         "average_household_size": null,
-        "society_name": "Indonesian Red Cross Society",
         "name": "Indonesia",
+        "society_name": "Indonesian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 65,
@@ -2441,8 +2441,8 @@
         "is_deprecated": false,
         "fdrs": "DIQ001",
         "average_household_size": null,
-        "society_name": "Iraqi Red Crescent Society",
         "name": "Iraq",
+        "society_name": "Iraqi Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -2474,8 +2474,8 @@
         "is_deprecated": false,
         "fdrs": "DIE001",
         "average_household_size": null,
-        "society_name": "Irish Red Cross Society",
         "name": "Ireland",
+        "society_name": "Irish Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 136,
@@ -2510,8 +2510,8 @@
         "is_deprecated": false,
         "fdrs": "DJM001",
         "average_household_size": null,
-        "society_name": "Jamaican Red Cross",
         "name": "Jamaica",
+        "society_name": "Jamaican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -2543,8 +2543,8 @@
         "is_deprecated": false,
         "fdrs": "DJM001",
         "average_household_size": null,
-        "society_name": "Jamaican Red Cross",
         "name": "Jamaica",
+        "society_name": "Jamaican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 25,
@@ -2579,8 +2579,8 @@
         "is_deprecated": false,
         "fdrs": "DJM001",
         "average_household_size": null,
-        "society_name": "Jamaican Red Cross",
         "name": "Jamaica",
+        "society_name": "Jamaican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 24,
@@ -2615,8 +2615,8 @@
         "is_deprecated": false,
         "fdrs": "DJM001",
         "average_household_size": null,
-        "society_name": "Jamaican Red Cross",
         "name": "Jamaica",
+        "society_name": "Jamaican Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 23,
@@ -2651,8 +2651,8 @@
         "is_deprecated": false,
         "fdrs": "DJO001",
         "average_household_size": null,
-        "society_name": "Jordan National Red Crescent Society",
         "name": "Jordan",
+        "society_name": "Jordan National Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 90,
@@ -2687,8 +2687,8 @@
         "is_deprecated": false,
         "fdrs": "DKZ001",
         "average_household_size": null,
-        "society_name": "Red Crescent Society of the Republic of Kazakhstan",
         "name": "Kazakhstan",
+        "society_name": "Red Crescent Society of the Republic of Kazakhstan",
         "translation_module_original_language": "en"
       },
       "assessment": 130,
@@ -2723,8 +2723,8 @@
         "is_deprecated": false,
         "fdrs": "DKE001",
         "average_household_size": null,
-        "society_name": "Kenya Red Cross Society",
         "name": "Kenya",
+        "society_name": "Kenya Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 70,
@@ -2759,8 +2759,8 @@
         "is_deprecated": false,
         "fdrs": "DKG001",
         "average_household_size": null,
-        "society_name": "Red Crescent Society of Kyrgyzstan",
         "name": "Kyrgyzstan",
+        "society_name": "Red Crescent Society of Kyrgyzstan",
         "translation_module_original_language": "en"
       },
       "assessment": 88,
@@ -2795,8 +2795,8 @@
         "is_deprecated": false,
         "fdrs": "DLA001",
         "average_household_size": null,
-        "society_name": "Lao Red Cross",
         "name": "Lao People's Democratic Republic",
+        "society_name": "Lao Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 142,
@@ -2831,8 +2831,8 @@
         "is_deprecated": false,
         "fdrs": "DLB001",
         "average_household_size": null,
-        "society_name": "Lebanese Red Cross",
         "name": "Lebanon",
+        "society_name": "Lebanese Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -2864,8 +2864,8 @@
         "is_deprecated": false,
         "fdrs": "DLY001",
         "average_household_size": null,
-        "society_name": "Libyan Red Crescent",
         "name": "Libya",
+        "society_name": "Libyan Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 94,
@@ -2900,8 +2900,8 @@
         "is_deprecated": false,
         "fdrs": "DLT001",
         "average_household_size": null,
-        "society_name": "Lithuanian Red Cross Society",
         "name": "Lithuania",
+        "society_name": "Lithuanian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 101,
@@ -2936,8 +2936,8 @@
         "is_deprecated": false,
         "fdrs": "DMG001",
         "average_household_size": null,
-        "society_name": "Malagasy Red Cross Society",
         "name": "Madagascar",
+        "society_name": "Malagasy Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 126,
@@ -2972,8 +2972,8 @@
         "is_deprecated": false,
         "fdrs": "DMW001",
         "average_household_size": null,
-        "society_name": "Malawi Red Cross Society",
         "name": "Malawi",
+        "society_name": "Malawi Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 127,
@@ -3008,8 +3008,8 @@
         "is_deprecated": false,
         "fdrs": "DMY001",
         "average_household_size": null,
-        "society_name": "Malaysian Red Crescent Society",
         "name": "Malaysia",
+        "society_name": "Malaysian Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 56,
@@ -3044,8 +3044,8 @@
         "is_deprecated": false,
         "fdrs": "DML001",
         "average_household_size": null,
-        "society_name": "Mali Red Cross",
         "name": "Mali",
+        "society_name": "Mali Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 83,
@@ -3080,8 +3080,8 @@
         "is_deprecated": false,
         "fdrs": "DML001",
         "average_household_size": null,
-        "society_name": "Mali Red Cross",
         "name": "Mali",
+        "society_name": "Mali Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 37,
@@ -3116,8 +3116,8 @@
         "is_deprecated": false,
         "fdrs": "DMR001",
         "average_household_size": null,
-        "society_name": "Mauritanian Red Crescent",
         "name": "Mauritania",
+        "society_name": "Mauritanian Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 99,
@@ -3152,8 +3152,8 @@
         "is_deprecated": false,
         "fdrs": "DMU001",
         "average_household_size": null,
-        "society_name": "Mauritius Red Cross Society",
         "name": "Mauritius",
+        "society_name": "Mauritius Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -3185,8 +3185,8 @@
         "is_deprecated": false,
         "fdrs": "DMD001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of the Republic of Moldova",
         "name": "Moldova, Republic of",
+        "society_name": "Red Cross Society of the Republic of Moldova",
         "translation_module_original_language": "en"
       },
       "assessment": 102,
@@ -3221,8 +3221,8 @@
         "is_deprecated": false,
         "fdrs": "DMN001",
         "average_household_size": null,
-        "society_name": "Mongolian Red Cross Society",
         "name": "Mongolia",
+        "society_name": "Mongolian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 58,
@@ -3257,8 +3257,8 @@
         "is_deprecated": false,
         "fdrs": "DMN001",
         "average_household_size": null,
-        "society_name": "Mongolian Red Cross Society",
         "name": "Mongolia",
+        "society_name": "Mongolian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 39,
@@ -3293,8 +3293,8 @@
         "is_deprecated": false,
         "fdrs": "DME001",
         "average_household_size": null,
-        "society_name": "Red Cross of Montenegro",
         "name": "Montenegro",
+        "society_name": "Red Cross of Montenegro",
         "translation_module_original_language": "en"
       },
       "assessment": 44,
@@ -3329,8 +3329,8 @@
         "is_deprecated": false,
         "fdrs": "DMA001",
         "average_household_size": null,
-        "society_name": "Moroccan Red Crescent",
         "name": "Morocco",
+        "society_name": "Moroccan Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 34,
@@ -3365,8 +3365,8 @@
         "is_deprecated": false,
         "fdrs": "DMZ001",
         "average_household_size": null,
-        "society_name": "Mozambique Red Cross Society",
         "name": "Mozambique",
+        "society_name": "Mozambique Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -3398,8 +3398,8 @@
         "is_deprecated": false,
         "fdrs": "DMZ001",
         "average_household_size": null,
-        "society_name": "Mozambique Red Cross Society",
         "name": "Mozambique",
+        "society_name": "Mozambique Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 77,
@@ -3434,8 +3434,8 @@
         "is_deprecated": false,
         "fdrs": "DMM001",
         "average_household_size": null,
-        "society_name": "Myanmar Red Cross Society",
         "name": "Myanmar",
+        "society_name": "Myanmar Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 104,
@@ -3470,8 +3470,8 @@
         "is_deprecated": false,
         "fdrs": "DMM001",
         "average_household_size": null,
-        "society_name": "Myanmar Red Cross Society",
         "name": "Myanmar",
+        "society_name": "Myanmar Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 55,
@@ -3506,8 +3506,8 @@
         "is_deprecated": false,
         "fdrs": "DMM001",
         "average_household_size": null,
-        "society_name": "Myanmar Red Cross Society",
         "name": "Myanmar",
+        "society_name": "Myanmar Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 40,
@@ -3542,8 +3542,8 @@
         "is_deprecated": false,
         "fdrs": "DNP001",
         "average_household_size": null,
-        "society_name": "Nepal Red Cross Society",
         "name": "Nepal",
+        "society_name": "Nepal Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 41,
@@ -3578,8 +3578,8 @@
         "is_deprecated": false,
         "fdrs": "DNI001",
         "average_household_size": null,
-        "society_name": "Nicaraguan Red Cross",
         "name": "Nicaragua",
+        "society_name": "Nicaraguan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 8,
@@ -3614,8 +3614,8 @@
         "is_deprecated": false,
         "fdrs": "DNI001",
         "average_household_size": null,
-        "society_name": "Nicaraguan Red Cross",
         "name": "Nicaragua",
+        "society_name": "Nicaraguan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 35,
@@ -3650,8 +3650,8 @@
         "is_deprecated": false,
         "fdrs": "DNI001",
         "average_household_size": null,
-        "society_name": "Nicaraguan Red Cross",
         "name": "Nicaragua",
+        "society_name": "Nicaraguan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 27,
@@ -3686,8 +3686,8 @@
         "is_deprecated": false,
         "fdrs": "DNI001",
         "average_household_size": null,
-        "society_name": "Nicaraguan Red Cross",
         "name": "Nicaragua",
+        "society_name": "Nicaraguan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 26,
@@ -3722,8 +3722,8 @@
         "is_deprecated": false,
         "fdrs": "DNE001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of Niger",
         "name": "Niger",
+        "society_name": "Red Cross Society of Niger",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -3755,8 +3755,8 @@
         "is_deprecated": false,
         "fdrs": "DMK001",
         "average_household_size": null,
-        "society_name": "Red Cross of The Republic of North Macedonia",
         "name": "North Macedonia",
+        "society_name": "Red Cross of The Republic of North Macedonia",
         "translation_module_original_language": "en"
       },
       "assessment": 12,
@@ -3791,8 +3791,8 @@
         "is_deprecated": false,
         "fdrs": "DPK001",
         "average_household_size": null,
-        "society_name": "Pakistan Red Crescent",
         "name": "Pakistan",
+        "society_name": "Pakistan Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 66,
@@ -3827,8 +3827,8 @@
         "is_deprecated": false,
         "fdrs": "DPK001",
         "average_household_size": null,
-        "society_name": "Pakistan Red Crescent",
         "name": "Pakistan",
+        "society_name": "Pakistan Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 42,
@@ -3863,8 +3863,8 @@
         "is_deprecated": false,
         "fdrs": "DPW001",
         "average_household_size": null,
-        "society_name": "Palau Red Cross Society",
         "name": "Palau",
+        "society_name": "Palau Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -3896,8 +3896,8 @@
         "is_deprecated": false,
         "fdrs": "DPS001",
         "average_household_size": null,
-        "society_name": "The Palestine Red Crescent Society",
         "name": "Palestine",
+        "society_name": "The Palestine Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 93,
@@ -3932,8 +3932,8 @@
         "is_deprecated": false,
         "fdrs": "DPA001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of Panama",
         "name": "Panama",
+        "society_name": "Red Cross Society of Panama",
         "translation_module_original_language": "en"
       },
       "assessment": 85,
@@ -3968,8 +3968,8 @@
         "is_deprecated": false,
         "fdrs": "DPA001",
         "average_household_size": null,
-        "society_name": "Red Cross Society of Panama",
         "name": "Panama",
+        "society_name": "Red Cross Society of Panama",
         "translation_module_original_language": "en"
       },
       "assessment": 3,
@@ -4004,8 +4004,8 @@
         "is_deprecated": false,
         "fdrs": "DPG001",
         "average_household_size": null,
-        "society_name": "Papua New Guinea Red Cross Society",
         "name": "Papua New Guinea",
+        "society_name": "Papua New Guinea Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 31,
@@ -4040,8 +4040,8 @@
         "is_deprecated": false,
         "fdrs": "DPY001",
         "average_household_size": null,
-        "society_name": "Paraguayan Red Cross",
         "name": "Paraguay",
+        "society_name": "Paraguayan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 103,
@@ -4076,8 +4076,8 @@
         "is_deprecated": false,
         "fdrs": "DPH001",
         "average_household_size": null,
-        "society_name": "Philippine Red Cross",
         "name": "Philippines",
+        "society_name": "Philippine Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 33,
@@ -4112,8 +4112,8 @@
         "is_deprecated": false,
         "fdrs": "DPH001",
         "average_household_size": null,
-        "society_name": "Philippine Red Cross",
         "name": "Philippines",
+        "society_name": "Philippine Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 72,
@@ -4148,8 +4148,8 @@
         "is_deprecated": false,
         "fdrs": "DPL001",
         "average_household_size": null,
-        "society_name": "Polish Red Cross",
         "name": "Poland",
+        "society_name": "Polish Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 145,
@@ -4184,8 +4184,8 @@
         "is_deprecated": false,
         "fdrs": "DRU001",
         "average_household_size": null,
-        "society_name": "The Russian Red Cross Society",
         "name": "Russian Federation",
+        "society_name": "The Russian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -4217,8 +4217,8 @@
         "is_deprecated": false,
         "fdrs": "DRW001",
         "average_household_size": null,
-        "society_name": "Rwandan Red Cross",
         "name": "Rwanda",
+        "society_name": "Rwandan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -4250,8 +4250,8 @@
         "is_deprecated": false,
         "fdrs": "DRW001",
         "average_household_size": null,
-        "society_name": "Rwandan Red Cross",
         "name": "Rwanda",
+        "society_name": "Rwandan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 43,
@@ -4286,8 +4286,8 @@
         "is_deprecated": false,
         "fdrs": "DKN001",
         "average_household_size": null,
-        "society_name": "Saint Kitts and Nevis Red Cross Society",
         "name": "Saint Kitts and Nevis",
+        "society_name": "Saint Kitts and Nevis Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 141,
@@ -4322,8 +4322,8 @@
         "is_deprecated": false,
         "fdrs": "DVC001",
         "average_household_size": null,
-        "society_name": "Saint Vincent and the Grenadines Red Cross",
         "name": "Saint Vincent and the Grenadines",
+        "society_name": "Saint Vincent and the Grenadines Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 96,
@@ -4358,8 +4358,8 @@
         "is_deprecated": false,
         "fdrs": "DVC001",
         "average_household_size": null,
-        "society_name": "Saint Vincent and the Grenadines Red Cross",
         "name": "Saint Vincent and the Grenadines",
+        "society_name": "Saint Vincent and the Grenadines Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 62,
@@ -4394,8 +4394,8 @@
         "is_deprecated": false,
         "fdrs": "DCS001",
         "average_household_size": null,
-        "society_name": "The Red Cross of Serbia",
         "name": "Serbia",
+        "society_name": "The Red Cross of Serbia",
         "translation_module_original_language": "en"
       },
       "assessment": 120,
@@ -4430,8 +4430,8 @@
         "is_deprecated": false,
         "fdrs": "DSC001",
         "average_household_size": null,
-        "society_name": "Seychelles Red Cross Society",
         "name": "Seychelles",
+        "society_name": "Seychelles Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -4463,8 +4463,8 @@
         "is_deprecated": false,
         "fdrs": "DSL001",
         "average_household_size": null,
-        "society_name": "Sierra Leone Red Cross Society",
         "name": "Sierra Leone",
+        "society_name": "Sierra Leone Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 79,
@@ -4499,8 +4499,8 @@
         "is_deprecated": false,
         "fdrs": "DSK001",
         "average_household_size": null,
-        "society_name": "Slovak Red Cross",
         "name": "Slovakia",
+        "society_name": "Slovak Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 107,
@@ -4535,8 +4535,8 @@
         "is_deprecated": false,
         "fdrs": "DSB001",
         "average_household_size": null,
-        "society_name": "The Solomon Islands Red Cross",
         "name": "Solomon Islands",
+        "society_name": "The Solomon Islands Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 32,
@@ -4571,8 +4571,8 @@
         "is_deprecated": false,
         "fdrs": "DSO001",
         "average_household_size": null,
-        "society_name": "Somali Red Crescent Society",
         "name": "Somalia",
+        "society_name": "Somali Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -4604,8 +4604,8 @@
         "is_deprecated": false,
         "fdrs": "DSO001",
         "average_household_size": null,
-        "society_name": "Somali Red Crescent Society",
         "name": "Somalia",
+        "society_name": "Somali Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 64,
@@ -4640,8 +4640,8 @@
         "is_deprecated": false,
         "fdrs": "DZA001",
         "average_household_size": null,
-        "society_name": "The South African Red Cross Society",
         "name": "South Africa",
+        "society_name": "The South African Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 95,
@@ -4676,8 +4676,8 @@
         "is_deprecated": false,
         "fdrs": "DSS001",
         "average_household_size": null,
-        "society_name": "South Sudan Red Cross",
         "name": "South Sudan",
+        "society_name": "South Sudan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 144,
@@ -4712,8 +4712,8 @@
         "is_deprecated": false,
         "fdrs": "DSS001",
         "average_household_size": null,
-        "society_name": "South Sudan Red Cross",
         "name": "South Sudan",
+        "society_name": "South Sudan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 74,
@@ -4748,8 +4748,8 @@
         "is_deprecated": false,
         "fdrs": "DSS001",
         "average_household_size": null,
-        "society_name": "South Sudan Red Cross",
         "name": "South Sudan",
+        "society_name": "South Sudan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 16,
@@ -4784,8 +4784,8 @@
         "is_deprecated": false,
         "fdrs": "DSY001",
         "average_household_size": null,
-        "society_name": "Syrian Arab Red Crescent",
         "name": "Syrian Arab Republic",
+        "society_name": "Syrian Arab Red Crescent",
         "translation_module_original_language": "en"
       },
       "assessment": 143,
@@ -4820,8 +4820,8 @@
         "is_deprecated": false,
         "fdrs": "DTJ001",
         "average_household_size": null,
-        "society_name": "Red Crescent Society of Tajikistan",
         "name": "Tajikistan",
+        "society_name": "Red Crescent Society of Tajikistan",
         "translation_module_original_language": "en"
       },
       "assessment": 131,
@@ -4856,8 +4856,8 @@
         "is_deprecated": false,
         "fdrs": "DTZ001",
         "average_household_size": null,
-        "society_name": "Tanzania Red Cross National Society",
         "name": "Tanzania, United Republic of",
+        "society_name": "Tanzania Red Cross National Society",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -4889,8 +4889,8 @@
         "is_deprecated": false,
         "fdrs": "DTZ001",
         "average_household_size": null,
-        "society_name": "Tanzania Red Cross National Society",
         "name": "Tanzania, United Republic of",
+        "society_name": "Tanzania Red Cross National Society",
         "translation_module_original_language": "en"
       },
       "assessment": 52,
@@ -4925,8 +4925,8 @@
         "is_deprecated": false,
         "fdrs": "DTL001",
         "average_household_size": null,
-        "society_name": "Timor-Leste Red Cross Society",
         "name": "Timor-Leste",
+        "society_name": "Timor-Leste Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 133,
@@ -4961,8 +4961,8 @@
         "is_deprecated": false,
         "fdrs": "DTL001",
         "average_household_size": null,
-        "society_name": "Timor-Leste Red Cross Society",
         "name": "Timor-Leste",
+        "society_name": "Timor-Leste Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 71,
@@ -4997,8 +4997,8 @@
         "is_deprecated": false,
         "fdrs": "DTO001",
         "average_household_size": null,
-        "society_name": "Tonga Red Cross Society",
         "name": "Tonga",
+        "society_name": "Tonga Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 91,
@@ -5033,8 +5033,8 @@
         "is_deprecated": false,
         "fdrs": "DTT001",
         "average_household_size": null,
-        "society_name": "The Trinidad and Tobago Red Cross Society",
         "name": "Trinidad and Tobago",
+        "society_name": "The Trinidad and Tobago Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 9,
@@ -5069,8 +5069,8 @@
         "is_deprecated": false,
         "fdrs": "DTR001",
         "average_household_size": null,
-        "society_name": "Turkish Red Crescent Society",
         "name": "Türkiye",
+        "society_name": "Turkish Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 28,
@@ -5105,8 +5105,8 @@
         "is_deprecated": false,
         "fdrs": "DUG001",
         "average_household_size": null,
-        "society_name": "The Uganda Red Cross Society",
         "name": "Uganda",
+        "society_name": "The Uganda Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 97,
@@ -5141,8 +5141,8 @@
         "is_deprecated": false,
         "fdrs": "DUG001",
         "average_household_size": null,
-        "society_name": "The Uganda Red Cross Society",
         "name": "Uganda",
+        "society_name": "The Uganda Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 63,
@@ -5177,8 +5177,8 @@
         "is_deprecated": false,
         "fdrs": "DUA001",
         "average_household_size": null,
-        "society_name": "Ukrainian Red Cross Society",
         "name": "Ukraine",
+        "society_name": "Ukrainian Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 60,
@@ -5213,8 +5213,8 @@
         "is_deprecated": false,
         "fdrs": "DUY001",
         "average_household_size": null,
-        "society_name": "Uruguayan Red Cross",
         "name": "Uruguay",
+        "society_name": "Uruguayan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 106,
@@ -5249,8 +5249,8 @@
         "is_deprecated": false,
         "fdrs": "DUZ001",
         "average_household_size": null,
-        "society_name": "Red Crescent Society of Uzbekistan",
         "name": "Uzbekistan",
+        "society_name": "Red Crescent Society of Uzbekistan",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -5282,8 +5282,8 @@
         "is_deprecated": false,
         "fdrs": "DVU001",
         "average_household_size": null,
-        "society_name": "Vanuatu Red Cross Society",
         "name": "Vanuatu",
+        "society_name": "Vanuatu Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 84,
@@ -5318,8 +5318,8 @@
         "is_deprecated": false,
         "fdrs": "DVE001",
         "average_household_size": null,
-        "society_name": "Venezuelan Red Cross",
         "name": "Venezuela",
+        "society_name": "Venezuelan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 137,
@@ -5354,8 +5354,8 @@
         "is_deprecated": false,
         "fdrs": "DVE001",
         "average_household_size": null,
-        "society_name": "Venezuelan Red Cross",
         "name": "Venezuela",
+        "society_name": "Venezuelan Red Cross",
         "translation_module_original_language": "en"
       },
       "assessment": 6,
@@ -5390,8 +5390,8 @@
         "is_deprecated": false,
         "fdrs": "DVN001",
         "average_household_size": null,
-        "society_name": "Vietnam Red Cross Society",
         "name": "Viet Nam",
+        "society_name": "Vietnam Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 75,
@@ -5426,8 +5426,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "society_name": "Yemen Red Crescent Society",
         "name": "Yemen",
+        "society_name": "Yemen Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 117,
@@ -5462,8 +5462,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "society_name": "Yemen Red Crescent Society",
         "name": "Yemen",
+        "society_name": "Yemen Red Crescent Society",
         "translation_module_original_language": "en"
       },
       "assessment": 50,
@@ -5498,8 +5498,8 @@
         "is_deprecated": false,
         "fdrs": "DZM001",
         "average_household_size": null,
-        "society_name": "Zambia Red Cross Society",
         "name": "Zambia",
+        "society_name": "Zambia Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 49,
@@ -5534,8 +5534,8 @@
         "is_deprecated": false,
         "fdrs": "DZW001",
         "average_household_size": null,
-        "society_name": "Zimbabwe Red Cross Society",
         "name": "Zimbabwe",
+        "society_name": "Zimbabwe Red Cross Society",
         "translation_module_original_language": "en"
       },
       "assessment": 124,
