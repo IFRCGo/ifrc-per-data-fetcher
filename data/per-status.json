@@ -5354,8 +5354,8 @@
         "is_deprecated": false,
         "fdrs": "DVE001",
         "average_household_size": null,
-        "name": "Venezuela",
         "society_name": "Venezuelan Red Cross",
+        "name": "Venezuela",
         "translation_module_original_language": "en"
       },
       "assessment": 6,
@@ -5390,8 +5390,8 @@
         "is_deprecated": false,
         "fdrs": "DVN001",
         "average_household_size": null,
-        "name": "Viet Nam",
         "society_name": "Vietnam Red Cross Society",
+        "name": "Viet Nam",
         "translation_module_original_language": "en"
       },
       "assessment": 75,
@@ -5426,8 +5426,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "name": "Yemen",
         "society_name": "Yemen Red Crescent Society",
+        "name": "Yemen",
         "translation_module_original_language": "en"
       },
       "assessment": 117,
@@ -5462,8 +5462,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "name": "Yemen",
         "society_name": "Yemen Red Crescent Society",
+        "name": "Yemen",
         "translation_module_original_language": "en"
       },
       "assessment": 50,
@@ -5498,8 +5498,8 @@
         "is_deprecated": false,
         "fdrs": "DZM001",
         "average_household_size": null,
-        "name": "Zambia",
         "society_name": "Zambia Red Cross Society",
+        "name": "Zambia",
         "translation_module_original_language": "en"
       },
       "assessment": 49,
@@ -5534,8 +5534,8 @@
         "is_deprecated": false,
         "fdrs": "DZW001",
         "average_household_size": null,
-        "name": "Zimbabwe",
         "society_name": "Zimbabwe Red Cross Society",
+        "name": "Zimbabwe",
         "translation_module_original_language": "en"
       },
       "assessment": 124,
