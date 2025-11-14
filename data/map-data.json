@@ -9105,7 +9105,7 @@
     "region_name": "Americas",
     "latitude": 4.570868,
     "longitude": -74.297333,
-    "updated_at": "2024-09-06T18:30:28.584395Z",
+    "updated_at": "2025-11-13T08:14:15.218629Z",
     "prioritized_components": [
       {
         "componentId": 4,
@@ -10155,7 +10155,7 @@
     "region_name": "Americas",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "updated_at": "2024-02-14T18:29:54.591534Z",
+    "updated_at": "2025-11-13T08:08:16.059132Z",
     "prioritized_components": [
       {
         "componentId": 48,
@@ -10725,7 +10725,7 @@
     "region_name": "Americas",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "updated_at": "2024-04-01T14:37:37.173069Z",
+    "updated_at": "2025-11-13T08:05:17.328460Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -15115,7 +15115,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2024-06-18T21:17:12.444584Z",
+    "updated_at": "2025-11-13T08:12:38.445125Z",
     "prioritized_components": [
       {
         "componentId": 15,
@@ -15664,7 +15664,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2024-04-01T14:09:12.167571Z",
+    "updated_at": "2025-11-13T08:11:14.528304Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -16191,7 +16191,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2024-04-01T14:09:08.996093Z",
+    "updated_at": "2025-11-13T08:11:01.578133Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -16718,7 +16718,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2024-04-01T14:09:05.308870Z",
+    "updated_at": "2025-11-13T08:10:53.481532Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -27735,7 +27735,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2025-07-21T22:38:52.998312Z",
+    "updated_at": "2025-11-13T08:16:53.949044Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -28208,7 +28208,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2024-04-01T14:34:37.626086Z",
+    "updated_at": "2025-11-13T08:16:33.856944Z",
     "prioritized_components": [
       {
         "componentId": 10,
@@ -28796,7 +28796,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2024-04-01T14:34:33.834234Z",
+    "updated_at": "2025-11-13T08:16:12.522503Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -29323,7 +29323,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2024-04-01T14:34:31.431565Z",
+    "updated_at": "2025-11-13T08:15:49.560175Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -29850,7 +29850,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2024-04-01T14:34:28.360391Z",
+    "updated_at": "2025-11-13T08:15:35.519758Z",
     "prioritized_components": [
       {
         "componentId": 35,
@@ -46647,7 +46647,7 @@
     "region_name": "Europe",
     "latitude": 48.669026,
     "longitude": 19.699024,
-    "updated_at": "2024-09-19T11:08:11.408606Z",
+    "updated_at": "2025-11-13T08:09:55.463220Z",
     "prioritized_components": [
       {
         "componentId": 39,
