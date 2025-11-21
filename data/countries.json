@@ -63,8 +63,8 @@
       "emails": [
         "ir@arcs.af"
       ],
-      "name": "Afghanistan",
       "society_name": "Afghan Red Crescent",
+      "name": "Afghanistan",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -123,8 +123,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Africa Region",
       "society_name": "IFRC Africa",
+      "name": "Africa Region",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -151,8 +151,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Aksai Chin",
       "society_name": "",
+      "name": "Aksai Chin",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -213,8 +213,8 @@
       "emails": [
         "kksh@kksh.org.al"
       ],
-      "name": "Albania",
       "society_name": "Albanian Red Cross",
+      "name": "Albania",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -281,8 +281,8 @@
       "emails": [
         "communication@cra.dz"
       ],
-      "name": "Algeria",
       "society_name": "Algerian Red Crescent",
+      "name": "Algeria",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -341,8 +341,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "American Samoa",
       "society_name": "American Red Cross",
+      "name": "American Samoa",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -409,8 +409,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Americas Region",
       "society_name": "IFRC Americas",
+      "name": "Americas Region",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -471,8 +471,8 @@
       "emails": [
         "secretariatgeneral@creuroja.ad"
       ],
-      "name": "Andorra",
       "society_name": "Andorran Red Cross",
+      "name": "Andorra",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -534,8 +534,8 @@
         "contactos@cruzvermelha.og.ao",
         "vquifica@yahoo.com"
       ],
-      "name": "Angola",
       "society_name": "Angola Red Cross",
+      "name": "Angola",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -594,8 +594,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Anguilla",
       "society_name": "British Red Cross",
+      "name": "Anguilla",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -622,8 +622,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Antarctica",
       "society_name": "",
+      "name": "Antarctica",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -684,8 +684,8 @@
       "emails": [
         "info@abredcross.org"
       ],
-      "name": "Antigua and Barbuda",
       "society_name": "Antigua and Barbuda Red Cross",
+      "name": "Antigua and Barbuda",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -746,8 +746,8 @@
       "emails": [
         "info@cruzroja.org.ar"
       ],
-      "name": "Argentina",
       "society_name": "Argentine Red Cross",
+      "name": "Argentina",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -808,8 +808,8 @@
       "emails": [
         "redcross@redcross.am"
       ],
-      "name": "Armenia",
       "society_name": "Armenian Red Cross Society",
+      "name": "Armenia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -868,8 +868,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Aruba",
       "society_name": "",
+      "name": "Aruba",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -896,8 +896,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Ashmore and Cartier Islands",
       "society_name": "Australian Red Cross",
+      "name": "Ashmore and Cartier Islands",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -956,8 +956,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Asia-Pacific Region",
       "society_name": "IFRC Asia-Pacific",
+      "name": "Asia-Pacific Region",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1018,8 +1018,8 @@
       "emails": [
         "contactus@redcross.org.au"
       ],
-      "name": "Australia",
       "society_name": "Australian Red Cross",
+      "name": "Australia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1080,8 +1080,8 @@
       "emails": [
         "postmaster@roteskreuz.at"
       ],
-      "name": "Austria",
       "society_name": "Austrian Red Cross",
+      "name": "Austria",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1143,8 +1143,8 @@
         "office@redcrescent.org.az",
         "corporate@redcrescent.org.az"
       ],
-      "name": "Azerbaijan",
       "society_name": "Red Crescent Society of Azerbaijan",
+      "name": "Azerbaijan",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1205,8 +1205,8 @@
       "emails": [
         "redcross@bahamas.net.bs"
       ],
-      "name": "Bahamas",
       "society_name": "The Bahamas Red Cross Society",
+      "name": "Bahamas",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1268,8 +1268,8 @@
         "hilal@batelco.com.bh",
         "info@rcsbahrain.org"
       ],
-      "name": "Bahrain",
       "society_name": "Bahrain Red Crescent Society",
+      "name": "Bahrain",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1296,8 +1296,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Bangkok Country Cluster",
       "society_name": "",
+      "name": "Bangkok Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1358,8 +1358,8 @@
       "emails": [
         "info@bdrcs.org"
       ],
-      "name": "Bangladesh",
       "society_name": "Bangladesh Red Crescent Society",
+      "name": "Bangladesh",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1420,8 +1420,8 @@
       "emails": [
         "hello@fabiannaalexander.com"
       ],
-      "name": "Barbados",
       "society_name": "The Barbados Red Cross Society",
+      "name": "Barbados",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1448,8 +1448,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Bassas da India",
       "society_name": "French Red Cross",
+      "name": "Bassas da India",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1476,8 +1476,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Beijing Country Cluster",
       "society_name": "",
+      "name": "Beijing Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1538,8 +1538,8 @@
       "emails": [
         "info@redcross.by"
       ],
-      "name": "Belarus",
       "society_name": "Belarus Red Cross",
+      "name": "Belarus",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1601,8 +1601,8 @@
         "info@croix-rouge.be",
         "info@rodekruis.be"
       ],
-      "name": "Belgium",
       "society_name": "Belgian Red Cross",
+      "name": "Belgium",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1663,8 +1663,8 @@
       "emails": [
         "bzercshq@btl.net"
       ],
-      "name": "Belize",
       "society_name": "Belize Red Cross Society",
+      "name": "Belize",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1691,8 +1691,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Benelux",
       "society_name": "Benelux ERU",
+      "name": "Benelux",
       "overview": "",
       "translation_module_original_language": "en"
     },
@@ -1753,8 +1753,8 @@
       "emails": [
         "croixrougebeninoisesg@yahoo.com"
       ],
-      "name": "Benin",
       "society_name": "Red Cross of Benin",
+      "name": "Benin",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1813,8 +1813,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Bermuda",
       "society_name": "",
+      "name": "Bermuda",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1875,8 +1875,8 @@
       "emails": [
         "info@brcs.bt"
       ],
-      "name": "Bhutan",
       "society_name": "Bhutan Red Cross Society",
+      "name": "Bhutan",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1903,8 +1903,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Bird Island",
       "society_name": "British Red Cross",
+      "name": "Bird Island",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1931,8 +1931,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Bir Tawil",
       "society_name": "",
+      "name": "Bir Tawil",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -1993,8 +1993,8 @@
       "emails": [
         "secretaria@cruzrojaboliviana.org.bo"
       ],
-      "name": "Bolivia",
       "society_name": "Bolivian Red Cross",
+      "name": "Bolivia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2055,8 +2055,8 @@
       "emails": [
         "rcsbh@rcsbh.org"
       ],
-      "name": "Bosnia and Herzegovina",
       "society_name": "Red Cross Society of Bosnia and Herzegovina",
+      "name": "Bosnia and Herzegovina",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2118,8 +2118,8 @@
         "brcs@info.bw",
         "sg@botswanaredcross.org.bw"
       ],
-      "name": "Botswana",
       "society_name": "Botswana Red Cross Society",
+      "name": "Botswana",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2178,8 +2178,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Bouvet Island",
       "society_name": "Norwegian Red Cross",
+      "name": "Bouvet Island",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2261,8 +2261,8 @@
       "emails": [
         "gabinete@cvb.org.br"
       ],
-      "name": "Brazil",
       "society_name": "Brazilian Red Cross",
+      "name": "Brazil",
       "overview": "A Cruz Vermelha é a principal instituição de ajuda humanitária do mundo. No Brasil está presente em 21 estados. Seus voluntários sempre dizem que, para minorar o sofrimento da população, sempre são os primeiros a chegar e os últimos a sair. Até hoje, mais de seis anos após as chuvas que provocaram deslizamentos na serra do Rio de Janeiro, ainda há pessoas da região que recebem apoio psicossocial.\r\n\r\nVale lembrar que, depois do atendimento aos desabrigados na serra fluminense, a Cruz Vermelha Brasileira (CVB) já atendeu, somente em 2017, às vítimas de enchentes em Santa Catarina, Rio Grande do Sul, Alagoas, Pernambuco e Amazonas. Como auxiliar do poder público, a instituição é sempre requisitada nas emergências. No caso das enchentes citadas acima, foram realizadas atividades de conscientização para redução do risco de contaminação por mau uso da água.\r\n\r\nNos últimos anos também foram criados os Projetos Zika e Febre Amarela. Diante do aumento de número de casos que vitimaram milhares de brasileiros, a CVB tem atuado no trabalho de conscientização para o combate ao mosquito transmissor da dengue, zika, chikungunya e febre amarela. Nos estados mais afetados pelas doenças, voluntários distribuíram repelentes, preservativos e material informativo. Para eliminar criadouros e mudar hábitos que levam a proliferação do mosquito, visitas a diversas comunidades foram realizadas, assim como atividades educativas junto às escolas.\r\n\r\nA CVB também realiza campanhas. No inverno, por exemplo, diversas filiais estaduais e municipais promovem a Campanha do Agasalho. Roupas e cobertores são coletados nos endereços das filiais e empresas parceiras. Tudo o que é arrecadado é doado para famílias em condições de vulnerabilidade social, através dos muitos projetos das filiais.\r\n\r\nUma das principais atividades da instituição é o ensino de Primeiros Socorros. Em 2017, a CVB lançou as Diretrizes Internacionais de Primeiros Socorros e Reanimação. As orientações que a instituição apresenta são uma referência para quem trabalha na área e também para aqueles que querem saber mais sobre a atividade que salva vidas.\r\n\r\n\r\nForam desenvolvidas a partir de práticas comprovadas, com base em evidências e pesquisas científicas, levando em conta as experiências de boa parte das 190 Sociedades Nacionais que compõem a Federação Internacional da Cruz Vermelha e do Crescente Vermelho. O documento avalia e informa sobre a ciência por trás dos Primeiros Socorros e Reanimação, com o intuito de promover a harmonização da prática.\r\n\r\nOs Primeiros Socorros estão entre os principais serviços prestados pela CVB. São considerados vitais para uma intervenção rápida e eficaz, reduzir lesões, atenuar o sofrimento e aumentar as chances de sobrevivência.\r\n\r\nPara disseminar a prática, a instituição ministra cursos em diversas cidades do país. Além daqueles que acontecem nos endereços da CVB, há outros que são realizados nas empresas que têm interesse em ensinar as técnicas para seus funcionários.\r\n\r\nOs cursos seguem as diretrizes do Centro de Referência Global de Primeiros Socorros da Federação Internacional da Cruz Vermelha e do Crescente Vermelho, referência mundial no segmento, com sede em Paris. A cada ano, cerca de 14 milhões de pessoas são treinadas pelo conjunto das Sociedades Nacionais que compõem a Federação Internacional.\r\n\r\nPara que mais pessoas tenham acesso aos procedimentos que salvam vidas, a instituição também lançou, recentemente, um aplicativo que pode ser baixado gratuitamente através do Play Store ou do Apple Store. Através de vídeos didáticos de pequena duração, é possível saber o que deve ser feito em várias emergências. Acidente Vascular Cerebral, queimaduras, ferimentos com armas de fogo, crise epilética, choque elétrico, fratura e intoxicação com produtos químicos são algumas das opções.\r\n\r\nO voluntariado é um dos pilares da instituição que teve o sanitarista Oswaldo Cruz como primeiro presidente. Antes de começar a atuar, todos passam por um curso básico de formação institucional com três módulos: Panorama histórico da instituição no mundo e no Brasil; Protocolo de Segurança e Código de Ética e Suporte Básico de Vida\r\n\r\nA Cruz Vermelha Brasileira é uma das 190 Sociedades Nacionais que compõem o Movimento Internacional de Cruz Vermelha e do Crescente Vermelho. Fundada em 5 de dezembro de 1908, é constituída com bases nas Convenções de Genebra, das quais o Brasil é signatário. É uma associação civil, sem fins lucrativos, de natureza filantrópica, independente, declarada pelo governo brasileiro de utilidade pública internacional, de socorro voluntário, auxiliar dos poderes públicos e, em particular, dos serviços militares de saúde. Tem como missão atenuar o sofrimento humano, sem distinção de raça, religião, condição social, gênero e opinião política.\r\n\r\n\r\nMISSÃO\r\n\r\nAgir, em caso de guerra, e preparar-se, na paz, para atuar em todos os setores abrangidos pelas Convenções de Genebra e em favor de todas as vítimas de guerra, tanto civis como militares;\r\n\r\nContribuir, para a melhoria de saúde, prevenção de doenças e o alívio do sofrimento através de programas de treinamento e de serviços que beneficiem a comunidade;adaptados às necessidades de peculiaridades nacionais e regionais, podendo também, para isso, criar e manter cursos regulares, profissionalizantes e de nível superior;\r\n\r\nOrganizar, dentro do plano nacional, serviços de socorros em emergências às vítimas de calamidades, seja qual for a causa;\r\n\r\nRecrutar, treinar e aplicar o pessoal necessário às finalidades da instituição;\r\n\r\nIncentivar a participação de jovens voluntários nos trabalhos da Cruz Vermelha, qualificando-o às finalidades da instituição;\r\n\r\nDivulgar os princípios humanitários da Cruz Vermelha, a fim de desenvolver na população os ideais de paz, respeito mútuo e compreensão entre todos os homens e todos os povos.",
       "translation_module_original_language": "en"
     },
@@ -2321,8 +2321,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "British Indian Ocean Territory",
       "society_name": "British Red Cross",
+      "name": "British Indian Ocean Territory",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2381,8 +2381,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "British Virgin Islands",
       "society_name": "British Red Cross",
+      "name": "British Virgin Islands",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2443,8 +2443,8 @@
       "emails": [
         "lailatul.zubaidah@bruneiredcrescent.com"
       ],
-      "name": "Brunei Darussalam",
       "society_name": "Brunei Darussalam Red Crescent Society",
+      "name": "Brunei Darussalam",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2506,8 +2506,8 @@
         "secretariat@redcross.bg",
         "international@redcross.bg"
       ],
-      "name": "Bulgaria",
       "society_name": "Bulgarian Red Cross",
+      "name": "Bulgaria",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2568,8 +2568,8 @@
       "emails": [
         "croixrouge.bf@fasonet.bf"
       ],
-      "name": "Burkina Faso",
       "society_name": "Burkinabe Red Cross Society",
+      "name": "Burkina Faso",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2630,8 +2630,8 @@
       "emails": [
         "croixrougebi@yahoo.fr"
       ],
-      "name": "Burundi",
       "society_name": "Burundi Red Cross",
+      "name": "Burundi",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2692,8 +2692,8 @@
       "emails": [
         "cruzvermelha.cv.sg@hotmail.com"
       ],
-      "name": "Cabo Verde",
       "society_name": "Red Cross of Cape Verde",
+      "name": "Cabo Verde",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2754,8 +2754,8 @@
       "emails": [
         "info@redcross.org.kh"
       ],
-      "name": "Cambodia",
       "society_name": "Cambodian Red Cross Society",
+      "name": "Cambodia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2816,8 +2816,8 @@
       "emails": [
         "cameroon_redcross@yahoo.fr"
       ],
-      "name": "Cameroon",
       "society_name": "Cameroon Red Cross Society",
+      "name": "Cameroon",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2878,8 +2878,8 @@
       "emails": [
         "cancross@redcross.ca"
       ],
-      "name": "Canada",
       "society_name": "Canadian Red Cross Society",
+      "name": "Canada",
       "overview": "The Canadian Red Cross mission is to improve the lives of vulnerable people by mobilizing the power of humanity in Canada and around the world.",
       "translation_module_original_language": "en"
     },
@@ -2906,8 +2906,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Caribbean Country Cluster",
       "society_name": "",
+      "name": "Caribbean Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2966,8 +2966,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Cayman Islands",
       "society_name": "British Red Cross",
+      "name": "Cayman Islands",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -2994,8 +2994,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Central Africa Country Cluster",
       "society_name": "",
+      "name": "Central Africa Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3056,8 +3056,8 @@
       "emails": [
         "sn_crca@yahoo.fr"
       ],
-      "name": "Central African Republic",
       "society_name": "Central African Red Cross Society",
+      "name": "Central African Republic",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3084,8 +3084,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Central America Country Cluster",
       "society_name": "",
+      "name": "Central America Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3144,8 +3144,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Central and South-Eastern Europe Country Cluster",
       "society_name": "",
+      "name": "Central and South-Eastern Europe Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3204,8 +3204,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Central Asia Country Cluster",
       "society_name": "",
+      "name": "Central Asia Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3266,8 +3266,8 @@
       "emails": [
         "crt@croixrougedutchad.org"
       ],
-      "name": "Chad",
       "society_name": "Red Cross of Chad",
+      "name": "Chad",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3329,8 +3329,8 @@
         "presidencia@cruzroja.cl",
         "cruzroja@cruzroja.cl"
       ],
-      "name": "Chile",
       "society_name": "Chilean Red Cross",
+      "name": "Chile",
       "overview": null,
       "translation_module_original_language": "es"
     },
@@ -3391,8 +3391,8 @@
       "emails": [
         "rcsc@redcross.org.cn"
       ],
-      "name": "China",
       "society_name": "Red Cross Society of China",
+      "name": "China",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3451,8 +3451,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Christmas Island",
       "society_name": "Australian Red Cross",
+      "name": "Christmas Island",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3479,8 +3479,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Clipperton Island",
       "society_name": "French Red Cross",
+      "name": "Clipperton Island",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3539,8 +3539,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Cocos (Keeling) Islands",
       "society_name": "Australian Red Cross",
+      "name": "Cocos (Keeling) Islands",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3602,8 +3602,8 @@
         "presidencia@cruzrojacolombiana.org",
         ""
       ],
-      "name": "Colombia",
       "society_name": "Colombian Red Cross Society",
+      "name": "Colombia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3664,8 +3664,8 @@
       "emails": [
         "crco.comorestelecom@gmail.com"
       ],
-      "name": "Comoros",
       "society_name": "The Comoros Red Crescent",
+      "name": "Comoros",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3726,8 +3726,8 @@
       "emails": [
         "emiliennekoli@gmail.com"
       ],
-      "name": "Congo",
       "society_name": "Congolese Red Cross",
+      "name": "Congo",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3788,8 +3788,8 @@
       "emails": [
         "cookis@redcross.org.ck"
       ],
-      "name": "Cook Islands",
       "society_name": "Cook Islands Red Cross Society",
+      "name": "Cook Islands",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3866,8 +3866,8 @@
       "emails": [
         "presidencia@cruzroja.or.cr"
       ],
-      "name": "Costa Rica",
       "society_name": "Costa Rican Red Cross",
+      "name": "Costa Rica",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3928,8 +3928,8 @@
       "emails": [
         "croixrouge_ci@yahoo.fr"
       ],
-      "name": "Côte d'Ivoire",
       "society_name": "Red Cross Society of Côte d'Ivoire",
+      "name": "Côte d'Ivoire",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -3990,8 +3990,8 @@
       "emails": [
         "redcross@hck.hr"
       ],
-      "name": "Croatia",
       "society_name": "Croatian Red Cross",
+      "name": "Croatia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4053,8 +4053,8 @@
         "crsn@infomed.sld.cu",
         "susyllovet@infomed.sld.cu"
       ],
-      "name": "Cuba",
       "society_name": "Cuban Red Cross",
+      "name": "Cuba",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4081,8 +4081,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Cuba, Haiti and Dominican Republic Country Cluster",
       "society_name": "",
+      "name": "Cuba, Haiti and Dominican Republic Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4143,8 +4143,8 @@
       "emails": [
         "admin@redcross.org.cy"
       ],
-      "name": "Cyprus",
       "society_name": "Cyprus Red Cross Society",
+      "name": "Cyprus",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4205,8 +4205,8 @@
       "emails": [
         "info@cervenykriz.eu"
       ],
-      "name": "Czech Republic",
       "society_name": "Czech Red Cross",
+      "name": "Czech Republic",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4267,8 +4267,8 @@
       "emails": [
         "dprk-rc@star-co.net.kp"
       ],
-      "name": "Democratic People's Republic of Korea",
       "society_name": "Red Cross Society of the Democratic People's Republic of Korea",
+      "name": "Democratic People's Republic of Korea",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4330,8 +4330,8 @@
         "sgcrrdc@croixrouge-rdc.org",
         "gloria.lombo@croixrouge-rdc.org"
       ],
-      "name": "Democratic Republic of Congo",
       "society_name": "Red Cross of the Democratic Republic of the Congo",
+      "name": "Democratic Republic of Congo",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4392,8 +4392,8 @@
       "emails": [
         "info@rodekors.dk"
       ],
-      "name": "Denmark",
       "society_name": "Danish Red Cross",
+      "name": "Denmark",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4454,8 +4454,8 @@
       "emails": [
         "crd@intnet.dj"
       ],
-      "name": "Djibouti",
       "society_name": "Red Crescent Society of Djibouti",
+      "name": "Djibouti",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4516,8 +4516,8 @@
       "emails": [
         "directorgeneral@redcross.dm"
       ],
-      "name": "Dominica",
       "society_name": "Dominica Red Cross Society",
+      "name": "Dominica",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4578,8 +4578,8 @@
       "emails": [
         "presidenciacrd@hotmail.com"
       ],
-      "name": "Dominican Republic",
       "society_name": "Dominican Red Cross",
+      "name": "Dominican Republic",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4606,8 +4606,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Dubai Country Cluster",
       "society_name": "",
+      "name": "Dubai Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4640,8 +4640,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "East Africa Country Cluster",
       "society_name": "",
+      "name": "East Africa Country Cluster",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4702,8 +4702,8 @@
       "emails": [
         "presidencia@cruzroja.org.ec"
       ],
-      "name": "Ecuador",
       "society_name": "Ecuadorian Red Cross",
+      "name": "Ecuador",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4764,8 +4764,8 @@
       "emails": [
         "erc@egyptianrc.org"
       ],
-      "name": "Egypt",
       "society_name": "Egyptian Red Crescent Society",
+      "name": "Egypt",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4826,8 +4826,8 @@
       "emails": [
         "rigoberto.hernandez@cruzrojasal.org.sv"
       ],
-      "name": "El Salvador",
       "society_name": "Salvadorean Red Cross Society",
+      "name": "El Salvador",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4888,8 +4888,8 @@
       "emails": [
         "crge@orange.gq"
       ],
-      "name": "Equatorial Guinea",
       "society_name": "Red Cross of Equatorial Guinea",
+      "name": "Equatorial Guinea",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -4948,8 +4948,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Eritrea",
       "society_name": "Red Cross Society of Eritrea",
+      "name": "Eritrea",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5010,8 +5010,8 @@
       "emails": [
         "info@redcross.ee"
       ],
-      "name": "Estonia",
       "society_name": "Estonian Red Cross",
+      "name": "Estonia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5072,8 +5072,8 @@
       "emails": [
         "thabsile@redcross.org.sz"
       ],
-      "name": "Eswatini, Kingdom of",
       "society_name": "Baphalali Eswatini Red Cross Society",
+      "name": "Eswatini, Kingdom of",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5134,8 +5134,8 @@
       "emails": [
         "ercsinfo@redcrosseth.org"
       ],
-      "name": "Ethiopia",
       "society_name": "Ethiopian Red Cross Society",
+      "name": "Ethiopia",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5162,8 +5162,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Europa Island",
       "society_name": "French Red Cross",
+      "name": "Europa Island",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5222,8 +5222,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Europe Region",
       "society_name": "IFRC Europe",
+      "name": "Europe Region",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5282,8 +5282,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Falkland Islands (Malvinas)",
       "society_name": "British Red Cross",
+      "name": "Falkland Islands (Malvinas)",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5342,8 +5342,8 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "name": "Faroe Islands",
       "society_name": "Danish Red Cross",
+      "name": "Faroe Islands",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5404,8 +5404,8 @@
       "emails": [
         "contactus@redcross.com.fj"
       ],
-      "name": "Fiji",
       "society_name": "Fiji Red Cross Society",
+      "name": "Fiji",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5466,8 +5466,8 @@
       "emails": [
         "info@redcross.fi"
       ],
-      "name": "Finland",
       "society_name": "Finnish Red Cross",
+      "name": "Finland",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5528,8 +5528,8 @@
       "emails": [
         "contact@croix-rouge.fr"
       ],
-      "name": "France",
       "society_name": "French Red Cross",
+      "name": "France",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5590,8 +5590,8 @@
       "emails": [
         "contact@croixrouge-gabon.org"
       ],
-      "name": "Gabon",
       "society_name": "Gabonese Red Cross Society",
+      "name": "Gabon",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5652,8 +5652,8 @@
       "emails": [
         "gambiaredcross@gmail.com"
       ],
-      "name": "Gambia, Republic of The",
       "society_name": "Gambia Red Cross Society",
+      "name": "Gambia, Republic of The",
       "overview": null,
       "translation_module_original_language": "en"
     },
@@ -5714,9 +5714,9 @@
       "emails": [
         "press@redcross.ge"
       ],
-      "overview": null,
       "society_name": "Red Cross Society of Georgia",
       "name": "Georgia",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -5776,9 +5776,9 @@
       "emails": [
         "drk@drk.de"
       ],
-      "overview": null,
       "society_name": "German Red Cross",
       "name": "Germany",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -5838,9 +5838,9 @@
       "emails": [
         "redcrossghana@yahoo.co.uk"
       ],
-      "overview": null,
       "society_name": "Ghana Red Cross Society",
       "name": "Ghana",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -5898,9 +5898,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "British Red Cross",
       "name": "Gibraltar",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -5926,9 +5926,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "French Red Cross",
       "name": "Glorioso Island",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -5990,9 +5990,9 @@
         "pr@redcross.gr",
         "ir@redcross.gr"
       ],
-      "overview": null,
       "society_name": "Hellenic Red Cross",
       "name": "Greece",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6050,9 +6050,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "Danish Red Cross",
       "name": "Greenland",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6112,9 +6112,9 @@
       "emails": [
         "team@grenadaredcross.gd"
       ],
-      "overview": null,
       "society_name": "Grenada Red Cross Society",
       "name": "Grenada",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6172,9 +6172,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "American Red Cross",
       "name": "Guam",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6234,9 +6234,9 @@
       "emails": [
         "direcciongeneral@cruzroja.gt"
       ],
-      "overview": null,
       "society_name": "Guatemalan Red Cross",
       "name": "Guatemala",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6294,9 +6294,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "British Red Cross",
       "name": "Guernsey",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6357,9 +6357,9 @@
         "crgconcrgconakry@yahoo.fr",
         "crgsecretaire.executif1@gmail.com"
       ],
-      "overview": null,
       "society_name": "Red Cross Society of Guinea",
       "name": "Guinea",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6419,9 +6419,9 @@
       "emails": [
         "cvgb@mail.gtelecom.gv"
       ],
-      "overview": null,
       "society_name": "Red Cross Society of Guinea-Bissau",
       "name": "Guinea-Bissau",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6481,9 +6481,9 @@
       "emails": [
         "guyanaredcross@yahoo.com"
       ],
-      "overview": null,
       "society_name": "Guyana Red Cross Society",
       "name": "Guyana",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6543,9 +6543,9 @@
       "emails": [
         "president@croixrouge.ht"
       ],
-      "overview": null,
       "society_name": "Haiti Red Cross Society",
       "name": "Haiti",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6571,9 +6571,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "",
       "name": "Hala'ib triangle",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6631,9 +6631,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "Australian Red Cross",
       "name": "Heard Island and McDonald Islands",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6691,9 +6691,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": "",
       "society_name": "",
       "name": "Holy See (Vatican City State)",
+      "overview": "",
       "translation_module_original_language": "en"
     },
     {
@@ -6753,9 +6753,9 @@
       "emails": [
         "josejuan.castro@cruzroja.org.hn"
       ],
-      "overview": null,
       "society_name": "Honduran Red Cross",
       "name": "Honduras",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6815,9 +6815,9 @@
       "emails": [
         "intdept@redcross.hu"
       ],
-      "overview": null,
       "society_name": "Hungarian Red Cross",
       "name": "Hungary",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6877,9 +6877,9 @@
       "emails": [
         "info@redcross.is"
       ],
-      "overview": null,
       "society_name": "Icelandic Red Cross",
       "name": "Iceland",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6937,9 +6937,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "ICRC",
       "name": "ICRC",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -6997,9 +6997,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "IFRC Geneva",
       "name": "IFRC",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7025,9 +7025,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "",
       "name": "Ilemi triangle",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7087,9 +7087,9 @@
       "emails": [
         "ircs@indianredcross.org"
       ],
-      "overview": null,
       "society_name": "Indian Red Cross Society",
       "name": "India",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7115,9 +7115,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "",
       "name": "Indian Ocean Islands Country Cluster",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7177,9 +7177,9 @@
       "emails": [
         "pmi@pmi.or.id"
       ],
-      "overview": null,
       "society_name": "Indonesian Red Cross Society",
       "name": "Indonesia",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7239,9 +7239,9 @@
       "emails": [
         "intdep@rcs.ir"
       ],
-      "overview": null,
       "society_name": "Red Crescent Society of the Islamic Republic of Iran",
       "name": "Iran, Islamic Republic of",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7301,9 +7301,9 @@
       "emails": [
         "relations.dept@ircs.org.iq"
       ],
-      "overview": null,
       "society_name": "Iraqi Red Crescent Society",
       "name": "Iraq",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7363,9 +7363,9 @@
       "emails": [
         "info@redcross.ie"
       ],
-      "overview": null,
       "society_name": "Irish Red Cross Society",
       "name": "Ireland",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7423,9 +7423,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "British Red Cross",
       "name": "Isle of Man",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7485,9 +7485,9 @@
       "emails": [
         "rc@mda.org.il"
       ],
-      "overview": null,
       "society_name": "Magen David Adom in Israel",
       "name": "Israel",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7548,9 +7548,9 @@
         "segreteria.presidente@cri.it",
         "sg@cri.it"
       ],
-      "overview": null,
       "society_name": "Italian Red Cross",
       "name": "Italy",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7576,9 +7576,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "",
       "name": "Jakarta Country Cluster",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7638,9 +7638,9 @@
       "emails": [
         "jrcs@jamaicaredcross.org"
       ],
-      "overview": null,
       "society_name": "Jamaica Red Cross",
       "name": "Jamaica",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7700,9 +7700,9 @@
       "emails": [
         "kokusai@jrc.or.jp"
       ],
-      "overview": null,
       "society_name": "Japanese Red Cross Society",
       "name": "Japan",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7760,9 +7760,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "British Red Cross",
       "name": "Jersey",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7822,9 +7822,9 @@
       "emails": [
         "info@jnrcs.org"
       ],
-      "overview": null,
       "society_name": "Jordan National Red Crescent Society",
       "name": "Jordan",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7850,9 +7850,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "French Red Cross",
       "name": "Juan de Nova Island",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7912,9 +7912,9 @@
       "emails": [
         "info@redcrescent.kz"
       ],
-      "overview": null,
       "society_name": "Red Crescent Society of the Republic of Kazakhstan",
       "name": "Kazakhstan",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -7974,9 +7974,9 @@
       "emails": [
         "info@redcross.or.ke"
       ],
-      "overview": null,
       "society_name": "Kenya Red Cross Society",
       "name": "Kenya",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8038,9 +8038,9 @@
         "u.taniera@gmail.com",
         "info@krcs.org.ki"
       ],
-      "overview": null,
       "society_name": "Kiribati Red Cross Society",
       "name": "Kiribati",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8098,9 +8098,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "The Red Cross of Serbia",
       "name": "Kosovo",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8126,9 +8126,9 @@
       "phone": null,
       "website": null,
       "emails": [],
-      "overview": null,
       "society_name": "The Russian Red Cross Society",
       "name": "Kuril islands",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8188,9 +8188,9 @@
       "emails": [
         "krcs@krcs.org.kw"
       ],
-      "overview": null,
       "society_name": "Kuwait Red Crescent Society",
       "name": "Kuwait",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8250,9 +8250,9 @@
       "emails": [
         "info@redcrescent.kg"
       ],
-      "overview": null,
       "society_name": "Red Crescent Society of Kyrgyzstan",
       "name": "Kyrgyzstan",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8312,9 +8312,9 @@
       "emails": [
         "international@laoredcross.org.la"
       ],
-      "overview": null,
       "society_name": "Lao Red Cross",
       "name": "Lao People's Democratic Republic",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8376,9 +8376,9 @@
         "uldis.likops@redcross.lv",
         "agnese.trofimova@redcross.lv"
       ],
-      "overview": null,
       "society_name": "Latvian Red Cross",
       "name": "Latvia",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8439,9 +8439,9 @@
         "redcross@redcross.org.lb",
         "sg-assistant@redcross.org.lb"
       ],
-      "overview": null,
       "society_name": "Lebanese Red Cross",
       "name": "Lebanon",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8501,9 +8501,9 @@
       "emails": [
         "redcross@redcross.org.ls"
       ],
-      "overview": null,
       "society_name": "Lesotho Red Cross Society",
       "name": "Lesotho",
+      "overview": null,
       "translation_module_original_language": "en"
     },
     {
@@ -8529,9 +8529,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Liancourt Rocks",
       "overview": null,
       "society_name": "The Republic of Korea National Red Cross",
-      "name": "Liancourt Rocks",
       "translation_module_original_language": "en"
     },
     {
@@ -8591,9 +8591,9 @@
       "emails": [
         "sayba.tamba@liberian-redcross.org"
       ],
+      "name": "Liberia",
       "overview": null,
       "society_name": "Liberian Red Cross Society",
-      "name": "Liberia",
       "translation_module_original_language": "en"
     },
     {
@@ -8654,9 +8654,9 @@
         "inter.relation@lrc.org.ly",
         ""
       ],
+      "name": "Libya",
       "overview": null,
       "society_name": "Libyan Red Crescent",
-      "name": "Libya",
       "translation_module_original_language": "en"
     },
     {
@@ -8716,9 +8716,9 @@
       "emails": [
         "info@roteskreuz.li"
       ],
+      "name": "Liechtenstein",
       "overview": null,
       "society_name": "Liechtenstein Red Cross",
-      "name": "Liechtenstein",
       "translation_module_original_language": "en"
     },
     {
@@ -8778,9 +8778,9 @@
       "emails": [
         "info@redcross.lt"
       ],
+      "name": "Lithuania",
       "overview": null,
       "society_name": "Lithuanian Red Cross Society",
-      "name": "Lithuania",
       "translation_module_original_language": "en"
     },
     {
@@ -8840,9 +8840,9 @@
       "emails": [
         "siege@croix-rouge.lu"
       ],
+      "name": "Luxembourg",
       "overview": null,
       "society_name": "Luxembourg Red Cross",
-      "name": "Luxembourg",
       "translation_module_original_language": "en"
     },
     {
@@ -8868,9 +8868,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Macao",
       "overview": null,
       "society_name": "Macau Red Cross",
-      "name": "Macao",
       "translation_module_original_language": "en"
     },
     {
@@ -8930,9 +8930,9 @@
       "emails": [
         "contact@crmada.org"
       ],
+      "name": "Madagascar",
       "overview": null,
       "society_name": "Malagasy Red Cross Society",
-      "name": "Madagascar",
       "translation_module_original_language": "en"
     },
     {
@@ -8992,9 +8992,9 @@
       "emails": [
         "mrcs@redcross.mw"
       ],
+      "name": "Malawi",
       "overview": null,
       "society_name": "Malawi Red Cross Society",
-      "name": "Malawi",
       "translation_module_original_language": "en"
     },
     {
@@ -9054,9 +9054,9 @@
       "emails": [
         "secgen@redcrescent.org.my"
       ],
+      "name": "Malaysia",
       "overview": null,
       "society_name": "Malaysian Red Crescent Society",
-      "name": "Malaysia",
       "translation_module_original_language": "en"
     },
     {
@@ -9116,9 +9116,9 @@
       "emails": [
         "info@redcrescent.org.mv"
       ],
+      "name": "Maldives",
       "overview": null,
       "society_name": "Maldivian Red Crescent",
-      "name": "Maldives",
       "translation_module_original_language": "en"
     },
     {
@@ -9178,9 +9178,9 @@
       "emails": [
         "crmalienne@croixrouge-mali.org"
       ],
+      "name": "Mali",
       "overview": null,
       "society_name": "Mali Red Cross",
-      "name": "Mali",
       "translation_module_original_language": "en"
     },
     {
@@ -9240,9 +9240,9 @@
       "emails": [
         "dg@redcross.org.mt"
       ],
+      "name": "Malta",
       "overview": null,
       "society_name": "Malta Red Cross Society",
-      "name": "Malta",
       "translation_module_original_language": "en"
     },
     {
@@ -9302,9 +9302,9 @@
       "emails": [
         "info@rmiredcross.org"
       ],
+      "name": "Marshall Islands",
       "overview": null,
       "society_name": "Marshall Islands Red Cross Society",
-      "name": "Marshall Islands",
       "translation_module_original_language": "en"
     },
     {
@@ -9366,9 +9366,9 @@
         "sn_crm@yahoo.fr",
         "m.raby06@yahoo.fr"
       ],
+      "name": "Mauritania",
       "overview": null,
       "society_name": "Mauritanian Red Crescent",
-      "name": "Mauritania",
       "translation_module_original_language": "en"
     },
     {
@@ -9428,9 +9428,9 @@
       "emails": [
         "mrcs@mauritiusredcross.org"
       ],
+      "name": "Mauritius",
       "overview": null,
       "society_name": "Mauritius Red Cross Society",
-      "name": "Mauritius",
       "translation_module_original_language": "en"
     },
     {
@@ -9488,9 +9488,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "MENA Region",
       "overview": null,
       "society_name": "IFRC MENA",
-      "name": "MENA Region",
       "translation_module_original_language": "en"
     },
     {
@@ -9548,9 +9548,9 @@
       "phone": "+52 55 10 84 9000   +52 55 1084 4505   +52 55 1084 4510",
       "website": "https://www.cruzrojamexicana.org.mx",
       "emails": null,
+      "name": "Mexico",
       "overview": null,
       "society_name": "Mexican Red Cross",
-      "name": "Mexico",
       "translation_module_original_language": "en"
     },
     {
@@ -9610,9 +9610,9 @@
       "emails": [
         "mrcs@mail.fm"
       ],
+      "name": "Micronesia, Federated States of",
       "overview": null,
       "society_name": "Micronesia Red Cross",
-      "name": "Micronesia, Federated States of",
       "translation_module_original_language": "en"
     },
     {
@@ -9672,9 +9672,9 @@
       "emails": [
         "redcross.md@gmail.com"
       ],
+      "name": "Moldova, Republic of",
       "overview": null,
       "society_name": "Red Cross Society of the Republic of Moldova",
-      "name": "Moldova, Republic of",
       "translation_module_original_language": "en"
     },
     {
@@ -9734,9 +9734,9 @@
       "emails": [
         "redcross@croix-rouge.mc"
       ],
+      "name": "Monaco",
       "overview": null,
       "society_name": "Red Cross of Monaco",
-      "name": "Monaco",
       "translation_module_original_language": "en"
     },
     {
@@ -9796,9 +9796,9 @@
       "emails": [
         "info@redcross.mn"
       ],
+      "name": "Mongolia",
       "overview": null,
       "society_name": "Mongolian Red Cross Society",
-      "name": "Mongolia",
       "translation_module_original_language": "en"
     },
     {
@@ -9858,9 +9858,9 @@
       "emails": [
         "ckcg@t-com.me"
       ],
+      "name": "Montenegro",
       "overview": null,
       "society_name": "Red Cross of Montenegro",
-      "name": "Montenegro",
       "translation_module_original_language": "en"
     },
     {
@@ -9918,9 +9918,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Montserrat",
       "overview": null,
       "society_name": "British Red Cross",
-      "name": "Montserrat",
       "translation_module_original_language": "en"
     },
     {
@@ -9980,9 +9980,9 @@
       "emails": [
         "crm@menara.ma"
       ],
+      "name": "Morocco",
       "overview": null,
       "society_name": "Moroccan Red Crescent",
-      "name": "Morocco",
       "translation_module_original_language": "en"
     },
     {
@@ -10008,9 +10008,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Moscow Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "Moscow Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -10070,9 +10070,9 @@
       "emails": [
         "cvm@redcross.org.mz"
       ],
+      "name": "Mozambique",
       "overview": null,
       "society_name": "Mozambique Red Cross Society",
-      "name": "Mozambique",
       "translation_module_original_language": "en"
     },
     {
@@ -10130,9 +10130,9 @@
       "phone": "(95)(67) 419041, 419046",
       "website": "http://www.redcross.org.mm/",
       "emails": null,
+      "name": "Myanmar",
       "overview": null,
       "society_name": "Myanmar Red Cross Society",
-      "name": "Myanmar",
       "translation_module_original_language": "en"
     },
     {
@@ -10192,9 +10192,9 @@
       "emails": [
         "enquiries@redcross.org.na"
       ],
+      "name": "Namibia",
       "overview": null,
       "society_name": "Namibia Red Cross",
-      "name": "Namibia",
       "translation_module_original_language": "en"
     },
     {
@@ -10252,9 +10252,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Nauru",
       "overview": "",
       "society_name": "",
-      "name": "Nauru",
       "translation_module_original_language": "en"
     },
     {
@@ -10280,9 +10280,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Navassa Island",
       "overview": null,
       "society_name": "",
-      "name": "Navassa Island",
       "translation_module_original_language": "en"
     },
     {
@@ -10343,9 +10343,9 @@
         "info@nrcs.org",
         ""
       ],
+      "name": "Nepal",
       "overview": null,
       "society_name": "Nepal Red Cross Society",
-      "name": "Nepal",
       "translation_module_original_language": "en"
     },
     {
@@ -10405,9 +10405,9 @@
       "emails": [
         "contactcenter@redcross.nl"
       ],
+      "name": "Netherlands",
       "overview": null,
       "society_name": "The Netherlands Red Cross",
-      "name": "Netherlands",
       "translation_module_original_language": "en"
     },
     {
@@ -10433,9 +10433,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "New Delhi Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "New Delhi Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -10495,9 +10495,9 @@
       "emails": [
         "communications@redcross.org.nz"
       ],
+      "name": "New Zealand",
       "overview": null,
       "society_name": "New Zealand Red Cross",
-      "name": "New Zealand",
       "translation_module_original_language": "en"
     },
     {
@@ -10557,9 +10557,9 @@
       "emails": [
         "asistentepresidencia@humanidad.org.ni"
       ],
+      "name": "Nicaragua",
       "overview": null,
       "society_name": "Nicaraguan Red Cross",
-      "name": "Nicaragua",
       "translation_module_original_language": "en"
     },
     {
@@ -10619,9 +10619,9 @@
       "emails": [
         "crniger@intnet.ne"
       ],
+      "name": "Niger",
       "overview": null,
       "society_name": "Red Cross Society of Niger",
-      "name": "Niger",
       "translation_module_original_language": "en"
     },
     {
@@ -10682,9 +10682,9 @@
         "admin@redcrossnigeria.org",
         "nigerianredcross2003@yahoo.com"
       ],
+      "name": "Nigeria",
       "overview": null,
       "society_name": "Nigerian Red Cross Society",
-      "name": "Nigeria",
       "translation_module_original_language": "en"
     },
     {
@@ -10742,9 +10742,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Niue",
       "overview": "",
       "society_name": "",
-      "name": "Niue",
       "translation_module_original_language": "en"
     },
     {
@@ -10802,9 +10802,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Norfolk Island",
       "overview": null,
       "society_name": "Australian Red Cross",
-      "name": "Norfolk Island",
       "translation_module_original_language": "en"
     },
     {
@@ -10830,9 +10830,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "North America and Mexico Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "North America and Mexico Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -10890,9 +10890,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Northern Mariana Islands",
       "overview": null,
       "society_name": "American Red Cross",
-      "name": "Northern Mariana Islands",
       "translation_module_original_language": "en"
     },
     {
@@ -10952,9 +10952,9 @@
       "emails": [
         "mrc@redcross.org.mk"
       ],
+      "name": "North Macedonia",
       "overview": null,
       "society_name": "Red Cross of the Republic of North Macedonia",
-      "name": "North Macedonia",
       "translation_module_original_language": "en"
     },
     {
@@ -11014,9 +11014,9 @@
       "emails": [
         "post@redcross.no"
       ],
+      "name": "Norway",
       "overview": null,
       "society_name": "Norwegian Red Cross",
-      "name": "Norway",
       "translation_module_original_language": "en"
     },
     {
@@ -11074,9 +11074,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Oman",
       "overview": "",
       "society_name": "",
-      "name": "Oman",
       "translation_module_original_language": "en"
     },
     {
@@ -11136,9 +11136,9 @@
       "emails": [
         "info@prcs.org.pk"
       ],
+      "name": "Pakistan",
       "overview": null,
       "society_name": "Pakistan Red Crescent",
-      "name": "Pakistan",
       "translation_module_original_language": "en"
     },
     {
@@ -11198,9 +11198,9 @@
       "emails": [
         "iinfo@palauredcross.org"
       ],
+      "name": "Palau",
       "overview": null,
       "society_name": "Palau Red Cross Society",
-      "name": "Palau",
       "translation_module_original_language": "en"
     },
     {
@@ -11260,9 +11260,9 @@
       "emails": [
         "info@palestinercs.org"
       ],
+      "name": "Palestine",
       "overview": null,
       "society_name": "Palestine Red Crescent Society",
-      "name": "Palestine",
       "translation_module_original_language": "en"
     },
     {
@@ -11328,9 +11328,9 @@
       "emails": [
         "crpanama@cruzroja.org.pa"
       ],
+      "name": "Panama",
       "overview": null,
       "society_name": "Red Cross Society of Panama",
-      "name": "Panama",
       "translation_module_original_language": "en"
     },
     {
@@ -11391,9 +11391,9 @@
         "snianfop.pngrcs@gmail.com",
         "kunjilsharon@gmail.com"
       ],
+      "name": "Papua New Guinea",
       "overview": null,
       "society_name": "Papua New Guinea Red Cross Society",
-      "name": "Papua New Guinea",
       "translation_module_original_language": "en"
     },
     {
@@ -11419,9 +11419,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Paracel Islands",
       "overview": null,
       "society_name": "Red Cross Society of China",
-      "name": "Paracel Islands",
       "translation_module_original_language": "en"
     },
     {
@@ -11481,9 +11481,9 @@
       "emails": [
         "presidencia@cruzroja.org.py"
       ],
+      "name": "Paraguay",
       "overview": null,
       "society_name": "Paraguayan Red Cross",
-      "name": "Paraguay",
       "translation_module_original_language": "en"
     },
     {
@@ -11543,9 +11543,9 @@
       "emails": [
         "contacto@cruzroja.org.pe"
       ],
+      "name": "Peru",
       "overview": null,
       "society_name": "Peruvian Red Cross",
-      "name": "Peru",
       "translation_module_original_language": "en"
     },
     {
@@ -11605,9 +11605,9 @@
       "emails": [
         "prc@redcross.org.ph"
       ],
+      "name": "Philippines",
       "overview": null,
       "society_name": "Philippine Red Cross",
-      "name": "Philippines",
       "translation_module_original_language": "en"
     },
     {
@@ -11665,9 +11665,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Pitcairn",
       "overview": null,
       "society_name": "",
-      "name": "Pitcairn",
       "translation_module_original_language": "en"
     },
     {
@@ -11727,9 +11727,9 @@
       "emails": [
         "head.office@pck.org.pl"
       ],
+      "name": "Poland",
       "overview": null,
       "society_name": "Polish Red Cross",
-      "name": "Poland",
       "translation_module_original_language": "en"
     },
     {
@@ -11789,9 +11789,9 @@
       "emails": [
         "internacional@cruzvermelha.org.pt"
       ],
+      "name": "Portugal",
       "overview": null,
       "society_name": "Portuguese Red Cross",
-      "name": "Portugal",
       "translation_module_original_language": "en"
     },
     {
@@ -11849,9 +11849,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Puerto Rico",
       "overview": null,
       "society_name": "American Red Cross",
-      "name": "Puerto Rico",
       "translation_module_original_language": "en"
     },
     {
@@ -11911,9 +11911,9 @@
       "emails": [
         "info@qrcs.org.qa"
       ],
+      "name": "Qatar",
       "overview": null,
       "society_name": "Qatar Red Crescent Society",
-      "name": "Qatar",
       "translation_module_original_language": "en"
     },
     {
@@ -11974,9 +11974,9 @@
         "international@redcross.or.kr",
         ""
       ],
+      "name": "Republic of Korea",
       "overview": null,
       "society_name": "The Republic of Korea National Red Cross",
-      "name": "Republic of Korea",
       "translation_module_original_language": "en"
     },
     {
@@ -12036,9 +12036,9 @@
       "emails": [
         "crr@crucearosie.ro"
       ],
+      "name": "Romania",
       "overview": null,
       "society_name": "Romanian Red Cross",
-      "name": "Romania",
       "translation_module_original_language": "en"
     },
     {
@@ -12099,9 +12099,9 @@
         "mail@redcross.ru",
         "international@redcross.ru"
       ],
+      "name": "Russian Federation",
       "overview": null,
       "society_name": "Russian Red Cross",
-      "name": "Russian Federation",
       "translation_module_original_language": "en"
     },
     {
@@ -12161,9 +12161,9 @@
       "emails": [
         "rrcs@rwandaredcross.org"
       ],
+      "name": "Rwanda",
       "overview": null,
       "society_name": "Rwandan Red Cross",
-      "name": "Rwanda",
       "translation_module_original_language": "en"
     },
     {
@@ -12189,9 +12189,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Sahel Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "Sahel Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -12249,9 +12249,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Saint Helena",
       "overview": null,
       "society_name": "British Red Cross",
-      "name": "Saint Helena",
       "translation_module_original_language": "en"
     },
     {
@@ -12311,9 +12311,9 @@
       "emails": [
         "skbredcr@sisterisles.kn"
       ],
+      "name": "Saint Kitts and Nevis",
       "overview": null,
       "society_name": "Saint Kitts and Nevis Red Cross Society",
-      "name": "Saint Kitts and Nevis",
       "translation_module_original_language": "en"
     },
     {
@@ -12373,9 +12373,9 @@
       "emails": [
         "saintluredcross@gmail.com"
       ],
+      "name": "Saint Lucia",
       "overview": null,
       "society_name": "Saint Lucia Red Cross",
-      "name": "Saint Lucia",
       "translation_module_original_language": "en"
     },
     {
@@ -12435,9 +12435,9 @@
       "emails": [
         "info.svgrcs@redcross.vc"
       ],
+      "name": "Saint Vincent and the Grenadines",
       "overview": null,
       "society_name": "Saint Vincent and the Grenadines Red Cross",
-      "name": "Saint Vincent and the Grenadines",
       "translation_module_original_language": "en"
     },
     {
@@ -12497,9 +12497,9 @@
       "emails": [
         "samoaredcross@samoa.ws"
       ],
+      "name": "Samoa",
       "overview": null,
       "society_name": "Samoa Red Cross Society",
-      "name": "Samoa",
       "translation_module_original_language": "en"
     },
     {
@@ -12559,9 +12559,9 @@
       "emails": [
         "crs@omniway.sm"
       ],
+      "name": "San Marino",
       "overview": null,
       "society_name": "Red Cross of the Republic of San Marino",
-      "name": "San Marino",
       "translation_module_original_language": "en"
     },
     {
@@ -12621,9 +12621,9 @@
       "emails": [
         "cvstp@cstome.net"
       ],
+      "name": "Sao Tome and Principe",
       "overview": null,
       "society_name": "Sao Tome and Principe Red Cross",
-      "name": "Sao Tome and Principe",
       "translation_module_original_language": "en"
     },
     {
@@ -12683,9 +12683,9 @@
       "emails": [
         "inr@srca.org.sa"
       ],
+      "name": "Saudi Arabia",
       "overview": null,
       "society_name": "Saudi Red Crescent Authority",
-      "name": "Saudi Arabia",
       "translation_module_original_language": "en"
     },
     {
@@ -12711,9 +12711,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Scarborough Reef",
       "overview": null,
       "society_name": "",
-      "name": "Scarborough Reef",
       "translation_module_original_language": "en"
     },
     {
@@ -12773,9 +12773,9 @@
       "emails": [
         "crsnational@orange.sn"
       ],
+      "name": "Senegal",
       "overview": null,
       "society_name": "Senegalese Red Cross Society",
-      "name": "Senegal",
       "translation_module_original_language": "en"
     },
     {
@@ -12801,9 +12801,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Senkaku Islands",
       "overview": null,
       "society_name": "Japanese Red Cross Society",
-      "name": "Senkaku Islands",
       "translation_module_original_language": "en"
     },
     {
@@ -12864,9 +12864,9 @@
         "serbia@redcross.org.rs",
         "indep@redcross.org.rs"
       ],
+      "name": "Serbia",
       "overview": null,
       "society_name": "Red Cross of Serbia",
-      "name": "Serbia",
       "translation_module_original_language": "en"
     },
     {
@@ -12926,9 +12926,9 @@
       "emails": [
         "hqredcross@ymail.com"
       ],
+      "name": "Seychelles",
       "overview": null,
       "society_name": "Seychelles Red Cross Society",
-      "name": "Seychelles",
       "translation_module_original_language": "en"
     },
     {
@@ -12988,9 +12988,9 @@
       "emails": [
         "slrcshq@sierraleoneredcross.org"
       ],
+      "name": "Sierra Leone",
       "overview": null,
       "society_name": "Sierra Leone Red Cross Society",
-      "name": "Sierra Leone",
       "translation_module_original_language": "en"
     },
     {
@@ -13050,9 +13050,9 @@
       "emails": [
         "enquiry@redcross.sg"
       ],
+      "name": "Singapore",
       "overview": null,
       "society_name": "Singapore Red Cross Society",
-      "name": "Singapore",
       "translation_module_original_language": "en"
     },
     {
@@ -13112,9 +13112,9 @@
       "emails": [
         "sekretariat@redcross.sk"
       ],
+      "name": "Slovakia",
       "overview": null,
       "society_name": "Slovak Red Cross",
-      "name": "Slovakia",
       "translation_module_original_language": "en"
     },
     {
@@ -13174,9 +13174,9 @@
       "emails": [
         "rdeci.kriz@rks.si"
       ],
+      "name": "Slovenia",
       "overview": null,
       "society_name": "Slovenian Red Cross",
-      "name": "Slovenia",
       "translation_module_original_language": "en"
     },
     {
@@ -13236,9 +13236,9 @@
       "emails": [
         "dissemination@redcross.org.sb"
       ],
+      "name": "Solomon Islands",
       "overview": null,
       "society_name": "The Solomon Islands Red Cross",
-      "name": "Solomon Islands",
       "translation_module_original_language": "en"
     },
     {
@@ -13298,9 +13298,9 @@
       "emails": [
         "info.bishacas@africaonline.co.ke"
       ],
+      "name": "Somalia",
       "overview": null,
       "society_name": "Somali Red Crescent Society",
-      "name": "Somalia",
       "translation_module_original_language": "en"
     },
     {
@@ -13360,9 +13360,9 @@
       "emails": [
         "redcross@redcross.org.za"
       ],
+      "name": "South Africa",
       "overview": null,
       "society_name": "The South African Red Cross Society",
-      "name": "South Africa",
       "translation_module_original_language": "en"
     },
     {
@@ -13388,9 +13388,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "South America Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "South America Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -13416,9 +13416,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "South Caucasus Country Cluster",
       "overview": "",
       "society_name": "",
-      "name": "South Caucasus Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -13444,9 +13444,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Southern Africa Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "Southern Africa Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -13472,9 +13472,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Southern Cone Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "Southern Cone Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -13532,9 +13532,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "South Georgia and the South Sandwich Island",
       "overview": null,
       "society_name": "British Red Cross",
-      "name": "South Georgia and the South Sandwich Island",
       "translation_module_original_language": "en"
     },
     {
@@ -13595,9 +13595,9 @@
         "john.lobor@southsudanredcross.org",
         "nora.aketo@southsudanredcross.org"
       ],
+      "name": "South Sudan",
       "overview": null,
       "society_name": "South Sudan Red Cross",
-      "name": "South Sudan",
       "translation_module_original_language": "en"
     },
     {
@@ -13658,9 +13658,9 @@
         "registro@cruzroja.es",
         "informa@cruzroja.es"
       ],
+      "name": "Spain",
       "overview": null,
       "society_name": "Spanish Red Cross",
-      "name": "Spain",
       "translation_module_original_language": "en"
     },
     {
@@ -13686,9 +13686,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Spratly Islands",
       "overview": null,
       "society_name": "",
-      "name": "Spratly Islands",
       "translation_module_original_language": "en"
     },
     {
@@ -13750,9 +13750,9 @@
         "directorgeneral@redcross.lk",
         "info@redcross.lk"
       ],
+      "name": "Sri Lanka",
       "overview": null,
       "society_name": "Sri Lanka Red Cross Society",
-      "name": "Sri Lanka",
       "translation_module_original_language": "en"
     },
     {
@@ -13812,9 +13812,9 @@
       "emails": [
         "info@srcs.sd"
       ],
+      "name": "Sudan",
       "overview": null,
       "society_name": "Sudanese Red Crescent",
-      "name": "Sudan",
       "translation_module_original_language": "en"
     },
     {
@@ -13874,9 +13874,9 @@
       "emails": [
         "surcross@sr.net"
       ],
+      "name": "Suriname",
       "overview": null,
       "society_name": "Suriname Red Cross",
-      "name": "Suriname",
       "translation_module_original_language": "en"
     },
     {
@@ -13902,9 +13902,9 @@
       "phone": null,
       "website": null,
       "emails": [],
+      "name": "Suva Country Cluster",
       "overview": null,
       "society_name": "",
-      "name": "Suva Country Cluster",
       "translation_module_original_language": "en"
     },
     {
@@ -13964,9 +13964,9 @@
       "emails": [
         "info@redcross.se"
       ],
+      "name": "Sweden",
       "overview": null,
       "society_name": "Swedish Red Cross",
-      "name": "Sweden",
       "translation_module_original_language": "en"
     },
     {
@@ -14026,9 +14026,9 @@
       "emails": [
         "info@redcross.ch"
       ],
+      "name": "Switzerland",
       "overview": null,
       "society_name": "Swiss Red Cross",
-      "name": "Switzerland",
       "translation_module_original_language": "en"
     },
     {
@@ -14100,9 +14100,9 @@
         "sarchq@sarc-sy.org",
         "sarc@net.sy"
       ],
+      "name": "Syrian Arab Republic",
       "overview": null,
       "society_name": "Syrian Arab Red Crescent",
-      "name": "Syrian Arab Republic",
       "translation_module_original_language": "en"
     },
     {
@@ -14162,9 +14162,9 @@
       "emails": [
         "info@redcrescent.tj"
       ],
+      "name": "Tajikistan",
       "overview": null,
       "society_name": "Red Crescent Society of Tajikistan",
-      "name": "Tajikistan",
       "translation_module_original_language": "en"
     },
     {
@@ -14225,8 +14225,8 @@
         "logistics@raha.com"
       ],
       "name": "Tanzania, United Republic of",
-      "society_name": "Tanzania Red Cross National Society",
       "overview": null,
+      "society_name": "Tanzania Red Cross National Society",
       "translation_module_original_language": "en"
     },
     {
@@ -14287,8 +14287,8 @@
         "intertrc@redcross.or.th"
       ],
       "name": "Thailand",
-      "society_name": "Thai Red Cross Society",
       "overview": null,
+      "society_name": "Thai Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -14349,8 +14349,8 @@
         "info@redcross.tl"
       ],
       "name": "Timor-Leste",
-      "society_name": "Timor-Leste Red Cross Society",
       "overview": null,
+      "society_name": "Timor-Leste Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -14411,8 +14411,8 @@
         "crtsiege1959@gmail.com"
       ],
       "name": "Togo",
-      "society_name": "Togolese Red Cross",
       "overview": null,
+      "society_name": "Togolese Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -14471,8 +14471,8 @@
       "website": null,
       "emails": [],
       "name": "Tokelau",
-      "society_name": "",
       "overview": null,
+      "society_name": "",
       "translation_module_original_language": "en"
     },
     {
@@ -14534,8 +14534,8 @@
         "sionetenisoni@gmail.com"
       ],
       "name": "Tonga",
-      "society_name": "Tonga Red Cross Society",
       "overview": null,
+      "society_name": "Tonga Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -14596,8 +14596,8 @@
         "admin@ttrcs.org"
       ],
       "name": "Trinidad and Tobago",
-      "society_name": "The Trinidad and Tobago Red Cross Society",
       "overview": null,
+      "society_name": "The Trinidad and Tobago Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -14624,8 +14624,8 @@
       "website": null,
       "emails": [],
       "name": "Tromelin Island",
-      "society_name": "French Red Cross",
       "overview": null,
+      "society_name": "French Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -14652,8 +14652,8 @@
       "website": null,
       "emails": [],
       "name": "Tunis Country Cluster",
-      "society_name": "",
       "overview": null,
+      "society_name": "",
       "translation_module_original_language": "en"
     },
     {
@@ -14714,8 +14714,8 @@
         "hilal.ahmar@planet.tn"
       ],
       "name": "Tunisia",
-      "society_name": "Tunisian Red Crescent",
       "overview": null,
+      "society_name": "Tunisian Red Crescent",
       "translation_module_original_language": "en"
     },
     {
@@ -14782,8 +14782,8 @@
         "international@kizilay.org.tr"
       ],
       "name": "Türkiye",
-      "society_name": "Turkish Red Crescent Society",
       "overview": null,
+      "society_name": "Turkish Red Crescent Society",
       "translation_module_original_language": "en"
     },
     {
@@ -14844,8 +14844,8 @@
         "crescent.int@tgymj.gov.tm"
       ],
       "name": "Turkmenistan",
-      "society_name": "Red Crescent Society of Turkmenistan",
       "overview": null,
+      "society_name": "Red Crescent Society of Turkmenistan",
       "translation_module_original_language": "en"
     },
     {
@@ -14904,8 +14904,8 @@
       "website": null,
       "emails": [],
       "name": "Turks and Caicos islands",
-      "society_name": "British Red Cross",
       "overview": null,
+      "society_name": "British Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -14966,8 +14966,8 @@
         "redcrosstuvalu@gmail.com"
       ],
       "name": "Tuvalu",
-      "society_name": "Tuvalu Red Cross Society",
       "overview": null,
+      "society_name": "Tuvalu Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15028,8 +15028,8 @@
         "sgurcs@redcrossug.org"
       ],
       "name": "Uganda",
-      "society_name": "Uganda Red Cross Society",
       "overview": null,
+      "society_name": "Uganda Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15090,8 +15090,8 @@
         "international@redcross.org.ua"
       ],
       "name": "Ukraine",
-      "society_name": "Ukrainian Red Cross Society",
       "overview": null,
+      "society_name": "Ukrainian Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15152,8 +15152,8 @@
         "callcenter@rcuae.ae"
       ],
       "name": "United Arab Emirates",
-      "society_name": "Red Crescent Society of the United Arab Emirates",
       "overview": null,
+      "society_name": "Red Crescent Society of the United Arab Emirates",
       "translation_module_original_language": "en"
     },
     {
@@ -15214,8 +15214,8 @@
         "information@redcross.org.uk"
       ],
       "name": "United Kingdom",
-      "society_name": "British Red Cross",
       "overview": null,
+      "society_name": "British Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -15276,8 +15276,8 @@
         "https://www.redcross.org/contact-us/general-inquiry"
       ],
       "name": "United States",
-      "society_name": "American Red Cross",
       "overview": null,
+      "society_name": "American Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -15336,8 +15336,8 @@
       "website": null,
       "emails": [],
       "name": "United States Minor Outlying Islands",
-      "society_name": "",
       "overview": null,
+      "society_name": "",
       "translation_module_original_language": "en"
     },
     {
@@ -15396,8 +15396,8 @@
       "website": null,
       "emails": [],
       "name": "United States Virgin Islands",
-      "society_name": "American Red Cross",
       "overview": null,
+      "society_name": "American Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -15464,8 +15464,8 @@
         "administracion@cruzroja.org.uy"
       ],
       "name": "Uruguay",
-      "society_name": "Uruguayan Red Cross",
       "overview": "En Uruguay, Cruz Roja tuvo origen el 5 de marzo de 1897, en un momento histórico en que se desarrollaba uno de los tantos enfrentamientos armados entre los dos partidos fundacionales (uno en el gobierno y el otro en la oposición) que caracterizaron la historia política del país durante el siglo XIX.\r\n\r\nEn ese entonces, un grupo de mujeres solidarias brindó atención de primeros auxilios a los heridos de ambos bandos, de forma desinteresada y altruista. Su fundadora fue Aurelia Ramos de Segarra, y originalmente la institución se denominó Cruz Roja de Señoras Cristianas, siendo reconocida como parte del Movimiento Internacional de la Cruz Roja en 1900.",
+      "society_name": "Uruguayan Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -15526,8 +15526,8 @@
         "secretariat@redcrescent.uz"
       ],
       "name": "Uzbekistan",
-      "society_name": "Red Crescent Society of Uzbekistan",
       "overview": null,
+      "society_name": "Red Crescent Society of Uzbekistan",
       "translation_module_original_language": "en"
     },
     {
@@ -15588,8 +15588,8 @@
         "ceo@redcrossvanuatu.com"
       ],
       "name": "Vanuatu",
-      "society_name": "Vanuatu Red Cross Society",
       "overview": null,
+      "society_name": "Vanuatu Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15650,8 +15650,8 @@
         "presidencia@cruzrojavenezolana.org"
       ],
       "name": "Venezuela",
-      "society_name": "Venezuelan Red Cross",
       "overview": null,
+      "society_name": "Venezuelan Red Cross",
       "translation_module_original_language": "en"
     },
     {
@@ -15712,8 +15712,8 @@
         "international@redcross.org.vn"
       ],
       "name": "Viet Nam",
-      "society_name": "Vietnam Red Cross Society",
       "overview": null,
+      "society_name": "Vietnam Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15740,8 +15740,8 @@
       "website": null,
       "emails": [],
       "name": "West Coast Country Cluster",
-      "society_name": "",
       "overview": null,
+      "society_name": "",
       "translation_module_original_language": "en"
     },
     {
@@ -15800,8 +15800,8 @@
       "website": null,
       "emails": [],
       "name": "Western Sahara",
-      "society_name": "",
       "overview": null,
+      "society_name": "",
       "translation_module_original_language": "en"
     },
     {
@@ -15862,8 +15862,8 @@
         "info@yemenredcrescent.org"
       ],
       "name": "Yemen",
-      "society_name": "Yemen Red Crescent Society",
       "overview": null,
+      "society_name": "Yemen Red Crescent Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15924,8 +15924,8 @@
         "zrcs@zamnet.zm"
       ],
       "name": "Zambia",
-      "society_name": "Zambia Red Cross Society",
       "overview": null,
+      "society_name": "Zambia Red Cross Society",
       "translation_module_original_language": "en"
     },
     {
@@ -15986,8 +15986,8 @@
         "zrcs@ecoweb.co.zw"
       ],
       "name": "Zimbabwe",
-      "society_name": "Zimbabwe Red Cross Society",
       "overview": null,
+      "society_name": "Zimbabwe Red Cross Society",
       "translation_module_original_language": "en"
     }
   ]
