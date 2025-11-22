@@ -2858,7 +2858,7 @@
     "region_name": "Americas",
     "latitude": 25.03428,
     "longitude": -77.39628,
-    "updated_at": "2024-04-01T14:29:32.031271Z",
+    "updated_at": "2025-11-21T11:50:38.596839Z",
     "prioritized_components": [
       {
         "componentId": 2,
@@ -3416,7 +3416,7 @@
     "region_name": "Americas",
     "latitude": 25.03428,
     "longitude": -77.39628,
-    "updated_at": "2024-04-01T14:29:28.896090Z",
+    "updated_at": "2025-11-21T11:53:30.058417Z",
     "prioritized_components": [
       {
         "componentId": 3,
@@ -4562,7 +4562,7 @@
     "region_name": "Americas",
     "latitude": 13.193887,
     "longitude": -59.543198,
-    "updated_at": "2024-04-01T14:07:03.551133Z",
+    "updated_at": "2025-11-21T11:57:49.466997Z",
     "prioritized_components": [
       {
         "componentId": 2,
@@ -5140,7 +5140,7 @@
     "region_name": "Americas",
     "latitude": 17.189877,
     "longitude": -88.49765,
-    "updated_at": "2024-06-26T09:18:18.583717Z",
+    "updated_at": "2025-11-21T12:00:21.519155Z",
     "prioritized_components": [
       {
         "componentId": 11,
@@ -5693,7 +5693,7 @@
     "region_name": "Americas",
     "latitude": -16.290154,
     "longitude": -63.588653,
-    "updated_at": "2025-07-21T22:35:52.764146Z",
+    "updated_at": "2025-11-21T12:21:43.079112Z",
     "prioritized_components": [],
     "epi_considerations": true,
     "climate_environmental_considerations": true,
@@ -9105,7 +9105,7 @@
     "region_name": "Americas",
     "latitude": 4.570868,
     "longitude": -74.297333,
-    "updated_at": "2025-11-13T08:14:15.218629Z",
+    "updated_at": "2025-11-21T12:26:58.701394Z",
     "prioritized_components": [
       {
         "componentId": 4,
@@ -10155,7 +10155,7 @@
     "region_name": "Americas",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "updated_at": "2025-11-13T08:08:16.059132Z",
+    "updated_at": "2025-11-21T12:33:30.901752Z",
     "prioritized_components": [
       {
         "componentId": 48,
@@ -10725,7 +10725,7 @@
     "region_name": "Americas",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "updated_at": "2025-11-13T08:05:17.328460Z",
+    "updated_at": "2025-11-21T12:30:10.404639Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -12341,7 +12341,7 @@
     "region_name": "Americas",
     "latitude": 21.521757,
     "longitude": -77.781167,
-    "updated_at": "2024-04-01T14:04:34.198438Z",
+    "updated_at": "2025-11-21T12:36:12.966474Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -14557,7 +14557,7 @@
     "region_name": "Americas",
     "latitude": 15.414999,
     "longitude": -61.370976,
-    "updated_at": "2024-04-01T14:20:39.489905Z",
+    "updated_at": "2025-11-21T12:38:48.794377Z",
     "prioritized_components": [
       {
         "componentId": 3,
@@ -15115,7 +15115,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2025-11-13T08:12:38.445125Z",
+    "updated_at": "2025-11-21T12:58:50.481450Z",
     "prioritized_components": [
       {
         "componentId": 15,
@@ -15664,7 +15664,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2025-11-13T08:11:14.528304Z",
+    "updated_at": "2025-11-21T12:57:40.317465Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -16191,7 +16191,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2025-11-13T08:11:01.578133Z",
+    "updated_at": "2025-11-21T12:49:28.383392Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -16718,7 +16718,7 @@
     "region_name": "Americas",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "updated_at": "2025-11-13T08:10:53.481532Z",
+    "updated_at": "2025-11-21T12:47:46.911451Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -17245,7 +17245,7 @@
     "region_name": "Americas",
     "latitude": -1.831239,
     "longitude": -78.183406,
-    "updated_at": "2025-02-15T17:56:15.497332Z",
+    "updated_at": "2025-11-21T13:12:14.513550Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -17709,8 +17709,8 @@
     "date_of_assessment": "2022-09-19",
     "country_id": 60,
     "country_name": "Ecuador",
-    "phase": 4,
-    "phase_display": "Workplan",
+    "phase": 3,
+    "phase_display": "Prioritisation",
     "type_of_assessment": 2,
     "type_of_assessment_name": "Simulation",
     "country_iso3": "ECU",
@@ -17718,7 +17718,7 @@
     "region_name": "Americas",
     "latitude": -1.831239,
     "longitude": -78.183406,
-    "updated_at": "2023-12-22T13:26:59.940723Z",
+    "updated_at": "2025-11-21T13:08:00.972775Z",
     "prioritized_components": [
       {
         "componentId": 2,
@@ -18256,7 +18256,7 @@
     "region_name": "Americas",
     "latitude": -1.831239,
     "longitude": -78.183406,
-    "updated_at": "2024-04-01T14:31:33.276327Z",
+    "updated_at": "2025-11-21T13:06:16.424787Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -19351,7 +19351,7 @@
     "region_name": "Americas",
     "latitude": 13.794185,
     "longitude": -88.89653,
-    "updated_at": "2025-11-12T15:16:23.248329Z",
+    "updated_at": "2025-11-21T14:08:03.685235Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -19824,7 +19824,7 @@
     "region_name": "Americas",
     "latitude": 13.794185,
     "longitude": -88.89653,
-    "updated_at": "2025-11-12T15:16:06.249981Z",
+    "updated_at": "2025-11-21T14:05:01.611276Z",
     "prioritized_components": [
       {
         "componentId": 8,
@@ -19932,7 +19932,7 @@
     "region_name": "Americas",
     "latitude": 13.794185,
     "longitude": -88.89653,
-    "updated_at": "2025-11-12T15:15:53.872796Z",
+    "updated_at": "2025-11-21T14:02:13.708936Z",
     "prioritized_components": [
       {
         "componentId": 31,
@@ -20520,7 +20520,7 @@
     "region_name": "Americas",
     "latitude": 13.794185,
     "longitude": -88.89653,
-    "updated_at": "2025-11-12T15:15:27.113226Z",
+    "updated_at": "2025-11-21T14:03:39.775779Z",
     "prioritized_components": [
       {
         "componentId": 13,
@@ -24910,7 +24910,7 @@
     "region_name": "Americas",
     "latitude": 15.783471,
     "longitude": -90.2307590000001,
-    "updated_at": "2025-11-12T15:27:04.912773Z",
+    "updated_at": "2025-11-21T15:00:09.823238Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -25498,7 +25498,7 @@
     "region_name": "Americas",
     "latitude": 15.783471,
     "longitude": -90.2307590000001,
-    "updated_at": "2025-11-12T15:26:37.429551Z",
+    "updated_at": "2025-11-21T15:02:20.326091Z",
     "prioritized_components": [
       {
         "componentId": 2,
@@ -26681,7 +26681,7 @@
     "region_name": "Americas",
     "latitude": 18.971187,
     "longitude": -72.285215,
-    "updated_at": "2024-04-01T14:14:41.346721Z",
+    "updated_at": "2025-11-21T15:21:04.960008Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -27208,7 +27208,7 @@
     "region_name": "Americas",
     "latitude": 18.971187,
     "longitude": -72.285215,
-    "updated_at": "2024-04-01T14:14:38.455709Z",
+    "updated_at": "2025-11-21T15:19:24.938553Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -27726,8 +27726,8 @@
     "date_of_assessment": "2025-01-07",
     "country_id": 81,
     "country_name": "Honduras",
-    "phase": 3,
-    "phase_display": "Prioritisation",
+    "phase": 4,
+    "phase_display": "Workplan",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "HND",
@@ -27735,7 +27735,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2025-11-13T08:16:53.949044Z",
+    "updated_at": "2025-11-21T15:30:37.862758Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -28208,7 +28208,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2025-11-13T08:16:33.856944Z",
+    "updated_at": "2025-11-21T15:29:32.437287Z",
     "prioritized_components": [
       {
         "componentId": 10,
@@ -28796,7 +28796,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2025-11-13T08:16:12.522503Z",
+    "updated_at": "2025-11-21T15:28:08.935166Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -29323,7 +29323,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2025-11-13T08:15:49.560175Z",
+    "updated_at": "2025-11-21T15:28:39.482892Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -29850,7 +29850,7 @@
     "region_name": "Americas",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "updated_at": "2025-11-13T08:15:35.519758Z",
+    "updated_at": "2025-11-21T15:23:23.543758Z",
     "prioritized_components": [
       {
         "componentId": 35,
@@ -31485,7 +31485,7 @@
     "region_name": "Americas",
     "latitude": 18.109581,
     "longitude": -77.297508,
-    "updated_at": "2024-04-01T14:11:06.242763Z",
+    "updated_at": "2025-11-21T15:46:31.317908Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -32012,7 +32012,7 @@
     "region_name": "Americas",
     "latitude": 18.109581,
     "longitude": -77.297508,
-    "updated_at": "2024-04-01T14:11:03.342150Z",
+    "updated_at": "2025-11-21T15:45:56.129245Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -42064,7 +42064,7 @@
     "region_name": "Americas",
     "latitude": 12.865416,
     "longitude": -85.207229,
-    "updated_at": "2024-04-01T14:23:47.485533Z",
+    "updated_at": "2025-11-21T15:49:39.278084Z",
     "prioritized_components": [
       {
         "componentId": 3,
@@ -42115,7 +42115,512 @@
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
-    "components": []
+    "components": [
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 20,
+        "component_name": "FOOD SECURITY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 22,
+        "component_name": "SEARCH AND RESCUE",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 15,
+        "component_name": "COMMUNITY-BASED DP AND DRR",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 29,
+        "component_name": "Mapping of NS capacities",
+        "component_num": 15,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 17,
+        "component_name": "HEALTH IN EMERGENCIES",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 30,
+        "component_name": "Early Action Mechanisms",
+        "component_num": 16,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 31,
+        "component_name": "Cash Based Intervention (CBI)",
+        "component_num": 17,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 32,
+        "component_name": "Emergency Needs Assessment",
+        "component_num": 18,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 33,
+        "component_name": "Affected population selection",
+        "component_num": 19,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 34,
+        "component_name": "Emergency Operations Centre (EOC)",
+        "component_num": 20,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 35,
+        "component_name": "Information Management (IM)",
+        "component_num": 21,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 36,
+        "component_name": "Testing and Learning",
+        "component_num": 22,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 37,
+        "component_name": "Activation of regional and international support",
+        "component_num": 23,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 27,
+        "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 21,
+        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 23,
+        "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 24,
+        "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 25,
+        "component_name": "RESTORING FAMILY LINKS (RFL)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 26,
+        "component_name": "TRANSITION TO RECOVERY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 14,
+        "component_name": "NS-specific areas of intervention",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 16,
+        "component_name": "EVACUATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 18,
+        "component_name": "FIRST AID",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 19,
+        "component_name": "WATER AND SANITATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 28,
+        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      }
+    ]
   },
   {
     "id": 63,
@@ -42132,7 +42637,7 @@
     "region_name": "Americas",
     "latitude": 12.865416,
     "longitude": -85.207229,
-    "updated_at": "2024-04-01T14:23:39.245280Z",
+    "updated_at": "2025-11-21T15:52:09.793052Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -42659,7 +43164,7 @@
     "region_name": "Americas",
     "latitude": 12.865416,
     "longitude": -85.207229,
-    "updated_at": "2024-04-01T14:23:34.632125Z",
+    "updated_at": "2025-11-21T15:51:11.014392Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -42681,12 +43186,517 @@
     "region_name": "Americas",
     "latitude": 12.865416,
     "longitude": -85.207229,
-    "updated_at": "2024-04-01T14:23:25.926228Z",
+    "updated_at": "2025-11-21T15:50:25.192121Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
-    "components": []
+    "components": [
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 20,
+        "component_name": "FOOD SECURITY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 22,
+        "component_name": "SEARCH AND RESCUE",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 15,
+        "component_name": "COMMUNITY-BASED DP AND DRR",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 29,
+        "component_name": "Mapping of NS capacities",
+        "component_num": 15,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 17,
+        "component_name": "HEALTH IN EMERGENCIES",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 30,
+        "component_name": "Early Action Mechanisms",
+        "component_num": 16,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 31,
+        "component_name": "Cash Based Intervention (CBI)",
+        "component_num": 17,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 32,
+        "component_name": "Emergency Needs Assessment",
+        "component_num": 18,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 33,
+        "component_name": "Affected population selection",
+        "component_num": 19,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 34,
+        "component_name": "Emergency Operations Centre (EOC)",
+        "component_num": 20,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 35,
+        "component_name": "Information Management (IM)",
+        "component_num": 21,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 36,
+        "component_name": "Testing and Learning",
+        "component_num": 22,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 37,
+        "component_name": "Activation of regional and international support",
+        "component_num": 23,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 27,
+        "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 21,
+        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 23,
+        "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 24,
+        "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 25,
+        "component_name": "RESTORING FAMILY LINKS (RFL)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 26,
+        "component_name": "TRANSITION TO RECOVERY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 14,
+        "component_name": "NS-specific areas of intervention",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 16,
+        "component_name": "EVACUATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 18,
+        "component_name": "FIRST AID",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 19,
+        "component_name": "WATER AND SANITATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 28,
+        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      }
+    ]
   },
   {
     "id": 194,
@@ -43514,7 +44524,7 @@
     "region_name": "Americas",
     "latitude": 8.537981,
     "longitude": -80.782127,
-    "updated_at": "2025-11-12T15:24:59.638194Z",
+    "updated_at": "2025-11-21T15:56:45.930956Z",
     "prioritized_components": [
       {
         "componentId": 2,
@@ -43572,7 +44582,7 @@
     "region_name": "Americas",
     "latitude": 8.537981,
     "longitude": -80.782127,
-    "updated_at": "2025-11-12T15:25:31.310765Z",
+    "updated_at": "2025-11-21T15:54:29.648311Z",
     "prioritized_components": [
       {
         "componentId": 5,
@@ -44178,7 +45188,7 @@
     "region_name": "Americas",
     "latitude": -23.442503,
     "longitude": -58.443832,
-    "updated_at": "2025-07-15T20:34:50.383399Z",
+    "updated_at": "2025-11-21T15:58:53.982771Z",
     "prioritized_components": [
       {
         "componentId": 2,
@@ -45415,7 +46425,7 @@
     "region_name": "Americas",
     "latitude": 12.984305,
     "longitude": -61.287228,
-    "updated_at": "2023-11-07T17:12:28.430799Z",
+    "updated_at": "2025-11-21T16:04:10.550823Z",
     "prioritized_components": [
       {
         "componentId": 6,
@@ -45955,7 +46965,7 @@
     "region_name": "Americas",
     "latitude": 12.984305,
     "longitude": -61.287228,
-    "updated_at": "2025-07-21T17:28:40.175662Z",
+    "updated_at": "2025-11-21T16:02:32.036216Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -47201,512 +48211,7 @@
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
-    "components": [
-      {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 20,
-        "component_name": "FOOD SECURITY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 22,
-        "component_name": "SEARCH AND RESCUE",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 15,
-        "component_name": "COMMUNITY-BASED DP AND DRR",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 29,
-        "component_name": "Mapping of NS capacities",
-        "component_num": 15,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 17,
-        "component_name": "HEALTH IN EMERGENCIES",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 30,
-        "component_name": "Early Action Mechanisms",
-        "component_num": 16,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 31,
-        "component_name": "Cash Based Intervention (CBI)",
-        "component_num": 17,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 32,
-        "component_name": "Emergency Needs Assessment",
-        "component_num": 18,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 33,
-        "component_name": "Affected population selection",
-        "component_num": 19,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 34,
-        "component_name": "Emergency Operations Centre (EOC)",
-        "component_num": 20,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 35,
-        "component_name": "Information Management (IM)",
-        "component_num": 21,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 36,
-        "component_name": "Testing and Learning",
-        "component_num": 22,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 37,
-        "component_name": "Activation of regional and international support",
-        "component_num": 23,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 27,
-        "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 21,
-        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 23,
-        "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 24,
-        "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 25,
-        "component_name": "RESTORING FAMILY LINKS (RFL)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 26,
-        "component_name": "TRANSITION TO RECOVERY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 14,
-        "component_name": "NS-specific areas of intervention",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 16,
-        "component_name": "EVACUATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 18,
-        "component_name": "FIRST AID",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 19,
-        "component_name": "WATER AND SANITATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 28,
-        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      }
-    ]
+    "components": []
   },
   {
     "id": 173,
@@ -50365,7 +50870,7 @@
     "region_name": "Americas",
     "latitude": 10.691803,
     "longitude": -61.222503,
-    "updated_at": "2024-04-01T14:24:43.456639Z",
+    "updated_at": "2025-11-21T16:05:37.643162Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -52182,7 +52687,7 @@
     "region_name": "Americas",
     "latitude": -32.522779,
     "longitude": -55.765835,
-    "updated_at": "2025-07-09T16:19:20.808072Z",
+    "updated_at": "2025-11-21T16:07:52.457090Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -52781,7 +53286,7 @@
     "region_name": "Americas",
     "latitude": 7.335401996768837,
     "longitude": -66.32434151126773,
-    "updated_at": "2025-08-18T22:37:06.455862Z",
+    "updated_at": "2025-11-21T16:11:10.561697Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -53325,517 +53830,12 @@
     "region_name": "Americas",
     "latitude": 7.335401996768837,
     "longitude": -66.32434151126773,
-    "updated_at": "2023-12-26T18:59:03.668789Z",
+    "updated_at": "2025-11-21T16:09:34.533959Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
-    "components": [
-      {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 20,
-        "component_name": "FOOD SECURITY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 22,
-        "component_name": "SEARCH AND RESCUE",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 15,
-        "component_name": "COMMUNITY-BASED DP AND DRR",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 29,
-        "component_name": "Mapping of NS capacities",
-        "component_num": 15,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 17,
-        "component_name": "HEALTH IN EMERGENCIES",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 30,
-        "component_name": "Early Action Mechanisms",
-        "component_num": 16,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 31,
-        "component_name": "Cash Based Intervention (CBI)",
-        "component_num": 17,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 32,
-        "component_name": "Emergency Needs Assessment",
-        "component_num": 18,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 33,
-        "component_name": "Affected population selection",
-        "component_num": 19,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 34,
-        "component_name": "Emergency Operations Centre (EOC)",
-        "component_num": 20,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 35,
-        "component_name": "Information Management (IM)",
-        "component_num": 21,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 36,
-        "component_name": "Testing and Learning",
-        "component_num": 22,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 37,
-        "component_name": "Activation of regional and international support",
-        "component_num": 23,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 27,
-        "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 21,
-        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 23,
-        "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 24,
-        "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 25,
-        "component_name": "RESTORING FAMILY LINKS (RFL)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 26,
-        "component_name": "TRANSITION TO RECOVERY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 14,
-        "component_name": "NS-specific areas of intervention",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 16,
-        "component_name": "EVACUATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 18,
-        "component_name": "FIRST AID",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 19,
-        "component_name": "WATER AND SANITATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 28,
-        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      }
-    ]
+    "components": []
   },
   {
     "id": 103,
