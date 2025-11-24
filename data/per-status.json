@@ -3,8 +3,8 @@
     {
       "id": 66,
       "assessment_number": 2,
-      "date_of_orientation": null,
-      "date_of_assessment": "2019-12-05",
+      "date_of_orientation": "2019-03-01",
+      "date_of_assessment": "2019-03-01",
       "country": 14,
       "country_details": {
         "iso": "AF",
@@ -25,7 +25,7 @@
       "prioritization": 57,
       "workplan": 55,
       "created_at": "2022-07-20T19:33:06.818540Z",
-      "updated_at": "2024-04-01T14:21:14.712931Z",
+      "updated_at": "2025-11-23T09:54:11.692538Z",
       "phase": 5,
       "phase_display": "Action And Accountability",
       "type_of_assessment": 2,
@@ -33,13 +33,13 @@
         "id": 2,
         "name": "Simulation"
       },
-      "ns_focal_point_name": "",
-      "ns_focal_point_email": ""
+      "ns_focal_point_name": null,
+      "ns_focal_point_email": null
     },
     {
       "id": 64,
       "assessment_number": 1,
-      "date_of_orientation": null,
+      "date_of_orientation": "2016-06-01",
       "date_of_assessment": "2016-07-07",
       "country": 14,
       "country_details": {
@@ -61,7 +61,7 @@
       "prioritization": 56,
       "workplan": null,
       "created_at": "2022-07-20T15:53:05.865146Z",
-      "updated_at": "2024-01-08T15:39:20.168663Z",
+      "updated_at": "2025-11-23T09:50:23.293096Z",
       "phase": 3,
       "phase_display": "Prioritisation",
       "type_of_assessment": 2,
@@ -69,8 +69,8 @@
         "id": 2,
         "name": "Simulation"
       },
-      "ns_focal_point_name": "",
-      "ns_focal_point_email": ""
+      "ns_focal_point_name": null,
+      "ns_focal_point_email": null
     },
     {
       "id": 39,
@@ -324,8 +324,8 @@
     {
       "id": 82,
       "assessment_number": 1,
-      "date_of_orientation": null,
-      "date_of_assessment": "2019-12-24",
+      "date_of_orientation": "2019-03-01",
+      "date_of_assessment": "2019-10-24",
       "country": 27,
       "country_details": {
         "iso": "BD",
@@ -346,7 +346,7 @@
       "prioritization": 53,
       "workplan": 52,
       "created_at": "2022-08-10T19:43:11.999480Z",
-      "updated_at": "2024-01-08T15:25:57.234926Z",
+      "updated_at": "2025-11-23T09:57:02.909530Z",
       "phase": 4,
       "phase_display": "WorkPlan",
       "type_of_assessment": 1,
@@ -354,8 +354,8 @@
         "id": 1,
         "name": "Self assessment"
       },
-      "ns_focal_point_name": "",
-      "ns_focal_point_email": ""
+      "ns_focal_point_name": null,
+      "ns_focal_point_email": null
     },
     {
       "id": 79,
@@ -1035,7 +1035,7 @@
     {
       "id": 81,
       "assessment_number": 1,
-      "date_of_orientation": null,
+      "date_of_orientation": "2019-07-01",
       "date_of_assessment": "2019-12-19",
       "country": 193,
       "country_details": {
@@ -1057,7 +1057,7 @@
       "prioritization": 54,
       "workplan": 53,
       "created_at": "2022-08-10T14:54:14.678899Z",
-      "updated_at": "2024-04-01T14:22:49.079343Z",
+      "updated_at": "2025-11-23T10:05:44.872258Z",
       "phase": 5,
       "phase_display": "Action And Accountability",
       "type_of_assessment": 1,
@@ -1066,7 +1066,7 @@
         "name": "Self assessment"
       },
       "ns_focal_point_name": "Kim Ho Yong",
-      "ns_focal_point_email": ""
+      "ns_focal_point_email": null
     },
     {
       "id": 175,
@@ -2391,7 +2391,7 @@
     {
       "id": 93,
       "assessment_number": 1,
-      "date_of_orientation": null,
+      "date_of_orientation": "2018-05-01",
       "date_of_assessment": "2018-05-28",
       "country": 85,
       "country_details": {
@@ -2413,7 +2413,7 @@
       "prioritization": 90,
       "workplan": 87,
       "created_at": "2022-08-18T13:59:43.588169Z",
-      "updated_at": "2024-04-01T14:06:34.988670Z",
+      "updated_at": "2025-11-23T11:16:30.732100Z",
       "phase": 5,
       "phase_display": "Action And Accountability",
       "type_of_assessment": 1,
@@ -2421,8 +2421,8 @@
         "id": 1,
         "name": "Self assessment"
       },
-      "ns_focal_point_name": "",
-      "ns_focal_point_email": ""
+      "ns_focal_point_name": null,
+      "ns_focal_point_email": null
     },
     {
       "id": 167,

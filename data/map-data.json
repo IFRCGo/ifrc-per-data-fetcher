@@ -2,7 +2,7 @@
   {
     "id": 66,
     "assessment_number": 2,
-    "date_of_assessment": "2019-12-05",
+    "date_of_assessment": "2019-03-01",
     "country_id": 14,
     "country_name": "Afghanistan",
     "phase": 5,
@@ -14,7 +14,7 @@
     "region_name": "Asia Pacific",
     "latitude": 33.93911,
     "longitude": 67.709953,
-    "updated_at": "2024-04-01T14:21:14.712931Z",
+    "updated_at": "2025-11-23T09:54:11.692538Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -541,7 +541,7 @@
     "region_name": "Asia Pacific",
     "latitude": 33.93911,
     "longitude": 67.709953,
-    "updated_at": "2024-01-08T15:39:20.168663Z",
+    "updated_at": "2025-11-23T09:50:23.293096Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
@@ -4472,7 +4472,7 @@
   {
     "id": 82,
     "assessment_number": 1,
-    "date_of_assessment": "2019-12-24",
+    "date_of_assessment": "2019-10-24",
     "country_id": 27,
     "country_name": "Bangladesh",
     "phase": 4,
@@ -4484,7 +4484,7 @@
     "region_name": "Asia Pacific",
     "latitude": 23.684994,
     "longitude": 90.35633100000017,
-    "updated_at": "2024-01-08T15:25:57.234926Z",
+    "updated_at": "2025-11-23T09:57:02.909530Z",
     "prioritized_components": [
       {
         "componentId": 3,
@@ -13373,7 +13373,7 @@
     "region_name": "Asia Pacific",
     "latitude": 40.339852,
     "longitude": 127.51009300000034,
-    "updated_at": "2024-04-01T14:22:49.079343Z",
+    "updated_at": "2025-11-23T10:05:44.872258Z",
     "prioritized_components": [
       {
         "componentId": 11,
@@ -30920,7 +30920,7 @@
     "region_name": "Asia Pacific",
     "latitude": -0.789275,
     "longitude": 113.921327,
-    "updated_at": "2024-04-01T14:06:34.988670Z",
+    "updated_at": "2025-11-23T11:16:30.732100Z",
     "prioritized_components": [
       {
         "componentId": 55,
