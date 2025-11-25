@@ -987,6 +987,17 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
+          "assessment_id": 202,
+          "assessment_number": 3,
+          "country_id": 194,
+          "country_name": "Mongolia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2023-08-24",
+          "rating_value": null,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 86,
           "assessment_number": 2,
           "country_id": 194,
@@ -1093,8 +1104,8 @@
           "region_id": 2,
           "region_name": "Asia Pacific",
           "date_of_assessment": "2017-02-21",
-          "rating_value": null,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 36,
@@ -1137,8 +1148,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "rating_value": null,
+          "rating_title": ""
         },
         {
           "assessment_id": 194,
@@ -2536,6 +2547,17 @@
           "rating_title": "Does Not Exist"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -2556,17 +2578,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -3601,6 +3612,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -3621,17 +3643,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -4666,6 +4677,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -4684,17 +4706,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -5742,6 +5753,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -5762,17 +5784,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -6818,6 +6829,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -6836,17 +6858,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -7894,6 +7905,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -7914,17 +7936,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 40,
@@ -8970,6 +8981,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -8988,17 +9010,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -10035,6 +10046,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -10055,17 +10077,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 2,
           "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 40,
@@ -11100,6 +11111,17 @@
           "rating_title": "Does Not Exist"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -11118,17 +11140,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -12176,6 +12187,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -12196,17 +12218,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -13241,6 +13252,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -13261,17 +13283,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -14306,6 +14317,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -14326,17 +14348,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -15382,6 +15393,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -15400,17 +15422,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -16447,6 +16458,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -16465,17 +16487,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -17512,6 +17523,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -17530,17 +17552,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -18577,6 +18588,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -18595,17 +18617,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -19642,6 +19653,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -19660,17 +19682,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -20718,6 +20729,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -20738,17 +20760,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -21794,6 +21805,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -21812,17 +21834,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -22859,6 +22870,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -22877,17 +22899,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -23924,6 +23935,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -23944,17 +23966,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 2,
           "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 40,
@@ -24989,6 +25000,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -25009,17 +25031,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -26054,6 +26065,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -26074,17 +26096,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -27119,6 +27130,17 @@
           "rating_title": "Does Not Exist"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -27137,17 +27159,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -28184,6 +28195,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 5,
+          "rating_title": "High Performance"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -28204,17 +28226,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 40,
@@ -29249,6 +29260,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -29267,17 +29289,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -30314,6 +30325,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -30332,17 +30354,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -31379,6 +31390,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -31397,17 +31419,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -32444,6 +32455,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -32462,17 +32484,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -33509,6 +33520,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -33529,17 +33551,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -34574,6 +34585,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -34592,17 +34614,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -35375,6 +35386,17 @@
           "rating_title": ""
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -35393,17 +35415,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": ""
         },
@@ -36297,6 +36308,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -36315,17 +36337,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -37362,6 +37373,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -37380,17 +37402,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -38427,6 +38438,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -38445,17 +38467,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -39492,6 +39503,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -39510,17 +39532,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -40557,6 +40568,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -40577,17 +40599,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 40,
@@ -41622,6 +41633,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -41642,17 +41664,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 40,
@@ -42687,6 +42698,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -42707,17 +42729,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 40,
@@ -43752,6 +43763,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 5,
+          "rating_title": "High Performance"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -43770,17 +43792,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -44817,6 +44828,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -44835,17 +44857,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -45882,6 +45893,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -45902,17 +45924,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -46947,6 +46958,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -46967,17 +46989,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -48012,6 +48023,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -48032,17 +48054,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -49077,6 +49088,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -49095,17 +49117,6 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2018-10-12",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -50142,6 +50153,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -50162,17 +50184,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -51207,6 +51218,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -51227,17 +51249,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -52272,6 +52283,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -52292,17 +52314,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 40,
@@ -56351,6 +56362,72 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -56481,72 +56558,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 0,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -58087,6 +58098,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 69,
+          "assessment_number": 1,
+          "country_id": 123,
+          "country_name": "Nepal",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2017-02-21",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 36,
           "assessment_number": 4,
           "country_id": 126,
@@ -58107,17 +58129,6 @@
           "date_of_assessment": "2018-10-12",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 54,
-          "assessment_number": 1,
-          "country_id": 126,
-          "country_name": "Nicaragua",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2015-04-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 40,
@@ -94446,6 +94457,13 @@
         ],
         "phase": 5,
         "phase_display": "Action & accountability"
+      },
+      {
+        "assessment_number": 3,
+        "date": "2023-08-24",
+        "components": [],
+        "phase": 2,
+        "phase_display": "Assessment"
       }
     ],
     "Montenegro": [
@@ -95465,15 +95483,6 @@
       {
         "assessment_number": 1,
         "date": "2017-02-21",
-        "components": [],
-        "phase": 4,
-        "phase_display": "Workplan"
-      }
-    ],
-    "Nicaragua": [
-      {
-        "assessment_number": 1,
-        "date": "2015-04-04",
         "components": [
           {
             "component_id": 1,
@@ -95481,8 +95490,8 @@
             "component_num": 1,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 2,
@@ -95490,8 +95499,8 @@
             "component_num": 2,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 3,
@@ -95499,8 +95508,8 @@
             "component_num": 3,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 4,
@@ -95517,8 +95526,8 @@
             "component_num": 5,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 6,
@@ -95535,8 +95544,8 @@
             "component_num": 7,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 8,
@@ -95553,8 +95562,8 @@
             "component_num": 9,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
           },
           {
             "component_id": 10,
@@ -95571,8 +95580,8 @@
             "component_num": 11,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 12,
@@ -95580,8 +95589,8 @@
             "component_num": 12,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 13,
@@ -95625,8 +95634,8 @@
             "component_num": 15,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 17,
@@ -95643,8 +95652,8 @@
             "component_num": 16,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 31,
@@ -95670,8 +95679,8 @@
             "component_num": 19,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 34,
@@ -95679,8 +95688,8 @@
             "component_num": 20,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 35,
@@ -95688,8 +95697,8 @@
             "component_num": 21,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 36,
@@ -95706,8 +95715,8 @@
             "component_num": 23,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 5,
+            "rating_title": "High Performance"
           },
           {
             "component_id": 27,
@@ -95751,8 +95760,8 @@
             "component_num": 14,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 26,
@@ -95814,8 +95823,8 @@
             "component_num": 26,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 41,
@@ -95823,8 +95832,8 @@
             "component_num": 27,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 38,
@@ -95832,8 +95841,8 @@
             "component_num": 24,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 39,
@@ -95841,8 +95850,8 @@
             "component_num": 25,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
+            "rating_value": 5,
+            "rating_title": "High Performance"
           },
           {
             "component_id": 42,
@@ -95850,8 +95859,8 @@
             "component_num": 28,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 43,
@@ -95868,8 +95877,8 @@
             "component_num": 35,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 44,
@@ -95877,8 +95886,8 @@
             "component_num": 30,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
           },
           {
             "component_id": 55,
@@ -95895,8 +95904,8 @@
             "component_num": 31,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 46,
@@ -95904,8 +95913,8 @@
             "component_num": 32,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 47,
@@ -95913,8 +95922,8 @@
             "component_num": 33,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 48,
@@ -95931,8 +95940,8 @@
             "component_num": 37,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 48,
@@ -95940,8 +95949,8 @@
             "component_num": 34,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 48,
@@ -95949,8 +95958,8 @@
             "component_num": 34,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 48,
@@ -95958,8 +95967,8 @@
             "component_num": 34,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 48,
@@ -95967,8 +95976,8 @@
             "component_num": 34,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 48,
@@ -95976,10 +95985,19 @@
             "component_num": 34,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           }
         ],
+        "phase": 4,
+        "phase_display": "Workplan"
+      }
+    ],
+    "Nicaragua": [
+      {
+        "assessment_number": 1,
+        "date": "2015-04-04",
+        "components": [],
         "phase": 5,
         "phase_display": "Action & accountability"
       },
