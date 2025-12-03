@@ -4337,18 +4337,18 @@
       },
       "assessment": 145,
       "prioritization": 132,
-      "workplan": null,
+      "workplan": 120,
       "created_at": "2025-08-21T07:56:07.538785Z",
-      "updated_at": "2025-11-22T15:20:21.358590Z",
-      "phase": 3,
-      "phase_display": "Prioritisation",
+      "updated_at": "2025-12-02T12:16:18.510978Z",
+      "phase": 5,
+      "phase_display": "Action And Accountability",
       "type_of_assessment": 1,
       "type_of_assessment_details": {
         "id": 1,
         "name": "Self assessment"
       },
-      "ns_focal_point_name": "Michał Płoszczyński",
-      "ns_focal_point_email": null
+      "ns_focal_point_name": "Anna Szczepanik",
+      "ns_focal_point_email": "anna.szczepanik@pck.pl"
     },
     {
       "id": 201,

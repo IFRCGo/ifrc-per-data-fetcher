@@ -45939,8 +45939,8 @@
     "date_of_assessment": "2025-08-22",
     "country_id": 199,
     "country_name": "Poland",
-    "phase": 3,
-    "phase_display": "Prioritisation",
+    "phase": 5,
+    "phase_display": "Action & accountability",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "POL",
@@ -45948,8 +45948,54 @@
     "region_name": "Europe",
     "latitude": 51.919438,
     "longitude": 19.145136,
-    "updated_at": "2025-11-22T15:20:21.358590Z",
-    "prioritized_components": [],
+    "updated_at": "2025-12-02T12:16:18.510978Z",
+    "prioritized_components": [
+      {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 11,
+        "componentTitle": "Emergency Response Procedures (SOPs)",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 12,
+        "componentTitle": "Response and recovery planning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 31,
+        "componentTitle": "Cash Based Intervention (CBI)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 45,
+        "componentTitle": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 6,
+        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "areaTitle": "Analysis and planning"
+      }
+    ],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
