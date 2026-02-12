@@ -46277,6 +46277,123 @@
         "area_name": "Operational capacity",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 33,
+        "component_name": "Affected population selection",
+        "component_num": 19,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 34,
+        "component_name": "Emergency Operations Centre (EOC)",
+        "component_num": 20,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 34,
+        "component_name": "Emergency Operations Centre (EOC)",
+        "component_num": 20,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 35,
+        "component_name": "Information Management (IM)",
+        "component_num": 21,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 36,
+        "component_name": "Testing and Learning",
+        "component_num": 22,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 37,
+        "component_name": "Activation of regional and international support",
+        "component_num": 23,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
       }
     ]
   },
