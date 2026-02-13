@@ -2260,6 +2260,123 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -2645,123 +2762,6 @@
         "area_name": "Coordination",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
       }
     ]
   },
@@ -4547,6 +4547,123 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -4930,123 +5047,6 @@
         "component_num": 29,
         "area_id": 4,
         "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
       }
@@ -9658,123 +9658,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
         "component_id": 6,
         "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "component_num": 6,
@@ -9843,6 +9726,51 @@
         "component_num": 13,
         "area_id": 2,
         "area_name": "Analysis and planning",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
         "rating_value": 5,
         "rating_title": "High Performance"
       },
@@ -10054,6 +9982,78 @@
         "rating_title": "Partially Exists"
       },
       {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
         "component_id": 38,
         "component_name": "Coordination with Movement",
         "component_num": 24,
@@ -10171,51 +10171,6 @@
     "climate_environmental_considerations": true,
     "urban_considerations": false,
     "components": [
-      {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
       {
         "component_id": 16,
         "component_name": "EVACUATION",
@@ -10620,6 +10575,51 @@
         "area_name": "Operations support",
         "rating_value": 1,
         "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
       }
     ]
   },
@@ -16198,51 +16198,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
         "component_id": 6,
         "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "component_num": 6,
@@ -16700,6 +16655,51 @@
         "area_name": "Operations support",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
       }
     ]
   },
@@ -17779,195 +17779,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
         "component_id": 40,
         "component_name": "Coordination with External Agencies and NGOs",
         "component_num": 26,
@@ -18225,6 +18036,195 @@
         "component_num": 23,
         "area_id": 3,
         "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
       }
@@ -20527,6 +20527,123 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -20912,123 +21029,6 @@
         "area_name": "Coordination",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
       }
     ]
   },
@@ -21648,6 +21648,177 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -21977,177 +22148,6 @@
         "component_num": 14,
         "area_id": 3,
         "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
         "rating_value": 2,
         "rating_title": "Partially Exists"
       }
@@ -24895,6 +24895,177 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -25224,177 +25395,6 @@
         "component_num": 14,
         "area_id": 3,
         "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
       }
@@ -29857,51 +29857,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
         "component_id": 6,
         "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "component_num": 6,
@@ -30359,6 +30314,51 @@
         "area_name": "Operations support",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
       }
     ]
   },
@@ -32041,6 +32041,123 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -32424,123 +32541,6 @@
         "component_num": 29,
         "area_id": 4,
         "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
       }
@@ -33683,123 +33683,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
         "component_id": 20,
         "component_name": "FOOD SECURITY",
         "component_num": 14,
@@ -34183,6 +34066,123 @@
         "component_num": 34,
         "area_id": 5,
         "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
         "rating_value": 2,
         "rating_title": "Partially Exists"
       }
@@ -35312,6 +35312,177 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -35643,177 +35814,6 @@
         "area_name": "Operational capacity",
         "rating_value": 1,
         "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
       }
     ]
   },
@@ -35879,6 +35879,78 @@
     "climate_environmental_considerations": false,
     "urban_considerations": false,
     "components": [
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
       {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
@@ -36254,78 +36326,6 @@
         "component_num": 29,
         "area_id": 4,
         "area_name": "Coordination",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
         "rating_value": 2,
         "rating_title": "Partially Exists"
       }
@@ -36441,6 +36441,168 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -36763,168 +36925,6 @@
         "area_name": "Operational capacity",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
       }
     ]
   },
@@ -40131,51 +40131,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
         "component_id": 6,
         "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "component_num": 6,
@@ -40633,6 +40588,51 @@
         "area_name": "Operations support",
         "rating_value": 2,
         "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
       }
     ]
   },
@@ -44220,123 +44220,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
         "component_id": 20,
         "component_name": "FOOD SECURITY",
         "component_num": 14,
@@ -44722,6 +44605,123 @@
         "area_name": "Operations support",
         "rating_value": 0,
         "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
       }
     ]
   },
@@ -44825,6 +44825,168 @@
     "climate_environmental_considerations": true,
     "urban_considerations": true,
     "components": [
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
       {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
@@ -45148,168 +45310,6 @@
         "area_name": "Operational capacity",
         "rating_value": 2,
         "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
       }
     ]
   },
@@ -45991,123 +45991,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
         "component_id": 15,
         "component_name": "COMMUNITY-BASED DP AND DRR",
         "component_num": 14,
@@ -46392,6 +46275,204 @@
         "component_num": 29,
         "area_id": 4,
         "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
       }
@@ -51342,123 +51423,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 6,
-        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "component_num": 6,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
         "component_id": 44,
         "component_name": "Safety and security management",
         "component_num": 30,
@@ -51790,6 +51754,123 @@
         "area_name": "Coordination",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 6,
+        "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
       }
     ]
   },
@@ -53114,6 +53195,123 @@
     "urban_considerations": false,
     "components": [
       {
+        "component_id": 54,
+        "component_name": "Staff and volunteer management",
+        "component_num": 35,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 55,
+        "component_name": "Communication in emergencies",
+        "component_num": 36,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
+        "component_id": 56,
+        "component_name": "Resource Mobilisation",
+        "component_num": 37,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 48,
+        "component_name": "Logistics, procurement and supply chain",
+        "component_num": 34,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
         "component_id": 1,
         "component_name": "RC auxiliary role, Mandate and Law",
         "component_num": 1,
@@ -53497,123 +53695,6 @@
         "component_num": 29,
         "area_id": 4,
         "area_name": "Coordination",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 54,
-        "component_name": "Staff and volunteer management",
-        "component_num": 35,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 55,
-        "component_name": "Communication in emergencies",
-        "component_num": 36,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 0,
-        "rating_title": ""
-      },
-      {
-        "component_id": 56,
-        "component_name": "Resource Mobilisation",
-        "component_num": 37,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 48,
-        "component_name": "Logistics, procurement and supply chain",
-        "component_num": 34,
-        "area_id": 5,
-        "area_name": "Operations support",
         "rating_value": 2,
         "rating_title": "Partially Exists"
       }
