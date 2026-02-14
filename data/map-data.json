@@ -45975,8 +45975,8 @@
     "date_of_assessment": "2026-02-09",
     "country_id": 142,
     "country_name": "Russian Federation",
-    "phase": 2,
-    "phase_display": "Assessment",
+    "phase": 3,
+    "phase_display": "Prioritisation",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "RUS",
@@ -45984,8 +45984,59 @@
     "region_name": "Europe",
     "latitude": 61.52401,
     "longitude": 105.31875599999974,
-    "updated_at": "2026-02-10T13:17:10.150121Z",
-    "prioritized_components": [],
+    "updated_at": "2026-02-13T08:08:25.361563Z",
+    "prioritized_components": [
+      {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 11,
+        "componentTitle": "Emergency Response Procedures (SOPs)",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 29,
+        "componentTitle": "Mapping of NS capacities",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 39,
+        "componentTitle": "Coordination with authorities",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 43,
+        "componentTitle": "Cooperation with private sector",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 44,
+        "componentTitle": "Safety and security management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 48,
+        "componentTitle": "Logistics, procurement and supply chain",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      }
+    ],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
