@@ -5363,8 +5363,8 @@
         "is_deprecated": false,
         "fdrs": "DUG001",
         "average_household_size": null,
-        "name": "Uganda",
         "society_name": "Uganda Red Cross Society",
+        "name": "Uganda",
         "translation_module_original_language": "en"
       },
       "assessment": 63,
@@ -5399,8 +5399,8 @@
         "is_deprecated": false,
         "fdrs": "DUA001",
         "average_household_size": null,
-        "name": "Ukraine",
         "society_name": "Ukrainian Red Cross Society",
+        "name": "Ukraine",
         "translation_module_original_language": "en"
       },
       "assessment": 60,
@@ -5435,8 +5435,8 @@
         "is_deprecated": false,
         "fdrs": "DUY001",
         "average_household_size": null,
-        "name": "Uruguay",
         "society_name": "Uruguayan Red Cross",
+        "name": "Uruguay",
         "translation_module_original_language": "en"
       },
       "assessment": 106,
@@ -5471,8 +5471,8 @@
         "is_deprecated": false,
         "fdrs": "DUZ001",
         "average_household_size": null,
-        "name": "Uzbekistan",
         "society_name": "Red Crescent Society of Uzbekistan",
+        "name": "Uzbekistan",
         "translation_module_original_language": "en"
       },
       "assessment": null,
@@ -5504,8 +5504,8 @@
         "is_deprecated": false,
         "fdrs": "DVU001",
         "average_household_size": null,
-        "name": "Vanuatu",
         "society_name": "Vanuatu Red Cross Society",
+        "name": "Vanuatu",
         "translation_module_original_language": "en"
       },
       "assessment": 84,
@@ -5540,8 +5540,8 @@
         "is_deprecated": false,
         "fdrs": "DVE001",
         "average_household_size": null,
-        "name": "Venezuela",
         "society_name": "Venezuelan Red Cross",
+        "name": "Venezuela",
         "translation_module_original_language": "en"
       },
       "assessment": 137,
@@ -5576,8 +5576,8 @@
         "is_deprecated": false,
         "fdrs": "DVE001",
         "average_household_size": null,
-        "name": "Venezuela",
         "society_name": "Venezuelan Red Cross",
+        "name": "Venezuela",
         "translation_module_original_language": "en"
       },
       "assessment": 6,
@@ -5612,8 +5612,8 @@
         "is_deprecated": false,
         "fdrs": "DVN001",
         "average_household_size": null,
-        "name": "Viet Nam",
         "society_name": "Vietnam Red Cross Society",
+        "name": "Viet Nam",
         "translation_module_original_language": "en"
       },
       "assessment": 75,
@@ -5648,8 +5648,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "name": "Yemen",
         "society_name": "Yemen Red Crescent Society",
+        "name": "Yemen",
         "translation_module_original_language": "en"
       },
       "assessment": 117,
@@ -5684,8 +5684,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "name": "Yemen",
         "society_name": "Yemen Red Crescent Society",
+        "name": "Yemen",
         "translation_module_original_language": "en"
       },
       "assessment": 50,
@@ -5720,8 +5720,8 @@
         "is_deprecated": false,
         "fdrs": "DYE001",
         "average_household_size": null,
-        "name": "Yemen",
         "society_name": "Yemen Red Crescent Society",
+        "name": "Yemen",
         "translation_module_original_language": "en"
       },
       "assessment": 151,
@@ -5756,8 +5756,8 @@
         "is_deprecated": false,
         "fdrs": "DZM001",
         "average_household_size": null,
-        "name": "Zambia",
         "society_name": "Zambia Red Cross Society",
+        "name": "Zambia",
         "translation_module_original_language": "en"
       },
       "assessment": 49,
@@ -5792,8 +5792,8 @@
         "is_deprecated": false,
         "fdrs": "DZW001",
         "average_household_size": null,
-        "name": "Zimbabwe",
         "society_name": "Zimbabwe Red Cross Society",
+        "name": "Zimbabwe",
         "translation_module_original_language": "en"
       },
       "assessment": 124,
