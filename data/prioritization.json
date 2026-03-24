@@ -14741,26 +14741,6 @@
       "overview": 182,
       "prioritized_action_responses": [
         {
-          "id": 1155,
-          "component": 1,
-          "component_details": {
-            "id": 1,
-            "component_num": 1,
-            "title": "RC auxiliary role, Mandate and Law",
-            "area": {
-              "id": 1,
-              "area_num": 1,
-              "title": "Policy Strategy and Standards",
-              "translation_module_original_language": "en"
-            },
-            "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
           "id": 1156,
           "component": 4,
           "component_details": {
@@ -15279,6 +15259,26 @@
           },
           "justification_text": "",
           "translation_module_original_language": "en"
+        },
+        {
+          "id": 1155,
+          "component": 1,
+          "component_details": {
+            "id": 1,
+            "component_num": 1,
+            "title": "RC auxiliary role, Mandate and Law",
+            "area": {
+              "id": 1,
+              "area_num": 1,
+              "title": "Policy Strategy and Standards",
+              "translation_module_original_language": "en"
+            },
+            "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
         }
       ],
       "is_draft": false
@@ -15762,66 +15762,6 @@
       "overview": 148,
       "prioritized_action_responses": [
         {
-          "id": 942,
-          "component": 6,
-          "component_details": {
-            "id": 6,
-            "component_num": 6,
-            "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 943,
-          "component": 7,
-          "component_details": {
-            "id": 7,
-            "component_num": 7,
-            "title": "Scenario planning",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors).",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 944,
-          "component": 9,
-          "component_details": {
-            "id": 9,
-            "component_num": 9,
-            "title": "Preparedness plans and budgets",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
           "id": 945,
           "component": 11,
           "component_details": {
@@ -16060,6 +16000,66 @@
           },
           "justification_text": "",
           "translation_module_original_language": "en"
+        },
+        {
+          "id": 942,
+          "component": 6,
+          "component_details": {
+            "id": 6,
+            "component_num": 6,
+            "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 943,
+          "component": 7,
+          "component_details": {
+            "id": 7,
+            "component_num": 7,
+            "title": "Scenario planning",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors).",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 944,
+          "component": 9,
+          "component_details": {
+            "id": 9,
+            "component_num": 9,
+            "title": "Preparedness plans and budgets",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
         }
       ],
       "is_draft": false
@@ -16236,86 +16236,6 @@
       "overview": 150,
       "prioritized_action_responses": [
         {
-          "id": 984,
-          "component": 55,
-          "component_details": {
-            "id": 55,
-            "component_num": 36,
-            "title": "Communication in emergencies",
-            "area": {
-              "id": 5,
-              "area_num": 5,
-              "title": "Operations support",
-              "translation_module_original_language": "en"
-            },
-            "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 976,
-          "component": 7,
-          "component_details": {
-            "id": 7,
-            "component_num": 7,
-            "title": "Scenario planning",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors).",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 977,
-          "component": 8,
-          "component_details": {
-            "id": 8,
-            "component_num": 8,
-            "title": "Risk management",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 978,
-          "component": 11,
-          "component_details": {
-            "id": 11,
-            "component_num": 11,
-            "title": "Emergency Response Procedures (SOPs)",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
           "id": 974,
           "component": 3,
           "component_details": {
@@ -16474,6 +16394,86 @@
           },
           "justification_text": "trained in quality and accountability standards (Sphere, Code of Conduct, etc...) around the protection, sexual abuse, exploitation, child protection, gender-based violence and other forms of abuse. appreciation system, priority to develop psp system and system on self-care, violence and harassment. Code of Conduct to be checked if signed by all",
           "translation_module_original_language": "en"
+        },
+        {
+          "id": 984,
+          "component": 55,
+          "component_details": {
+            "id": 55,
+            "component_num": 36,
+            "title": "Communication in emergencies",
+            "area": {
+              "id": 5,
+              "area_num": 5,
+              "title": "Operations support",
+              "translation_module_original_language": "en"
+            },
+            "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 976,
+          "component": 7,
+          "component_details": {
+            "id": 7,
+            "component_num": 7,
+            "title": "Scenario planning",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors).",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 977,
+          "component": 8,
+          "component_details": {
+            "id": 8,
+            "component_num": 8,
+            "title": "Risk management",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 978,
+          "component": 11,
+          "component_details": {
+            "id": 11,
+            "component_num": 11,
+            "title": "Emergency Response Procedures (SOPs)",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
         }
       ],
       "is_draft": false
@@ -16482,6 +16482,46 @@
       "id": 109,
       "overview": 139,
       "prioritized_action_responses": [
+        {
+          "id": 991,
+          "component": 45,
+          "component_details": {
+            "id": 45,
+            "component_num": 31,
+            "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+            "area": {
+              "id": 5,
+              "area_num": 5,
+              "title": "Operations support",
+              "translation_module_original_language": "en"
+            },
+            "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "DREF training",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 986,
+          "component": 13,
+          "component_details": {
+            "id": 13,
+            "component_num": 13,
+            "title": "Pre-disaster meetings and agreements",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "CVA /preagreements",
+          "translation_module_original_language": "en"
+        },
         {
           "id": 985,
           "component": 11,
@@ -16700,46 +16740,6 @@
             "is_parent": null
           },
           "justification_text": "",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 991,
-          "component": 45,
-          "component_details": {
-            "id": 45,
-            "component_num": 31,
-            "title": "Operations Monitoring, Evaluation, Reporting and Learning",
-            "area": {
-              "id": 5,
-              "area_num": 5,
-              "title": "Operations support",
-              "translation_module_original_language": "en"
-            },
-            "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "DREF training",
-          "translation_module_original_language": "en"
-        },
-        {
-          "id": 986,
-          "component": 13,
-          "component_details": {
-            "id": 13,
-            "component_num": 13,
-            "title": "Pre-disaster meetings and agreements",
-            "area": {
-              "id": 2,
-              "area_num": 2,
-              "title": "Analysis and planning",
-              "translation_module_original_language": "en"
-            },
-            "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis.",
-            "component_letter": "",
-            "is_parent": null
-          },
-          "justification_text": "CVA /preagreements",
           "translation_module_original_language": "en"
         }
       ],

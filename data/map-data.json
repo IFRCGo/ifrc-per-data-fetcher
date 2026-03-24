@@ -1676,21 +1676,6 @@
     "updated_at": "2025-11-22T14:11:55.306246Z",
     "prioritized_components": [
       {
-        "componentId": 6,
-        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 7,
-        "componentTitle": "Scenario planning",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 9,
-        "componentTitle": "Preparedness plans and budgets",
-        "areaTitle": "Analysis and planning"
-      },
-      {
         "componentId": 11,
         "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
@@ -1749,6 +1734,21 @@
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 6,
+        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 7,
+        "componentTitle": "Scenario planning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 9,
+        "componentTitle": "Preparedness plans and budgets",
+        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": false,
@@ -7923,6 +7923,16 @@
     "updated_at": "2025-11-22T14:19:57.880530Z",
     "prioritized_components": [
       {
+        "componentId": 45,
+        "componentTitle": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 13,
+        "componentTitle": "Pre-disaster meetings and agreements",
+        "areaTitle": "Analysis and planning"
+      },
+      {
         "componentId": 11,
         "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
@@ -7976,16 +7986,6 @@
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 45,
-        "componentTitle": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 13,
-        "componentTitle": "Pre-disaster meetings and agreements",
-        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": true,
@@ -47284,26 +47284,6 @@
     "updated_at": "2025-11-22T15:25:43.737498Z",
     "prioritized_components": [
       {
-        "componentId": 55,
-        "componentTitle": "Communication in emergencies",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 7,
-        "componentTitle": "Scenario planning",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 8,
-        "componentTitle": "Risk management",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 11,
-        "componentTitle": "Emergency Response Procedures (SOPs)",
-        "areaTitle": "Analysis and planning"
-      },
-      {
         "componentId": 3,
         "componentTitle": "DRM Policy",
         "areaTitle": "Policy Strategy and Standards"
@@ -47342,6 +47322,26 @@
         "componentId": 54,
         "componentTitle": "Staff and volunteer management",
         "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 55,
+        "componentTitle": "Communication in emergencies",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 7,
+        "componentTitle": "Scenario planning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 8,
+        "componentTitle": "Risk management",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 11,
+        "componentTitle": "Emergency Response Procedures (SOPs)",
+        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": true,
@@ -49651,11 +49651,6 @@
     "updated_at": "2025-11-27T16:21:51.439725Z",
     "prioritized_components": [
       {
-        "componentId": 1,
-        "componentTitle": "RC auxiliary role, Mandate and Law",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
         "componentId": 4,
         "componentTitle": "DRM Laws, Advocacy and Dissemination",
         "areaTitle": "Policy Strategy and Standards"
@@ -49784,6 +49779,11 @@
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
