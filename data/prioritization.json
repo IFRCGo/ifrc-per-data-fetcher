@@ -20073,6 +20073,273 @@
         }
       ],
       "is_draft": false
+    },
+    {
+      "id": 135,
+      "overview": 167,
+      "prioritized_action_responses": [
+        {
+          "id": 1231,
+          "component": 3,
+          "component_details": {
+            "id": 3,
+            "component_num": 3,
+            "title": "DRM Policy",
+            "area": {
+              "id": 1,
+              "area_num": 1,
+              "title": "Policy Strategy and Standards",
+              "translation_module_original_language": "en"
+            },
+            "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1232,
+          "component": 5,
+          "component_details": {
+            "id": 5,
+            "component_num": 5,
+            "title": "Quality and accountability",
+            "area": {
+              "id": 1,
+              "area_num": 1,
+              "title": "Policy Strategy and Standards",
+              "translation_module_original_language": "en"
+            },
+            "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA).",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1233,
+          "component": 6,
+          "component_details": {
+            "id": 6,
+            "component_num": 6,
+            "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1234,
+          "component": 7,
+          "component_details": {
+            "id": 7,
+            "component_num": 7,
+            "title": "Scenario planning",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors).",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1235,
+          "component": 9,
+          "component_details": {
+            "id": 9,
+            "component_num": 9,
+            "title": "Preparedness plans and budgets",
+            "area": {
+              "id": 2,
+              "area_num": 2,
+              "title": "Analysis and planning",
+              "translation_module_original_language": "en"
+            },
+            "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1236,
+          "component": 30,
+          "component_details": {
+            "id": 30,
+            "component_num": 16,
+            "title": "Early Action Mechanisms",
+            "area": {
+              "id": 3,
+              "area_num": 3,
+              "title": "Operational capacity",
+              "translation_module_original_language": "en"
+            },
+            "description": "Designed to translate warnings into anticipatory actions to help reduce the impact of specific disaster or crisis events. They focus on consolidating available forecasting information and putting procedures in place to ensure that a NS can act ahead of any disaster/crisis. Forecast-based financing is included within the scope of this area.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1237,
+          "component": 32,
+          "component_details": {
+            "id": 32,
+            "component_num": 18,
+            "title": "Emergency Needs Assessment",
+            "area": {
+              "id": 3,
+              "area_num": 3,
+              "title": "Operational capacity",
+              "translation_module_original_language": "en"
+            },
+            "description": "Assess the extent and impact of the damage caused by the disaster/crisis and the degree of vulnerability of the affected population. The first step in any emergency response, such an assessment will identify the needs that require external intervention and the gaps to be filled. It is a vital component of the programme-planning process.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1238,
+          "component": 34,
+          "component_details": {
+            "id": 34,
+            "component_num": 20,
+            "title": "Emergency Operations Centre (EOC)",
+            "area": {
+              "id": 3,
+              "area_num": 3,
+              "title": "Operational capacity",
+              "translation_module_original_language": "en"
+            },
+            "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1239,
+          "component": 35,
+          "component_details": {
+            "id": 35,
+            "component_num": 21,
+            "title": "Information Management (IM)",
+            "area": {
+              "id": 3,
+              "area_num": 3,
+              "title": "Operational capacity",
+              "translation_module_original_language": "en"
+            },
+            "description": "Ability to manage information including requesting, receiving, analyzing and disseminating as per its procedures and partner requirements (IFRC and public authorities in particular). There should be a clear digital/paper trail that documents what, when and how the NS has acted and provides key information for the development of Emergency Plan of Actions. Includes IM between levels, between departments and Situational Reports, mapping, visualisation of data, GO platform (IFRC).",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1240,
+          "component": 45,
+          "component_details": {
+            "id": 45,
+            "component_num": 31,
+            "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+            "area": {
+              "id": 5,
+              "area_num": 5,
+              "title": "Operations support",
+              "translation_module_original_language": "en"
+            },
+            "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1241,
+          "component": 46,
+          "component_details": {
+            "id": 46,
+            "component_num": 32,
+            "title": "Finance and Admin policy and emergency procedures",
+            "area": {
+              "id": 5,
+              "area_num": 5,
+              "title": "Operations support",
+              "translation_module_original_language": "en"
+            },
+            "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1242,
+          "component": 48,
+          "component_details": {
+            "id": 48,
+            "component_num": 34,
+            "title": "Logistics, procurement and supply chain",
+            "area": {
+              "id": 5,
+              "area_num": 5,
+              "title": "Operations support",
+              "translation_module_original_language": "en"
+            },
+            "description": "",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        },
+        {
+          "id": 1243,
+          "component": 56,
+          "component_details": {
+            "id": 56,
+            "component_num": 37,
+            "title": "Resource Mobilisation",
+            "area": {
+              "id": 5,
+              "area_num": 5,
+              "title": "Operations support",
+              "translation_module_original_language": "en"
+            },
+            "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
+            "component_letter": "",
+            "is_parent": null
+          },
+          "justification_text": "",
+          "translation_module_original_language": "en"
+        }
+      ],
+      "is_draft": false
     }
   ]
 }
