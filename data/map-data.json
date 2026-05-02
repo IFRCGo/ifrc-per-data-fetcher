@@ -51698,8 +51698,8 @@
     "date_of_assessment": "2023-06-01",
     "country_id": 176,
     "country_name": "Uganda",
-    "phase": 5,
-    "phase_display": "Action & accountability",
+    "phase": 4,
+    "phase_display": "Workplan",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "UGA",
@@ -51707,7 +51707,7 @@
     "region_name": "Africa",
     "latitude": 1.373333,
     "longitude": 32.290275,
-    "updated_at": "2025-11-27T16:28:53.688443Z",
+    "updated_at": "2026-05-01T10:43:26.612599Z",
     "prioritized_components": [
       {
         "componentId": 6,
@@ -51834,8 +51834,8 @@
     "date_of_assessment": "2019-07-08",
     "country_id": 1,
     "country_name": "Ukraine",
-    "phase": 5,
-    "phase_display": "Action & accountability",
+    "phase": 4,
+    "phase_display": "Workplan",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "UKR",
@@ -51843,7 +51843,7 @@
     "region_name": "Europe",
     "latitude": 48.379433,
     "longitude": 31.16558,
-    "updated_at": "2025-11-22T15:56:35.515878Z",
+    "updated_at": "2026-05-01T10:44:24.870515Z",
     "prioritized_components": [
       {
         "componentId": 5,
@@ -51863,6 +51863,11 @@
       {
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 44,
+        "componentTitle": "Safety and security management",
         "areaTitle": "Operations support"
       }
     ],

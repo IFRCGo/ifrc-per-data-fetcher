@@ -102325,8 +102325,8 @@
         "assessment_number": 2,
         "date": "2023-06-01",
         "components": [],
-        "phase": 5,
-        "phase_display": "Action & accountability"
+        "phase": 4,
+        "phase_display": "Workplan"
       }
     ],
     "Ukraine": [
@@ -102334,8 +102334,8 @@
         "assessment_number": 1,
         "date": "2019-07-08",
         "components": [],
-        "phase": 5,
-        "phase_display": "Action & accountability"
+        "phase": 4,
+        "phase_display": "Workplan"
       }
     ],
     "Uruguay": [
