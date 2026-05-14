@@ -1361,7 +1361,7 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -2701,7 +2701,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -3744,7 +3744,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -4787,7 +4787,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -5841,7 +5841,7 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -6895,7 +6895,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -7949,7 +7949,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -9003,7 +9003,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -10046,7 +10046,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -11089,7 +11089,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -12143,7 +12143,7 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -13186,7 +13186,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -14229,7 +14229,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -15283,7 +15283,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -16326,7 +16326,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -17369,7 +17369,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -18412,7 +18412,7 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -19455,7 +19455,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -20509,7 +20509,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -21563,7 +21563,7 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -22606,7 +22606,7 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -23649,7 +23649,7 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -24692,18 +24692,7 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
-          "assessment_number": 1,
-          "country_id": 142,
-          "country_name": "Russian Federation",
-          "region_id": 3,
-          "region_name": "Europe",
-          "date_of_assessment": "2026-02-09",
-          "rating_value": 0,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -25746,7 +25735,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -26789,7 +26778,7 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -27832,7 +27821,7 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -28875,7 +28864,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -29918,7 +29907,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -30961,7 +30950,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -32004,7 +31993,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -33047,18 +33036,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
-          "assessment_number": 1,
-          "country_id": 142,
-          "country_name": "Russian Federation",
-          "region_id": 3,
-          "region_name": "Europe",
-          "date_of_assessment": "2026-02-09",
-          "rating_value": 0,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -34101,7 +34079,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -35758,7 +35736,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -36801,7 +36779,7 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -37844,7 +37822,7 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -38887,7 +38865,7 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -39930,7 +39908,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -40973,7 +40951,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -42016,18 +41994,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
-          "assessment_number": 1,
-          "country_id": 142,
-          "country_name": "Russian Federation",
-          "region_id": 3,
-          "region_name": "Europe",
-          "date_of_assessment": "2026-02-09",
-          "rating_value": 0,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -43070,7 +43037,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -44113,7 +44080,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -45156,7 +45123,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -46199,26 +46166,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-02-09",
-          "rating_value": 0,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 162,
-          "assessment_number": 1,
-          "country_id": 142,
-          "country_name": "Russian Federation",
-          "region_id": 3,
-          "region_name": "Europe",
-          "date_of_assessment": "2026-02-09",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 126,
@@ -47253,7 +47209,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -48296,7 +48252,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -49339,7 +49295,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -50382,7 +50338,7 @@
           "rating_title": ""
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -51425,7 +51381,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -55746,7 +55702,7 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -56932,7 +56888,7 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 162,
+          "assessment_id": 210,
           "assessment_number": 1,
           "country_id": 142,
           "country_name": "Russian Federation",
@@ -98265,6 +98221,78 @@
         "date": "2026-02-09",
         "components": [
           {
+            "component_id": 6,
+            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "component_num": 6,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 12,
+            "component_name": "Response and recovery planning",
+            "component_num": 12,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
             "component_id": 15,
             "component_name": "COMMUNITY-BASED DP AND DRR",
             "component_num": 14,
@@ -98360,15 +98388,6 @@
             "component_num": 14,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 25,
-            "component_name": "RESTORING FAMILY LINKS (RFL)",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
             "rating_value": 5,
             "rating_title": "High Performance"
           },
@@ -98450,15 +98469,6 @@
             "component_num": 20,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 34,
-            "component_name": "Emergency Operations Centre (EOC)",
-            "component_num": 20,
-            "area_id": 3,
-            "area_name": "Operational capacity",
             "rating_value": 1,
             "rating_title": "Does Not Exist"
           },
@@ -98488,15 +98498,6 @@
             "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 38,
-            "component_name": "Coordination with Movement",
-            "component_num": 24,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 0,
-            "rating_title": ""
           },
           {
             "component_id": 38,
@@ -98603,17 +98604,8 @@
             "component_num": 35,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 54,
-            "component_name": "Staff and volunteer management",
-            "component_num": 35,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 55,
@@ -98677,82 +98669,10 @@
             "area_name": "Policy Strategy and Standards",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 6,
-            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-            "component_num": 6,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 7,
-            "component_name": "Scenario planning",
-            "component_num": 7,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
-          },
-          {
-            "component_id": 8,
-            "component_name": "Risk management",
-            "component_num": 8,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 9,
-            "component_name": "Preparedness plans and budgets",
-            "component_num": 9,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 10,
-            "component_name": "Business continuity",
-            "component_num": 10,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 11,
-            "component_name": "Emergency Response Procedures (SOPs)",
-            "component_num": 11,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 12,
-            "component_name": "Response and recovery planning",
-            "component_num": 12,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 13,
-            "component_name": "Pre-disaster meetings and agreements",
-            "component_num": 13,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
           }
         ],
-        "phase": 5,
-        "phase_display": "Action & accountability"
+        "phase": 4,
+        "phase_display": "Workplan"
       }
     ],
     "Rwanda": [
