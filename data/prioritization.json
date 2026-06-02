@@ -198,7 +198,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -218,7 +218,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -237,8 +237,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -258,7 +258,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -344,8 +344,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -365,7 +365,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -392,7 +392,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -412,7 +412,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -432,7 +432,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -659,7 +659,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -679,7 +679,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -699,7 +699,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -719,7 +719,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -739,7 +739,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -765,8 +765,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Tiene impacto en todas las áreas, porque se trabaja de manera transversal, sin embargo no contamos con los recursos financieros.",
@@ -786,7 +786,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "1-Rol auxiliar, Mandato y Ley de la CR\n2-Activación del apoyo regional e internacional \n3-Gestión de la información \n4-Reuniones y acuerdos previos\n5-Mecanismos de acción \n6-Áreas de intervención específica de la Sociedad Nacional",
@@ -986,7 +986,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1073,7 +1073,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1092,8 +1092,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1113,7 +1113,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1133,7 +1133,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1340,7 +1340,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1360,7 +1360,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1380,7 +1380,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1567,7 +1567,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1587,7 +1587,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1607,7 +1607,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1627,7 +1627,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1646,8 +1646,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1667,7 +1667,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1687,7 +1687,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1894,7 +1894,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1914,7 +1914,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1934,7 +1934,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1953,8 +1953,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1974,7 +1974,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -1994,7 +1994,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2308,7 +2308,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2328,7 +2328,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2348,7 +2348,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2555,7 +2555,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2574,8 +2574,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2595,7 +2595,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2615,7 +2615,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2635,7 +2635,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2682,7 +2682,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2702,7 +2702,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -2881,7 +2881,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3048,7 +3048,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3068,7 +3068,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3388,7 +3388,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3408,7 +3408,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3428,7 +3428,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3448,7 +3448,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3875,7 +3875,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3895,7 +3895,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -3982,7 +3982,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4002,7 +4002,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4129,7 +4129,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4189,7 +4189,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4209,7 +4209,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4228,8 +4228,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4249,7 +4249,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4336,7 +4336,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4356,7 +4356,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4543,7 +4543,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4563,7 +4563,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4790,7 +4790,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4810,7 +4810,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4829,8 +4829,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -4850,7 +4850,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5057,7 +5057,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5144,7 +5144,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5164,7 +5164,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5371,7 +5371,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5391,7 +5391,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5411,7 +5411,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5430,8 +5430,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5618,7 +5618,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5638,7 +5638,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5658,7 +5658,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5865,7 +5865,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -5885,7 +5885,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6092,7 +6092,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6112,7 +6112,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6219,7 +6219,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6239,7 +6239,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6352,7 +6352,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6525,7 +6525,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6545,7 +6545,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6832,7 +6832,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6852,7 +6852,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6872,7 +6872,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6919,7 +6919,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6939,7 +6939,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6958,8 +6958,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -6979,7 +6979,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7306,7 +7306,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7326,7 +7326,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7346,7 +7346,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7366,7 +7366,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7385,8 +7385,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7406,7 +7406,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7426,7 +7426,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7573,7 +7573,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7593,7 +7593,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7700,7 +7700,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7720,7 +7720,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7867,7 +7867,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7886,8 +7886,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7907,7 +7907,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -7994,7 +7994,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8014,7 +8014,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8141,7 +8141,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8160,8 +8160,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8181,7 +8181,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8201,7 +8201,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8221,7 +8221,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8360,7 +8360,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8379,8 +8379,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8400,7 +8400,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8420,7 +8420,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8567,7 +8567,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8587,7 +8587,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8606,8 +8606,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8627,7 +8627,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8647,7 +8647,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8754,7 +8754,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8773,8 +8773,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8794,7 +8794,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -8814,7 +8814,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9060,7 +9060,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9080,7 +9080,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9246,8 +9246,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9514,7 +9514,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9534,7 +9534,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9554,7 +9554,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9573,8 +9573,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9594,7 +9594,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9614,7 +9614,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9634,7 +9634,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9821,7 +9821,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9841,7 +9841,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9861,7 +9861,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9880,8 +9880,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9901,7 +9901,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -9921,7 +9921,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10088,7 +10088,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10215,7 +10215,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10235,7 +10235,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10255,7 +10255,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10275,7 +10275,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10301,8 +10301,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10442,7 +10442,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10509,7 +10509,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10622,7 +10622,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10642,7 +10642,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10662,7 +10662,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10682,7 +10682,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10749,7 +10749,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10881,8 +10881,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -10902,7 +10902,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11087,7 +11087,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11107,7 +11107,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11127,7 +11127,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11146,8 +11146,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11167,7 +11167,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11224,7 +11224,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11243,8 +11243,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11264,7 +11264,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11324,7 +11324,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11351,7 +11351,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11491,7 +11491,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11576,7 +11576,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11596,7 +11596,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11615,8 +11615,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11636,7 +11636,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11656,7 +11656,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11689,7 +11689,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11769,7 +11769,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11876,7 +11876,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11956,7 +11956,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -11976,7 +11976,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12023,7 +12023,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12043,7 +12043,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12063,7 +12063,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12083,7 +12083,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12289,8 +12289,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12417,7 +12417,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12437,7 +12437,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12457,7 +12457,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12476,8 +12476,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12497,7 +12497,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12517,7 +12517,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12737,7 +12737,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12756,8 +12756,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12777,7 +12777,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12797,7 +12797,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12904,7 +12904,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12923,8 +12923,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12944,7 +12944,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -12964,7 +12964,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13031,7 +13031,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13051,7 +13051,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13071,7 +13071,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13090,8 +13090,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13358,7 +13358,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13378,7 +13378,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13398,7 +13398,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13417,8 +13417,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13438,7 +13438,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13458,7 +13458,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13605,7 +13605,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13665,7 +13665,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13685,7 +13685,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13704,8 +13704,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13725,7 +13725,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13831,8 +13831,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -13852,7 +13852,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14019,7 +14019,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14039,7 +14039,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14059,7 +14059,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14266,7 +14266,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14286,7 +14286,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14393,7 +14393,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14412,8 +14412,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14433,7 +14433,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14860,7 +14860,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14880,7 +14880,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14900,7 +14900,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14920,7 +14920,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14939,8 +14939,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14960,7 +14960,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -14980,7 +14980,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15027,7 +15027,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15047,7 +15047,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15187,7 +15187,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15226,8 +15226,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15247,7 +15247,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15307,7 +15307,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15641,7 +15641,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15661,7 +15661,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15680,8 +15680,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15701,7 +15701,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15721,7 +15721,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -15888,7 +15888,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Le CRCo s’implique activement dans le système humanitaire national en participant aux mécanismes de coordination. La Société Nationale (SN) collabore régulièrement avec les partenaires et informe ces derniers des capacités du Mouvement de la Croix-Rouge et du Croissant-Rouge (CRCR), dans la perspective de faire appel à un soutien international en cas de besoin. Le CRCo est également attentif aux compétences et aux capacités des autorités nationales, notamment dans le domaine de la prévention et du contrôle des épidémies, ce qui permet à la SN d’identifier précisément son rôle auxiliaire dans les interventions d’urgence.\nEn ce qui concerne la gestion de ses ressources, le CRCo garde un contrôle rigoureux sur l’utilisation de ses biens, des ressources et de l’emblème, assurant ainsi son indépendance vis-à-vis des autorités publiques, même en contexte de collaboration. La SN suit des directives spécifiques pour l’usage de l’emblème, particulièrement dans les interventions médicales par des équipes extérieures au Mouvement. Par ailleurs, le CRCo prend part aux groupes de travail nationaux sur la Communication des Risques et l'Engagement Communautaire (CREC), lorsque cela s’avère pertinent, participant ainsi aux discussions et aux initiatives nationales sur la sensibilisation aux risques.\nCependant, malgré ces contributions, le CRCo n’est pas encore pleinement intégré aux mécanismes et aux procédures formelles du gouvernement. Bien que des échanges avec les autorités nationales aient lieu, cette coordination reste informelle et n’est pas encadrée par des accords ou des procédures précises, ce qui limite l’efficacité de la collaboration institutionnelle.",
@@ -15908,7 +15908,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Le staff et les volontaires utilisent leurs téléphones, SIM et comptes personnels pour les communications. Ils ne transportent pas les contacts critiques sur leurs téléphones à tous moments.\nIl existe une matrice de réaction rapide disponible en cas d'inondation pour assurer les interactions et la communication entre tous les secteurs d'intervention. Mais ce n'est utilisé que si le plan est déclenché. Les fiches ne sont pas considérées comme un protocole de notification d'urgence ou des procédures générales. \nLa SN est active sur Facebook pour le grand public et sur WhatsApp en interne. Le site internet n'est pas géré par une personne et ne peut pas être mis à jour régulièrement.\nLes radio VHF et HF avec le personnel et dans les véhicules n'existent plus, mais les fréquences sont encore officiellement libérées pour le CRCo. Depuis que le CICR est parti, la maintenance/ l’entretien n’est pas pris en charge et le personnel n’est pas formé sur les procédures d’utilisation. Les téléphones satellites n’existent pas non plus avec le personnel clé. \nVu le contexte, le fait de ne pas avoir un réseau de communication de secours risque l’arrêt de l’intervention de la SN car les réseaux de communication peuvent tomber en panne au passage d’un cyclone. \nDes groupes électrogènes existent au siège et dans les branches. Le carburant est rechargé au besoin, sans réserve. La SN a des privilèges en cas de pénurie. \nLe siège a l'internet et les branches vont recevoir le budget pour une année de connexion. Il y a un seul point focal IT au siège qui n'a pas le temps de faire l'entretien de tous les équipements et de suivre le site. S'il y a un problème dans les branches, ils font appel à des prestataires vu le contexte des iles. \nLa SN n’a de plan pour assurer la continuité pour les interventions en épidémie.",
@@ -15928,7 +15928,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Il existe un point focal RH mais pas de point focal volontariat. Les volontaires admis reçoivent des cartes de volontaire, qui sont renouvelées annuellement. Les volontaires actifs reçoivent aussi des gilets. Il n’y a pas de parcours d'apprentissage dont les volontaires prennent connaissance dès leur admission au CRCo. Pas de formation de base non plus sur le Mouvement et les attentes. En urgence, les volontaires spontanés ne sont pas informés sur un minimum de notions (Principes fondamentaux, réactions inacceptables, etc.) et donc des incidents peuvent survenir et sont un risque sur l’image du CRCo. Pas d'analyse spécifique sur l’accès sécurisé. Pas de formations sur la protection, l'abus et le genre. En Janvier 2024, les volontaires ont reçu pour la première fois une formation sur la sureté et la sécurité mais il n'existe pas de procédures pour que les bureaux régionaux prennent les décisions de façon autonome sur la sécurité de leurs équipes. Les mesures de protection (même en cas d’épidémies) se limitent aux EPI. Il n’existe pas de point focal pour suivre cela non plus.\nDes termes de référence sont préparés pour la mobilisation des volontaires durant les réponses d’urgence car c’est généralement une exigence reliée aux fonds. Il n’existe pas de signe d’institutionnalisation de cette procédure au cas où la SN agit hors lignes budgétaires. \nLes volontaires sont couverts par l’assurance de la FICR (qui ne couvrent pas les épidémies). Le code de conduite n’est pas connu ni signé par le staff et les volontaires. Les dépenses des volontaires ne sont remboursées que s’il y a un DREF qui se déclenche.\nIl n’existe pas de base de données effective, digitale, pour gérer les volontaires sur base de leurs formations. Toutefois, des annexes existent dans le plan de contingence « Inondations » et notamment une cartographie des BDRT dans les 3 branches.\nDans les branches, les bases de données sont faites en forme de registre sur papier et de listes reliées aux formations. Même si les listes se capitalisent aussi sur Excel, les données utilisées en réalité sont sur papier. Les capacités en IT dans les branches doivent être renforcées.\nIl y a deux ans, un projet avec la CR Française avait proposé de renseigner une base de données numérique, mais le PF n'avait pas le temps de suivre le travail et donc celui-ci s’est arrêté. Un nouveau point focal a été nommé en vue de suivre le renseignement et l’activation de l’usage des bases de données.\nPour les interventions, la SN appelle tous les volontaires disponibles à se mobiliser. Ceci permet d’avoir des capacités multisectorielles mais vu que de nombreux volontaires sont motivés, leur gestion devient difficile et des frustrations se créent lorsque les coordinateurs demandent à quelques volontaires de quitter les lieux (exemple 300 sur place alors que le besoin est de 20 volontaires).\nDes procédures existent pour activer, déployer et gérer les BDRT et NDRT mais pas de procédures ni de fonds propres permettant d’augmenter (recrutement, rétention) ou de diminuer le personnel pendant les urgences.\nPas de stratégie formelle de rotation et de rétention du personnel durant les interventions. Des notions sont inclues dans le règlement intérieur mais ne sont pas spécifiques aux urgences.\nPas de formations sur les soins auto-administrés, la violence et le harcèlement au travail et le soutien psychosocial pendant et après les urgences et les crises. La formation sur la prévention et le contrôle des épidémies se fait uniquement au niveau des volontaires mobilisables (équipes d'intervention BDRT et NDRT).",
@@ -15948,7 +15948,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Il y avait 3 points focaux pour la communication au niveau du siège mais deux sont en congé maternité, donc le point focal IT s’en occupe tout seul. Au niveau des branches, il n’y a pas encore de points focaux pour la communication. Le porte-parole officiel en urgence est le SG.\nLa SN informe sur la réponse à travers les médias locaux mais pas souvent dans les réseaux sociaux. Elle n'informe pas non plus sur les besoins non satisfaits parce que ceci peut créer des problèmes avec les autorités. Le site internet de la SN n’est pas mis à jour de façon à inclure les nouvelles régulières et le lien pour les donations n’y fonctionne pas.\nLa SN coordonne sa communication externe avec le Mouvement. Les messages d’urgence sont préparés au cas par cas et doivent être validés au niveau du ministère. Il n’existe pas de modèles standards et de messages généraux validés par type d’aléa. \nLe point focal IT lit les médias pour détecter les rumeurs et les commentaires négatifs et intervient, surtout si les volontaires ont mis des messages inappropriés. Il n’existe pas de politique et de directives pour l’utilisation des réseaux sociaux.\nIl y a une stratégie de mobilisation des ressources qui est écrite et validée mais elle n’est pas mise en œuvre (les facilitateurs ne l'ont pas reçue). La SN y a cartographié les différentes possibilités de mobilisation de fonds mais ça ne se fait pas en pratique. Il n’y a pas un point focal qui gère la mobilisation des ressources. Le lien qui existe sur le site pour les dons en ligne ne fonctionne pas. Le téléphone existe mais les partenaires et le public ne connaissent pas le numéro. Des personnes à l'internationnal ne peuvent pas faire des dons en ligne les premières 48h après l’impact. \nPour l’instant, la possibilité pour le Croissant Rouge Comorien de lever rapidement des fonds en situation d’urgence est de déclencher les mécanismes de Crisis Modifier et de DREF. Le point focal DREF est Siradji (PF projet PIROI). Les responsables des secteurs travaillent sur leurs propres parties.\nLes accords cadre avec des donateurs se limite à l’accord avec la PIROI : l'accord de Saint Denis pour la sortie de Stocks d'urgence, la préparation et la mobilisation des ERU. La SN ne mobilise pas de ressources pour ses activités de préparation (auprès du secteur privé ou autre). Les programmes de préparation qui se font au cours de l’année sont planifiés avec la PIROI. \nLa SN n'a pas de fond propre à utiliser en urgence, avec des critères d'utilisation adéquats. Le département finance s’occupe de faire le rapport sur les dépenses et sur les possibles changements reliés à l’usage des fonds.\nIl n’existe pas de liste prédéfinie de dons en nature acceptables, avec une façon d'atténuer les risques d'image ou de réputation. Et l’atténuation des fraudes se fait au niveau de la finance, à travers les procédures de demandes d'avance et les limites budgétaires après lesquelles le paiement doit être fait à travers la banque.  \nDurant les épidémies, les partenaires potentiels qui peuvent fournir des dons en nature sont : la PIROI et l'UNICEF\nLa résolution des problèmes environnementaux dans la gestion des catastrophes n'est pas encore une considération de la SN.",
@@ -16035,7 +16035,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "radio veza",
@@ -16075,7 +16075,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Security framework for operation and training",
@@ -16115,7 +16115,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "trained in quality and accountability standards (Sphere, Code of Conduct, etc...) around the protection, sexual abuse, exploitation, child protection, gender-based violence and other forms of abuse. appreciation system, priority to develop psp system and system on self-care, violence and harassment. Code of Conduct to be checked if signed by all",
@@ -16135,7 +16135,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16222,7 +16222,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "DREF training",
@@ -16342,7 +16342,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16362,7 +16362,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16382,7 +16382,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16401,8 +16401,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16422,7 +16422,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16442,7 +16442,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16462,7 +16462,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16575,7 +16575,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16595,7 +16595,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16615,7 +16615,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16635,7 +16635,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16742,7 +16742,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16762,7 +16762,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16835,7 +16835,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16855,7 +16855,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16875,7 +16875,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16895,7 +16895,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -16982,7 +16982,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17002,7 +17002,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17021,8 +17021,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17042,7 +17042,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17062,7 +17062,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17543,7 +17543,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17563,7 +17563,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17582,8 +17582,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17603,7 +17603,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17623,7 +17623,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17709,8 +17709,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17730,7 +17730,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17897,7 +17897,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17917,7 +17917,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -17937,7 +17937,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18071,7 +18071,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18091,7 +18091,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18111,7 +18111,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18251,7 +18251,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18418,7 +18418,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18825,7 +18825,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18845,7 +18845,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18892,7 +18892,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18912,7 +18912,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18932,7 +18932,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18952,7 +18952,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -18972,7 +18972,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19277,7 +19277,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19297,7 +19297,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19316,8 +19316,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19337,7 +19337,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19357,7 +19357,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19384,7 +19384,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19403,8 +19403,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19424,7 +19424,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19584,7 +19584,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19791,7 +19791,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19811,7 +19811,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19830,8 +19830,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19851,7 +19851,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19958,7 +19958,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19977,8 +19977,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -19998,7 +19998,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20018,7 +20018,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20038,7 +20038,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20105,7 +20105,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20125,7 +20125,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20252,7 +20252,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Налаженное взаимодействие с ФОИВами и РОИВами откроет РКК доступ к государственной системе реагирования на ЧС, обеспечивая оперативный обмен информацией, координацию действий и чёткое распределение зон ответственности. Включение Председателя РКК в правительственную комиссию по ЧС и представителей РО в комиссии ЧС создаёт платформу для прямого влияния на принятие решений и гарантирует учёт гуманитарных потребностей при планировании реагирования. Совместные обучения, утверждённая дорожная карта и созданная рабочая группа формируют предсказуемые механизмы сотрудничества, а определённые каналы связи и ответственные сотрудники обеспечивают мгновенное взаимодействие в критический момент. Сейчас как раз самое время для усиления этого компонента: после вступления в силу Федерального закона о Красном Кресте открывается возможность закрепить статус РКК как законного актора в системе гражданской защиты, создав основу для устойчивого партнёрства с государством на всех уровнях управления.",
@@ -20272,7 +20272,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "\"Развитое сотрудничество с частным сектором расширит ресурсную базу РКК, обеспечив доступ к экспертизе, волонтёрскому потенциалу и финансовым ресурсам корпоративных партнёров. Регулярно актуализируемая база данных партнёров, заключённые договоры о сотрудничестве и проведение деловых мероприятий создают устойчивую сеть поддержки, а привлечение экспертов на добровольной основе усилит профессиональные компетенции организации. Запуск информационных кампаний и привлечение лидеров мнений позволяют корректно интерпретировать роль РКК, повысить узнаваемость организации и\n\nпривлекательность корпоративного волонтёрства при одновременном минимизации репутационных рисков, в частности при мобилизации волонтёров от бизнеса. Чёткие договорённости и формализованные механизмы взаимодействия обеспечат прозрачность партнёрства и защиту интересов обеих сторон.\"",
@@ -20292,7 +20292,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Внедрённая Концепция обеспечения безопасности создаcт комплексную систему защиты персонала и волонтёров РКК, охватывающую физическую, психологическую и гендерную безопасность. МККК уже работала напрямую с рядом региональных отделений пару лет назад, и в настоящее время назрела необходимость расширения целостного охвата на все уровни организации. Разработанные на основе стандартов МККК процедуры, оснащение защитной экипировкой и страхование обеспечивают реальную защиту участникам деятельности в условиях эскалации рисков, включая приграничные регионы. Анонимные каналы обращений, расширенная психологическая поддержка и Фонд помощи сформируют культуру заботы о персонале, а заключённые соглашения с правоохранительными органами и назначенные ответственные лица на всех уровнях гарантируют оперативное реагирование на инциденты. Постоянно действующий механизм актуализации Концепции обеспечит её соответствие меняющемуся контексту рисков и сохранит жизнеспособность системы безопасности в долгосрочной перспективе.",
@@ -20311,8 +20311,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Созданная сеть региональных распределительных центров (РРЦ) решит критическую задачу покрытия огромной территории РФ, обеспечивая оперативную доставку гуманитарной помощи в любой регион страны. Внедрённая система X-STOCK позволит в режиме реального времени отслеживать наличие, перемещение и сроки годности ТМЦ, а заключённые соглашения с крупными логистическими операторами и государственными структурами компенсируют ограниченные собственные транспортные ресурсы. Полученные в безвозмездное пользование складские помещения, наполнение РРЦ на 80% от нормы с учётом региональной специфики ЧС и механизмы сбора средств и товаров от доноров создадут материальную основу для немедленного реагирования. Регулярный анализ пробелов в наполнении и корректировка работы обеспечивают постоянную готовность логистической системы к масштабным операциям на всём пространстве страны.",
@@ -20332,7 +20332,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Созданная система управления персоналом и волонтёрами обеспечит устойчивую готовность РКК к реагированию на ЧС через чёткую организационную структуру, механизмы ротации и резерва кадров, а также комплексную поддержку участников. Разработанная Концепция добровольчества, включающая критерии отбора, обучение, удержание и мотивацию, создаст предсказуемую среду для привлечения и системной работы с волонтёрами. Единая база данных постоянных и спонтанных волонтёров, регулярное обучение федеральных групп реагирования и подготовка региональных инструкторов гарантируют наличие квалифицированных кадров в любой точке страны. Разработанные регламенты взаимодействий, ускоренные процедуры подготовки и оснащение необходимым оборудованием обеспечат оперативное развёртывание персонала при ЧС различного уровня и характера, а регулярный анализ эффективности механизма позволит непрерывно совершенствовать подходы к привлечению, удержанию и мотивации волонтёров.",
@@ -20352,7 +20352,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "Налаженная система мобилизации ресурсов обеспечит финансовую устойчивость РКК и оперативность реагирования на ЧС через сочетание внутренних резервов и внешних партнёрств. Сформированные резервные фонды в каждом РО и механизм их регулярного пополнения создают финансовую подушку безопасности для немедленного старта операций. Открытые расчётные счета в регионах, постоянная информационная кампания по сборам от физических лиц и возможность быстрого запуска целевых сборов при ЧС обеспечит гибкость финансирования. Заключённые рамочные соглашения с ключевыми донорами, созданная карта партнёров с учётом региональной специфики и проводимые бизнес-завтраки сформируют предсказуемую сеть поддержки, а утверждённый алгоритм взаимодействия ЦА, РО и партнёров с чётко распределёнными ролями гарантирует согласованность действий при экстренном реагировании.",
@@ -20539,7 +20539,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20559,7 +20559,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20579,7 +20579,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20599,7 +20599,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20812,7 +20812,7 @@
               "translation_module_original_language": "en"
             },
             "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20832,7 +20832,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20852,7 +20852,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20871,8 +20871,8 @@
               "title": "Operations support",
               "translation_module_original_language": "en"
             },
-            "description": "",
-            "component_letter": "",
+            "description": null,
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20892,7 +20892,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20912,7 +20912,7 @@
               "translation_module_original_language": "en"
             },
             "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
@@ -20952,7 +20952,7 @@
               "translation_module_original_language": "en"
             },
             "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country.",
-            "component_letter": "",
+            "component_letter": null,
             "is_parent": null
           },
           "justification_text": "",
