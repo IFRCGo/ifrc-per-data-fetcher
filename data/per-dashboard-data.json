@@ -7038,8 +7038,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -8125,8 +8125,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -9212,8 +9212,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -10288,8 +10288,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -11364,8 +11364,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -12451,8 +12451,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -13527,8 +13527,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -14603,8 +14603,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -15690,8 +15690,8 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -16766,8 +16766,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -17842,8 +17842,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -18918,15 +18918,15 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 31,
@@ -19994,15 +19994,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 31,
@@ -21070,15 +21070,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "rating_value": 5,
+          "rating_title": "High Performance"
         },
         {
           "assessment_id": 31,
@@ -22146,8 +22146,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -23222,15 +23222,15 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 31,
@@ -24298,15 +24298,15 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 31,
@@ -25385,8 +25385,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 218,
-          "assessment_number": 6,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -26472,8 +26472,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 218,
-          "assessment_number": 6,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -27548,8 +27548,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 218,
-          "assessment_number": 6,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -28624,8 +28624,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 218,
-          "assessment_number": 6,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -29700,8 +29700,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 218,
-          "assessment_number": 6,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -30776,8 +30776,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 218,
-          "assessment_number": 6,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -31852,8 +31852,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -32928,8 +32928,8 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 216,
-          "assessment_number": 4,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -34004,8 +34004,8 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -35080,15 +35080,15 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 31,
@@ -36156,8 +36156,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -37232,15 +37232,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 31,
@@ -38308,8 +38308,8 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -39384,15 +39384,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 217,
-          "assessment_number": 5,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 31,
@@ -41052,8 +41052,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 220,
-          "assessment_number": 8,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -42126,17 +42126,6 @@
           "date_of_assessment": "2025-08-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 220,
-          "assessment_number": 8,
-          "country_id": 132,
-          "country_name": "Panama",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2026-06-04",
-          "rating_value": 5,
-          "rating_title": "High Performance"
         },
         {
           "assessment_id": 215,
@@ -43215,17 +43204,6 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 220,
-          "assessment_number": 8,
-          "country_id": 132,
-          "country_name": "Panama",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2026-06-04",
-          "rating_value": 5,
-          "rating_title": "High Performance"
-        },
-        {
           "assessment_id": 215,
           "assessment_number": 3,
           "country_id": 132,
@@ -44298,17 +44276,6 @@
           "region_id": 2,
           "region_name": "Asia Pacific",
           "date_of_assessment": "2025-08-28",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
-        },
-        {
-          "assessment_id": 220,
-          "assessment_number": 8,
-          "country_id": 132,
-          "country_name": "Panama",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -45389,17 +45356,6 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 220,
-          "assessment_number": 8,
-          "country_id": 132,
-          "country_name": "Panama",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2026-06-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
-        },
-        {
           "assessment_id": 215,
           "assessment_number": 3,
           "country_id": 132,
@@ -46474,17 +46430,6 @@
           "date_of_assessment": "2025-08-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
-        },
-        {
-          "assessment_id": 220,
-          "assessment_number": 8,
-          "country_id": 132,
-          "country_name": "Panama",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2026-06-04",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 215,
@@ -47563,8 +47508,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -48639,8 +48584,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -49715,8 +49660,8 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -50791,8 +50736,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -51867,8 +51812,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -52943,8 +52888,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -57088,8 +57033,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -58406,8 +58351,8 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 219,
-          "assessment_number": 7,
+          "assessment_id": 215,
+          "assessment_number": 3,
           "country_id": 132,
           "country_name": "Panama",
           "region_id": 1,
@@ -98701,31 +98646,346 @@
         "phase_display": "Action & accountability"
       },
       {
-        "assessment_number": 8,
+        "assessment_number": 3,
         "date": "2026-06-04",
         "components": [
           {
-            "component_id": 38,
-            "component_name": "Coordination with Movement",
-            "component_num": 24,
-            "area_id": 4,
-            "area_name": "Coordination",
+            "component_id": 31,
+            "component_name": "Cash Based Intervention (CBI)",
+            "component_num": 17,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 32,
+            "component_name": "Emergency Needs Assessment",
+            "component_num": 18,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 33,
+            "component_name": "Affected population selection",
+            "component_num": 19,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 35,
+            "component_name": "Information Management (IM)",
+            "component_num": 21,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 15,
+            "component_name": "COMMUNITY-BASED DP AND DRR",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 16,
+            "component_name": "EVACUATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 17,
+            "component_name": "HEALTH IN EMERGENCIES",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 18,
+            "component_name": "FIRST AID",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 19,
+            "component_name": "WATER AND SANITATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 20,
+            "component_name": "FOOD SECURITY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 21,
+            "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 28,
+            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 29,
+            "component_name": "Mapping of NS capacities",
+            "component_num": 15,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 22,
+            "component_name": "SEARCH AND RESCUE",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 5,
             "rating_title": "High Performance"
           },
           {
-            "component_id": 39,
-            "component_name": "Coordination with authorities",
-            "component_num": 25,
+            "component_id": 23,
+            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 24,
+            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 25,
+            "component_name": "RESTORING FAMILY LINKS (RFL)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 26,
+            "component_name": "TRANSITION TO RECOVERY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 27,
+            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 36,
+            "component_name": "Testing and Learning",
+            "component_num": 22,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 37,
+            "component_name": "Activation of regional and international support",
+            "component_num": 23,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 30,
+            "component_name": "Early Action Mechanisms",
+            "component_num": 16,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 12,
+            "component_name": "Response and recovery planning",
+            "component_num": 12,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 6,
+            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "component_num": 6,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 1,
+            "component_name": "RC auxiliary role, Mandate and Law",
+            "component_num": 1,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 2,
+            "component_name": "DRM Strategy",
+            "component_num": 2,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 3,
+            "component_name": "DRM Policy",
+            "component_num": 3,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 4,
+            "component_name": "DRM Laws, Advocacy and Dissemination",
+            "component_num": 4,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 40,
+            "component_name": "Coordination with External Agencies and NGOs",
+            "component_num": 26,
             "area_id": 4,
             "area_name": "Coordination",
             "rating_value": 3,
             "rating_title": "Needs Improvement"
           },
           {
-            "component_id": 40,
-            "component_name": "Coordination with External Agencies and NGOs",
-            "component_num": 26,
+            "component_id": 39,
+            "component_name": "Coordination with authorities",
+            "component_num": 25,
             "area_id": 4,
             "area_name": "Coordination",
             "rating_value": 3,
@@ -98757,41 +99017,15 @@
             "area_name": "Coordination",
             "rating_value": 3,
             "rating_title": "Needs Improvement"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 7,
-        "date": "2026-06-04",
-        "components": [
-          {
-            "component_id": 29,
-            "component_name": "Mapping of NS capacities",
-            "component_num": 15,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
           },
           {
-            "component_id": 28,
-            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 44,
-            "component_name": "Safety and security management",
-            "component_num": 30,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
+            "component_id": 38,
+            "component_name": "Coordination with Movement",
+            "component_num": 24,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 5,
+            "rating_title": "High Performance"
           },
           {
             "component_id": 45,
@@ -98855,389 +99089,15 @@
             "area_name": "Operations support",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 6,
-        "date": "2026-06-04",
-        "components": [
+          },
           {
-            "component_id": 30,
-            "component_name": "Early Action Mechanisms",
-            "component_num": 16,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 44,
+            "component_name": "Safety and security management",
+            "component_num": 30,
+            "area_id": 5,
+            "area_name": "Operations support",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 31,
-            "component_name": "Cash Based Intervention (CBI)",
-            "component_num": 17,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 32,
-            "component_name": "Emergency Needs Assessment",
-            "component_num": 18,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 33,
-            "component_name": "Affected population selection",
-            "component_num": 19,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 34,
-            "component_name": "Emergency Operations Centre (EOC)",
-            "component_num": 20,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 35,
-            "component_name": "Information Management (IM)",
-            "component_num": 21,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 5,
-        "date": "2026-06-04",
-        "components": [
-          {
-            "component_id": 15,
-            "component_name": "COMMUNITY-BASED DP AND DRR",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 16,
-            "component_name": "EVACUATION",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 17,
-            "component_name": "HEALTH IN EMERGENCIES",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 18,
-            "component_name": "FIRST AID",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 19,
-            "component_name": "WATER AND SANITATION",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 20,
-            "component_name": "FOOD SECURITY",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 21,
-            "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 22,
-            "component_name": "SEARCH AND RESCUE",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 23,
-            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 24,
-            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
-          },
-          {
-            "component_id": 25,
-            "component_name": "RESTORING FAMILY LINKS (RFL)",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 26,
-            "component_name": "TRANSITION TO RECOVERY",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 27,
-            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 4,
-        "date": "2026-06-04",
-        "components": [
-          {
-            "component_id": 6,
-            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-            "component_num": 6,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 7,
-            "component_name": "Scenario planning",
-            "component_num": 7,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 8,
-            "component_name": "Risk management",
-            "component_num": 8,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 9,
-            "component_name": "Preparedness plans and budgets",
-            "component_num": 9,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 10,
-            "component_name": "Business continuity",
-            "component_num": 10,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 11,
-            "component_name": "Emergency Response Procedures (SOPs)",
-            "component_num": 11,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
-          },
-          {
-            "component_id": 12,
-            "component_name": "Response and recovery planning",
-            "component_num": 12,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 13,
-            "component_name": "Pre-disaster meetings and agreements",
-            "component_num": 13,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 36,
-            "component_name": "Testing and Learning",
-            "component_num": 22,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 37,
-            "component_name": "Activation of regional and international support",
-            "component_num": 23,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 3,
-        "date": "2026-06-04",
-        "components": [
-          {
-            "component_id": 1,
-            "component_name": "RC auxiliary role, Mandate and Law",
-            "component_num": 1,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 2,
-            "component_name": "DRM Strategy",
-            "component_num": 2,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 3,
-            "component_name": "DRM Policy",
-            "component_num": 3,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 4,
-            "component_name": "DRM Laws, Advocacy and Dissemination",
-            "component_num": 4,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 5,
-            "component_name": "Quality and accountability",
-            "component_num": 5,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 41,
-            "component_name": "Civil Military Relations",
-            "component_num": 27,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 42,
-            "component_name": "Coordination with local community level responders",
-            "component_num": 28,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 43,
-            "component_name": "Cooperation with private sector",
-            "component_num": 29,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 38,
-            "component_name": "Coordination with Movement",
-            "component_num": 24,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 39,
-            "component_name": "Coordination with authorities",
-            "component_num": 25,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
           }
         ],
         "phase": 2,
