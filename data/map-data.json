@@ -43722,24 +43722,6 @@
         "rating_title": "Needs Improvement"
       },
       {
-        "component_id": 44,
-        "component_name": "Safety and security management",
-        "component_num": 30,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
         "component_id": 46,
         "component_name": "Finance and Admin policy and emergency procedures",
         "component_num": 32,
@@ -43790,6 +43772,69 @@
         "component_num": 37,
         "area_id": 5,
         "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 44,
+        "component_name": "Safety and security management",
+        "component_num": 30,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 18,
+        "component_name": "FIRST AID",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 19,
+        "component_name": "WATER AND SANITATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 20,
+        "component_name": "FOOD SECURITY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 21,
+        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 28,
+        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
       },
@@ -43956,78 +44001,6 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
-        "component_id": 18,
-        "component_name": "FIRST AID",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 19,
-        "component_name": "WATER AND SANITATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 20,
-        "component_name": "FOOD SECURITY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 21,
-        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 28,
-        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 12,
-        "component_name": "Response and recovery planning",
-        "component_num": 12,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
         "component_id": 13,
         "component_name": "Pre-disaster meetings and agreements",
         "component_num": 13,
@@ -44073,6 +44046,51 @@
         "rating_title": "Needs Improvement"
       },
       {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 12,
+        "component_name": "Response and recovery planning",
+        "component_num": 12,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
         "component_id": 5,
         "component_name": "Quality and accountability",
         "component_num": 5,
@@ -44098,24 +44116,6 @@
         "area_name": "Policy Strategy and Standards",
         "rating_value": 5,
         "rating_title": "High Performance"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
       }
     ]
   },
