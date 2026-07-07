@@ -107054,15 +107054,6 @@
             "rating_title": "Needs Improvement"
           },
           {
-            "component_id": 39,
-            "component_name": "Coordination with authorities",
-            "component_num": 25,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
             "component_id": 40,
             "component_name": "Coordination with External Agencies and NGOs",
             "component_num": 26,
@@ -107108,6 +107099,33 @@
             "rating_title": "Exists – Could be Strengthened"
           },
           {
+            "component_id": 39,
+            "component_name": "Coordination with authorities",
+            "component_num": 25,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 4,
+            "component_name": "DRM Laws, Advocacy and Dissemination",
+            "component_num": 4,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
             "component_id": 1,
             "component_name": "RC auxiliary role, Mandate and Law",
             "component_num": 1,
@@ -107133,24 +107151,6 @@
             "area_name": "Policy Strategy and Standards",
             "rating_value": 1,
             "rating_title": "Does Not Exist"
-          },
-          {
-            "component_id": 4,
-            "component_name": "DRM Laws, Advocacy and Dissemination",
-            "component_num": 4,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 5,
-            "component_name": "Quality and accountability",
-            "component_num": 5,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
           },
           {
             "component_id": 12,
