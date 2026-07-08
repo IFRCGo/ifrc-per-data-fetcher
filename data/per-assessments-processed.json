@@ -58541,6 +58541,10 @@
       ]
     },
     {
+      "id": 169,
+      "area_responses": []
+    },
+    {
       "id": 41,
       "area_responses": [
         {
@@ -126939,13 +126943,61 @@
       ]
     },
     {
-      "id": 107,
+      "id": 67,
       "area_responses": [
         {
-          "id": 1989,
+          "id": 1154,
           "component_responses": [
             {
-              "id": 20274,
+              "id": 12663,
+              "component": 1,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 1,
+                "component_num": 1,
+                "area": 1,
+                "title": "RC auxiliary role, Mandate and Law",
+                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12664,
+              "component": 2,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 2,
+                "component_num": 2,
+                "area": 1,
+                "title": "DRM Strategy",
+                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12665,
               "component": 3,
               "rating": 2,
               "rating_details": {
@@ -126966,16 +127018,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "DRM Policy - there are policies that talk about it but no specific DRM policy is currently in place"
+              "notes": null
             },
             {
-              "id": 20275,
+              "id": 12666,
               "component": 4,
-              "rating": 2,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 4,
@@ -126993,13 +127045,13 @@
               "notes": null
             },
             {
-              "id": 20276,
+              "id": 12667,
               "component": 5,
-              "rating": 3,
+              "rating": 4,
               "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
               },
               "component_details": {
                 "id": 5,
@@ -127014,457 +127066,15 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "There is no structured CEA and PGI operational plan in place. Code of conduct was finalised, is being reviewed, will be implemented soon. Due to the knowledge gained in the UA EA operation,  we are preparing policies for children, gender based violence, etc. As part of the UA EA operation we have established  feedback mechanism that is well developed: automatic channels for community feedback were established at the branch level."
-            },
-            {
-              "id": 20277,
-              "component": 1,
-              "rating": 6,
-              "rating_details": {
-                "id": 6,
-                "value": 5,
-                "title": "High Performance"
-              },
-              "component_details": {
-                "id": 1,
-                "component_num": 1,
-                "area": 1,
-                "title": "RC auxiliary role, Mandate and Law",
-                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "SRC Act No. 460 of 20 September 2007 is still valid and applicable and defines the auxiliary role of SRC. Agreements are in place with different ministries: MoH, MoI, MoD, Molsaf and an agreement with the government. More advocacy is necessary as well on the national and local level about the NS mandate and NS Law."
-            },
-            {
-              "id": 20278,
-              "component": 2,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 2,
-                "component_num": 2,
-                "area": 1,
-                "title": "DRM Strategy",
-                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "There is no DRM strategy. There is \"strategy\"  in practice (from the operational point of view based on experience) but it is not documented (no methodology, no procedures, no common indicators)"
-            }
-          ]
-        },
-        {
-          "id": 1990,
-          "component_responses": [
-            {
-              "id": 20279,
-              "component": 40,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 40,
-                "component_num": 26,
-                "area": 4,
-                "title": "Coordination with External Agencies and NGOs",
-                "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "NS is the active member of the humanitarian community. There is an MOU with other NGOs. There is no partnership agreement with UN/NGO"
-            },
-            {
-              "id": 20280,
-              "component": 41,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 41,
-                "component_num": 27,
-                "area": 4,
-                "title": "Civil Military Relations",
-                "description": "Dialogue and interaction with military actors, essential to protect and promote humanitarian principles, avoid competition, minimize inconsistency and, when appropriate, pursue common goals."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
               "notes": null
-            },
-            {
-              "id": 20281,
-              "component": 42,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 42,
-                "component_num": 28,
-                "area": 4,
-                "title": "Coordination with local community level responders",
-                "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Branches don’t collect information in a systematic way about the needs. The needs are communicated on regular channels to the HQ. The decision-making based on community information is not documented."
-            },
-            {
-              "id": 20282,
-              "component": 43,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 43,
-                "component_num": 29,
-                "area": 4,
-                "title": "Cooperation with private sector",
-                "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "There are no framework agreements established before the emergencies. SRC accepts the donations when the emergency starts, and has an informal mapping of potential partners. More formal mapping of potential donors needs to be done as well as indications on the donations during the emergency phase. The emergency fund is being currently established to be used as reserve for the NS to be able to react quickly and support branches during any emergency"
-            },
-            {
-              "id": 20283,
-              "component": 38,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 38,
-                "component_num": 24,
-                "area": 4,
-                "title": "Coordination with Movement",
-                "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "SRC adheres to SMCC principles,. As part of the UA EA  SRC participates on the biweekly operation meetings. The plans and information are shared with the ROE."
-            },
-            {
-              "id": 20284,
-              "component": 39,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 39,
-                "component_num": 25,
-                "area": 4,
-                "title": "Coordination with authorities",
-                "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "The NS role is nor clearly defined in the national humanitarian coordination system and there is not clear activation mechanism at the national and local level. NS is regularly invited to the Steering Committee and knows the roles and capacities of authorities. On the local level, branches are part of the coordination mechanisms and participate on the crisis management boards."
             }
           ]
         },
         {
-          "id": 1991,
+          "id": 1155,
           "component_responses": [
             {
-              "id": 20288,
-              "component": 45,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 45,
-                "component_num": 31,
-                "area": 5,
-                "title": "Operations Monitoring, Evaluation, Reporting and Learning",
-                "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "As part of the operation we are using lessons from previous ones (plans revisions). Monthly surveys from the branches for the Go platform reporting are being collected and used for  the operations plans reviews.\nThere is not a focal point for PMER, we collaborate on the PMER IFRC processes and donor requirements (challenges on data collection)- this approach is currently applicable only on the UA EA operation"
-            },
-            {
-              "id": 20289,
-              "component": 47,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 47,
-                "component_num": 33,
-                "area": 5,
-                "title": "Information and Communication Technology (ICT)",
-                "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "There are contact list, phones and an emergency notification protocol (outdated, at HQ, not shared with the branches). SRC has 3 emergency vehicles equiped with radios (paid channel established with clear frequencies). Each branch has the list of available equipment. There are some portable generators (enough,at HQ and some branches). We have external support for technical issues and equipment provider contracted."
-            },
-            {
-              "id": 20290,
-              "component": 55,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 55,
-                "component_num": 36,
-                "area": 5,
-                "title": "Communication in emergencies",
-                "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "HQ Comms focal point is trained and branch directors had an online training on the use of social media (2023).  Social media is being used to mobilize the community. Messages to advocate targeted audience are based in the monthly reporting system and negative mentions are followed. At early emergency stage, awareness meeting with staff and mailing messages are taking place.  Brand manual to ensure appropriate conduct of staff and volunteers is underway."
-            },
-            {
-              "id": 20291,
-              "component": 44,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 44,
-                "component_num": 30,
-                "area": 5,
-                "title": "Safety and security management",
-                "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "All the volunteer sign the volunteers agreement. Stay safe training is soon availabile for volunteers and staff in Slovak . Safer Acess is not availabile.  We don’t have the person responsible for the safety and security in emergency situations nor in the HQ nor at the branches (as per the IFRC definition). The insurance for the volunteers needs to be discussed further."
-            },
-            {
-              "id": 20292,
-              "component": 46,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 46,
-                "component_num": 32,
-                "area": 5,
-                "title": "Finance and Admin policy and emergency procedures",
-                "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Accounting software (MADO), internal and external audits. There are analytical double-entry bookkeeping. Funding received and allocations are publicly published in the annual financial report . Each fund source is tracked.  There are GRNs for the redistribution of the non financial and financial property."
-            },
-            {
-              "id": 20285,
-              "component": 48,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 48,
-                "component_num": 34,
-                "area": 5,
-                "title": "Logistics, procurement and supply chain",
-                "description": null
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "There is no Logistics department.\nOne regulation for procurement (<> 5000 eur), there is a small database of suppliers. \nThere is a fleet, not sufifcient in some branches. Drivers have 33hour FA training and follows the  \"Directive of the use of company vehicles\".\nNo warehouse and stock management or supply chain management."
-            },
-            {
-              "id": 20286,
-              "component": 54,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 54,
-                "component_num": 35,
-                "area": 5,
-                "title": "Staff and volunteer management",
-                "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Not everyone has signed the code of conduct. Volunteers are not insured for the emergency situations ( but to be verified whether it is possible according to the local legislation) Not all the volunteers are trained in the quality and accountability standards.  Some staff is trained on self care, violence and harassment in the workplace but volunteers are not. Some branches have the protocols for the activation and deployment of the responders.\nSome branches have responders contact database with multifaceted volunteers."
-            },
-            {
-              "id": 20287,
-              "component": 56,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 56,
-                "component_num": 37,
-                "area": 5,
-                "title": "Resource Mobilisation",
-                "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "There is no strategy on fundraising. SRC participates on different fundraising and partnership events, has a donation platform (Darujme.sk) and Public IBAN numbers. While there is a system to track donations, there is no pre-defined list of acceptable donations. There is mechanisms for fundraising with the private sector."
-            }
-          ]
-        },
-        {
-          "id": 1992,
-          "component_responses": [
-            {
-              "id": 20293,
-              "component": 9,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 9,
-                "component_num": 9,
-                "area": 2,
-                "title": "Preparedness plans and budgets",
-                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Disaster Management Coordinator has taken on the disaster preparedness role (HQ and branch level). Preparedness plan doesn't exist. In some branches, the operational plan includes funds for disaster management - for response, but  not specifically for  preparedness and capacity strengthening"
-            },
-            {
-              "id": 20294,
-              "component": 13,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 13,
-                "component_num": 13,
-                "area": 2,
-                "title": "Pre-disaster meetings and agreements",
-                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Branches are active and participate on the Crisis management boards on the local level. HQ is having meetings before and during the emergency situations with the relevant ministries: MoI, MoH, MoLsaf\nCode of conduct for suppliers and service providers, together with the general terms and condition, were developed as part of the UA EA operation and are used in the operation. they have been designed based on the IFRC documents and reviewed by SRC legal department. \nAgreements with the public authorities do exist, but not specifically for the crisis management and response in the emergency situations."
-            },
-            {
-              "id": 20295,
+              "id": 12672,
               "component": 10,
               "rating": 2,
               "rating_details": {
@@ -127488,7 +127098,7 @@
               "notes": null
             },
             {
-              "id": 20296,
+              "id": 12673,
               "component": 11,
               "rating": 2,
               "rating_details": {
@@ -127509,16 +127119,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "No existing and disseminated SOPs"
+              "notes": null
             },
             {
-              "id": 20297,
+              "id": 12674,
               "component": 12,
-              "rating": 2,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 12,
@@ -127533,10 +127143,34 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Currently the NS is establishing the emergency funding for the response to be used to support financially responding branches. So far there was not such a tool but the NS and the branches had always managed to respond. The fund was created to be fast and more accountable for the support during the response phase and as well as a preparedness tool. Branches have outstanding experience from the previous responses. In case of Covid and Ukraine response the NS together with the branches  managed very well to respond, but all the learning needs to be captured In plans and procedures.  The goal of the emergency fund is that the NS will be able to support the responding branches within very short time."
+              "notes": null
             },
             {
-              "id": 20298,
+              "id": 12675,
+              "component": 13,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 13,
+                "component_num": 13,
+                "area": 2,
+                "title": "Pre-disaster meetings and agreements",
+                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12668,
               "component": 6,
               "rating": 3,
               "rating_details": {
@@ -127557,16 +127191,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "There is no monitoring system implemented by NS, we are receiving the information from the MoI. DM Focal point informs about any potential risks and hazards. Risk analysis is and should be provided by district offices. SRC takes part in the crisis management boards.\nAn early-stage collaboration with the neighbouring NSs for the migration was intiated last year and SRC has become part of the GRBMP since the beginning of 2024 (there are no neighbouring countries engaged in the program)"
+              "notes": null
             },
             {
-              "id": 20299,
+              "id": 12669,
               "component": 7,
-              "rating": 2,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 7,
@@ -127581,10 +127215,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "NS doesn't have contingency plans in place."
+              "notes": null
             },
             {
-              "id": 20300,
+              "id": 12670,
               "component": 8,
               "rating": 3,
               "rating_details": {
@@ -127605,28 +127239,23 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Risk management is assigned to DM (focal point at HQ level).  There is no risk monitoring system. There is no formal system to prevent reputational risks. Code of conduct is being implemented. We follow public procurement to prevent fraud an corruption but at NS level, no system to reinforce acceptance or access."
-            }
-          ]
-        },
-        {
-          "id": 1993,
-          "component_responses": [
+              "notes": null
+            },
             {
-              "id": 20301,
-              "component": 32,
-              "rating": 3,
+              "id": 12671,
+              "component": 9,
+              "rating": 4,
               "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
               },
               "component_details": {
-                "id": 32,
-                "component_num": 18,
-                "area": 3,
-                "title": "Emergency Needs Assessment",
-                "description": "Assess the extent and impact of the damage caused by the disaster/crisis and the degree of vulnerability of the affected population. The first step in any emergency response, such an assessment will identify the needs that require external intervention and the gaps to be filled. It is a vital component of the programme-planning process."
+                "id": 9,
+                "component_num": 9,
+                "area": 2,
+                "title": "Preparedness plans and budgets",
+                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
               },
               "urban_considerations": null,
               "epi_considerations": null,
@@ -127634,16 +127263,21 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "There is no systematical primary data collection  (no standardised template, and not standardised data identified). Secondary data is taken from UN and from coordination meetings with partners. \nIn our responses, we analyse specific needs of the targeted groups through conversations with them (not documented). There is not a referred checklist. There is not a list of the stock in place. \nNational capacities and gaps are mapped in the crisis management meetings."
-            },
+              "notes": null
+            }
+          ]
+        },
+        {
+          "id": 1156,
+          "component_responses": [
             {
-              "id": 20302,
+              "id": 12676,
               "component": 20,
-              "rating": 1,
+              "rating": 3,
               "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 20,
@@ -127661,37 +127295,13 @@
               "notes": null
             },
             {
-              "id": 20303,
-              "component": 21,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 21,
-                "component_num": 14,
-                "area": 3,
-                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": null
-            },
-            {
-              "id": 20304,
+              "id": 12677,
               "component": 22,
-              "rating": 1,
+              "rating": 3,
               "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 22,
@@ -127709,7 +127319,151 @@
               "notes": null
             },
             {
-              "id": 20305,
+              "id": 12678,
+              "component": 15,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 15,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY-BASED DP AND DRR",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12679,
+              "component": 29,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 29,
+                "component_num": 15,
+                "area": 3,
+                "title": "Mapping of NS capacities",
+                "description": "A list of the NS capacities including HR (staff, response teams and volunteers) and equipment that are available for disaster/crisis response. Teams could include branch and national response teams. This should be defined by technical speciality where relevant."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12680,
+              "component": 17,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 17,
+                "component_num": 14,
+                "area": 3,
+                "title": "HEALTH IN EMERGENCIES",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12681,
+              "component": 30,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 30,
+                "component_num": 16,
+                "area": 3,
+                "title": "Early Action Mechanisms",
+                "description": "Designed to translate warnings into anticipatory actions to help reduce the impact of specific disaster or crisis events. They focus on consolidating available forecasting information and putting procedures in place to ensure that a NS can act ahead of any disaster/crisis. Forecast-based financing is included within the scope of this area."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12682,
+              "component": 31,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 31,
+                "component_num": 17,
+                "area": 3,
+                "title": "Cash Based Intervention (CBI)",
+                "description": "An effective and flexible way, including all forms of cash and voucher-based assistance, to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies. Cash should also be mainstreamed into other sectors (including Relief, shelter, livelihoods) and services (Logistics, Finance, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12683,
+              "component": 32,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 32,
+                "component_num": 18,
+                "area": 3,
+                "title": "Emergency Needs Assessment",
+                "description": "Assess the extent and impact of the damage caused by the disaster/crisis and the degree of vulnerability of the affected population. The first step in any emergency response, such an assessment will identify the needs that require external intervention and the gaps to be filled. It is a vital component of the programme-planning process."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12684,
               "component": 33,
               "rating": 4,
               "rating_details": {
@@ -127730,10 +127484,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Selection criteria is based on needs from the communities (checked in coordination meetings) and secondary data (no standardised templates for data collection). We comunicate the criteria through the comms channels.  SRC ensures data protection (double authorization system)"
+              "notes": null
             },
             {
-              "id": 20306,
+              "id": 12685,
               "component": 34,
               "rating": 2,
               "rating_details": {
@@ -127757,7 +127511,7 @@
               "notes": null
             },
             {
-              "id": 20307,
+              "id": 12686,
               "component": 35,
               "rating": 3,
               "rating_details": {
@@ -127778,10 +127532,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "NS doesn't have standardized approach to the data collection. Many data collection tools are available: Kobo, templates, updated data of risk areas through Statistics agency, UE, Authorities data, district agencies. NS is working on the definition of what data to collect and for what activities, as well as when to collect them. \nVisualization: Power BI Focal Point  (responsible the Data Specialist)\nSharing information, database: Teams, intranet\nInformation sharing channels: teams, email, whatsapp.\nDecisions documented: email confirmations. Standardised Situation Reports format are not translated and used yet"
+              "notes": null
             },
             {
-              "id": 20308,
+              "id": 12687,
               "component": 36,
               "rating": 3,
               "rating_details": {
@@ -127802,16 +127556,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Last HRU training was held in 2017. Some branches are being invited to the trainings and drills by other organisations or response units.  Lessons learnt from drills are not formally tracked.  Training  methodology needs to be prepared."
+              "notes": null
             },
             {
-              "id": 20309,
+              "id": 12688,
               "component": 37,
-              "rating": 3,
+              "rating": 5,
               "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
               },
               "component_details": {
                 "id": 37,
@@ -127826,131 +127580,11 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "NS is currently implementing the Emergency Appeal for Ukraine and neighbouring countries. NS has a good understanding how to activate the international support but it needs to be formalised in SOPs with the designation of clear roles and responsibilities in the activation process ( who will communicate on behalf of NS with IFRC, who will be responsible for the preparation of the documents, ect)"
-            },
-            {
-              "id": 20310,
-              "component": 24,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 24,
-                "component_num": 14,
-                "area": 3,
-                "title": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
               "notes": null
             },
             {
-              "id": 20311,
-              "component": 26,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 26,
-                "component_num": 14,
-                "area": 3,
-                "title": "TRANSITION TO RECOVERY",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": null
-            },
-            {
-              "id": 20312,
-              "component": 17,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 17,
-                "component_num": 14,
-                "area": 3,
-                "title": "HEALTH IN EMERGENCIES",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": null
-            },
-            {
-              "id": 20313,
-              "component": 19,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 19,
-                "component_num": 14,
-                "area": 3,
-                "title": "WATER AND SANITATION",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": null
-            },
-            {
-              "id": 20314,
-              "component": 15,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 15,
-                "component_num": 14,
-                "area": 3,
-                "title": "COMMUNITY-BASED DP AND DRR",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Humanitarian Service Points and Community centers providing services for displaced population were established as part of the UA EA operation"
-            },
-            {
-              "id": 20315,
-              "component": 16,
+              "id": 12689,
+              "component": 27,
               "rating": 3,
               "rating_details": {
                 "id": 3,
@@ -127958,10 +127592,10 @@
                 "title": "Partially Exists"
               },
               "component_details": {
-                "id": 16,
+                "id": 27,
                 "component_num": 14,
                 "area": 3,
-                "title": "EVACUATION",
+                "title": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
                 "description": ""
               },
               "urban_considerations": null,
@@ -127970,22 +127604,22 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "No scenario planning. Taking part on the evacuation local mechanisms (monthly activities report)."
+              "notes": null
             },
             {
-              "id": 20316,
-              "component": 18,
-              "rating": 5,
+              "id": 12690,
+              "component": 21,
+              "rating": 3,
               "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
-                "id": 18,
+                "id": 21,
                 "component_num": 14,
                 "area": 3,
-                "title": "FIRST AID",
+                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
                 "description": ""
               },
               "urban_considerations": null,
@@ -127994,10 +127628,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "NS is providing 8, 16, 33, 101 hour FA trainings for public and volunteers -but the volunteers should all have 33 hour training. First aid is in the NS Strategy, including communities trainings. SRC was designed as non medical first aid provider in MoI Contingency plan (this role agreed with the MoH) for new influx from Ukraine (winter 2022)- this contingency plan is not valid any more."
+              "notes": null
             },
             {
-              "id": 20317,
+              "id": 12691,
               "component": 23,
               "rating": 3,
               "rating_details": {
@@ -128018,16 +127652,40 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "In the UA EA, there are mechanisms for consultation with targeted groups on the shelter solutions. The build capacity needs to be shared in the NS."
+              "notes": null
             },
             {
-              "id": 20318,
-              "component": 25,
-              "rating": 5,
+              "id": 12692,
+              "component": 24,
+              "rating": 3,
               "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 24,
+                "component_num": 14,
+                "area": 3,
+                "title": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12693,
+              "component": 25,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 25,
@@ -128042,22 +127700,22 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "3 RFL staff in the NS. Trainings for directors, staff and volunteers. ICRC procedures (agreement signed)"
+              "notes": null
             },
             {
-              "id": 20319,
-              "component": 27,
-              "rating": 2,
+              "id": 12694,
+              "component": 26,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
-                "id": 27,
+                "id": 26,
                 "component_num": 14,
                 "area": 3,
-                "title": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+                "title": "TRANSITION TO RECOVERY",
                 "description": ""
               },
               "urban_considerations": null,
@@ -128066,16 +127724,112 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Has not been assessed, but reviewed: discussions about the need to start working in this area"
+              "notes": null
             },
             {
-              "id": 20320,
-              "component": 28,
-              "rating": 2,
+              "id": 12695,
+              "component": 14,
+              "rating": null,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 14,
+                "component_num": 14,
+                "area": 3,
+                "title": "NS-specific areas of intervention",
+                "description": "Sector-specific or services provided by the NS in case of emergencies, it is in line with the NS mandate and legislation in country. It includes Community Based DP/DRR, Evacuation, Health in Emergencies, Epidemic and Pandemic, First aid, WASH, Food security and Livelihoods, Search and rRescue, Shelter, Management of dead bodies, RFL, Transition to recovery, and CBRN preparedness."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12696,
+              "component": 16,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 16,
+                "component_num": 14,
+                "area": 3,
+                "title": "EVACUATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12697,
+              "component": 18,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 18,
+                "component_num": 14,
+                "area": 3,
+                "title": "FIRST AID",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12698,
+              "component": 19,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 19,
+                "component_num": 14,
+                "area": 3,
+                "title": "WATER AND SANITATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12699,
+              "component": 28,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 28,
@@ -128091,46 +127845,27 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": null
-            },
+            }
+          ]
+        },
+        {
+          "id": 1157,
+          "component_responses": [
             {
-              "id": 20321,
-              "component": 29,
-              "rating": 3,
+              "id": 12704,
+              "component": 42,
+              "rating": 5,
               "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
               },
               "component_details": {
-                "id": 29,
-                "component_num": 15,
-                "area": 3,
-                "title": "Mapping of NS capacities",
-                "description": "A list of the NS capacities including HR (staff, response teams and volunteers) and equipment that are available for disaster/crisis response. Teams could include branch and national response teams. This should be defined by technical speciality where relevant."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Focal Point system needs to be formalised (capacity mapping ). Staff and volunteers are partially trained and kept up to date. Better mapping of capacities and equipment needs to be done."
-            },
-            {
-              "id": 20322,
-              "component": 30,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 30,
-                "component_num": 16,
-                "area": 3,
-                "title": "Early Action Mechanisms",
-                "description": "Designed to translate warnings into anticipatory actions to help reduce the impact of specific disaster or crisis events. They focus on consolidating available forecasting information and putting procedures in place to ensure that a NS can act ahead of any disaster/crisis. Forecast-based financing is included within the scope of this area."
+                "id": 42,
+                "component_num": 28,
+                "area": 4,
+                "title": "Coordination with local community level responders",
+                "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans."
               },
               "urban_considerations": null,
               "epi_considerations": null,
@@ -128141,20 +127876,20 @@
               "notes": null
             },
             {
-              "id": 20323,
-              "component": 31,
-              "rating": 4,
+              "id": 12705,
+              "component": 43,
+              "rating": 5,
               "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
               },
               "component_details": {
-                "id": 31,
-                "component_num": 17,
-                "area": 3,
-                "title": "Cash Based Intervention (CBI)",
-                "description": "An effective and flexible way, including all forms of cash and voucher-based assistance, to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies. Cash should also be mainstreamed into other sectors (including Relief, shelter, livelihoods) and services (Logistics, Finance, etc.)"
+                "id": 43,
+                "component_num": 29,
+                "area": 4,
+                "title": "Cooperation with private sector",
+                "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions."
               },
               "urban_considerations": null,
               "epi_considerations": null,
@@ -128162,7 +127897,420 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Under  UA EA operation the NS has implemented several cash programs for the displaced population. As part of the preparedness, NS has a framework agreement for the purchase of supermarket vouchers in place, and is currently working on establishing a framework agreement with the Financial service provider. NS is currently discussing contracting of Netherlands RC 510 team  platform designed for the implementation of the CVA programs. SOPs and all the CVA related templates need to be prepared for the future use and easy implementation ( create a toolkit of templates)\nNS has the capacity to implement  feasibility cash analysis before the implementation is in place"
+              "notes": null
+            },
+            {
+              "id": 12700,
+              "component": 40,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 40,
+                "component_num": 26,
+                "area": 4,
+                "title": "Coordination with External Agencies and NGOs",
+                "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12701,
+              "component": 41,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 41,
+                "component_num": 27,
+                "area": 4,
+                "title": "Civil Military Relations",
+                "description": "Dialogue and interaction with military actors, essential to protect and promote humanitarian principles, avoid competition, minimize inconsistency and, when appropriate, pursue common goals."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12702,
+              "component": 38,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 38,
+                "component_num": 24,
+                "area": 4,
+                "title": "Coordination with Movement",
+                "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12703,
+              "component": 39,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 39,
+                "component_num": 25,
+                "area": 4,
+                "title": "Coordination with authorities",
+                "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "id": 1158,
+          "component_responses": [
+            {
+              "id": 12706,
+              "component": 54,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 54,
+                "component_num": 35,
+                "area": 5,
+                "title": "Staff and volunteer management",
+                "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12707,
+              "component": 44,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 44,
+                "component_num": 30,
+                "area": 5,
+                "title": "Safety and security management",
+                "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12708,
+              "component": 55,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 55,
+                "component_num": 36,
+                "area": 5,
+                "title": "Communication in emergencies",
+                "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12709,
+              "component": 45,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 45,
+                "component_num": 31,
+                "area": 5,
+                "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+                "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12710,
+              "component": 46,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 46,
+                "component_num": 32,
+                "area": 5,
+                "title": "Finance and Admin policy and emergency procedures",
+                "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12711,
+              "component": 47,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 47,
+                "component_num": 33,
+                "area": 5,
+                "title": "Information and Communication Technology (ICT)",
+                "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12712,
+              "component": 48,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12713,
+              "component": 56,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 56,
+                "component_num": 37,
+                "area": 5,
+                "title": "Resource Mobilisation",
+                "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12714,
+              "component": 48,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12715,
+              "component": 48,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12716,
+              "component": 48,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12717,
+              "component": 48,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 12718,
+              "component": 48,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
             }
           ]
         }
