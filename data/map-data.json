@@ -47561,114 +47561,6 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
-        "component_id": 15,
-        "component_name": "COMMUNITY-BASED DP AND DRR",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 16,
-        "component_name": "EVACUATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 17,
-        "component_name": "HEALTH IN EMERGENCIES",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 18,
-        "component_name": "FIRST AID",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 19,
-        "component_name": "WATER AND SANITATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 20,
-        "component_name": "FOOD SECURITY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 21,
-        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 22,
-        "component_name": "SEARCH AND RESCUE",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 23,
-        "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 24,
-        "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 25,
-        "component_name": "RESTORING FAMILY LINKS (RFL)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 26,
-        "component_name": "TRANSITION TO RECOVERY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
         "component_id": 27,
         "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
         "component_num": 14,
@@ -47768,13 +47660,130 @@
         "rating_title": "Needs Improvement"
       },
       {
+        "component_id": 15,
+        "component_name": "COMMUNITY-BASED DP AND DRR",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 16,
+        "component_name": "EVACUATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 17,
+        "component_name": "HEALTH IN EMERGENCIES",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 18,
+        "component_name": "FIRST AID",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 19,
+        "component_name": "WATER AND SANITATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 20,
+        "component_name": "FOOD SECURITY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 21,
+        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 22,
+        "component_name": "SEARCH AND RESCUE",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 23,
+        "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 24,
+        "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 25,
+        "component_name": "RESTORING FAMILY LINKS (RFL)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 26,
+        "component_name": "TRANSITION TO RECOVERY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
         "component_id": 40,
         "component_name": "Coordination with External Agencies and NGOs",
         "component_num": 26,
         "area_id": 4,
         "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
       },
       {
         "component_id": 41,
@@ -47807,15 +47816,6 @@
         "component_id": 38,
         "component_name": "Coordination with Movement",
         "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
         "area_id": 4,
         "area_name": "Coordination",
         "rating_value": 4,
