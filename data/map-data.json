@@ -58337,78 +58337,6 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
-        "component_id": 27,
-        "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 28,
-        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 29,
-        "component_name": "Mapping of NS capacities",
-        "component_num": 15,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 30,
-        "component_name": "Early Action Mechanisms",
-        "component_num": 16,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 31,
-        "component_name": "Cash Based Intervention (CBI)",
-        "component_num": 17,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 32,
-        "component_name": "Emergency Needs Assessment",
-        "component_num": 18,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 33,
-        "component_name": "Affected population selection",
-        "component_num": 19,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 34,
-        "component_name": "Emergency Operations Centre (EOC)",
-        "component_num": 20,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
         "component_id": 35,
         "component_name": "Information Management (IM)",
         "component_num": 21,
@@ -58544,13 +58472,76 @@
         "rating_title": "Not Reviewed"
       },
       {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
+        "component_id": 27,
+        "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 28,
+        "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 29,
+        "component_name": "Mapping of NS capacities",
+        "component_num": 15,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 30,
+        "component_name": "Early Action Mechanisms",
+        "component_num": 16,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 31,
+        "component_name": "Cash Based Intervention (CBI)",
+        "component_num": 17,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 32,
+        "component_name": "Emergency Needs Assessment",
+        "component_num": 18,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 33,
+        "component_name": "Affected population selection",
+        "component_num": 19,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 34,
+        "component_name": "Emergency Operations Centre (EOC)",
+        "component_num": 20,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
       },
       {
         "component_id": 40,
@@ -58592,6 +58583,15 @@
         "component_id": 38,
         "component_name": "Coordination with Movement",
         "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
         "area_id": 4,
         "area_name": "Coordination",
         "rating_value": 4,
@@ -58641,6 +58641,24 @@
         "area_name": "Policy Strategy and Standards",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 2,
+        "rating_title": "Partially Exists"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 0,
+        "rating_title": ""
       },
       {
         "component_id": 12,
@@ -58695,24 +58713,6 @@
         "area_name": "Analysis and planning",
         "rating_value": 1,
         "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 2,
-        "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 0,
-        "rating_title": ""
       }
     ]
   },
