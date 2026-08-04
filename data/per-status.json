@@ -5713,6 +5713,42 @@
       "ns_focal_point_email": "paula.vairoletti@cruzroja.org.uy"
     },
     {
+      "id": 233,
+      "assessment_number": 2,
+      "date_of_orientation": "2026-05-20",
+      "date_of_assessment": "2026-08-03",
+      "country": 6,
+      "country_details": {
+        "iso": "UZ",
+        "iso3": "UZB",
+        "id": 6,
+        "record_type": 1,
+        "record_type_display": "Country",
+        "region": 3,
+        "independent": true,
+        "is_deprecated": false,
+        "fdrs": "DUZ001",
+        "average_household_size": null,
+        "society_name": "Red Crescent Society of Uzbekistan",
+        "name": "Uzbekistan",
+        "translation_module_original_language": "en"
+      },
+      "assessment": null,
+      "prioritization": null,
+      "workplan": null,
+      "created_at": "2026-08-03T10:02:03.614583Z",
+      "updated_at": "2026-08-03T12:39:17.549367Z",
+      "phase": 1,
+      "phase_display": "Orientation",
+      "type_of_assessment": 1,
+      "type_of_assessment_details": {
+        "id": 1,
+        "name": "Self assessment"
+      },
+      "ns_focal_point_name": "Zafarjon Rahmanov",
+      "ns_focal_point_email": "zafarjonrahmanov@gmail.com"
+    },
+    {
       "id": 166,
       "assessment_number": 1,
       "date_of_orientation": "2021-09-01",

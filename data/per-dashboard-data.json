@@ -1746,6 +1746,17 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
+          "assessment_id": 233,
+          "assessment_number": 2,
+          "country_id": 6,
+          "country_name": "Uzbekistan",
+          "region_id": 3,
+          "region_name": "Europe",
+          "date_of_assessment": "2026-08-03",
+          "rating_value": null,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 166,
           "assessment_number": 1,
           "country_id": 6,
@@ -148821,6 +148832,13 @@
       {
         "assessment_number": 1,
         "date": null,
+        "components": [],
+        "phase": 1,
+        "phase_display": "Orientation"
+      },
+      {
+        "assessment_number": 2,
+        "date": "2026-08-03",
         "components": [],
         "phase": 1,
         "phase_display": "Orientation"

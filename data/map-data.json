@@ -72211,6 +72211,28 @@
     ]
   },
   {
+    "id": 233,
+    "assessment_number": 2,
+    "date_of_assessment": "2026-08-03",
+    "country_id": 6,
+    "country_name": "Uzbekistan",
+    "phase": 1,
+    "phase_display": "Orientation",
+    "type_of_assessment": 1,
+    "type_of_assessment_name": "Self assessment",
+    "country_iso3": "UZB",
+    "region_id": 3,
+    "region_name": "Europe",
+    "latitude": 41.377491,
+    "longitude": 64.585262,
+    "updated_at": "2026-08-03T12:39:17.549367Z",
+    "prioritized_components": [],
+    "epi_considerations": false,
+    "climate_environmental_considerations": false,
+    "urban_considerations": false,
+    "components": []
+  },
+  {
     "id": 166,
     "assessment_number": 1,
     "date_of_assessment": null,
