@@ -144589,6 +144589,10 @@
       ]
     },
     {
+      "id": 181,
+      "area_responses": []
+    },
+    {
       "id": 75,
       "area_responses": [
         {
@@ -184751,8 +184755,1234 @@
       ]
     },
     {
-      "id": 149,
-      "area_responses": []
+      "id": 176,
+      "area_responses": [
+        {
+          "id": 4822,
+          "component_responses": [
+            {
+              "id": 42816,
+              "component": 55,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 55,
+                "component_num": 36,
+                "area": 5,
+                "title": "Communication in emergencies",
+                "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Hallazgos\n-Existe un sistema de comunicación en emergencias con puntos focales, voceros y plan de comunicación implementado.\n-Se realiza monitoreo de medios y redes sociales, con coordinación con FICR y CICR.\n-Los mensajes se elaboran con información verificada y se difunden oportunamente.\n\nCompromisos pendientes\n-Estandarizar plantillas de comunicación en todas las delegaciones.\n-Fortalecer la difusión interna de mensajes clave.\n-Desarrollar una política específica de redes sociales.\n-Reforzar las capacidades de comunicación en las delegaciones."
+            },
+            {
+              "id": 42817,
+              "component": 56,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 56,
+                "component_num": 37,
+                "area": 5,
+                "title": "Resource Mobilisation",
+                "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La evaluación muestra que la Sociedad Nacional cuenta con capacidades básicas para la movilización de recursos, principalmente por la experiencia del personal y los acuerdos con socios del Movimiento. Sin embargo, la gestión aún depende de proyectos y apoyos puntuales, sin mecanismos institucionales consolidados.\n\nCompromisos pendientes\n-Aprobar la estrategia de movilización de recursos.\n-Asignar un presupuesto para actividades de preparación.\n-Formalizar alianzas estratégicas con el sector privado.\n-Elaborar planes de movilización de recursos para las filiales.\n-Crear un fondo nacional de emergencia.\n-Fortalecer el rol del punto focal de movilización de recursos.\n-Implementar procedimientos para el seguimiento y reporte de recursos.\n-Habilitar una plataforma institucional para la recepción de donaciones.\n-Elaborar una política para la gestión de donaciones en especie."
+            },
+            {
+              "id": 42818,
+              "component": 48,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La evaluación evidencia que Cruz Roja Guatemalteca cuenta con una estructura funcional para gestionar la logística, compras, almacenes y transporte, así como personal capacitado, procedimientos y recursos básicos establecidos. No obstante, persisten brechas en la documentación y estandarización de algunos procesos, el registro de proveedores incumplidos, los acuerdos previos con proveedores críticos, el preposicionamiento de artículos de socorro y la disponibilidad de bodegas con acceso 24/7. En transporte y flota se requiere fortalecer la capacitación periódica de conductores, el manejo defensivo, primeros auxilios y Acceso Más Seguro, así como formalizar los procedimientos para emergencias, horas extraordinarias y compensaciones. También es necesario ampliar el registro de voluntarios con capacidades logísticas y el mapeo de recursos disponibles. En general, el principal reto es consolidar y ampliar las capacidades existentes hacia todas las Delegaciones, garantizando una gestión logística estandarizada, documentada y preparada para una respuesta oportuna ante emergencias."
+            },
+            {
+              "id": 42819,
+              "component": 44,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 44,
+                "component_num": 30,
+                "area": 5,
+                "title": "Safety and security management",
+                "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La evaluación refleja un nivel de cumplimiento parcial en la gestión de la seguridad. Existen avances en la implementación del enfoque de Acceso Más Seguro, la capacitación al personal y los mecanismos de reporte de incidentes; sin embargo, aún no se cuenta con una política institucional de seguridad ni con procedimientos estandarizados y socializados en toda la organización.\n\nCompromisos pendientes:\n-Aprobar la política institucional de seguridad y de Acceso Más Seguro.\n-Fortalecer la seguridad en las delegaciones y ampliar la red de puntos focales.\n-Socializar los procedimientos de seguridad con todo el personal y voluntariado.\n-Implementar un sistema de análisis de riesgos y monitoreo institucional.\n-Ampliar la cobertura y continuidad de las capacitaciones en gestión de la seguridad."
+            },
+            {
+              "id": 42820,
+              "component": 45,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 45,
+                "component_num": 31,
+                "area": 5,
+                "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+                "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Hallazgos principales:\n-Existe una unidad de Monitoreo y Evaluación, pero no una función PMER institucional; su implementación depende de los proyectos.\n-Se documentan lecciones aprendidas, aunque no existe un procedimiento estandarizado para su aplicación en la planificación.\n-Se dispone de un Plan Institucional de Respuesta (PIR) y de mecanismos de monitoreo en los proyectos.\n-Los informes técnicos y financieros se presentan oportunamente conforme a los requerimientos de los socios.\n-Se asignan recursos para evaluaciones y ejercicios de lecciones aprendidas al cierre de las operaciones.\n-La coordinación con la FICR y el CICR en procesos PMER se realiza de forma parcial y según los proyectos financiados.\n\nCompromisos pendientes:\n-Institucionalizar la función PMER con una estructura y responsabilidades definidas.\n-Establecer lineamientos para sistematizar y utilizar las lecciones aprendidas en la planificación.\n-Implementar un mecanismo que asegure la revisión y actualización de los planes operativos con base en los resultados de las operaciones.\n-Fortalecer la coordinación institucional del PMER con la FICR y el CICR, más allá de los proyectos específicos."
+            },
+            {
+              "id": 42821,
+              "component": 46,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 46,
+                "component_num": 32,
+                "area": 5,
+                "title": "Finance and Admin policy and emergency procedures",
+                "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Hallazgos\no Sistema contable automatizado y en proceso de migración a SAP Business One.\no Procedimientos y manuales de finanzas para emergencias aprobados y alineados con la normativa.\no Mecanismos de transparencia, auditoría y prevención de fraude implementados.\no Capacitación especializada concentrada en la sede central.\no No existe un procedimiento formal que vincule finanzas con los SOP del COE.\no Conocimiento parcial de los Memorandos de Entendimiento (MoU).\n\nCompromisos pendientes\no Finalizar la implementación de SAP Business One.\no Fortalecer la capacitación del personal en las delegaciones.\no Formalizar la vinculación de los procedimientos financieros con los SOP del COE.\no Socializar los MoU y acuerdos institucionales con el personal operativo y administrativo."
+            },
+            {
+              "id": 42814,
+              "component": 47,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 47,
+                "component_num": 33,
+                "area": 5,
+                "title": "Information and Communication Technology (ICT)",
+                "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La evaluación muestra que la organización cuenta con capacidades básicas de comunicación, como el uso de grupos institucionales de mensajería y frecuencias de radio autorizadas. Sin embargo, persisten brechas importantes en cobertura de radiocomunicaciones, equipamiento, procedimientos, conectividad y soporte técnico, lo que limita la capacidad de respuesta en emergencias.\n\nCompromisos pendientes\n-Capacitar al 100% del personal en el uso de radios.\n-Elaborar y aprobar los SOP de comunicaciones.\n-Ampliar la cobertura y dotación del sistema de radiocomunicación.\n-Equipar al personal clave y vehículos con radios.\n-Extender la asignación de teléfonos satelitales a puestos críticos.\n-Adquirir routers y equipos de conectividad para operaciones en terreno.\n-Designar puntos focales de TI en las delegaciones.\n-Fortalecer la disponibilidad de generadores portátiles en todas las sedes."
+            },
+            {
+              "id": 42815,
+              "component": 54,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 54,
+                "component_num": 35,
+                "area": 5,
+                "title": "Staff and volunteer management",
+                "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Principales Hallazgos\n• Gestión Normativa y Ética: Existe un marco ético sólido donde el 100% del personal y voluntariado firma el Código de Conducta al ingresar o registrarse. Asimismo, se aplican criterios de inclusión y diversidad en el voluntariado.\n• Bioseguridad y Bienestar: La institución aplica análisis de seguridad previos en intervenciones (Acceso Más Seguro) de forma empírica y realiza sesiones de debriefing y apoyo psicosocial tras emergencias. Sin embargo, la cobertura de seguros en operaciones continúa acotada a proyectos específicos.\n• Procesos Operativos y Registros: Aunque existen uniformes y carnetización, persiste un subregistro de personal y voluntariado en el sistema SIGA por falta de papelería o registros pendientes en delegaciones.\n• Capacitación y Desarrollo: La formación técnica y la retención del personal están supeditadas al financiamiento de proyectos externos, careciendo de un plan formal de carrera o rutas de aprendizaje institucionales.\n\nCompromisos pendientes\n• Aprobar y socializar los 25 protocolos operativos del Plan Institucional de Respuesta (PIR).\n• Finalizar la revisión y aprobación del Protocolo para la incorporación de voluntarios en emergencias.\n• Oficializar el borrador del Manual de Medallas para el reconocimiento del voluntariado.\n• Socializar activamente las políticas institucionales de PEAS, PGI y CEA, así como la actualización del Código de Conducta.\n• Difundir la herramienta específica de Acceso Más Seguro entre los equipos de respuesta.\n• Completar la migración e ingreso de datos al módulo de voluntariado en la plataforma SIGA para eliminar el subregistro.\n• Actualizar y centralizar la base de datos de contactos y capacidades del COE para que sea de libre acceso institucional.\n• Revisar la vigencia de los TDR y dotar de equipamiento específico de respuesta a las Delegaciones.\n• Diseñar una ruta formal de aprendizaje y capacitación continua que no dependa únicamente del financiamiento de proyectos.\n• Formular una estrategia institucional de rotación y retención de personal para respuesta."
+            }
+          ]
+        },
+        {
+          "id": 4823,
+          "component_responses": [
+            {
+              "id": 42822,
+              "component": 37,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 37,
+                "component_num": 23,
+                "area": 3,
+                "title": "Activation of regional and international support",
+                "description": "Procedures for requesting and accepting regional and international support in operations, including triggering coordination mechanisms for funding, materials and human resources deployments."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG conoce y utiliza mecanismos de apoyo internacional como DREF, llamamientos, SURGE, SIMS y fondos de acción rápida, y cuenta con PF definidos en el PIR. Los informes de situación se publican en GO y también se gestionan apoyos bilaterales con socios del Movimiento. Sin embargo, estos SOPs y mecanismos no están suficientemente socializados ni actualizados entre todo el personal y las Delegaciones."
+            },
+            {
+              "id": 42823,
+              "component": 27,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 27,
+                "component_num": 14,
+                "area": 3,
+                "title": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG tiene asignada en el PNR una función de apoyo ante amenazas tecnológicas y biológicas y cuenta con personal y voluntariado con formación en materiales peligrosos. Sin embargo, no dispone de un plan de acción, SOP específicos, equipamiento, financiación, mensajes públicos ni mecanismos de coordinación nacional, regional o transfronteriza. Además, dejó de participar en el grupo nacional de materiales peligrosos y no ha definido necesidades de asistencia internacional.\n\nAcción: La base de datos del área del voluntariado debería estar segregada por capacitaciones."
+            },
+            {
+              "id": 42824,
+              "component": 25,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 25,
+                "component_num": 14,
+                "area": 3,
+                "title": "RESTORING FAMILY LINKS (RFL)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con personal específico capacitado para prestar servicios de RCF durante emergencias. Las actividades se coordinan mediante un acuerdo anual de cooperación con el CICR, que establece el marco para su implementación.\n\n1. Socializar con el personal y Voluntariado el protocolo de RCF en desastres                                  \n 2. Crear una estructura nacional de puntos focales RCF en cada delegación, con roles definidos y protocolos de activación                        \n3. Establecer un sistema de coordinación interna que permita movilizar rápidamente personal y voluntariado capacitado en RCF hacia las zonas afectadas. \n4. Implementar un programa de formación continua en RCF, con módulos sobre protección de datos, acompañamiento psicosocial y uso de herramientas digitales.\n5. Preposicionar kits de comunicación en bodegas regionales y zonas de alto riesgo, complementando esta acción con protocolos claros de mantenimiento preventivo y pruebas periódicas que garanticen la operatividad del equipo en situaciones críticas, asegurando así una respuesta rápida, confiable y coordinada en beneficio de las familias afectadas."
+            },
+            {
+              "id": 42825,
+              "component": 26,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 26,
+                "component_num": 14,
+                "area": 3,
+                "title": "TRANSITION TO RECOVERY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con personal con conocimientos en recuperación en medios de vida, WASH, PGI, salud y salud mental, y conforma equipos multidisciplinarios con apoyo de socios del Movimiento. La transición desde la respuesta se realiza en la práctica según la capacidad operativa y los requerimientos del sistema nacional. Sin embargo, no existe un mandato formal ni un protocolo institucional que regule la recuperación y la transición a largo plazo.\n\nAcciones que se proponen implementar para el fortalecimiento de las intervenciones\n1. Continuar con el fortalecimiento a voluntarios sobre el enfoque de resiliencia comunitaria.\n2. Establecer hoja de ruta para la construcción de propuestas de trabajo integrales es decir que vincules a las diferentes áreas técnicas, y que esto permita generar mayor impacto en las poblaciones vulnerables atendidas.\n3. Se debe fortalecer o integrar dentro de las propuestas de trabajo una estrategia de salida que vincule e integre responsabilidades de las IIPP, OSC presentes en las áreas de intervención."
+            },
+            {
+              "id": 42826,
+              "component": 28,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 28,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG actualiza anualmente al personal y voluntariado en primeros auxilios básicos y los capacita en vigilancia basada en la comunidad. Los planes de contingencia y las evaluaciones de salud se realizan desde las Delegaciones o mediante proyectos específicos, al igual que los simulacros. No existe una red estable de voluntariado comunitario que participe de forma sistemática en la planificación, evaluación y reporte de eventos de salud.\n\n1. Conformar y capacitar voluntarios comunitarios de salud en cada delegación, con funciones específicas en planificación y evaluación.\n2. Extender la capacitación annual en PAB a voluntarios comunitarios, no solo al personal institucional.\n3. Integrar la capacitación en vigilancia comunitaria (VEBC) dentro del programa SPAC, asegurando que todos los voluntarios conozcan los protocolos de reporte."
+            },
+            {
+              "id": 42827,
+              "component": 23,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 23,
+                "component_num": 14,
+                "area": 3,
+                "title": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG interviene en alojamiento y albergues principalmente a requerimiento de CONRED, sin mecanismos propios de consulta comunitaria ni preposicionamiento basado en escenarios. Cuenta con procedimientos para adquirir ANA y aplica estándares Esfera y lineamientos de la FICR, pero no dispone de acuerdos previos con proveedores ni diseños estandarizados consultados con la población. Los equipos nacionales tienen conocimientos generales, aunque falta capacitación específica del voluntariado en materiales y soluciones de alojamiento.\n\n1. Establecer un mecanismo participativo formal (encuestas rápidas, grupos focales, validación comunitaria) que permita identificar las preferencias y necesidades de la población en riesgo antes de definir soluciones de alojamiento.\n2. Diseñar un plan de preposicionamiento estratégico en coordinación con CONRED, que incluya inventarios mínimos, puntos de almacenamiento seguros y protocolos de activación rápida.\n3. Actualizar periódicamente el kit estándar de ANA conforme a las normas Esfera y lineamientos de la IFRC, asegurando que los SOP nacionales estén alineados con los procedimientos internacionales.\n4. Implementar un programa de formación continua para equipos de intervención y voluntariado, con módulos prácticos sobre montaje de alojamientos básicos y uso del kit de alojamiento preposicionado."
+            },
+            {
+              "id": 42828,
+              "component": 24,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 24,
+                "component_num": 14,
+                "area": 3,
+                "title": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG forma parte del sistema nacional para el manejo e identificación de cadáveres, apoyando la función 8 de investigación forense. Estas responsabilidades están incorporadas en el PIR y se activan en coordinación con las autoridades competentes.\n\n1. Elaborar SOP específicos para el manejo de cadáveres en emergencias que estén vinculados a las funciones establecidas en el PNR.  \n2. Implementar programas de capacitación especializados en normas internacionales (OMS, CICR, Esfera) sobre manejo digno de cadáveres y procesos de identificación."
+            },
+            {
+              "id": 42829,
+              "component": 15,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 15,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY-BASED DP AND DRR",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG incorpora la preparación y RRD comunitaria en su Política de GRD y fortalece a las COLRED mediante capacitación, equipamiento y planes locales alineados con el sistema de CONRED. Sin embargo, la participación comunitaria, los sistemas de alerta temprana y las acciones de sensibilización no se aplican de forma uniforme ni mediante protocolos estandarizados. La integración de PGI, género, diversidad e inclusión depende todavía de proyectos específicos y requiere sistematización a nivel nacional."
+            },
+            {
+              "id": 42830,
+              "component": 16,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 16,
+                "component_num": 14,
+                "area": 3,
+                "title": "EVACUATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La evacuación se realiza desde las Delegaciones según el contexto comunitario, aportando vehículos, personal e insumos, pero no está formalizada dentro de una estrategia nacional. La CRG apoya los mecanismos locales de evacuación, mientras que el sistema de protección civil prioriza la autoevacuación de las comunidades en zonas de alto riesgo."
+            },
+            {
+              "id": 42831,
+              "component": 17,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 17,
+                "component_num": 14,
+                "area": 3,
+                "title": "HEALTH IN EMERGENCIES",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La CRG participa en la vigilancia epidemiológica y coordinación de emergencias de salud mediante el COE y el Clúster de Salud, con funciones definidas en el sistema nacional y protocolos de bioseguridad. Dispone de herramientas para evaluar necesidades y comunicar medidas preventivas, aunque los procedimientos de recolección de datos, participación comunitaria y gestión de rumores no están estandarizados en toda la SN. Su actuación ante aislamiento, cuarentena y epidemias se define según la emergencia y la capacidad disponible.\n\nEl Punto Focal de Salud en emergencias de la SN, debe monitorear los avances del plan propuesto en conjunto con el punto focal del PER."
+            },
+            {
+              "id": 42832,
+              "component": 18,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 18,
+                "component_num": 14,
+                "area": 3,
+                "title": "FIRST AID",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Los primeros auxilios forman parte de todas las acciones humanitarias de la CRG, que además coordina la atención prehospitalaria según el PNR. El voluntariado y las comunidades reciben formación en primeros auxilios y soporte vital básico. Sin embargo, en las Delegaciones existen limitaciones de equipamiento, actualización del personal y disponibilidad de voluntariado.\n\nLA CAPACIDAD DE ATENCIÓN PREHOSPITALARIA DEBE TRASLADARSE A LAS DELEGACIONES PARA QUE COORDINEN CON LAS INSTITUCIONES, POR EL ROL DE LIDERAZGO CON LAS OTRAS INSTITUCIONES DEL PAÍS."
+            },
+            {
+              "id": 42833,
+              "component": 19,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 19,
+                "component_num": 14,
+                "area": 3,
+                "title": "WATER AND SANITATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con un proceso operativo de WASH pendiente de aprobación en el PIR, participa en el WASH Hub y coordina con el Clúster WASH y el MSPAS. Dispone de voluntariado capacitado y especialistas ENI WASH, con experiencia en escuelas de campo y activaciones reales. Sin embargo, el equipamiento es insuficiente y poco tecnificado, la capacidad de respuesta simultánea es limitada y la unidad depende de financiación por proyectos."
+            },
+            {
+              "id": 42834,
+              "component": 20,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 20,
+                "component_num": 14,
+                "area": 3,
+                "title": "FOOD SECURITY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG analiza la seguridad alimentaria principalmente en proyectos financiados y utiliza datos agrometeorológicos, EDAN y KoboToolbox para orientar las intervenciones. Participa en mesas técnicas y acciones conjuntas con PMA, MAGA y SESAN, y está elaborando un plan de seguridad alimentaria y medios de vida integrado en el PED. Aún debe fortalecer las capacidades técnicas nacionales y formalizar procedimientos para la adquisición y distribución de ayuda alimentaria a escala.\n\nDentro de las acciones que se pueden implementar para el fortalecimiento del componente de seguridad alimentaria de la SN son:\n1. Establecer sistema de monitoreo y seguimiento de las acciones integradas en el Plan estratégico de desarrollo PED que integre el componente específico de seguridad alimentaria y medios de vida.\n2. Estandarizar herramientas de recopilación, análisis de datos y sistemas de distribución de asistencia alimentaria.\n3. Establecer punto focal de la SN en Seguridad alimentaria y nutricional."
+            },
+            {
+              "id": 42835,
+              "component": 21,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 21,
+                "component_num": 14,
+                "area": 3,
+                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Los medios de vida se están incorporando en el nuevo Plan Estratégico y en un plan de trabajo transversal, con un comité interno ya conformado y la propuesta de designar un punto focal. Los análisis de mercados, activos productivos y redes de seguridad se realizan principalmente durante emergencias o mediante proyectos financiados. Existen herramientas y participación en mesas técnicas, pero faltan procedimientos estandarizados, líneas de base actualizadas y mayor capacitación del personal y voluntariado."
+            },
+            {
+              "id": 42836,
+              "component": 22,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 22,
+                "component_num": 14,
+                "area": 3,
+                "title": "SEARCH AND RESCUE",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Estamos en apoyo en el plan nacional de respuesta PNR en la función 7 como institución participante, sin embargo no existe la capacidad nacional para ejercer esa función ni con personal capacitado adecuadamente ni con equipo y es necesario desarrollar procedimientos operativos y especializaciones continuas. No existe tecnología adecuada."
+            },
+            {
+              "id": 42837,
+              "component": 29,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 29,
+                "component_num": 15,
+                "area": 3,
+                "title": "Mapping of NS capacities",
+                "description": "A list of the NS capacities including HR (staff, response teams and volunteers) and equipment that are available for disaster/crisis response. Teams could include branch and national response teams. This should be defined by technical speciality where relevant."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG tiene definidos PF y SOP para la mayoría de las áreas de respuesta, aunque faltan en TREPI, alojamientos temporales y SMAPS. Mantiene bases de datos semestrales de equipos y mecanismos para compartir recursos, pero no dispone de una base consolidada de personal. Los recursos humanos y materiales son insuficientes y dependen en gran medida de financiación externa, por lo que se requiere actualizar y reestructurar las redes técnicas en las Delegaciones."
+            },
+            {
+              "id": 42838,
+              "component": 30,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 30,
+                "component_num": 16,
+                "area": 3,
+                "title": "Early Action Mechanisms",
+                "description": "Designed to translate warnings into anticipatory actions to help reduce the impact of specific disaster or crisis events. They focus on consolidating available forecasting information and putting procedures in place to ensure that a NS can act ahead of any disaster/crisis. Forecast-based financing is included within the scope of this area."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG participa en el mecanismo nacional de acciones anticipadas y cuenta con un PF, una metodología definida y PAT aprobados para inundaciones y sequía, además de otros en elaboración. La coordinación se realiza con CONRED, ministerios, COE, CCAH y estructuras territoriales, y las alertas se difunden mediante redes sociales y WhatsApp. Sin embargo, las bases de datos de contactos requieren actualización y la capacidad de las Delegaciones para informar a las comunidades depende en gran medida de proyectos financiados."
+            },
+            {
+              "id": 42839,
+              "component": 31,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 31,
+                "component_num": 17,
+                "area": 3,
+                "title": "Cash Based Intervention (CBI)",
+                "description": "An effective and flexible way, including all forms of cash and voucher-based assistance, to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies. Cash should also be mainstreamed into other sectors (including Relief, shelter, livelihoods) and services (Logistics, Finance, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con estudios de factibilidad, un portafolio de servicios de PTM, experiencia en DREF y acuerdos con proveedores financieros nacionales e internacionales. Dispone de un comité, puntos focales y herramientas adaptadas del kit de la FICR, aunque la base de datos de personal y voluntariado requiere actualización. La CRG participa activamente en los mecanismos de coordinación de efectivo, pero no los lidera."
+            },
+            {
+              "id": 42840,
+              "component": 32,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 32,
+                "component_num": 18,
+                "area": 3,
+                "title": "Emergency Needs Assessment",
+                "description": "Assess the extent and impact of the damage caused by the disaster/crisis and the degree of vulnerability of the affected population. The first step in any emergency response, such an assessment will identify the needs that require external intervention and the gaps to be filled. It is a vital component of the programme-planning process."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Existen formatos estandarizados de EDAN y registros con datos desagregados, aunque las demás áreas adaptan sus propias herramientas y no existe una estandarización institucional completa. Dispone de personal capacitado y utiliza las evaluaciones para elaborar informes, planificar la respuesta y reportar en GO, pero aún no ha conformado un equipo multisectorial de respuesta rápida. Las evaluaciones consideran capacidades, brechas, acceso a servicios, riesgos secundarios y vulnerabilidades de la población."
+            },
+            {
+              "id": 42841,
+              "component": 33,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 33,
+                "component_num": 19,
+                "area": 3,
+                "title": "Affected population selection",
+                "description": "Identification and selection of target Affected population for interventions, using a pre-defined set of criteria based on need and vulnerability. This includes consideration of specific vulnerabilities such as disability, age and gender."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Los criterios de selección y su comunicación a las comunidades no se aplican de manera sistemática en todos los proyectos, y la consideración de género, edad, discapacidad y diversidad se limita principalmente a proyectos de salud. La protección de datos se realiza sin un procedimiento institucional y se han registrado filtraciones bajo investigación. La capacitación en recopilación de datos se concentra en personal de proyectos y atención prehospitalaria, y las listas se verifican principalmente con información de las autoridades.\n\nEl punto débil a mejorar son los informes , las plataformas digitales disponibles para la SN para dar seguimiento y monitoreo a las operaciones.\nSistematización de mecanismos, consolidación de políticas manuales y guías y capacitación a personal."
+            },
+            {
+              "id": 42842,
+              "component": 34,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 34,
+                "component_num": 20,
+                "area": 3,
+                "title": "Emergency Operations Centre (EOC)",
+                "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con monitoreo permanente, un espacio físico para el COE, una ubicación alternativa, contactos actualizados y activación según niveles de alerta. Los procedimientos y protocolos están incluidos en el PIR, pero siguen pendientes de validación, actualización y socialización, por lo que el COE no opera formalmente bajo SOP aprobados. La capacidad es limitada: solo dos personas cubren el nivel nacional en turnos de 72 horas, faltan recursos de respaldo y la generación de información depende de un equipo reducido."
+            },
+            {
+              "id": 42843,
+              "component": 35,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 35,
+                "component_num": 21,
+                "area": 3,
+                "title": "Information Management (IM)",
+                "description": "Ability to manage information including requesting, receiving, analyzing and disseminating as per its procedures and partner requirements (IFRC and public authorities in particular). There should be a clear digital/paper trail that documents what, when and how the NS has acted and provides key information for the development of Emergency Plan of Actions. Includes IM between levels, between departments and Situational Reports, mapping, visualisation of data, GO platform (IFRC)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "IM está más desarrollada en la sede central, donde existen sistemas de archivo, minutas de decisiones y formatos de SitRep por áreas y en GO, pero su aplicación en las Delegaciones es limitada. El equipamiento disponible está obsoleto y los datos de referencia desagregados tienen poco nivel de detalle local. El intercambio y uso de la información se realiza en la práctica, aunque faltan procedimientos formalizados y socializados para todos los niveles y sectores."
+            },
+            {
+              "id": 42844,
+              "component": 36,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 36,
+                "component_num": 22,
+                "area": 3,
+                "title": "Testing and Learning",
+                "description": "Drills and Simulations allow the organization to test, identify and learn from the results of these type of exercises and incorporate learning into future preparedness and response planning."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Se realizan simulacros vinculados a los PAT de inundaciones y sequía y ejercicios de respuesta en zonas priorizadas, en coordinación con autoridades de distintos niveles. Las lecciones se trasladan a los puntos focales, pero no se incorporan sistemáticamente en los protocolos, y no todas las Delegaciones prueban sus sistemas de respuesta. Los aspectos de acceso seguro se consideran de forma desigual y los ejercicios transfronterizos se han limitado principalmente al WASH Hub."
+            }
+          ]
+        },
+        {
+          "id": 4824,
+          "component_responses": [
+            {
+              "id": 42848,
+              "component": 10,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 10,
+                "component_num": 10,
+                "area": 2,
+                "title": "Business continuity",
+                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG no cuenta con un plan aprobado de continuidad operacional para mantener sus funciones durante una emergencia que afecte su capacidad de respuesta. La comunicación con donantes y la reasignación de fondos se realizan en la práctica mediante adendas, pero no existe un procedimiento formalmente aprobado para ello.\n\n1. Elaborar y aprobar un Plan de Continuidad Operacional (PCO) que contemple escenarios de crisis y desastres, asegurando la protección del personal, activos y procesos críticos.\n2. Realizar simulacros periódicos para validar la eficacia del plan y ajustar procedimientos.\n3. Diseñar y aprobar un procedimiento institucional formal para la comunicación con donantes en situaciones de emergencia, incluyendo formatos estandarizados de notificación y solicitud.\n4. Implementar un registro centralizado de reasignaciones que permita monitorear el uso de recursos y rendir cuentas de manera eficiente."
+            },
+            {
+              "id": 42849,
+              "component": 11,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 11,
+                "component_num": 11,
+                "area": 2,
+                "title": "Emergency Response Procedures (SOPs)",
+                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Los SOP fueron definidos durante la actualización del PIR e incluyen protocolos por nivel, procedimientos para las distintas fases de respuesta, formularios del SCI, escalamiento de alertas y flujos de decisión. Sin embargo, siguen en revisión y validación, no se han difundido ni implementado plenamente en las Delegaciones. También falta incorporar al PIR un organigrama actualizado con datos de contacto.\n\n1. Completar el proceso de revisión, validación y aprobación oficial de los SOP, asegurando su publicación como documento institucional normativo.\n2. Implementar un plan de socialización y capacitación sobre los SOP, incluyendo talleres, guías prácticas y sesiones de inducción para nuevos integrantes.\n3. Desarrollar e implementar SOP específicos para Delegaciones, alineados al PIR.\n4. Incluir en el PIR un directorio institucional con datos de contacto actualizados, revisado semestralmente y difundido en formato digital e impreso."
+            },
+            {
+              "id": 42850,
+              "component": 12,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 12,
+                "component_num": 12,
+                "area": 2,
+                "title": "Response and recovery planning",
+                "description": "A documented set of procedures for the disaster/crisis response and recovery process. Including use of local capacities, transition to recovery, type of activities and serivices provided during response and recovery activities and exit strategies, procedures for DREF & EA, and templates for planning, budgeting and accessing funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "PIR en aprobación, orientado principalmente a la respuesta y alineado con el PNR, los Principios Fundamentales y las políticas de GRD. El plan incorpora al personal, voluntariado, gobernanza y apoyo técnico de la FICR, pero no integra de forma suficiente la participación comunitaria, la diversidad ni la recuperación. La transición hacia la recuperación se realiza mediante equipos sectoriales, aunque no está formalizada en el PIR y aún falta establecer protocolos de donación.\n\n1. Finalizar la actualización del PIR y aprobarlo formalmente como plan multisectorial, asegurando su difusión institucional.\n2. Incorporar herramientas rápidas de análisis de vulnerabilidades (checklists, encuestas comunitarias) para integrar estas complejidades en la planificación.\n3. Participación comunitaria → Establecer mecanismos de consulta y retroalimentación comunitaria (asambleas locales, comités de emergencia) para complementar la participación del personal y voluntariado.\n4. Incorporar un mapa de actores y coordinación interinstitucional, difundiendo el plan al Movimiento y socios externos.\n5. Consolidar un sistema de retroalimentación institucional que documente aprendizajes de simulacros y operaciones reales, integrándolos en la actualización del PIR.\n6. Desarrollar y aprobar un procedimiento institucional de donaciones, con criterios de transparencia y comunicación pública de necesidades prioritarias."
+            },
+            {
+              "id": 42851,
+              "component": 13,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 13,
+                "component_num": 13,
+                "area": 2,
+                "title": "Pre-disaster meetings and agreements",
+                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG mantiene reuniones y coordinaciones periódicas con actores del Movimiento, autoridades, Equipo Humanitario de País y otros socios, y dispone de acuerdos con proveedores financieros y de insumos. Estos acuerdos se alinean con las políticas institucionales y mecanismos regionales como CCAH y MECREG. Sin embargo, falta fortalecer su socialización interna, actualizar el mapeo de capacidades de los socios y mejorar el acceso previo a bases de datos de población vulnerable.\n\n1. Implementar un plan de capacitación y difusión interna sobre los acuerdos y procedimientos del PIR, con guías prácticas y simulacros.\n2. Establecer un mecanismo de verificación y archivo digital que garantice el cumplimiento y seguimiento de firmas del código de conducta. \n3. Negociar memorandos de entendimiento para acceso seguro y regulado a bases de datos de poblaciones vulnerables, con protocolos de confidencialidad"
+            },
+            {
+              "id": 42852,
+              "component": 6,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 6,
+                "component_num": 6,
+                "area": 2,
+                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La CRG cuenta con un sistema formal de monitoreo y alerta temprana articulado entre el COE, el PNR, el PIR y los PAT, con capacidad para recopilar y analizar información y activar acciones preventivas. Los análisis comunitarios incorporan Acceso Más Seguro, Acción sin Daño y factores de protección, aunque el mapeo de riesgos, los AVC y los datos desglosados dependen en gran medida de proyectos específicos. No existe un mecanismo nacional para actualizar y difundir periódicamente mapas multiamenaza ni protocolos formales de monitoreo e intercambio de información transfronteriza.\n\n1. Formalizar la interoperabilidad tecnológica entre INSIVUMEH y PAT, capacitando personal en interpretación de alertas.\n2. Crear un área técnica o equipo responsible que actualice y difunda mapas periódicamente.\n3. Estandarizar metodología AVC a nivel nacional e incorporarla en de cada Delegación .\n4. Incorporar sistemáticamente análisis de conectores/divisores con guías prácticas y capacitaciones.\n5. Adoptar como estándar institucional la recolección de datos desglosados en todas las herramientas AVC.\n6. Promover la firma de un Protocolo Transfronterizo de Intercambio de Información y Monitoreo de Riesgos."
+            },
+            {
+              "id": 42845,
+              "component": 7,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 7,
+                "component_num": 7,
+                "area": 2,
+                "title": "Scenario planning",
+                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "El PIR incorpora análisis multisectoriales y escenarios por amenaza, aunque sus procedimientos siguen pendientes de validación. Existen algunos planes de contingencia para amenazas concretas y en determinadas Delegaciones, pero no cubren de forma integral todos los riesgos ni incluyen desencadenantes para crisis prolongadas. La participación de las Delegaciones, la incorporación de aspectos de acceso y seguridad y la coordinación regional aún requieren mayor formalización.\n\n1. Realizar talleres multidisciplinarios para mapear factores de vulnerabilidad, causas y definir supuestos de impacto cuantificables con todos los sectores técnicos.\n2. Mapear las zonas de alto riesgo del país y coordinar directamente con las autoridades públicas para armonizar los planes de contingencia.\n3. Involucrar activamente a las filiales locales en el diseño y validación de la estrategia para asegurar su aplicabilidad en el terreno.\n4. Incluir evaluaciones de seguridad, análisis de contexto y estrategias de negociación y aceptación comunitaria para garantizar el acceso humanitario.\n5. Establecer protocolos conjuntos y canales de comunicación con países vecinos para el manejo de crisis transfronterizas.\n6. Institucionalizar la revisión y actualización obligatoria de los planes de contingencia de alto riesgo al menos una vez al año."
+            },
+            {
+              "id": 42846,
+              "component": 8,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 8,
+                "component_num": 8,
+                "area": 2,
+                "title": "Risk management",
+                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La gestión de riesgos se distribuye entre las Direcciones, el IFI y el COE, con evaluaciones de seguridad, protocolos de acción temprana, auditorías internas y coordinación territorial. Sin embargo, no existen protocolos integrales e institucionalizados que abarquen todos los sectores técnicos y los riesgos operacionales, reputacionales y de integridad. La gestión de crisis recae en el Consejo Nacional y las Juntas Directivas, principalmente ante incidentes o temas críticos.\n\n1. Designar formalmente un responsible institucional de gestión de riesgos, con perfil técnico y capacitación específica, que coordine transversalmente con IFI, COE y demás direcciones.\n2. Institucionalizar protocolos de gestión de riesgos (operacionales, reputacionales y de seguridad en terreno), integrándolos en manuales y planes de respuesta.\n3. Establecer mesas de diálogo territorial para aumentar la aceptación y confianza.\n4. Fortalecer los sistemas de control interno mediante auditorías externas periódicas y mecanismos de denuncia anónima.\n5. Incluir de manera permanente en la agenda de los órganos directivos un punto específico sobre riesgos reputacionales e integridad."
+            },
+            {
+              "id": 42847,
+              "component": 9,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 9,
+                "component_num": 9,
+                "area": 2,
+                "title": "Preparedness plans and budgets",
+                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con una Dirección de GRD y una coordinación responsible de la preparación, además de fondos estatales de emergencia, QAF y Planes de Acción Temprana. Las brechas se están identificando mediante las evaluaciones PER y BOCA 2.0, y se realizan acciones de fortalecimiento de capacidades. La estrategia de movilización de recursos está en actualización y las acciones de preparación se revisan tras simulaciones, simulacros o emergencias reales.\n\n1. Integrar los resultados de la autoevaluación PER y BOCA 2.0 en un plan de acción institucional con prioridades claras.\n2. Establecer un sistema de seguimiento de brechas con indicadores medibles y responsables asignados.\n3. Crear un registro institucional de acciones correctivas, vinculando cada brecha con la medida aplicada y su estado de avance.\n4. Finalizar y aprobar la estrategia actualizada de movilización de recursos, alineada con las evaluaciones PER y BOCA.\n5. Institucionalizar un cronograma de revisión semestral de planes de preparación, independiente de simulacros o activaciones reales.\n6. Elaborar un manual financiero de preparación y respuesta, que defina criterios de asignación de fondos de emergencia y desarrollo."
+            }
+          ]
+        },
+        {
+          "id": 4825,
+          "component_responses": [
+            {
+              "id": 42853,
+              "component": 2,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 2,
+                "component_num": 2,
+                "area": 1,
+                "title": "DRM Strategy",
+                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La CRG cuenta con un Plan Estratégico Institucional 2026–2030 que incorpora la GRD y con un PIR en actualización, ambos pendientes de aprobación. El PIR integrará la política y la estrategia de GRD y se prevé su difusión mediante el Repositorio Institucional. La estrategia asigna funciones a la Junta Directiva de las Delegaciones, Direcciones, Departamentos y voluntariado para apoyar una respuesta integral."
+            },
+            {
+              "id": 42854,
+              "component": 3,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 3,
+                "component_num": 3,
+                "area": 1,
+                "title": "DRM Policy",
+                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con una Política de GRD aprobada en septiembre de 2024, con objetivos, indicadores, estrategia y dictámenes favorables de CONRED y IFRC, además de una Política de Cambio Climático. La política incorpora valores institucionales y asigna roles a las Delegaciones, Direcciones, Departamentos y voluntariado. Su integración en el PED 2026–2030 y el PIR está prevista, pero ambos documentos siguen pendientes de aprobación y posterior divulgación.\n\nSe espera que al finalizar el 2026 se cuente con la aprobación del PED y PIR."
+            },
+            {
+              "id": 42855,
+              "component": 4,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 4,
+                "component_num": 4,
+                "area": 1,
+                "title": "DRM Laws, Advocacy and Dissemination",
+                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG no cuenta con un plan de diplomacia humanitaria para IDRL, aunque ha identificado exenciones fiscales aplicables y está formando personal en DIH. Promueve talleres con instituciones públicas sobre el Tratado de Protección de Personas en Casos de Desastre y la Ley Modelo. La experiencia del simulacro WASH-HUB aportó aprendizajes sobre movilización de asistencia internacional, pero requiere seguimiento sistemático.\n\nEs necesario establecer un Punto Focal para el seguimiento de IDRL."
+            },
+            {
+              "id": 42856,
+              "component": 5,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 5,
+                "component_num": 5,
+                "area": 1,
+                "title": "Quality and accountability",
+                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La participación comunitaria se incorpora solo en algunos proyectos, aunque ya existe un mecanismo estandarizado de retroalimentación y reclamos, una Política de PEAS y formación básica en CEA. Las herramientas y plantillas de CEA aún no están sistematizadas ni integradas en los SOP, y la red nacional de puntos focales está en proceso de conformación. La protección y la inclusión están contempladas en políticas sectoriales, pero falta integrarlas plenamente en GRD y reforzar la aplicación de Esfera, CHS y el principio de \"no hacer daño\" en los ámbitos económicos y ambiental."
+            },
+            {
+              "id": 42857,
+              "component": 1,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 1,
+                "component_num": 1,
+                "area": 1,
+                "title": "RC auxiliary role, Mandate and Law",
+                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "El rol auxiliar de la CRG está reconocido en la legislación, las políticas, los Estatutos, convenios institucionales y algunos planes, aunque no se refleja en todos ni existe una ley específica que lo articule. El mandato está alineado con los Principios Fundamentales, pero su difusión entre personal, voluntariado y autoridades no está sistematizada. La promoción del DIH se realiza mediante sesiones periódicas del CICR y la participación de la CRG en la COGUADIH, sin contar con un equipo interno de instructores.\n\nEl aspecto más importante a abordar es que a través de una ley emitida por el Congreso de República de Guatemala, se reconozca el Rol Auxiliar hacia el Poder Público, en el ámbito humanitario de CRG. Debido que a través de ella se logrará que toda la población incluyendo a los funcionarios públicos tengan conocimiento del Rol citado, pues nadie puede alegar ignorancia de ley."
+            }
+          ]
+        },
+        {
+          "id": 4826,
+          "component_responses": [
+            {
+              "id": 42858,
+              "component": 42,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 42,
+                "component_num": 28,
+                "area": 4,
+                "title": "Coordination with local community level responders",
+                "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG mantiene mecanismos prácticos, aunque no formalizados, de comunicación entre comunidades, Delegaciones y sede, especialmente durante emergencias y proyectos. La información comunitaria se incorpora en los EDAN y en la gestión de asistencia humanitaria mediante las COLRED. Las Delegaciones coordinan y fortalecen a las COLRED y comités de salud, pero falta establecer procedimientos y sistemas formales de comunicación con los equipos comunitarios."
+            },
+            {
+              "id": 42859,
+              "component": 43,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 43,
+                "component_num": 29,
+                "area": 4,
+                "title": "Cooperation with private sector",
+                "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG no cuenta con criterios formales de debida diligencia para seleccionar socios privados o aceptar donaciones, incluidos controles sobre lavado de dinero y riesgos reputacionales. Dispone de un Manual de Marca para proteger el emblema y la identidad visual, aunque falta el reglamento de la ley correspondiente. Tampoco existen mecanismos para capacitar e incorporar voluntariado corporativo."
+            },
+            {
+              "id": 42860,
+              "component": 38,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 38,
+                "component_num": 24,
+                "area": 4,
+                "title": "Coordination with Movement",
+                "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG cuenta con un MoU del Movimiento y mecanismos internos de coordinación e intercambio de información con la FICR, el CICR, socios y Sociedades Nacionales vecinas. La coordinación regional se aplica en áreas como CEA, comunicación, salud, WASH, migración y dengue. Existe una práctica para gestionar, registrar e informar la asistencia internacional, incluida la gestión aduanal, pero falta formalizarla mediante un procedimiento operativo."
+            },
+            {
+              "id": 42861,
+              "component": 39,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 39,
+                "component_num": 25,
+                "area": 4,
+                "title": "Coordination with authorities",
+                "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG participa formalmente en el CCAH de CONRED, con enlaces designados, capacitados y funciones establecidas en su manual, y coordina a nivel territorial mediante COLRED, COMRED, CODRED, COCODES, COMUDES y COMUSAN. Atiende requerimientos de las autoridades cuando sus capacidades son superadas, aunque no dispone de un conocimiento completo de dichas capacidades. Mantiene el control de sus recursos y emblema, pero debe reforzar el conocimiento sobre su uso indicativo y protector.\n\nSi se tienen MoU. con CONRED, INSIVUMEH, con el MSPAS y con el Equipo Humanitario del País."
+            },
+            {
+              "id": 42862,
+              "component": 40,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 40,
+                "component_num": 26,
+                "area": 4,
+                "title": "Coordination with External Agencies and NGOs",
+                "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG participa en espacios de coordinación humanitaria y clústeres de salud, WASH, epidemias, gestión de riesgos, migración y alojamiento, y cuenta con un MoU con el Equipo Humanitario de País. Conoce los mecanismos de coordinación de alojamiento y ha participado en procesos de financiación de Naciones Unidas, como el CERF. Los acuerdos con ACNUR, OIM y otros socios se han desarrollado principalmente para proyectos específicos, especialmente en movilidad humana."
+            },
+            {
+              "id": 42863,
+              "component": 41,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 41,
+                "component_num": 27,
+                "area": 4,
+                "title": "Civil Military Relations",
+                "description": "Dialogue and interaction with military actors, essential to protect and promote humanitarian principles, avoid competition, minimize inconsistency and, when appropriate, pursue common goals."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CRG mantiene coordinación práctica y realiza capacitaciones con la Brigada Humanitaria de Rescate, pero no cuenta con acuerdos ni una normativa institucional sobre relaciones cívico-militares. Tampoco existen procedimientos para el uso excepcional de activos militares, la comunicación con la FICR o la evaluación de riesgos para la población afectada. Se promueven los Principios Fundamentales y el uso del emblema, aunque su difusión debe fortalecerse."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 163,

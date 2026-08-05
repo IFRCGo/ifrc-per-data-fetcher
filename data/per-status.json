@@ -5733,13 +5733,13 @@
         "name": "Uzbekistan",
         "translation_module_original_language": "en"
       },
-      "assessment": null,
+      "assessment": 181,
       "prioritization": null,
       "workplan": null,
       "created_at": "2026-08-03T10:02:03.614583Z",
-      "updated_at": "2026-08-03T12:39:17.549367Z",
-      "phase": 1,
-      "phase_display": "Orientation",
+      "updated_at": "2026-08-04T12:55:45.404339Z",
+      "phase": 2,
+      "phase_display": "Assessment",
       "type_of_assessment": 1,
       "type_of_assessment_details": {
         "id": 1,
