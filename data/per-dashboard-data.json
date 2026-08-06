@@ -136413,6 +136413,15 @@
             "rating_title": "Exists – Could be Strengthened"
           },
           {
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
             "component_id": 35,
             "component_name": "Information Management (IM)",
             "component_num": 21,
@@ -136609,15 +136618,6 @@
             "area_name": "Operational capacity",
             "rating_value": 2,
             "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 34,
-            "component_name": "Emergency Operations Centre (EOC)",
-            "component_num": 20,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 40,

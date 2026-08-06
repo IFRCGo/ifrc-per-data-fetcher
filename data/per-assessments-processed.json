@@ -122046,10 +122046,10 @@
       "id": 156,
       "area_responses": [
         {
-          "id": 4827,
+          "id": 4832,
           "component_responses": [
             {
-              "id": 42864,
+              "id": 42914,
               "component": 56,
               "rating": 4,
               "rating_details": {
@@ -122073,7 +122073,7 @@
               "notes": "Absence of a clear resource mobilization strategy and internal alignment.\nCVP demonstrates operational and logistical capacity to mobilize resources during emergencies. However, there are gaps in the structuring of processes, including the lack of clear procedures, defined roles and responsibilities, and weaknesses in internal communication.\nNo verification mechanisms or predefined criteria are in place for the management of in-kind donations."
             },
             {
-              "id": 42865,
+              "id": 42915,
               "component": 44,
               "rating": null,
               "rating_details": {
@@ -122097,7 +122097,7 @@
               "notes": "GAP, ASK Learning & training team, Not mentioned,\nImpact.\nASK for volunteers. CVP Manual de Acolhimento defines institutional rules, procedures and working arrangements to new staff."
             },
             {
-              "id": 42866,
+              "id": 42916,
               "component": 45,
               "rating": null,
               "rating_details": {
@@ -122121,7 +122121,7 @@
               "notes": "GAP, \nPM was doing the PMER in the Fires operation,\nAsk about the systems in place (M&E, Lessons learned integrated in next planning)"
             },
             {
-              "id": 42867,
+              "id": 42917,
               "component": 46,
               "rating": null,
               "rating_details": {
@@ -122145,7 +122145,7 @@
               "notes": "ASK Finance,"
             },
             {
-              "id": 42868,
+              "id": 42918,
               "component": 47,
               "rating": 5,
               "rating_details": {
@@ -122169,7 +122169,7 @@
               "notes": null
             },
             {
-              "id": 42869,
+              "id": 42919,
               "component": 48,
               "rating": 5,
               "rating_details": {
@@ -122193,7 +122193,7 @@
               "notes": "ASK\nWhat about the islands?\nThe implementation phase was particularly demanding, partly due to challenges in aligning support services, with procurement centralized in Lisbon and other logistics functions based in Coimbra"
             },
             {
-              "id": 42870,
+              "id": 42920,
               "component": 54,
               "rating": 4,
               "rating_details": {
@@ -122214,10 +122214,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK if volunteers are also required to formally sign the Code of Conduct.\nCVP Manual de Acolhimento da Cruz Vermelha Portuguesa establishes the formal onboarding process, including institutional induction.\nASK training on sef-care...CVP Política de Voluntariado (2026) includes measures for volunteer safety, protection and well-being. No evidence was provided to demonstrate their implementation in practice."
+              "notes": "CVP Manual de Acolhimento da Cruz Vermelha Portuguesa establishes the formal onboarding process, including institutional induction.\nASK training on sef-care...CVP Política de Voluntariado (2026) includes measures for volunteer safety, protection and well-being. No evidence was provided to demonstrate their implementation in practice."
             },
             {
-              "id": 42871,
+              "id": 42921,
               "component": 55,
               "rating": 5,
               "rating_details": {
@@ -122243,10 +122243,34 @@
           ]
         },
         {
-          "id": 4828,
+          "id": 4833,
           "component_responses": [
             {
-              "id": 42880,
+              "id": 42944,
+              "component": 34,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 34,
+                "component_num": 20,
+                "area": 3,
+                "title": "Emergency Operations Centre (EOC)",
+                "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK Karen and the EOC manager.\nDM Level it is strong. They have all the structure but the current EOC manager is restricted to the ambulance services. It is activate when there is an emergency but there is still disconnected."
+            },
+            {
+              "id": 42922,
               "component": 35,
               "rating": 5,
               "rating_details": {
@@ -122270,7 +122294,7 @@
               "notes": "ASK EOC Manager"
             },
             {
-              "id": 42881,
+              "id": 42923,
               "component": 36,
               "rating": 4,
               "rating_details": {
@@ -122294,7 +122318,7 @@
               "notes": "Lessons learned, IMPACT\nASK are they organizing drills or simulations?"
             },
             {
-              "id": 42882,
+              "id": 42924,
               "component": 37,
               "rating": 4,
               "rating_details": {
@@ -122318,7 +122342,7 @@
               "notes": "In progress. NS is familiar with DREF (Fires 2024), Go platform"
             },
             {
-              "id": 42883,
+              "id": 42925,
               "component": 15,
               "rating": 2,
               "rating_details": {
@@ -122342,7 +122366,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42884,
+              "id": 42926,
               "component": 16,
               "rating": 2,
               "rating_details": {
@@ -122366,7 +122390,7 @@
               "notes": "ASK CVP 2024 activity report explicitly records preventive population evacuations (Sept 2024 rural fires response). Is it institutionalised?"
             },
             {
-              "id": 42885,
+              "id": 42927,
               "component": 17,
               "rating": 2,
               "rating_details": {
@@ -122390,7 +122414,7 @@
               "notes": "ASK Pre-hospital care services, Ambulances services."
             },
             {
-              "id": 42886,
+              "id": 42928,
               "component": 18,
               "rating": 2,
               "rating_details": {
@@ -122414,7 +122438,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42887,
+              "id": 42929,
               "component": 19,
               "rating": 2,
               "rating_details": {
@@ -122438,7 +122462,7 @@
               "notes": "House cleaning (new) not institutionalised before. They want to. ASK status now.\nCVP emergency framework (“Organização Sistémica da Emergência e sua Hierarquia”) includes “tratamento de água” during the relief phase and “condições sanitárias” during recovery, and the onboarding (Manual de Acolhimento, 2024) includes water and hygiene in emergency logistics/survival support."
             },
             {
-              "id": 42888,
+              "id": 42930,
               "component": 20,
               "rating": 1,
               "rating_details": {
@@ -122462,7 +122486,7 @@
               "notes": null
             },
             {
-              "id": 42889,
+              "id": 42931,
               "component": 21,
               "rating": 1,
               "rating_details": {
@@ -122486,7 +122510,7 @@
               "notes": null
             },
             {
-              "id": 42890,
+              "id": 42932,
               "component": 22,
               "rating": 1,
               "rating_details": {
@@ -122510,7 +122534,7 @@
               "notes": "ASK Confirm if there is another actor responding or they have the role"
             },
             {
-              "id": 42891,
+              "id": 42933,
               "component": 23,
               "rating": 2,
               "rating_details": {
@@ -122534,7 +122558,7 @@
               "notes": "ASK They do but confirm  details. They stablish the shelter but they do not operationalize, the municipality does."
             },
             {
-              "id": 42892,
+              "id": 42934,
               "component": 24,
               "rating": 1,
               "rating_details": {
@@ -122558,7 +122582,7 @@
               "notes": "ASK Capacity?"
             },
             {
-              "id": 42893,
+              "id": 42935,
               "component": 25,
               "rating": 3,
               "rating_details": {
@@ -122582,7 +122606,7 @@
               "notes": "CVP has established RFL procedures, workflows and trained capacity, including 2 HQ FPs and a network of 40 FPs, supported by ICRC tools and guidance. However, RFL remains primarily focused on migration and has not yet been fully integrated into domestic emergency response arrangements. Coordination and information-sharing mechanisms between RFL FPs, the CNE, ZCAPs and HQ are not formally defined, and personnel lack specific “RFL in emergencies” training."
             },
             {
-              "id": 42894,
+              "id": 42936,
               "component": 26,
               "rating": 1,
               "rating_details": {
@@ -122606,7 +122630,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42872,
+              "id": 42937,
               "component": 27,
               "rating": 1,
               "rating_details": {
@@ -122630,7 +122654,7 @@
               "notes": null
             },
             {
-              "id": 42873,
+              "id": 42938,
               "component": 28,
               "rating": 1,
               "rating_details": {
@@ -122654,7 +122678,7 @@
               "notes": null
             },
             {
-              "id": 42874,
+              "id": 42939,
               "component": 29,
               "rating": 3,
               "rating_details": {
@@ -122678,7 +122702,7 @@
               "notes": "ASK Gonzalo and Logistics, Volunteer Management.\nDuring the operation they did"
             },
             {
-              "id": 42875,
+              "id": 42940,
               "component": 30,
               "rating": 2,
               "rating_details": {
@@ -122702,7 +122726,7 @@
               "notes": "ASK Gonzalo. Coimbra got alerted. In the CNE meetings there is a system in place (risk watch).\nEOC 24/7\nNot sure if they hav"
             },
             {
-              "id": 42876,
+              "id": 42941,
               "component": 31,
               "rating": 3,
               "rating_details": {
@@ -122726,7 +122750,7 @@
               "notes": "CVA experience in the fires and they are trying to run a program."
             },
             {
-              "id": 42877,
+              "id": 42942,
               "component": 32,
               "rating": 3,
               "rating_details": {
@@ -122750,7 +122774,7 @@
               "notes": "GAP. At sectoral level they should have (ASK to confirm, in the Fires they did). \nDrones program (security in events, in emergencies to assess damage). They use the CNE ones. Can not act directly."
             },
             {
-              "id": 42878,
+              "id": 42943,
               "component": 33,
               "rating": 3,
               "rating_details": {
@@ -122772,38 +122796,14 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": "GAP is it formalised? ASK- Data Protection Policy TO SHARE. The CVP Code of Conduct (2018, section 11-POLÍTICA DE PRIVACIDADE E PROTECÇÃO DE DADOS PESSOAIS) refers to the existence of a Data Protection Policy and establishes privacy, confidentiality and personal data protection requirements. The organizational chart identifies a dedicated \"Gabinete de Proteção de Dados\".\nCVP had previous experience during the Fires DREF(2024). In the Kristin emergency (2026), selection is carried out by government authorities, with CVP implementing based on externally defined criteria and lists."
-            },
-            {
-              "id": 42879,
-              "component": 34,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 34,
-                "component_num": 20,
-                "area": 3,
-                "title": "Emergency Operations Centre (EOC)",
-                "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Karen and the EOC manager.\nDM Level it is strong. They have all the structure but the current EOC manager is restricted to the ambulance services. It is activate when there is an emergency but there is still disconnected."
             }
           ]
         },
         {
-          "id": 4829,
+          "id": 4834,
           "component_responses": [
             {
-              "id": 42896,
+              "id": 42945,
               "component": 40,
               "rating": 4,
               "rating_details": {
@@ -122827,7 +122827,7 @@
               "notes": "ASK about EU civil protection."
             },
             {
-              "id": 42897,
+              "id": 42946,
               "component": 41,
               "rating": 5,
               "rating_details": {
@@ -122851,7 +122851,7 @@
               "notes": "Historical good relation with the military. Still linked to the MoD."
             },
             {
-              "id": 42898,
+              "id": 42947,
               "component": 42,
               "rating": null,
               "rating_details": {
@@ -122875,7 +122875,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42899,
+              "id": 42948,
               "component": 43,
               "rating": null,
               "rating_details": {
@@ -122899,7 +122899,7 @@
               "notes": "ASK Resource Mobilization and Volunteers manager (Tiago)."
             },
             {
-              "id": 42900,
+              "id": 42949,
               "component": 38,
               "rating": 5,
               "rating_details": {
@@ -122923,7 +122923,7 @@
               "notes": "International missions (provide support). Used to engaged with other NS. Spanish RC involved in the emergency.\nStill to articulate."
             },
             {
-              "id": 42895,
+              "id": 42950,
               "component": 39,
               "rating": 5,
               "rating_details": {
@@ -122949,10 +122949,10 @@
           ]
         },
         {
-          "id": 4830,
+          "id": 4835,
           "component_responses": [
             {
-              "id": 42901,
+              "id": 42951,
               "component": 2,
               "rating": 2,
               "rating_details": {
@@ -122976,7 +122976,7 @@
               "notes": "There is no articulated DRM strategy at NS level. \n\"Organização Sistémica da Emergência e sua Hierarquia\" defines CVP’s operational DRM framework, aligned with CNE and covering main DRM phases, however, discussions indicate that current practice remains mainly response-oriented, with less emphasis on preparedness, risk reduction, resilience and recovery. \"Organização Sistémica da Emergência e sua Hierarquia\" does not include risk-based priorities and objectives, or an implementation roadmap."
             },
             {
-              "id": 42902,
+              "id": 42952,
               "component": 3,
               "rating": 2,
               "rating_details": {
@@ -123000,7 +123000,7 @@
               "notes": null
             },
             {
-              "id": 42903,
+              "id": 42953,
               "component": 4,
               "rating": null,
               "rating_details": {
@@ -123024,7 +123024,7 @@
               "notes": "ask Gonzalo"
             },
             {
-              "id": 42904,
+              "id": 42954,
               "component": 5,
               "rating": 3,
               "rating_details": {
@@ -123048,7 +123048,7 @@
               "notes": "ASK but probably is not in place (through the benchmarks). Needs development. Fires: they do not have it institutionalised feedback mechanisms but they informally do in field. MHPSS Programs (response). \n\nASK about the MHPSS program"
             },
             {
-              "id": 42905,
+              "id": 42955,
               "component": 1,
               "rating": 4,
               "rating_details": {
@@ -123074,10 +123074,10 @@
           ]
         },
         {
-          "id": 4831,
+          "id": 4836,
           "component_responses": [
             {
-              "id": 42912,
+              "id": 42956,
               "component": 11,
               "rating": 3,
               "rating_details": {
@@ -123101,7 +123101,7 @@
               "notes": "GASP ASK Directly because now is a no. Some systems are in place but they are not articulated (Some mentions of certains status that defined roles and responsabilities but there is not evicence on the document)"
             },
             {
-              "id": 42913,
+              "id": 42957,
               "component": 13,
               "rating": null,
               "rating_details": {
@@ -123125,7 +123125,7 @@
               "notes": "ASK Logistics"
             },
             {
-              "id": 42906,
+              "id": 42958,
               "component": 12,
               "rating": 2,
               "rating_details": {
@@ -123149,7 +123149,7 @@
               "notes": "There is a National Response Plan (CNE) and they are a supporting agent there. But There is no standardized national emergency response procedure or Response Plan in place (procedimento nacional de emergência estandar)."
             },
             {
-              "id": 42907,
+              "id": 42959,
               "component": 6,
               "rating": 2,
               "rating_details": {
@@ -123173,7 +123173,7 @@
               "notes": "CVP planning is informed by the government's National Risk Assessment (Avaliação Nacional de Risco, 2023), coordinated by ANEPC.  \nASK Does CVP do it jointly with the CNE? What do they discuss during the meetings with the CNE about risk analysis? \nASK directly benchmarks one by one"
             },
             {
-              "id": 42908,
+              "id": 42960,
               "component": 7,
               "rating": 2,
               "rating_details": {
@@ -123197,7 +123197,7 @@
               "notes": "CVP uses the government National Risk Assessment (Avaliação Nacional de Risco, 2023). No evidence was provided of a CVP humanitarian multi-sectoral scenario analysis.\nASK: \nIs CVP involved in the scenarios prepared by CNE?\nIs the \"Diretiva Operacional Nacional – Resposta Integrada no DECIR 2025\" reviewed annually or periodically?\nHas CVP other \"directivas operacional\" for other hazards?"
             },
             {
-              "id": 42909,
+              "id": 42961,
               "component": 8,
               "rating": null,
               "rating_details": {
@@ -123221,7 +123221,7 @@
               "notes": "GAP (ASK Interview)\nGuia \"Para Resolução de Conflitos, Tratamento de Suspeitas e Queixas, Quebras de Integridade\". \nASK There was an audit."
             },
             {
-              "id": 42910,
+              "id": 42962,
               "component": 9,
               "rating": null,
               "rating_details": {
@@ -123245,7 +123245,7 @@
               "notes": "Coimbra Annua Plan (ASK for the doc)\nThe annual strategic plan (2024) includes strengthening emergency response through the development of a dedicated command and training campus, alignment with international standards, optimization of operational services, improved information management and logistics, and the establishment of internal funding mechanisms to support emergency actions."
             },
             {
-              "id": 42911,
+              "id": 42963,
               "component": 10,
               "rating": 2,
               "rating_details": {

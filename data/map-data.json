@@ -10852,14 +10852,24 @@
     "updated_at": "2025-11-21T12:33:30.901752Z",
     "prioritized_components": [
       {
-        "componentId": 48,
-        "componentTitle": "Logistics, procurement and supply chain",
-        "areaTitle": "Operations support"
+        "componentId": 8,
+        "componentTitle": "Risk management",
+        "areaTitle": "Analysis and planning"
       },
       {
-        "componentId": 38,
-        "componentTitle": "Coordination with Movement",
-        "areaTitle": "Coordination"
+        "componentId": 9,
+        "componentTitle": "Preparedness plans and budgets",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 10,
+        "componentTitle": "Business continuity",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 11,
+        "componentTitle": "Emergency Response Procedures (SOPs)",
+        "areaTitle": "Analysis and planning"
       },
       {
         "componentId": 28,
@@ -10867,14 +10877,24 @@
         "areaTitle": "Operational capacity"
       },
       {
-        "componentId": 4,
-        "componentTitle": "DRM Laws, Advocacy and Dissemination",
-        "areaTitle": "Policy Strategy and Standards"
+        "componentId": 35,
+        "componentTitle": "Information Management (IM)",
+        "areaTitle": "Operational capacity"
       },
       {
-        "componentId": 10,
-        "componentTitle": "Business continuity",
-        "areaTitle": "Analysis and planning"
+        "componentId": 38,
+        "componentTitle": "Coordination with Movement",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 40,
+        "componentTitle": "Coordination with External Agencies and NGOs",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 48,
+        "componentTitle": "Logistics, procurement and supply chain",
+        "areaTitle": "Operations support"
       },
       {
         "componentId": 1,
@@ -10887,29 +10907,9 @@
         "areaTitle": "Policy Strategy and Standards"
       },
       {
-        "componentId": 8,
-        "componentTitle": "Risk management",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 9,
-        "componentTitle": "Preparedness plans and budgets",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 11,
-        "componentTitle": "Emergency Response Procedures (SOPs)",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 35,
-        "componentTitle": "Information Management (IM)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 40,
-        "componentTitle": "Coordination with External Agencies and NGOs",
-        "areaTitle": "Coordination"
+        "componentId": 4,
+        "componentTitle": "DRM Laws, Advocacy and Dissemination",
+        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -21661,16 +21661,6 @@
     "updated_at": "2025-11-21T14:02:13.708936Z",
     "prioritized_components": [
       {
-        "componentId": 31,
-        "componentTitle": "Cash Based Intervention (CBI)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 33,
-        "componentTitle": "Affected population selection",
-        "areaTitle": "Operational capacity"
-      },
-      {
         "componentId": 7,
         "componentTitle": "Scenario planning",
         "areaTitle": "Analysis and planning"
@@ -21698,6 +21688,16 @@
       {
         "componentId": 29,
         "componentTitle": "Mapping of NS capacities",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 31,
+        "componentTitle": "Cash Based Intervention (CBI)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 33,
+        "componentTitle": "Affected population selection",
         "areaTitle": "Operational capacity"
       },
       {
@@ -30410,6 +30410,16 @@
     "updated_at": "2025-11-21T15:29:32.437287Z",
     "prioritized_components": [
       {
+        "componentId": 36,
+        "componentTitle": "Testing and Learning",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 42,
+        "componentTitle": "Coordination with local community level responders",
+        "areaTitle": "Coordination"
+      },
+      {
         "componentId": 10,
         "componentTitle": "Business continuity",
         "areaTitle": "Analysis and planning"
@@ -30430,26 +30440,6 @@
         "areaTitle": "Operational capacity"
       },
       {
-        "componentId": 34,
-        "componentTitle": "Emergency Operations Centre (EOC)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 35,
-        "componentTitle": "Information Management (IM)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 36,
-        "componentTitle": "Testing and Learning",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 42,
-        "componentTitle": "Coordination with local community level responders",
-        "areaTitle": "Coordination"
-      },
-      {
         "componentId": 21,
         "componentTitle": "LIVELIHOOD SECURITY AND SAFETY NETS",
         "areaTitle": "Operational capacity"
@@ -30467,6 +30457,16 @@
       {
         "componentId": 31,
         "componentTitle": "Cash Based Intervention (CBI)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 34,
+        "componentTitle": "Emergency Operations Centre (EOC)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 35,
+        "componentTitle": "Information Management (IM)",
         "areaTitle": "Operational capacity"
       }
     ],
@@ -58337,6 +58337,15 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
+        "component_id": 34,
+        "component_name": "Emergency Operations Centre (EOC)",
+        "component_num": 20,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
         "component_id": 35,
         "component_name": "Information Management (IM)",
         "component_num": 21,
@@ -58533,15 +58542,6 @@
         "area_name": "Operational capacity",
         "rating_value": 2,
         "rating_title": "Partially Exists"
-      },
-      {
-        "component_id": 34,
-        "component_name": "Emergency Operations Centre (EOC)",
-        "component_num": 20,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
       },
       {
         "component_id": 40,
@@ -60395,6 +60395,31 @@
     "updated_at": "2025-11-21T16:02:32.036216Z",
     "prioritized_components": [
       {
+        "componentId": 42,
+        "componentTitle": "Coordination with local community level responders",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 30,
+        "componentTitle": "Early Action Mechanisms",
+        "areaTitle": "Operational capacity"
+      },
+      {
         "componentId": 1,
         "componentTitle": "RC auxiliary role, Mandate and Law",
         "areaTitle": "Policy Strategy and Standards"
@@ -60427,31 +60452,6 @@
       {
         "componentId": 35,
         "componentTitle": "Information Management (IM)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 42,
-        "componentTitle": "Coordination with local community level responders",
-        "areaTitle": "Coordination"
-      },
-      {
-        "componentId": 46,
-        "componentTitle": "Finance and Admin policy and emergency procedures",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 54,
-        "componentTitle": "Staff and volunteer management",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 30,
-        "componentTitle": "Early Action Mechanisms",
         "areaTitle": "Operational capacity"
       }
     ],
@@ -60983,6 +60983,11 @@
     "updated_at": "2025-11-22T15:25:43.737498Z",
     "prioritized_components": [
       {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 3,
         "componentTitle": "DRM Policy",
         "areaTitle": "Policy Strategy and Standards"
@@ -60991,41 +60996,6 @@
         "componentId": 6,
         "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 32,
-        "componentTitle": "Emergency Needs Assessment",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 47,
-        "componentTitle": "Information and Communication Technology (ICT)",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 2,
-        "componentTitle": "DRM Strategy",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 44,
-        "componentTitle": "Safety and security management",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 33,
-        "componentTitle": "Affected population selection",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 54,
-        "componentTitle": "Staff and volunteer management",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 55,
-        "componentTitle": "Communication in emergencies",
-        "areaTitle": "Operations support"
       },
       {
         "componentId": 7,
@@ -61041,6 +61011,36 @@
         "componentId": 11,
         "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 32,
+        "componentTitle": "Emergency Needs Assessment",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 33,
+        "componentTitle": "Affected population selection",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 44,
+        "componentTitle": "Safety and security management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 47,
+        "componentTitle": "Information and Communication Technology (ICT)",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 55,
+        "componentTitle": "Communication in emergencies",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": true,
@@ -72225,7 +72225,7 @@
     "region_name": "Europe",
     "latitude": 41.377491,
     "longitude": 64.585262,
-    "updated_at": "2026-08-04T12:55:45.404339Z",
+    "updated_at": "2026-08-05T05:20:47.826165Z",
     "prioritized_components": [],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
