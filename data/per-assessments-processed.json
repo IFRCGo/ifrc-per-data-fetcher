@@ -105438,10 +105438,567 @@
       "id": 170,
       "area_responses": [
         {
-          "id": 4630,
+          "id": 4878,
           "component_responses": [
             {
-              "id": 41543,
+              "id": 43358,
+              "component": 15,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 15,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY-BASED DP AND DRR",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": "No",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS is implementing the CB- DRR incitive they have some guideline and technical capacity in some provinces- Logar, Herat, Badakhshan, Faryab and Takhar; however, it need to be improvement and expand to other provinces. \nCBDRM committees have received technical training on DRR, Early Warning system, Climate change, Livelihood, First Aid, and Hygiene promotion are able to communicate alerts and support DRR activities before disasters occur, they are also equipped with basic tools such as big loudspeakers or other essential tools."
+            },
+            {
+              "id": 43359,
+              "component": 16,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 16,
+                "component_num": 14,
+                "area": 3,
+                "title": "EVACUATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS carries out evacuations as part of its disaster response, and branches confirmed that evacuation is included in practice. However, evacuations are generally conducted during disasters rather than planned in advance against specific scenarios, forecasts or triggers. Anticipatory action, including forecast-based evacuation planning, has been identified as an area for ARCS to strengthen."
+            },
+            {
+              "id": 43360,
+              "component": 17,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 17,
+                "component_num": 14,
+                "area": 3,
+                "title": "HEALTH IN EMERGENCIES",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• Branch-level Infection Prevention and Control trainings are conducted according to operational needs and budget availability. \n• Staff and volunteers are provided trainings on communicable diseases and epidemic control.\n• PPE is available for emergency responders, although stock levels and refresher training could be further strengthened.\n• Disaster Management leads annual pre-disaster coordination meetings, with active participation from the Health Department.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established a strong operational capacity for health emergency preparedness and response through its mandate. The National Society has demonstrated experience in responding to public health emergencies, including COVID-19, Acute Watery Diarrhoea outbreaks and population movements, through Mobile Health Teams, health facilities, referrals, MHPSS and community-based interventions. Health information systems and sectoral coordination support enhance emergency response. While technical capacity is well established, further strengthening is needed to update health policies and SOPs, institutionalize routine IPC and PPE refresher training, increase PPE preparedness, formalize community participation strategies for migration settings, and strengthen epidemic preparedness systems.\n\nNS has technical team, volunteers, SOPs , policy and they have 1 MHTs to per provinces for emergency, all system is in the place just need some strengthening."
+            },
+            {
+              "id": 43361,
+              "component": 18,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 18,
+                "component_num": 14,
+                "area": 3,
+                "title": "FIRST AID",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• First Aid responders follow MoPH and WHO IPC protocols during infectious disease outbreaks.\n• Staff and volunteers receive training on IPC measures, including the safe use of PPE and infection prevention practices relevant to emergency health response.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "First Aid is integrated into the ARCS Health Strategy, Community-Based Disaster Risk Reduction (CBDRR) programming and emergency response operations. ARCS maintains a nationwide network of trained First Aid volunteers who support communities during emergencies, with First Aid recognized as a core organizational service. The National Society has established an objective of expanding community First Aid capacity by training 1% of the Afghan population by 2030. Collaboration between the Health and Disaster Management departments supports decentralized training and preparedness activities. While First Aid capacity is well established, opportunities remain to institutionalize regular refresher training, increase the availability of First Aid equipment and supplies, and further strengthen preparedness for migration, displacement and large-scale emergency responses."
+            },
+            {
+              "id": 43362,
+              "component": 19,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 19,
+                "component_num": 14,
+                "area": 3,
+                "title": "WATER AND SANITATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• WASH is recognized as an important component of epidemic preparedness and response within ARCS' community-based health programming.\n• Hygiene promotion, safe water supply and sanitation activities are incorporated into emergency health responses where required.\n• Operational teams confirmed that epidemic-specific WASH interventions are implemented through dedicated projects; however, the National Society has limited numbers of trained WASH personnel and limited pre-positioned stocks, requiring procurement during larger emergencies.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "WASH has become an increasingly important component of ARCS emergency response and is integrated into the National Society's strategic and health programming. ARCS incorporate WASH considerations to needs assessments during emergencies and provides hygiene promotion, water supply and sanitation support through community-based health programmes, including for returnees, IDP and other vulnerable communities. Coordination exists with the WASH Cluster and Movement partners, with technical support primarily provided by IFRC, ICRC and PNSs. However, WASH remains a relatively new programme area within ARCS, and institutional capacity would benefit from strengthened technical expertise, finalized SOPs, increased equipment and pre-positioned stocks, and enhanced preparedness for large-scale emergencies."
+            },
+            {
+              "id": 43363,
+              "component": 20,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 20,
+                "component_num": 14,
+                "area": 3,
+                "title": "FOOD SECURITY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "No cluster coordination, no technical staff, no policy, no Safety standard, just NS distribute the food items and hot meals."
+            },
+            {
+              "id": 43364,
+              "component": 21,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 21,
+                "component_num": 14,
+                "area": 3,
+                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Livelihood security and safety nets are among ARCS’s strategic goals. ARCS ensures that these are incorporated into different tools and aligned with policy, strategy, and procedures. However, ARCS doesn’t have written livelihood guidelines or frameworks, other than the livelihood manual, which is yet to be seen. Staff and volunteers, both the livelihood focal and those supporting the livelihood program, need to be trained to update and upgrade their knowledge and skills."
+            },
+            {
+              "id": 43365,
+              "component": 22,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 22,
+                "component_num": 14,
+                "area": 3,
+                "title": "SEARCH AND RESCUE",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Basic search and rescue activities are carried out during a disaster by BDRT - specialised trained  and advance tools are required ."
+            },
+            {
+              "id": 43366,
+              "component": 23,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 23,
+                "component_num": 14,
+                "area": 3,
+                "title": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS carries out shelter related activitgies including camp managament and shelter reconstruction, but does not have clear SoPs, procedures, guidance, key technical staff, nor trained volunteers."
+            },
+            {
+              "id": 43367,
+              "component": 24,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 24,
+                "component_num": 14,
+                "area": 3,
+                "title": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "NS carries dead body management with support of ICRC, but has no formalised approach or system in the place. \nThey also do not  coordinate with local government."
+            },
+            {
+              "id": 43368,
+              "component": 25,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 25,
+                "component_num": 14,
+                "area": 3,
+                "title": "RESTORING FAMILY LINKS (RFL)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "NS has this program with support of ICRC. But no proper system"
+            },
+            {
+              "id": 43369,
+              "component": 26,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 26,
+                "component_num": 14,
+                "area": 3,
+                "title": "TRANSITION TO RECOVERY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": "Not aware of",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "There are no recovery principles, framework, or guidelines, \nARCS however does implement livelhods and shelter recovery activities as part of recovery efforts. \nFor example livelihood program for the disaster-affected population, migrants and displaced people, and vulnerable groups under the Marastoon. \nFurther strengthening and setup of the livelihood program are required. For Marastoon, an exit strategy, follow-up database, long-term monitoring, and a support system are required. A follow-up system is required.\nShelter recovery activities are also supported through DM."
+            },
+            {
+              "id": 43370,
+              "component": 27,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 27,
+                "component_num": 14,
+                "area": 3,
+                "title": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 43371,
+              "component": 28,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 28,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• Staff and volunteers engaged in CBHFA receive training on communicable diseases and epidemic control; however, refresher training is conducted according to operational needs rather than through a standardized programme.\n• During the COVID-19 response, CBHFA volunteers supported home-based care, health promotion and community awareness activities.\n• Community-Based Surveillance (CBS) has not yet been established within CBHFA programming.\n• Hygiene promotion activities are implemented through schools and communities in collaboration with the Ministry of Education.\n• Operational teams indicated that epidemic-specific simulation exercises for CBHFA volunteers remain limited and represent an area for further development.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS conduct CBHFA activities and it serves as an important platform for community health promotion, preparedness and emergency response. Volunteers receive Basic First Aid training upon recruitment and play an active role in community awareness, health event reporting, simulation exercises and referral to health facilities. CBHFA also contributes significantly to responses for epidemics and population movements through health education, hygiene promotion and psychosocial support. While the programme demonstrates community engagement and operational reach, opportunities remain to institutionalize annual refresher training, strengthen Community-Based Surveillance, expand epidemic simulation exercises and formalize community health contingency planning."
+            },
+            {
+              "id": 43372,
+              "component": 29,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 29,
+                "component_num": 15,
+                "area": 3,
+                "title": "Mapping of NS capacities",
+                "description": "A list of the NS capacities including HR (staff, response teams and volunteers) and equipment that are available for disaster/crisis response. Teams could include branch and national response teams. This should be defined by technical speciality where relevant."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "The National Society demonstrates a foundation for emergency response through established technical focal points and trained personnel. However, key preparedness systems remain only partially developed. Gaps include insufficient equipment, the absence of a comprehensive capacity mapping system, limited mechanisms for resource sharing, and the need for a regularly updated database of trained personnel, volunteers, and response assets. Strengthening these areas will improve the National Society's readiness to mobilize appropriate capacities across different hazard scenarios and enhance its ability to respond effectively to emergencies."
+            },
+            {
+              "id": 43373,
+              "component": 30,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 30,
+                "component_num": 16,
+                "area": 3,
+                "title": "Early Action Mechanisms",
+                "description": "Designed to translate warnings into anticipatory actions to help reduce the impact of specific disaster or crisis events. They focus on consolidating available forecasting information and putting procedures in place to ensure that a NS can act ahead of any disaster/crisis. Forecast-based financing is included within the scope of this area."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "Need to confirm with health focal",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS yet to establish EWS. \nWith support from DRC, ARCS has begun scoping and feasibility studies to identify and develop an action plan to establish the early action mechanism for ARCS.\nARCS has a community-level EWS established as part of CBDRR/resilience-building in the target communities/districts, but has yet to integrate early action for life-saving, prevention, or asset and property mitigation using the forecast-based mechanism."
+            },
+            {
+              "id": 43374,
+              "component": 31,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 31,
+                "component_num": 17,
+                "area": 3,
+                "title": "Cash Based Intervention (CBI)",
+                "description": "An effective and flexible way, including all forms of cash and voucher-based assistance, to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies. Cash should also be mainstreamed into other sectors (including Relief, shelter, livelihoods) and services (Logistics, Finance, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• ARCS demonstrated experience implementing cash assistance during the COVID-19 response, including support to vulnerable households through adapted cash delivery approaches.\n• The CVA SOP provides a general framework applicable to emergencies; however, epidemic-specific guidance for isolation support, outbreak-specific targeting and infection prevention during cash distributions remains limited.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established a good operational foundation for Cash and Voucher Assistance through an approved CVA SOP, trained staff and volunteers, standardized implementation tools and practical experience delivering cash assistance across multiple emergency contexts. Cash feasibility analysis and beneficiary registration processes are routinely applied before implementation. External coordination with humanitarian cash actors is primarily facilitated through IFRC, while ARCS coordinates internally with relevant departments and Movement partners during programme implementation. Nevertheless, preparedness remains largely response-driven and donor-dependent. The National Society would benefit from developing a dedicated CVA preparedness plan, institutionalizing preparedness market analysis, strengthening toolkit review processes, expanding cross-functional surge capacity, and increasing its direct participation in national cash coordination mechanisms (e.g. the Cash Working Group). Strengthening these areas would improve ARCS' readiness to deliver timely and scalable cash responses during future emergencies."
+            },
+            {
+              "id": 43375,
+              "component": 32,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 32,
+                "component_num": 18,
+                "area": 3,
+                "title": "Emergency Needs Assessment",
+                "description": "Assess the extent and impact of the damage caused by the disaster/crisis and the degree of vulnerability of the affected population. The first step in any emergency response, such an assessment will identify the needs that require external intervention and the gaps to be filled. It is a vital component of the programme-planning process."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has emergency needs assessment capacity through HQ-level NDRTs and branch-level BDRTs, and emergency plans of action are informed by assessment findings and coordination with other actors. Assessments consider needs, existing capacities, access to goods and services, secondary risks, vulnerable groups, coping mechanisms and self-recovery.\n\nHowever, assessment practice needs to be more standardised and consistently applied. ARCS has rapid assessment templates, but these are not always used, and there is no standard template for secondary data collection or reporting assessment findings. Branch-level data collection is more limited and often relies on aggregate information from community leaders rather than household-level assessment, which affects the consistency of disaggregated data."
+            },
+            {
+              "id": 43376,
+              "component": 33,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 33,
+                "component_num": 19,
+                "area": 3,
+                "title": "Affected population selection",
+                "description": "Identification and selection of target Affected population for interventions, using a pre-defined set of criteria based on need and vulnerability. This includes consideration of specific vulnerabilities such as disability, age and gender."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has a process for affected population selection, with criteria based on project requirements and vulnerability factors such as disability, women-headed households, large households, elderly people, injuries and loss of life. Criteria are shared from HQ to branches and communicated through households, community leaders, FGDs and, where possible, KIIs.\n\nHowever, the process needs strengthening in terms of documentation, transparency and consistency. Procedures are not clearly documented, beneficiary lists are not systematically cross-checked for inclusion and exclusion issues, and the system is not fully digitalised. While Kobo and Red Rose are used and data protection measures are applied, further digitalisation, including digital thumbprints and beneficiary receipts, would strengthen accountability and transparency."
+            },
+            {
+              "id": 43377,
+              "component": 34,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 34,
+                "component_num": 20,
+                "area": 3,
+                "title": "Emergency Operations Centre (EOC)",
+                "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "Yes, EOC takes the lead in coordinating when it comes to health-related hazards. EOC SOP not updated. The technical staff is assigned, and they are clear with their roles",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "EOC has seven staff members recruited. EOC has a designated space and has an SOP developed back in 2021 as part of the overall Disaster Response SOP. EOC assumes overall coordination roles for disaster response and operates 24/7 during an emergency. EOC is active in the normal and response phase, not activation based on the disaster level. EOC lacks the skills and capacity to monitor, analyze, and disseminate warning/decision functions. There are no EOC functions at the region and branch level. Considering the ARCS mandate and the EOC's existing functions, the team believes the EOC component stands in the “partially exists” category."
+            },
+            {
+              "id": 43378,
+              "component": 35,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 35,
+                "component_num": 21,
+                "area": 3,
+                "title": "Information Management (IM)",
+                "description": "Ability to manage information including requesting, receiving, analyzing and disseminating as per its procedures and partner requirements (IFRC and public authorities in particular). There should be a clear digital/paper trail that documents what, when and how the NS has acted and provides key information for the development of Emergency Plan of Actions. Includes IM between levels, between departments and Situational Reports, mapping, visualisation of data, GO platform (IFRC)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established information flows and IM knowledge, particularly at HQ level, but IM remains too dependent on individuals, email, USBs and paper-based systems. The main gap is the lack of a formal, secure and standardised IM system across HQ, branches and sectors"
+            },
+            {
+              "id": 43379,
+              "component": 36,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 36,
+                "component_num": 22,
+                "area": 3,
+                "title": "Testing and Learning",
+                "description": "Drills and Simulations allow the organization to test, identify and learn from the results of these type of exercises and incorporate learning into future preparedness and response planning."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Did simulation on 2012 but not relevant hopefully will be part of AA support to DRC"
+            },
+            {
+              "id": 43380,
+              "component": 37,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 37,
+                "component_num": 23,
+                "area": 3,
+                "title": "Activation of regional and international support",
+                "description": "Procedures for requesting and accepting regional and international support in operations, including triggering coordination mechanisms for funding, materials and human resources deployments."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "No\n• ARCS has experience receiving international medical assistance and health commodities during emergencies through coordination with Movement partners and government authorities.\n• Medicines and medical supplies are received and distributed according to operational needs.\n• A dedicated SOP governing the acceptance and management of international medical teams, equipment and laboratory supplies has not yet been developed.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established effective operational mechanisms for requesting and coordinating regional and international support through the International Relations (IR) Department and Emergency Operations Centre (EOC) meetings. Staff are familiar with available IFRC and ICRC technical, financial, material and surge support, and the National Society has practical experience accessing Disaster Response Emergency Fund (DREF) and Emergency Appeal (EA) assistance. Coordination arrangements with Movement partners are well established through sectoral SOPs, framework agreements and regular operational collaboration. However, procedures remain dispersed across departments rather than consolidated within a comprehensive international support activation framework. Institutional knowledge of IFRC systems such as the GO Platform and emergency funding processes could be further strengthened, alongside formal SOPs for bilateral assistance requests and the acceptance of international medical teams and assets."
+            }
+          ]
+        },
+        {
+          "id": 4879,
+          "component_responses": [
+            {
+              "id": 43381,
               "component": 1,
               "rating": 4,
               "rating_details": {
@@ -105465,7 +106022,7 @@
               "notes": "ARCS has an established auxiliary role that is recognized by the public authorities and supported by an evolving legal and policy framework. New ARCS Law has been developed to better define the National Society's mandate, Fundamental Principles, auxiliary role and relationship with Movement partners. However, the law is still awaiting formal approval. To continue ARCS operations until the law is approved, Supreme Leader has provided a letter acknowledging the mandate of ARCS, fundamental principles and its independence.\n\nARCS has taken steps to strengthen awareness of the Fundamental Principles, Humanitarian Diplomacy (HD) and International Humanitarian Law (IHL) through training and engagement with government authorities. \n\nHowever, interviews showed that understanding of the ARCS Law, mandate and related policies is not yet consistent across all levels of the organization (other department, staff and volunteers). Finalizing the new law, strengthening dissemination of policies and procedures, and continuing to build staff and volunteer awareness would further strengthen the National Society."
             },
             {
-              "id": 41544,
+              "id": 43382,
               "component": 2,
               "rating": 4,
               "rating_details": {
@@ -105489,7 +106046,7 @@
               "notes": "NS has a DM Strategy (2021-2025), and the review and revision of the existing strategy are ongoing to align it with the ARCS Strategy (2026-2030). The DM strategy focuses on the DM components: DRR, Preparedness, EOC, RFL, and PFA, however, strong linkages with other key technical and support sectors are not seen in the strategy. Target locations, outcomes, and strategic activities, milestones, and success indicators (key activities at the strategic level) are included in the revised strategy. In addition, the target locations are clearly identified in the strategy. The operational and action plan (annual) for the strategic plan will be followed, and the plan will be rolled out."
             },
             {
-              "id": 41545,
+              "id": 43383,
               "component": 3,
               "rating": 4,
               "rating_details": {
@@ -105513,7 +106070,7 @@
               "notes": "The ARCS has a DM Policy -2016 and plans to revise it after the DM strategy is finalized. The existing policy is a standalone DM policy, and collaboration and linkages with other key sectors, such as health and WASH, are not clearly outlined. There is a practice of including population movement and support at the field level, but this is not well reflected in the current policy."
             },
             {
-              "id": 41546,
+              "id": 43384,
               "component": 4,
               "rating": 2,
               "rating_details": {
@@ -105537,7 +106094,7 @@
               "notes": "ARCS doesn’t have an IDRL plan and no trained staff or focal point for IDRL and IHL. ARCS is yet to identify relevant legal facilities for special entitlements and exemptions in the national legislation."
             },
             {
-              "id": 41547,
+              "id": 43385,
               "component": 5,
               "rating": 4,
               "rating_details": {
@@ -105563,154 +106120,10 @@
           ]
         },
         {
-          "id": 4631,
+          "id": 4880,
           "component_responses": [
             {
-              "id": 41548,
-              "component": 6,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 6,
-                "component_num": 6,
-                "area": 2,
-                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "The hazard and risk monitoring system doesn't exist, but ARCS has a strong system for identifying risks in the target community using a participatory approach that respects cultural and other contexts. However, conflict sensitivity is yet to be integrated in the ongoing CBDRR activities."
-            },
-            {
-              "id": 41549,
-              "component": 7,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 7,
-                "component_num": 7,
-                "area": 2,
-                "title": "Scenario planning",
-                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Multi-sectoral analysis of scenarios not systematically carried out, captured or disseminate."
-            },
-            {
-              "id": 41550,
-              "component": 8,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 8,
-                "component_num": 8,
-                "area": 2,
-                "title": "Risk management",
-                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ARCS has practices for managing challenges but not a formal holistic risk management system.\nCurrently it is departmental, leadership led and reactive rather then proactive.\n\nARCS has established practices for identifying and following up on risk-related issues, which are generally referred to as challenges and gaps. These are managed through departmental, branch, regional and leadership structures, with issues escalated to HQ, executive leadership and, where relevant, the Board of Advisors. However, there is no single trained risk management focal point, and overall accountability for risk management is not clearly assigned. Risk management appears to be more departmental and reactive than formal, holistic and organisation-wide, with mitigation measures not consistently identified or operationalised in advance.\n\nARCS has important strengths in relation to acceptance, access and internal controls. Its long-standing national presence, branch network, volunteers and community trust support its acceptance as an independent humanitarian actor, and systems are in place to help prevent fraud and corruption, including procurement controls, inspection and control functions, digital systems and relevant internal policies. Critical incidents are managed through senior leadership coordination, particularly by the USG, but there is no standing, formally trained crisis management unit. Sanctions also create indirect risks for ARCS, particularly around international perception, representation and participation in coordination spaces.\n\nSanctions have both direct and indirect implications for ARCS, particularly in relation to international perception, engagement and coordination. While ARCS’ internal capacity and ability to deliver services was not reported as being directly affected, there are indirect challenges linked to how ARCS is perceived internationally, including concerns that it may be viewed as part of the authorities despite its independent humanitarian role. This can affect external engagement, including the ability of ARCS leadership to participate in some international coordination meetings. Overall, the findings suggest that sanctions create challenges around international access, representation and perception, rather than directly preventing ARCS from carrying out its core humanitarian work."
-            },
-            {
-              "id": 41551,
-              "component": 9,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 9,
-                "component_num": 9,
-                "area": 2,
-                "title": "Preparedness plans and budgets",
-                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
-              },
-              "urban_considerations": null,
-              "epi_considerations": "Need to confirm with Health Focal",
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ARCS does not have a comprehensive preparedness plan, guidelines or a policy for allocating funds for preparedness and response capacity strengthening. \nThe last structures, systematic preparedness gaps analysis was conducted in 2019."
-            },
-            {
-              "id": 41552,
-              "component": 10,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 10,
-                "component_num": 10,
-                "area": 2,
-                "title": "Business continuity",
-                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ARCS has practical operational capacity to continue activities and respond during emergencies, supported by internal coordination and stakeholder engagement. However, business continuity is not supported by a clear, approved and documented plan or formal procedures. Continuity is managed in practice, particularly at branch level, and ARCS does not have specific procedures for communicating with donors to repurpose funds for unexpected or emerging needs."
-            },
-            {
-              "id": 41553,
-              "component": 11,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 11,
-                "component_num": 11,
-                "area": 2,
-                "title": "Emergency Response Procedures (SOPs)",
-                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
-              },
-              "urban_considerations": null,
-              "epi_considerations": "Need to check with Health Focal",
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "The response SOP was developed and used until 2021. Multi-sector structure, response flow chart, and R&R are described, but there is no separate SOP for the branch. In the past five years, the response SOP was not used or implemented. Although the policy is not implemented or used, its guidance and principles are referenced as needed"
-            },
-            {
-              "id": 41554,
+              "id": 43392,
               "component": 12,
               "rating": 3,
               "rating_details": {
@@ -105734,7 +106147,7 @@
               "notes": "There is no disaster response plan at the HQ level, or any recovery plan/framework/guidelines. But ARCS has contingency and DRR plans at the district and community levels, and they considered and followed key principles and standards in implementation."
             },
             {
-              "id": 41555,
+              "id": 43393,
               "component": 13,
               "rating": 2,
               "rating_details": {
@@ -105756,39 +106169,34 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": "Pre-Disaster Engagement: No pre-disaster meeting or discussion occurred as part of preparedness and readiness.  Coordination is mostly reactive\nAgreements & Coordination: No pre-disaster agreement made with the PNSs. \nOperational Gaps: Capacity mapping was done as part of the 2026-2030 ARCS strategy development."
-            }
-          ]
-        },
-        {
-          "id": 4632,
-          "component_responses": [
+            },
             {
-              "id": 41556,
-              "component": 15,
-              "rating": 4,
+              "id": 43386,
+              "component": 6,
+              "rating": 3,
               "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
-                "id": 15,
-                "component_num": 14,
-                "area": 3,
-                "title": "COMMUNITY-BASED DP AND DRR",
-                "description": ""
+                "id": 6,
+                "component_num": 6,
+                "area": 2,
+                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
               },
               "urban_considerations": null,
-              "epi_considerations": "No",
+              "epi_considerations": null,
               "climate_environmental_considerations": null,
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ARCS is implementing the CB- DRR incitive they have some guideline and technical capacity in some provinces- Logar, Herat, Badakhshan, Faryab and Takhar; however, it need to be improvement and expand to other provinces. \nCBDRM committees have received technical training on DRR, Early Warning system, Climate change, Livelihood, First Aid, and Hygiene promotion are able to communicate alerts and support DRR activities before disasters occur, they are also equipped with basic tools such as big loudspeakers or other essential tools."
+              "notes": "The hazard and risk monitoring system doesn't exist, but ARCS has a strong system for identifying risks in the target community using a participatory approach that respects cultural and other contexts. However, conflict sensitivity is yet to be integrated in the ongoing CBDRR activities."
             },
             {
-              "id": 41557,
-              "component": 16,
+              "id": 43387,
+              "component": 7,
               "rating": 2,
               "rating_details": {
                 "id": 2,
@@ -105796,11 +106204,11 @@
                 "title": "Does Not Exist"
               },
               "component_details": {
-                "id": 16,
-                "component_num": 14,
-                "area": 3,
-                "title": "EVACUATION",
-                "description": ""
+                "id": 7,
+                "component_num": 7,
+                "area": 2,
+                "title": "Scenario planning",
+                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
               },
               "urban_considerations": null,
               "epi_considerations": null,
@@ -105808,23 +106216,23 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ARCS carries out evacuations as part of its disaster response, and branches confirmed that evacuation is included in practice. However, evacuations are generally conducted during disasters rather than planned in advance against specific scenarios, forecasts or triggers. Anticipatory action, including forecast-based evacuation planning, has been identified as an area for ARCS to strengthen."
+              "notes": "Multi-sectoral analysis of scenarios not systematically carried out, captured or disseminate."
             },
             {
-              "id": 41558,
-              "component": 17,
-              "rating": null,
+              "id": 43388,
+              "component": 8,
+              "rating": 3,
               "rating_details": {
-                "id": null,
-                "value": null,
-                "title": null
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
-                "id": 17,
-                "component_num": 14,
-                "area": 3,
-                "title": "HEALTH IN EMERGENCIES",
-                "description": ""
+                "id": 8,
+                "component_num": 8,
+                "area": 2,
+                "title": "Risk management",
+                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
               },
               "urban_considerations": null,
               "epi_considerations": null,
@@ -105832,7 +106240,425 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": null
+              "notes": "ARCS has practices for managing challenges but not a formal holistic risk management system.\nCurrently it is departmental, leadership led and reactive rather then proactive.\n\nARCS has established practices for identifying and following up on risk-related issues, which are generally referred to as challenges and gaps. These are managed through departmental, branch, regional and leadership structures, with issues escalated to HQ, executive leadership and, where relevant, the Board of Advisors. However, there is no single trained risk management focal point, and overall accountability for risk management is not clearly assigned. Risk management appears to be more departmental and reactive than formal, holistic and organisation-wide, with mitigation measures not consistently identified or operationalised in advance.\n\nARCS has important strengths in relation to acceptance, access and internal controls. Its long-standing national presence, branch network, volunteers and community trust support its acceptance as an independent humanitarian actor, and systems are in place to help prevent fraud and corruption, including procurement controls, inspection and control functions, digital systems and relevant internal policies. Critical incidents are managed through senior leadership coordination, particularly by the USG, but there is no standing, formally trained crisis management unit. Sanctions also create indirect risks for ARCS, particularly around international perception, representation and participation in coordination spaces.\n\nSanctions have both direct and indirect implications for ARCS, particularly in relation to international perception, engagement and coordination. While ARCS’ internal capacity and ability to deliver services was not reported as being directly affected, there are indirect challenges linked to how ARCS is perceived internationally, including concerns that it may be viewed as part of the authorities despite its independent humanitarian role. This can affect external engagement, including the ability of ARCS leadership to participate in some international coordination meetings. Overall, the findings suggest that sanctions create challenges around international access, representation and perception, rather than directly preventing ARCS from carrying out its core humanitarian work."
+            },
+            {
+              "id": 43389,
+              "component": 9,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 9,
+                "component_num": 9,
+                "area": 2,
+                "title": "Preparedness plans and budgets",
+                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "Need to confirm with Health Focal",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS does not have a comprehensive preparedness plan, guidelines or a policy for allocating funds for preparedness and response capacity strengthening. \nThe last structures, systematic preparedness gaps analysis was conducted in 2019."
+            },
+            {
+              "id": 43390,
+              "component": 10,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 10,
+                "component_num": 10,
+                "area": 2,
+                "title": "Business continuity",
+                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has practical operational capacity to continue activities and respond during emergencies, supported by internal coordination and stakeholder engagement. However, business continuity is not supported by a clear, approved and documented plan or formal procedures. Continuity is managed in practice, particularly at branch level, and ARCS does not have specific procedures for communicating with donors to repurpose funds for unexpected or emerging needs."
+            },
+            {
+              "id": 43391,
+              "component": 11,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 11,
+                "component_num": 11,
+                "area": 2,
+                "title": "Emergency Response Procedures (SOPs)",
+                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "Need to check with Health Focal",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "The response SOP was developed and used until 2021. Multi-sector structure, response flow chart, and R&R are described, but there is no separate SOP for the branch. In the past five years, the response SOP was not used or implemented. Although the policy is not implemented or used, its guidance and principles are referenced as needed"
+            }
+          ]
+        },
+        {
+          "id": 4881,
+          "component_responses": [
+            {
+              "id": 43394,
+              "component": 38,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 38,
+                "component_num": 24,
+                "area": 4,
+                "title": "Coordination with Movement",
+                "description": "Mechanisms that facilitate the coordination with ICRC, IFRC, and PNS in-country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• ARCS has experience receiving and coordinating international medical teams in collaboration with government authorities during emergencies.\n• No formal framework or SOP currently exists to guide the acceptance, coordination and management of international medical teams",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established coordination mechanisms with IFRC, ICRC and Movement partners through regular strategic meetings, emergency coordination structures and well-defined technical collaboration. Staff demonstrate a good practical understanding of Movement partner roles and routinely engage with the appropriate partners during preparedness and response operations. However, institutional understanding of the SMCC framework remains limited, and several coordination arrangements rely on established practice rather than documented procedures. Opportunities exist to strengthen formal coordination with PNS, neighbouring National Societies and regional Movement mechanisms, while developing standardized frameworks for managing international assistance and medical team deployments."
+            },
+            {
+              "id": 43395,
+              "component": 39,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 39,
+                "component_num": 25,
+                "area": 4,
+                "title": "Coordination with authorities",
+                "description": "Mechanism that facilitates coordination and cooperation with local and national authorities. It is connected to the NS auxiliary role for humanitarian assistance."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "ARCS coordinates with the Ministry of Public Health on epidemic prevention and control and has supported the Ministry in previous responses, including COVID-19 case management and response activities. The Health team has knowledge of Ministry of Public Health capacities, while the Provincial Affairs team supports coordination with authorities at sub-national level. However, ARCS does not have exact or fully reliable information on national authority capacities, and participants noted that reported capacities can differ from operational realities. No specific information was provided on ARCS participation in RCCE working groups or on guidance for emblem use by non-RCRC medical teams in epidemic responses.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established coordination mechanisms with national, provincial and local authorities and is formally engaged in relevant humanitarian coordination structures. Provincial Affairs plays a key role in linking HQ, regional offices and provincial branches, while sector teams coordinate with relevant authorities such as ANDMA, the Ministry of Public Health, the Ministry of Economy and the Ministry of Refugees and Repatriation.\nARCS’ auxiliary role, independence, control over assets and use of the emblem are supported by policies and formal recognition from the authorities. However, coordination procedures, policies and roles are not consistently understood by all staff and volunteers, and government capacity mapping is based more on operational experience than systematic documentation."
+            },
+            {
+              "id": 43396,
+              "component": 40,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 40,
+                "component_num": 26,
+                "area": 4,
+                "title": "Coordination with External Agencies and NGOs",
+                "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• The Health Department coordinates with the MoPH and relevant health stakeholders during epidemic preparedness and response.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS maintains operational relationships with a limited number of external organizations, particularly within health, migration and returnee programming. However, coordination with the broader humanitarian community remains limited and is largely facilitated through IFRC rather than through direct National Society engagement. Participation in humanitarian coordination mechanisms, including UN clusters, is limited, and awareness of broader humanitarian coordination architecture and UN-led appeal processes could be strengthened. While ARCS collaborates with several organizations through project-specific arrangements, opportunities exist to establish more formal strategic partnerships with UN agencies, NGOs, academic institutions and other external stakeholders to strengthen preparedness, coordination and operational effectiveness."
+            },
+            {
+              "id": 43397,
+              "component": 41,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 41,
+                "component_num": 27,
+                "area": 4,
+                "title": "Civil Military Relations",
+                "description": "Dialogue and interaction with military actors, essential to protect and promote humanitarian principles, avoid competition, minimize inconsistency and, when appropriate, pursue common goals."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "no written mechanism but in practice, ARCS does. \nyes - in the moral law and the new draft law which is aligned with moral law includes the ARCS auxiliary mandates to provide services in epidemic context",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS started the CMC one year ago at the HQ level, and it remains there. Further improvement (expansion to other provinces and bases) is required.\nARCS has identified three focal persons in the legal department who received IHL training from the ICRC, and further capacity training is required."
+            },
+            {
+              "id": 43398,
+              "component": 42,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 42,
+                "component_num": 28,
+                "area": 4,
+                "title": "Coordination with local community level responders",
+                "description": "Engagement with Community Disaster Response Teams (CDRTs), through training, coordination, and the development of community disaster preparedness and response plans."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "not yet. Need to confirm with Health Focal",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS branches and the region have very good coordination in place, and procedures for coordination and information sharing are clearly identified and applied."
+            },
+            {
+              "id": 43399,
+              "component": 43,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 43,
+                "component_num": 29,
+                "area": 4,
+                "title": "Cooperation with private sector",
+                "description": "Mechanism that allows cooperation with private sector that often plays a strong role in response, particularly if there is impact on their staff and businesses. There is often a willingness to donate goods and services. Advance agreements help to expedite response actions."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "Yes",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Although the plan of activities has not yet been fully implemented, ARCS has incorporated RM into its operational plan and recognizes it as a strategic priority. The operational plan includes the establishment of a high-level RM committee under the leadership of senior management. The committee intends to bring key stakeholders from the private sector, including COC, the cricket board, national bankers, and other private sector organizations, to strengthen cooperation with ARCS, promote sustainable partnerships, and mobilize financial and in-kind resources to support emergency response and preparedness activities. In addition, ARCS plans to organize regular coordination with private sector representatives, develop an MOU, and establish a long-term cooperation mechanism. These initiatives will provide a structural platform for fundraising, corporate engagement, and Resource diversification. As the committee has not yet been formally established, meetings with private stakeholders have not yet taken place. These activities clearly reflected in the operational plan. ARCS leadership is committed to implementing these actions in the coming period, which will significantly strengthen the society's RM capacity and expand collaboration with the private sector."
+            }
+          ]
+        },
+        {
+          "id": 4882,
+          "component_responses": [
+            {
+              "id": 43400,
+              "component": 44,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 44,
+                "component_num": 30,
+                "area": 5,
+                "title": "Safety and security management",
+                "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• Security risk assessments consider public health emergencies and operational risks affecting responders.\n• Security planning incorporates contextual risks that may affect staff, volunteers and communities during epidemic response.\n• Security guidance specific to epidemic response could be further strengthened within existing policies and training programmes.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established a safety and security management system based on the Safer Access Framework, supported by dedicated focal points, regular security training, context monitoring and operational SOPs. Security risk assessments, incident reporting mechanisms and structured communication channels contribute to a robust approach for protecting staff and volunteers during operations. The National Society continues to strengthen its security management through policy development and ongoing support from ICRC. Opportunities remain to finalize the Safety and Security Policy, formalize incident reporting mechanisms, strengthen gender-inclusive security training, enhance security guidance for epidemic responses, and expand communication systems to support continuous incident reporting and coordination."
+            },
+            {
+              "id": 43401,
+              "component": 45,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 45,
+                "component_num": 31,
+                "area": 5,
+                "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+                "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• ARCS is working on strengthen epidemic-specific PMER systems.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has a functional PMER system with dedicated focal points across headquarters, regional and branch levels, supported by standardized planning, monitoring and reporting processes. Based on the needs and partner / donor requests, ARCS conducts lessons learned exercises, operational reviews and evaluations, and uses digital and paper-based data collection systems to monitor emergency operations. Standard reporting templates and regular reporting mechanisms support accountability to partners and donors.\n\nDifferent level of understanding and execution of the PMERL function at different levels. PMER policy and SoP to be finalised and disseminated. \n\nOpportunities remain to strengthen the institutionalization of PMER by increasing dedicated internal resources, establishing systematic follow-up mechanisms for lessons learned and recommendations, strengthening Movement-wide PMER coordination, and further adapting PMER systems for epidemic and migration contexts."
+            },
+            {
+              "id": 43402,
+              "component": 46,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 46,
+                "component_num": 32,
+                "area": 5,
+                "title": "Finance and Admin policy and emergency procedures",
+                "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• Financial systems remained operational during COVID-19 through a combination of office-based and remote working arrangements.\n• Banking systems were used to facilitate payments and maintain accountability during restrictions.\n• Limited evidence of alternative payment mechanisms beyond conventional banking arrangements.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established a functional Finance and Administration system supported by automated financial management, trained staff, approved financial procedures and strong oversight mechanisms. Emergency financial procedures are linked to operational response systems, enabling timely mobilization of resources, while internal controls, procurement processes and regular audits contribute to transparency and accountability.\n\nThe National Society is currently transitioning to a new financial management system (Ordo) in line with Government recommendations, which presents an opportunity to further strengthen institutional capacity. Continued training for headquarters and branch staff, completion of the system transition, clearer documentation of emergency financial procedures, and harmonization of financial reporting requirements across partners would further strengthen financial preparedness and emergency response capacity"
+            },
+            {
+              "id": 43403,
+              "component": 47,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 47,
+                "component_num": 33,
+                "area": 5,
+                "title": "Information and Communication Technology (ICT)",
+                "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "No plan for the continuity of ICT functions during epidemics. The department has concerns about not having that plan. Need to learn from other agencies, such as the IFRC and the ICRC. Lack of training for the IT staff for quite some time.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "The ICT Department provides routine IT services like network management, user support, and systems administration, functioning satisfactorily.  \n\nHowever, it lacks formal ICT policies, SOPs, and frameworks for emergency telecommunications, business continuity, and disaster recovery. These gaps limit its emergency response capacity.  Mobile phones, SIM cards, radio, laptops not sufficiently available/some very old equipment. No protocol/SoP for emergency notification. \n\nICT acknowledges operational capabilities but stresses the need for improved governance, documentation, and preparedness."
+            },
+            {
+              "id": 43404,
+              "component": 48,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• A plan in pace in case of supply chain disruptions \n• Yes, disposing is part of the manual. Will double-check the disposal procedures. \n• A clear process for local procurement of medical items exists, and a committee consisting of specialized people, qualified health personnel, to assess the quality of items based on the specifications of the items. \n• Ambulances have those  Infection prevention and control measures are in place, but not the other vehicles. \n• Drivers attend the psychosocial support training during COVID-19, yes, they receive the PSP.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": true,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has a proper logistics system and procedures in place, but some procedures, such as fleet manual, warehouse, and stock management manuals, etc., were developed more than 10 years ago. Most staff have received relevant training for their tasks, but additional training is needed on other relevant topics and on updated processes and procedures for the existing and newly recruited staff. The ARCS doesn’t have volunteers trained in logistics, warehouse, or stock management. The emergency procurement process (written procedure) is in place in practice, but they are not documented or approved."
+            },
+            {
+              "id": 43405,
+              "component": 54,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 54,
+                "component_num": 35,
+                "area": 5,
+                "title": "Staff and volunteer management",
+                "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• During COVID-19, staff and volunteers provided with PPE, vaccinations and relevant operational guidance.\n• Working arrangements were adapted in line with public health requirements and national labour regulations.\n• Psychosocial and wellbeing support was provided where resources were available.\n• No insurance coverage exists, only welfare.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established structured staff and volunteer management systems that support the recruitment, deployment and management of emergency responders. Standard deployment procedures, responder databases, Safer Access practices and established response team structures (CDRT, BDRT and NDRT) provide a good operational foundation. Staff and volunteers receive induction and operational training, and centralized systems are in place to manage responder information and deployments. \n\nHowever, several areas require strengthening to improve operational readiness and volunteer management. These include developing formal learning pathways and competency tracking, maintaining an up-to-date volunteer database that reflects active volunteers and their capacities, strengthening volunteer retention and rotation strategies, improving the management of spontaneous volunteers, expanding safeguarding, PGI and self-care training, enhancing the deployment of female volunteers where operationally feasible, and strengthening volunteer welfare arrangements, including consideration of appropriate insurance mechanisms."
+            },
+            {
+              "id": 43406,
+              "component": 55,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 55,
+                "component_num": 36,
+                "area": 5,
+                "title": "Communication in emergencies",
+                "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• ARCS develops and disseminates public awareness and risk communication messages during health emergencies and other crises (flood, Heat wave etc.).\n• No formal community feedback mechanism specific to epidemics was identified.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established a functional emergency communication system with dedicated communications personnel, an official spokesperson, standardized communication templates and active use of multiple communication platforms. The National Society regularly disseminates emergency information and public awareness messages, monitors media and social media, and coordinates communication activities with Movement partners, particularly ICRC. \n\nHowever, several elements require further strengthening. Communication SOPs and Social Media Guidelines remain under development or awaiting approval, and a formal external communication plan has not yet been finalized. Coordination with IFRC on joint communication could be more consistent, while community feedback and two-way communication mechanisms, particularly during emergencies and epidemics, require further development. Strengthening branch-level communication capacity and expanding community-centred communication approaches would further enhance emergency communication preparedness."
+            },
+            {
+              "id": 43407,
+              "component": 56,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 56,
+                "component_num": 37,
+                "area": 5,
+                "title": "Resource Mobilisation",
+                "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": "• No formal arrangements were identified with suppliers or partners to secure in-kind emergency donations (e.g., PPE) before an outbreak.",
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ARCS has established several domestic resource mobilisation mechanisms, including support from government contributions, public fundraising initiatives and community donations, which provide an important source of institutional income and contribute to ARCS. Resource mobilisation processes are supported through individual procedures and long-standing institutional arrangements. \n\nA formal Resource Mobilisation Strategy has not yet been developed, fundraising is centrally managed at headquarters, and resource mobilisation is not routinely integrated into emergency coordination mechanisms. In addition, dedicated donation tracking systems, rapid emergency fundraising platforms, formal private sector partnerships and pre-disaster donor agreements remain limited. Strengthening these areas, including integrating resource mobilisation into emergency response coordination and developing a Resource Mobilisation Strategy and donation tracking system, would enhance ARCS' ability to mobilize timely and diversified resources for emergency preparedness and response."
             }
           ]
         }
