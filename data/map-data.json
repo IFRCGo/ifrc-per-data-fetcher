@@ -54229,8 +54229,8 @@
     "date_of_assessment": "2026-06-04",
     "country_id": 132,
     "country_name": "Panama",
-    "phase": 2,
-    "phase_display": "Assessment",
+    "phase": 4,
+    "phase_display": "Workplan",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "PAN",
@@ -54238,66 +54238,83 @@
     "region_name": "Americas",
     "latitude": 8.537981,
     "longitude": -80.782127,
-    "updated_at": "2026-06-04T06:56:26.559260Z",
-    "prioritized_components": [],
+    "updated_at": "2026-08-13T14:48:40.203558Z",
+    "prioritized_components": [
+      {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 5,
+        "componentTitle": "Quality and accountability",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 9,
+        "componentTitle": "Preparedness plans and budgets",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 11,
+        "componentTitle": "Emergency Response Procedures (SOPs)",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 29,
+        "componentTitle": "Mapping of NS capacities",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 30,
+        "componentTitle": "Early Action Mechanisms",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 32,
+        "componentTitle": "Emergency Needs Assessment",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 34,
+        "componentTitle": "Emergency Operations Centre (EOC)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 35,
+        "componentTitle": "Information Management (IM)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 48,
+        "componentTitle": "Logistics, procurement and supply chain",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      }
+    ],
     "epi_considerations": false,
     "climate_environmental_considerations": true,
     "urban_considerations": false,
     "components": [
-      {
-        "component_id": 38,
-        "component_name": "Coordination with Movement",
-        "component_num": 24,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 39,
-        "component_name": "Coordination with authorities",
-        "component_num": 25,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 41,
-        "component_name": "Civil Military Relations",
-        "component_num": 27,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 42,
-        "component_name": "Coordination with local community level responders",
-        "component_num": 28,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 43,
-        "component_name": "Cooperation with private sector",
-        "component_num": 29,
-        "area_id": 4,
-        "area_name": "Coordination",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
       {
         "component_id": 46,
         "component_name": "Finance and Admin policy and emergency procedures",
@@ -54691,6 +54708,60 @@
         "component_num": 3,
         "area_id": 1,
         "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 42,
+        "component_name": "Coordination with local community level responders",
+        "component_num": 28,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 43,
+        "component_name": "Cooperation with private sector",
+        "component_num": 29,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 38,
+        "component_name": "Coordination with Movement",
+        "component_num": 24,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 39,
+        "component_name": "Coordination with authorities",
+        "component_num": 25,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 41,
+        "component_name": "Civil Military Relations",
+        "component_num": 27,
+        "area_id": 4,
+        "area_name": "Coordination",
         "rating_value": 5,
         "rating_title": "High Performance"
       }

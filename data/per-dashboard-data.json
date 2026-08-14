@@ -134065,60 +134065,6 @@
         "date": "2026-06-04",
         "components": [
           {
-            "component_id": 38,
-            "component_name": "Coordination with Movement",
-            "component_num": 24,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 40,
-            "component_name": "Coordination with External Agencies and NGOs",
-            "component_num": 26,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 39,
-            "component_name": "Coordination with authorities",
-            "component_num": 25,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 41,
-            "component_name": "Civil Military Relations",
-            "component_num": 27,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 42,
-            "component_name": "Coordination with local community level responders",
-            "component_num": 28,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 43,
-            "component_name": "Cooperation with private sector",
-            "component_num": 29,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
             "component_id": 46,
             "component_name": "Finance and Admin policy and emergency procedures",
             "component_num": 32,
@@ -134513,10 +134459,64 @@
             "area_name": "Policy Strategy and Standards",
             "rating_value": 5,
             "rating_title": "High Performance"
+          },
+          {
+            "component_id": 42,
+            "component_name": "Coordination with local community level responders",
+            "component_num": 28,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 43,
+            "component_name": "Cooperation with private sector",
+            "component_num": 29,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 38,
+            "component_name": "Coordination with Movement",
+            "component_num": 24,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 40,
+            "component_name": "Coordination with External Agencies and NGOs",
+            "component_num": 26,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 39,
+            "component_name": "Coordination with authorities",
+            "component_num": 25,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 41,
+            "component_name": "Civil Military Relations",
+            "component_num": 27,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 5,
+            "rating_title": "High Performance"
           }
         ],
-        "phase": 2,
-        "phase_display": "Assessment"
+        "phase": 4,
+        "phase_display": "Workplan"
       }
     ],
     "Papua New Guinea": [
