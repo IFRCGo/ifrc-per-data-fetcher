@@ -708,19 +708,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-24",
-          "rating_value": null,
-          "rating_title": ""
-        },
-        {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
-          "region_id": 1,
-          "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -807,8 +796,8 @@
           "region_id": 2,
           "region_name": "Asia Pacific",
           "date_of_assessment": "2018-05-28",
-          "rating_value": null,
-          "rating_title": ""
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 204,
@@ -1335,8 +1324,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2022-10-27",
-          "rating_value": null,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 31,
@@ -2492,15 +2481,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2015-07-24",
           "rating_value": 0,
-          "rating_title": ""
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -2510,8 +2499,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -2567,6 +2556,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -2985,6 +2985,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -4008,15 +4019,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -4083,6 +4094,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -4501,6 +4523,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -5535,15 +5568,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -5553,8 +5586,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -5610,6 +5643,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -6026,6 +6070,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -7051,15 +7106,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 5,
-          "rating_title": "High Performance"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -7069,8 +7124,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 5,
+          "rating_title": "High Performance"
         },
         {
           "assessment_id": 152,
@@ -7126,6 +7181,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -7542,6 +7608,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -8567,15 +8644,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -8585,8 +8662,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 152,
@@ -8642,6 +8719,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 188,
@@ -9060,6 +9148,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -10083,15 +10182,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -10101,8 +10200,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 152,
@@ -10158,6 +10257,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -10576,6 +10686,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -11599,13 +11720,24 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -11663,6 +11795,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 188,
@@ -12081,6 +12224,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 5,
           "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -13104,15 +13258,26 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "date_of_assessment": "2026-08-17",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -13168,6 +13333,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -13586,6 +13762,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -14609,13 +14796,24 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 0,
           "rating_title": "Not Reviewed"
         },
@@ -14673,6 +14871,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -15091,6 +15300,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -16114,13 +16334,24 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -16178,6 +16409,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -16594,6 +16836,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 5,
+          "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 5,
           "rating_title": "High Performance"
         },
@@ -17619,13 +17872,24 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -17683,6 +17947,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 188,
@@ -18101,6 +18376,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -19124,15 +19410,26 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 0,
-          "rating_title": "Not Reviewed"
+          "date_of_assessment": "2026-08-17",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 152,
@@ -19188,6 +19485,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 188,
@@ -19606,6 +19914,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -20629,13 +20948,24 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 241,
-          "assessment_number": 8,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -20693,6 +21023,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -21111,6 +21452,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -22134,15 +22486,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 234,
@@ -22152,8 +22504,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -22207,6 +22559,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -22625,6 +22988,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -23650,15 +24024,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 234,
@@ -23668,8 +24042,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -23723,6 +24097,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -24141,6 +24526,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -25177,15 +25573,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -25195,8 +25591,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -25252,6 +25648,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 188,
@@ -25670,6 +26077,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -26693,15 +27111,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 234,
@@ -26711,8 +27129,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -26766,6 +27184,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -27184,6 +27613,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -28209,13 +28649,24 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -28271,6 +28722,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -28691,6 +29153,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -29714,13 +30187,24 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -29776,6 +30260,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -30194,6 +30689,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -31219,13 +31725,24 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -31283,6 +31800,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -31701,6 +32229,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -32724,13 +33263,24 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -32788,6 +33338,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -33206,6 +33767,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -34229,13 +34801,24 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 243,
-          "assessment_number": 10,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -34291,6 +34874,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -34709,6 +35303,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -35734,6 +36339,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -35798,6 +36414,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 1,
           "rating_title": "Does Not Exist"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -36214,6 +36841,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 5,
+          "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 5,
           "rating_title": "High Performance"
         },
@@ -37239,6 +37877,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -37301,6 +37950,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -37721,6 +38381,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 5,
           "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -38744,6 +39415,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -38806,6 +39488,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -39226,6 +39919,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 5,
           "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 59,
@@ -40249,6 +40953,17 @@
           "rating_title": "Not Reviewed"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -40313,6 +41028,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -40731,6 +41457,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 59,
@@ -41765,6 +42502,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -41829,6 +42577,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -42247,6 +43006,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -43270,13 +44040,24 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -43334,6 +44115,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -43750,6 +44542,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -44775,13 +45578,24 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -44839,6 +45653,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -45257,6 +46082,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 59,
@@ -46302,15 +47138,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 234,
@@ -46375,6 +47211,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -46793,6 +47640,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -47829,13 +48687,13 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2015-07-24",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -47847,8 +48705,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -47904,6 +48762,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -48322,6 +49191,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -49356,15 +50236,15 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
         },
         {
           "assessment_id": 234,
@@ -49431,6 +50311,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -49847,6 +50738,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -50872,15 +51774,15 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 234,
@@ -50947,6 +51849,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -51363,6 +52276,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -52388,15 +53312,26 @@
           "rating_title": "Not Reviewed"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": "Not Reviewed"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "date_of_assessment": "2026-08-17",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -52452,6 +53387,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 0,
           "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -52870,6 +53816,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 59,
@@ -53904,13 +54861,24 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 240,
-          "assessment_number": 7,
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 234,
+          "assessment_number": 6,
           "country_id": 81,
           "country_name": "Honduras",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
+          "date_of_assessment": "2026-08-17",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -53968,6 +54936,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -54386,6 +55365,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 1,
           "rating_title": "Does Not Exist"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 59,
@@ -55409,6 +56399,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -55473,6 +56474,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 188,
@@ -55891,6 +56903,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 5,
           "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -56914,6 +57937,17 @@
           "rating_title": "Exists – Could be Strengthened"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -56976,6 +58010,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -57396,6 +58441,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -58419,6 +59475,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -58481,6 +59548,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -58901,6 +59979,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -59924,6 +61013,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -59988,6 +61088,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -60406,6 +61517,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 5,
           "rating_title": "High Performance"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -61429,6 +62551,17 @@
           "rating_title": "Needs Improvement"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -61493,6 +62626,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 188,
@@ -61911,6 +63055,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 59,
@@ -62934,6 +64089,17 @@
           "rating_title": "Partially Exists"
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
           "assessment_id": 234,
           "assessment_number": 6,
           "country_id": 81,
@@ -62998,6 +64164,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 188,
@@ -63416,6 +64593,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 59,
@@ -64439,15 +65627,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 5,
-          "rating_title": "High Performance"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 234,
@@ -64512,6 +65700,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -64930,6 +66129,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -65955,15 +67165,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 234,
@@ -66030,6 +67240,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -66446,6 +67667,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -67471,15 +68703,15 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 234,
@@ -67546,6 +68778,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -67962,6 +69205,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -68987,15 +70241,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 234,
@@ -69005,8 +70259,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -69060,6 +70314,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -69478,6 +70743,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -72681,15 +73957,70 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 234,
@@ -72976,6 +74307,72 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 2,
           "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 188,
@@ -74943,6 +76340,72 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -77354,15 +78817,15 @@
           "rating_title": "Needs Improvement"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 5,
-          "rating_title": "High Performance"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 234,
@@ -77427,6 +78890,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
         },
@@ -77847,6 +79321,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 59,
@@ -78870,15 +80355,15 @@
           "rating_title": "Partially Exists"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 234,
@@ -78945,6 +80430,17 @@
           "date_of_assessment": "2015-07-31",
           "rating_value": 3,
           "rating_title": "Needs Improvement"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 188,
@@ -79361,6 +80857,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-06-04",
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
         },
@@ -80386,15 +81893,15 @@
           "rating_title": "Does Not Exist"
         },
         {
-          "assessment_id": 242,
-          "assessment_number": 9,
-          "country_id": 81,
-          "country_name": "Honduras",
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
           "region_id": 1,
           "region_name": "Americas",
-          "date_of_assessment": "2026-08-18",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 234,
@@ -80404,8 +81911,8 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2026-08-17",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "rating_value": 4,
+          "rating_title": "Exists – Could be Strengthened"
         },
         {
           "assessment_id": 152,
@@ -80459,6 +81966,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 2,
           "rating_title": "Partially Exists"
         },
@@ -80879,6 +82397,17 @@
           "date_of_assessment": "2026-06-04",
           "rating_value": 4,
           "rating_title": "Exists – Could be Strengthened"
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 59,
@@ -81726,6 +83255,17 @@
           "rating_title": ""
         },
         {
+          "assessment_id": 47,
+          "assessment_number": 1,
+          "country_id": 80,
+          "country_name": "Haiti",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2015-07-24",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
           "assessment_id": 119,
           "assessment_number": 4,
           "country_id": 81,
@@ -81766,6 +83306,17 @@
           "region_id": 1,
           "region_name": "Americas",
           "date_of_assessment": "2015-07-31",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
+          "assessment_id": 93,
+          "assessment_number": 1,
+          "country_id": 85,
+          "country_name": "Indonesia",
+          "region_id": 2,
+          "region_name": "Asia Pacific",
+          "date_of_assessment": "2018-05-28",
           "rating_value": 0,
           "rating_title": ""
         },
@@ -82041,6 +83592,17 @@
           "region_id": 4,
           "region_name": "MENA",
           "date_of_assessment": "2023-03-01",
+          "rating_value": 0,
+          "rating_title": ""
+        },
+        {
+          "assessment_id": 114,
+          "assessment_number": 2,
+          "country_id": 132,
+          "country_name": "Panama",
+          "region_id": 1,
+          "region_name": "Americas",
+          "date_of_assessment": "2022-10-27",
           "rating_value": 0,
           "rating_title": ""
         },
@@ -108802,7 +110364,512 @@
       {
         "assessment_number": 1,
         "date": "2015-07-24",
-        "components": [],
+        "components": [
+          {
+            "component_id": 1,
+            "component_name": "RC auxiliary role, Mandate and Law",
+            "component_num": 1,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 2,
+            "component_name": "DRM Strategy",
+            "component_num": 2,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 3,
+            "component_name": "DRM Policy",
+            "component_num": 3,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 4,
+            "component_name": "DRM Laws, Advocacy and Dissemination",
+            "component_num": 4,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 6,
+            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "component_num": 6,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 12,
+            "component_name": "Response and recovery planning",
+            "component_num": 12,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 37,
+            "component_name": "Activation of regional and international support",
+            "component_num": 23,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 27,
+            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 21,
+            "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 23,
+            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 24,
+            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 25,
+            "component_name": "RESTORING FAMILY LINKS (RFL)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 26,
+            "component_name": "TRANSITION TO RECOVERY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 14,
+            "component_name": "NS-specific areas of intervention",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 16,
+            "component_name": "EVACUATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 18,
+            "component_name": "FIRST AID",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 19,
+            "component_name": "WATER AND SANITATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 28,
+            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 20,
+            "component_name": "FOOD SECURITY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 22,
+            "component_name": "SEARCH AND RESCUE",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 15,
+            "component_name": "COMMUNITY-BASED DP AND DRR",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 29,
+            "component_name": "Mapping of NS capacities",
+            "component_num": 15,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 17,
+            "component_name": "HEALTH IN EMERGENCIES",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 30,
+            "component_name": "Early Action Mechanisms",
+            "component_num": 16,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 31,
+            "component_name": "Cash Based Intervention (CBI)",
+            "component_num": 17,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 32,
+            "component_name": "Emergency Needs Assessment",
+            "component_num": 18,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 33,
+            "component_name": "Affected population selection",
+            "component_num": 19,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 35,
+            "component_name": "Information Management (IM)",
+            "component_num": 21,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 36,
+            "component_name": "Testing and Learning",
+            "component_num": 22,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 42,
+            "component_name": "Coordination with local community level responders",
+            "component_num": 28,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 43,
+            "component_name": "Cooperation with private sector",
+            "component_num": 29,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 40,
+            "component_name": "Coordination with External Agencies and NGOs",
+            "component_num": 26,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 41,
+            "component_name": "Civil Military Relations",
+            "component_num": 27,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 38,
+            "component_name": "Coordination with Movement",
+            "component_num": 24,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 39,
+            "component_name": "Coordination with authorities",
+            "component_num": 25,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 54,
+            "component_name": "Staff and volunteer management",
+            "component_num": 35,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 44,
+            "component_name": "Safety and security management",
+            "component_num": 30,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 55,
+            "component_name": "Communication in emergencies",
+            "component_num": 36,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 45,
+            "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+            "component_num": 31,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 46,
+            "component_name": "Finance and Admin policy and emergency procedures",
+            "component_num": 32,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 47,
+            "component_name": "Information and Communication Technology (ICT)",
+            "component_num": 33,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 56,
+            "component_name": "Resource Mobilisation",
+            "component_num": 37,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          }
+        ],
         "phase": 5,
         "phase_display": "Action & accountability"
       },
@@ -111831,6 +113898,15 @@
         "date": "2026-08-17",
         "components": [
           {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
             "component_id": 1,
             "component_name": "RC auxiliary role, Mandate and Law",
             "component_num": 1,
@@ -111865,33 +113941,6 @@
             "area_name": "Policy Strategy and Standards",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 5,
-            "component_name": "Quality and accountability",
-            "component_num": 5,
-            "area_id": 1,
-            "area_name": "Policy Strategy and Standards",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 43,
-            "component_name": "Cooperation with private sector",
-            "component_num": 29,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 38,
-            "component_name": "Coordination with Movement",
-            "component_num": 24,
-            "area_id": 4,
-            "area_name": "Coordination",
-            "rating_value": 5,
-            "rating_title": "High Performance"
           },
           {
             "component_id": 39,
@@ -111930,139 +113979,22 @@
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 15,
-            "component_name": "COMMUNITY-BASED DP AND DRR",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 43,
+            "component_name": "Cooperation with private sector",
+            "component_num": 29,
+            "area_id": 4,
+            "area_name": "Coordination",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 16,
-            "component_name": "EVACUATION",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 17,
-            "component_name": "HEALTH IN EMERGENCIES",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 18,
-            "component_name": "FIRST AID",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 19,
-            "component_name": "WATER AND SANITATION",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 20,
-            "component_name": "FOOD SECURITY",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 21,
-            "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 29,
-            "component_name": "Mapping of NS capacities",
-            "component_num": 15,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 30,
-            "component_name": "Early Action Mechanisms",
-            "component_num": 16,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 31,
-            "component_name": "Cash Based Intervention (CBI)",
-            "component_num": 17,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 32,
-            "component_name": "Emergency Needs Assessment",
-            "component_num": 18,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 6,
-            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-            "component_num": 6,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 7,
-            "component_name": "Scenario planning",
-            "component_num": 7,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 8,
-            "component_name": "Risk management",
-            "component_num": 8,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 9,
-            "component_name": "Preparedness plans and budgets",
-            "component_num": 9,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
+            "component_id": 38,
+            "component_name": "Coordination with Movement",
+            "component_num": 24,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 5,
+            "rating_title": "High Performance"
           },
           {
             "component_id": 44,
@@ -112106,8 +114038,8 @@
             "component_num": 37,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 46,
@@ -112124,8 +114056,8 @@
             "component_num": 33,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 48,
@@ -112135,57 +114067,76 @@
             "area_name": "Operations support",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 10,
-        "date": "2026-08-18",
-        "components": [
+          },
           {
-            "component_id": 29,
-            "component_name": "Mapping of NS capacities",
-            "component_num": 15,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 6,
+            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "component_num": 6,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 30,
-            "component_name": "Early Action Mechanisms",
-            "component_num": 16,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 31,
-            "component_name": "Cash Based Intervention (CBI)",
-            "component_num": 17,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 32,
-            "component_name": "Emergency Needs Assessment",
-            "component_num": 18,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 33,
-            "component_name": "Affected population selection",
-            "component_num": 19,
-            "area_id": 3,
-            "area_name": "Operational capacity",
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 12,
+            "component_name": "Response and recovery planning",
+            "component_num": 12,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
@@ -112193,15 +114144,6 @@
             "component_id": 35,
             "component_name": "Information Management (IM)",
             "component_num": 21,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 34,
-            "component_name": "Emergency Operations Centre (EOC)",
-            "component_num": 20,
             "area_id": 3,
             "area_name": "Operational capacity",
             "rating_value": 4,
@@ -112224,95 +114166,7 @@
             "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 9,
-        "date": "2026-08-18",
-        "components": [
-          {
-            "component_id": 44,
-            "component_name": "Safety and security management",
-            "component_num": 30,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 5,
-            "rating_title": "High Performance"
           },
-          {
-            "component_id": 54,
-            "component_name": "Staff and volunteer management",
-            "component_num": 35,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 5,
-            "rating_title": "High Performance"
-          },
-          {
-            "component_id": 45,
-            "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-            "component_num": 31,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 55,
-            "component_name": "Communication in emergencies",
-            "component_num": 36,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 56,
-            "component_name": "Resource Mobilisation",
-            "component_num": 37,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 46,
-            "component_name": "Finance and Admin policy and emergency procedures",
-            "component_num": 32,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 47,
-            "component_name": "Information and Communication Technology (ICT)",
-            "component_num": 33,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 48,
-            "component_name": "Logistics, procurement and supply chain",
-            "component_num": 34,
-            "area_id": 5,
-            "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 8,
-        "date": "2026-08-18",
-        "components": [
           {
             "component_id": 15,
             "component_name": "COMMUNITY-BASED DP AND DRR",
@@ -112328,8 +114182,8 @@
             "component_num": 14,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 17,
@@ -112400,8 +114254,8 @@
             "component_num": 14,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
           },
           {
             "component_id": 25,
@@ -112427,8 +114281,8 @@
             "component_num": 14,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": "Not Reviewed"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 28,
@@ -112438,84 +114292,58 @@
             "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
-          }
-        ],
-        "phase": 2,
-        "phase_display": "Assessment"
-      },
-      {
-        "assessment_number": 7,
-        "date": "2026-08-18",
-        "components": [
+          },
           {
-            "component_id": 6,
-            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-            "component_num": 6,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
+            "component_id": 29,
+            "component_name": "Mapping of NS capacities",
+            "component_num": 15,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 7,
-            "component_name": "Scenario planning",
-            "component_num": 7,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 8,
-            "component_name": "Risk management",
-            "component_num": 8,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
+            "component_id": 30,
+            "component_name": "Early Action Mechanisms",
+            "component_num": 16,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 9,
-            "component_name": "Preparedness plans and budgets",
-            "component_num": 9,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
+            "component_id": 31,
+            "component_name": "Cash Based Intervention (CBI)",
+            "component_num": 17,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 10,
-            "component_name": "Business continuity",
-            "component_num": 10,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 11,
-            "component_name": "Emergency Response Procedures (SOPs)",
-            "component_num": 11,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
+            "component_id": 32,
+            "component_name": "Emergency Needs Assessment",
+            "component_num": 18,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 12,
-            "component_name": "Response and recovery planning",
-            "component_num": 12,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
+            "component_id": 33,
+            "component_name": "Affected population selection",
+            "component_num": 19,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 13,
-            "component_name": "Pre-disaster meetings and agreements",
-            "component_num": 13,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
             "rating_value": 4,
             "rating_title": "Exists – Could be Strengthened"
           }
@@ -112535,7 +114363,512 @@
       {
         "assessment_number": 1,
         "date": "2018-05-28",
-        "components": [],
+        "components": [
+          {
+            "component_id": 1,
+            "component_name": "RC auxiliary role, Mandate and Law",
+            "component_num": 1,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 2,
+            "component_name": "DRM Strategy",
+            "component_num": 2,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 3,
+            "component_name": "DRM Policy",
+            "component_num": 3,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 4,
+            "component_name": "DRM Laws, Advocacy and Dissemination",
+            "component_num": 4,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 6,
+            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "component_num": 6,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 12,
+            "component_name": "Response and recovery planning",
+            "component_num": 12,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 20,
+            "component_name": "FOOD SECURITY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 22,
+            "component_name": "SEARCH AND RESCUE",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 15,
+            "component_name": "COMMUNITY-BASED DP AND DRR",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 29,
+            "component_name": "Mapping of NS capacities",
+            "component_num": 15,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 17,
+            "component_name": "HEALTH IN EMERGENCIES",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 30,
+            "component_name": "Early Action Mechanisms",
+            "component_num": 16,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 31,
+            "component_name": "Cash Based Intervention (CBI)",
+            "component_num": 17,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 32,
+            "component_name": "Emergency Needs Assessment",
+            "component_num": 18,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 33,
+            "component_name": "Affected population selection",
+            "component_num": 19,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 35,
+            "component_name": "Information Management (IM)",
+            "component_num": 21,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 36,
+            "component_name": "Testing and Learning",
+            "component_num": 22,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 37,
+            "component_name": "Activation of regional and international support",
+            "component_num": 23,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 27,
+            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 21,
+            "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 23,
+            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 24,
+            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 25,
+            "component_name": "RESTORING FAMILY LINKS (RFL)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 26,
+            "component_name": "TRANSITION TO RECOVERY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 14,
+            "component_name": "NS-specific areas of intervention",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 16,
+            "component_name": "EVACUATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 18,
+            "component_name": "FIRST AID",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 19,
+            "component_name": "WATER AND SANITATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 28,
+            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 42,
+            "component_name": "Coordination with local community level responders",
+            "component_num": 28,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 43,
+            "component_name": "Cooperation with private sector",
+            "component_num": 29,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 40,
+            "component_name": "Coordination with External Agencies and NGOs",
+            "component_num": 26,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 41,
+            "component_name": "Civil Military Relations",
+            "component_num": 27,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 38,
+            "component_name": "Coordination with Movement",
+            "component_num": 24,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 39,
+            "component_name": "Coordination with authorities",
+            "component_num": 25,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 54,
+            "component_name": "Staff and volunteer management",
+            "component_num": 35,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 44,
+            "component_name": "Safety and security management",
+            "component_num": 30,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 55,
+            "component_name": "Communication in emergencies",
+            "component_num": 36,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 45,
+            "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+            "component_num": 31,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 46,
+            "component_name": "Finance and Admin policy and emergency procedures",
+            "component_num": 32,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 47,
+            "component_name": "Information and Communication Technology (ICT)",
+            "component_num": 33,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 56,
+            "component_name": "Resource Mobilisation",
+            "component_num": 37,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          }
+        ],
         "phase": 5,
         "phase_display": "Action & accountability"
       }
@@ -131116,7 +133449,512 @@
       {
         "assessment_number": 2,
         "date": "2022-10-27",
-        "components": [],
+        "components": [
+          {
+            "component_id": 1,
+            "component_name": "RC auxiliary role, Mandate and Law",
+            "component_num": 1,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 2,
+            "component_name": "DRM Strategy",
+            "component_num": 2,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 3,
+            "component_name": "DRM Policy",
+            "component_num": 3,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 4,
+            "component_name": "DRM Laws, Advocacy and Dissemination",
+            "component_num": 4,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 5,
+            "component_name": "Quality and accountability",
+            "component_num": 5,
+            "area_id": 1,
+            "area_name": "Policy Strategy and Standards",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 6,
+            "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+            "component_num": 6,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 12,
+            "component_name": "Response and recovery planning",
+            "component_num": 12,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 37,
+            "component_name": "Activation of regional and international support",
+            "component_num": 23,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 27,
+            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 21,
+            "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 23,
+            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 24,
+            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 25,
+            "component_name": "RESTORING FAMILY LINKS (RFL)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 5,
+            "rating_title": "High Performance"
+          },
+          {
+            "component_id": 26,
+            "component_name": "TRANSITION TO RECOVERY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 14,
+            "component_name": "NS-specific areas of intervention",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 16,
+            "component_name": "EVACUATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 18,
+            "component_name": "FIRST AID",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 19,
+            "component_name": "WATER AND SANITATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 28,
+            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 20,
+            "component_name": "FOOD SECURITY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 22,
+            "component_name": "SEARCH AND RESCUE",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 15,
+            "component_name": "COMMUNITY-BASED DP AND DRR",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 29,
+            "component_name": "Mapping of NS capacities",
+            "component_num": 15,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 17,
+            "component_name": "HEALTH IN EMERGENCIES",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 30,
+            "component_name": "Early Action Mechanisms",
+            "component_num": 16,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 31,
+            "component_name": "Cash Based Intervention (CBI)",
+            "component_num": 17,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 32,
+            "component_name": "Emergency Needs Assessment",
+            "component_num": 18,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 33,
+            "component_name": "Affected population selection",
+            "component_num": 19,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 35,
+            "component_name": "Information Management (IM)",
+            "component_num": 21,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 36,
+            "component_name": "Testing and Learning",
+            "component_num": 22,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 42,
+            "component_name": "Coordination with local community level responders",
+            "component_num": 28,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 43,
+            "component_name": "Cooperation with private sector",
+            "component_num": 29,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 40,
+            "component_name": "Coordination with External Agencies and NGOs",
+            "component_num": 26,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 41,
+            "component_name": "Civil Military Relations",
+            "component_num": 27,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 38,
+            "component_name": "Coordination with Movement",
+            "component_num": 24,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 39,
+            "component_name": "Coordination with authorities",
+            "component_num": 25,
+            "area_id": 4,
+            "area_name": "Coordination",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 54,
+            "component_name": "Staff and volunteer management",
+            "component_num": 35,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 44,
+            "component_name": "Safety and security management",
+            "component_num": 30,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 55,
+            "component_name": "Communication in emergencies",
+            "component_num": 36,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 45,
+            "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+            "component_num": 31,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 46,
+            "component_name": "Finance and Admin policy and emergency procedures",
+            "component_num": 32,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 47,
+            "component_name": "Information and Communication Technology (ICT)",
+            "component_num": 33,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 0,
+            "rating_title": ""
+          },
+          {
+            "component_id": 56,
+            "component_name": "Resource Mobilisation",
+            "component_num": 37,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 48,
+            "component_name": "Logistics, procurement and supply chain",
+            "component_num": 34,
+            "area_id": 5,
+            "area_name": "Operations support",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          }
+        ],
         "phase": 5,
         "phase_display": "Action & accountability"
       },
