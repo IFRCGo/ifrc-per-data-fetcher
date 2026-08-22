@@ -2323,42 +2323,6 @@
       "ns_focal_point_email": null
     },
     {
-      "id": 244,
-      "assessment_number": 7,
-      "date_of_orientation": "2026-08-20",
-      "date_of_assessment": "2026-08-20",
-      "country": 81,
-      "country_details": {
-        "iso": "HN",
-        "iso3": "HND",
-        "id": 81,
-        "record_type": 1,
-        "record_type_display": "Country",
-        "region": 1,
-        "independent": true,
-        "is_deprecated": false,
-        "fdrs": "DHN001",
-        "average_household_size": null,
-        "name": "Honduras",
-        "society_name": "Honduran Red Cross",
-        "translation_module_original_language": "en"
-      },
-      "assessment": 192,
-      "prioritization": null,
-      "workplan": null,
-      "created_at": "2026-08-20T14:24:25.247208Z",
-      "updated_at": "2026-08-20T14:24:25.346325Z",
-      "phase": 2,
-      "phase_display": "Assessment",
-      "type_of_assessment": 1,
-      "type_of_assessment_details": {
-        "id": 1,
-        "name": "Self assessment"
-      },
-      "ns_focal_point_name": null,
-      "ns_focal_point_email": null
-    },
-    {
       "id": 234,
       "assessment_number": 6,
       "date_of_orientation": "2026-08-13",
