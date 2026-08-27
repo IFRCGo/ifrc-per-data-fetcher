@@ -187900,6 +187900,131 @@
       "id": 182,
       "area_responses": [
         {
+          "id": 5090,
+          "component_responses": [
+            {
+              "id": 44867,
+              "component": 5,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 5,
+                "component_num": 5,
+                "area": 1,
+                "title": "Quality and accountability",
+                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "1. Sí, La Cruz Roja Hondureña incorpora la sostenibilidad ambiental y los riesgos climáticos en su enfoque de rendición de cuentas ante las comunidades afectadas. La Participación Comunitaria y Rendición de Cuentas a la Comunidad (CEA) se aplica transversalmente en los programas, proyectos y operaciones, en articulación con las políticas institucionales de Cambio Climático y Gestión del Riesgo de Desastres.\n\nEste enfoque promueve la participación de las comunidades en la identificación y comunicación de riesgos climáticos, la definición de medidas de adaptación y la toma de decisiones relacionadas con la respuesta. Asimismo, permite recopilar conocimientos y percepciones comunitarias para adaptar los mensajes, seleccionar los canales de comunicación y orientar acciones que reduzcan los posibles impactos ambientales de la asistencia.\n\nNo obstante, se requiere fortalecer la aplicación uniforme y documentada de estos compromisos en todas las intervenciones y filiales, incorporando indicadores específicos de participación comunitaria, sostenibilidad ambiental, comunicación de riesgos climáticos y respuesta verde.\n\n2. Existe parcialmente, La Cruz Roja Hondureña ha respaldado la Carta sobre el Clima y el Medio Ambiente para Organizaciones Humanitarias, asumiendo el compromiso de fortalecer la preparación y respuesta institucional ante la crisis climática y reducir los impactos ambientales de su acción humanitaria.\n\nEn consonancia con este compromiso, los programas y proyectos implementan medidas de adaptación al cambio climático, entre ellas el fortalecimiento de la resiliencia comunitaria, la gestión sostenible del agua, la seguridad hídrica, la reducción de riesgos, la acción anticipatoria y la preparación frente a amenazas climáticas.\n\n3: Existe parcialmente, La Cruz Roja Hondureña implementa acciones institucionales para mejorar la sostenibilidad ambiental y reducir su huella de carbono y ambiental. Estas incluyen la renovación de vehículos por unidades más eficientes, la adquisición de productos de mayor duración, evaluaciones del sistema eléctrico y la reducción de plásticos en el empaquetado de la asistencia humanitaria.\n\nAsimismo, mantiene alianzas con empresas recicladoras para la gestión y aprovechamiento de materiales reutilizables, y cuenta con un convenio con una empresa especializada para la recolección, tratamiento e incineración segura de desechos biológicos. Adicionalmente, el proyecto de construcción del Hemocentro contempla un sistema para el tratamiento de aguas residuales, con el propósito de disminuir los impactos ambientales y sanitarios de sus operaciones.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44868,
+              "component": 1,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 1,
+                "component_num": 1,
+                "area": 1,
+                "title": "RC auxiliary role, Mandate and Law",
+                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "1. Sí.  Falta de credibilidad por entidades externas, dar conocimiento de la estructura a la población. Diseñar y establecer mecanismos de sociablización.\n\n2. Sí, Existe política gestión de riesgos, cambio climático, salud y migración.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44869,
+              "component": 2,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 2,
+                "component_num": 2,
+                "area": 1,
+                "title": "DRM Strategy",
+                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "1: Sí. El enfoque de cafetía y la consideración de epidemias van relaciones en el enfoque ONEHEALTH.\n\n2: Si, ya exite una matriz evaluación de impacto ambiental , falta mejorar la socibilización interna y extarna.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44870,
+              "component": 3,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 3,
+                "component_num": 3,
+                "area": 1,
+                "title": "DRM Policy",
+                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "Hallazgo\n\nLa Política de Gestión del Riesgo de Desastres de la Cruz Roja Hondureña reconoce la importancia de integrar las consideraciones ambientales y climáticas en todas las fases de la respuesta, desde la evaluación y planificación hasta la implementación, el seguimiento y la recuperación.\n\nEste enfoque se complementa con las políticas institucionales de Ambiente y Cambio Climático, las cuales orientan la reducción de impactos ambientales, el uso responsable de los recursos y la incorporación de información climática en la toma de decisiones. No obstante, se requiere fortalecer la articulación entre estas políticas y asegurar que sus lineamientos se reflejen de manera uniforme en los planes, procedimientos y operaciones de la sede central y las filiales.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44871,
+              "component": 4,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 4,
+                "component_num": 4,
+                "area": 1,
+                "title": "DRM Laws, Advocacy and Dissemination",
+                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "Para garantizar una respuesta humanitaria ambientalmente responsible y alineada con la legislación de Honduras, la Cruz Roja incorpora activamente el marco normativo nacional en la planificación de sus operaciones. En materia de infraestructura y apoyo técnico, se aplican diagnósticos socioambientales que respetan la Ley General del Ambiente (MiAmbiente+) para prevenir impactos ecológicos antes de realizar una acción. En la entrega de kits e insumos se atiende la normativa municipal reduciendo los plásticos de un solo uso mediante el reemplazo de materiales de multiple uso, Asimismo, el manejo de desechos en albergues y puestos médicos se realiza de forma clasificada según el Reglamento para la Gestión Integral de Residuos Sólidos y Salud, priorizando la recolección municipal e incineradores autorizados para evitar la quema abierta. Finalmente, el uso de materiales de construcción como la madera se verifica bajo los parámetros de legalidad del ICF, promoviendo insumos sostenibles y educando a las comunidades asistidas sobre la disposición adecuada de residuos para proteger los recursos naturales locales.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            }
+          ]
+        },
+        {
           "id": 5091,
           "component_responses": [
             {
@@ -188041,131 +188166,6 @@
               "urban_considerations": null,
               "epi_considerations": null,
               "climate_environmental_considerations": "Hallazgo\n\nLa Cruz Roja Hondureña coordina con diferentes socios y mecanismos del Movimiento para intercambiar experiencias, fortalecer sus capacidades y mantenerse actualizada sobre buenas prácticas relacionadas con el clima y el medio ambiente. Esta coordinación incluye el trabajo conjunto con el Centro Climático de la Cruz Roja y la Media Luna Roja, así como la participación en espacios técnicos y conferencias nacionales sobre cambio climático.\n\nLa Sociedad Nacional también mantiene coordinación con el Centro de Estudios Atmosféricos, Oceanográficos y Sísmicos (CENAOS) para analizar información meteorológica y definir o actualizar los umbrales de activación de los Protocolos de Acción Temprana (PAT). Asimismo, realiza seguimiento continuo de eventos climatológicos y de la situación climática nacional para apoyar la toma de decisiones, activar acciones anticipatorias y valorar posibles solicitudes de fondos DREF.\n\nEstas acciones permiten vincular la información científica con la planificación y la respuesta humanitaria. No obstante, se requiere fortalecer la documentación de las lecciones aprendidas, la participación sistemática en redes como Climate Champions y el Grupo de Trabajo de Respuesta Verde, así como la difusión de buenas prácticas en la sede central y las filiales.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            }
-          ]
-        },
-        {
-          "id": 5090,
-          "component_responses": [
-            {
-              "id": 44867,
-              "component": 5,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 5,
-                "component_num": 5,
-                "area": 1,
-                "title": "Quality and accountability",
-                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "1. Sí, La Cruz Roja Hondureña incorpora la sostenibilidad ambiental y los riesgos climáticos en su enfoque de rendición de cuentas ante las comunidades afectadas. La Participación Comunitaria y Rendición de Cuentas a la Comunidad (CEA) se aplica transversalmente en los programas, proyectos y operaciones, en articulación con las políticas institucionales de Cambio Climático y Gestión del Riesgo de Desastres.\n\nEste enfoque promueve la participación de las comunidades en la identificación y comunicación de riesgos climáticos, la definición de medidas de adaptación y la toma de decisiones relacionadas con la respuesta. Asimismo, permite recopilar conocimientos y percepciones comunitarias para adaptar los mensajes, seleccionar los canales de comunicación y orientar acciones que reduzcan los posibles impactos ambientales de la asistencia.\n\nNo obstante, se requiere fortalecer la aplicación uniforme y documentada de estos compromisos en todas las intervenciones y filiales, incorporando indicadores específicos de participación comunitaria, sostenibilidad ambiental, comunicación de riesgos climáticos y respuesta verde.\n\n2. Existe parcialmente, La Cruz Roja Hondureña ha respaldado la Carta sobre el Clima y el Medio Ambiente para Organizaciones Humanitarias, asumiendo el compromiso de fortalecer la preparación y respuesta institucional ante la crisis climática y reducir los impactos ambientales de su acción humanitaria.\n\nEn consonancia con este compromiso, los programas y proyectos implementan medidas de adaptación al cambio climático, entre ellas el fortalecimiento de la resiliencia comunitaria, la gestión sostenible del agua, la seguridad hídrica, la reducción de riesgos, la acción anticipatoria y la preparación frente a amenazas climáticas.\n\n3: Existe parcialmente, La Cruz Roja Hondureña implementa acciones institucionales para mejorar la sostenibilidad ambiental y reducir su huella de carbono y ambiental. Estas incluyen la renovación de vehículos por unidades más eficientes, la adquisición de productos de mayor duración, evaluaciones del sistema eléctrico y la reducción de plásticos en el empaquetado de la asistencia humanitaria.\n\nAsimismo, mantiene alianzas con empresas recicladoras para la gestión y aprovechamiento de materiales reutilizables, y cuenta con un convenio con una empresa especializada para la recolección, tratamiento e incineración segura de desechos biológicos. Adicionalmente, el proyecto de construcción del Hemocentro contempla un sistema para el tratamiento de aguas residuales, con el propósito de disminuir los impactos ambientales y sanitarios de sus operaciones.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44868,
-              "component": 1,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 1,
-                "component_num": 1,
-                "area": 1,
-                "title": "RC auxiliary role, Mandate and Law",
-                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "1. Sí.  Falta de credibilidad por entidades externas, dar conocimiento de la estructura a la población. Diseñar y establecer mecanismos de sociablización.\n\n2. Sí, Existe política gestión de riesgos, cambio climático, salud y migración.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44869,
-              "component": 2,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 2,
-                "component_num": 2,
-                "area": 1,
-                "title": "DRM Strategy",
-                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "1: Sí. El enfoque de cafetía y la consideración de epidemias van relaciones en el enfoque ONEHEALTH.\n\n2: Si, ya exite una matriz evaluación de impacto ambiental , falta mejorar la socibilización interna y extarna.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44870,
-              "component": 3,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 3,
-                "component_num": 3,
-                "area": 1,
-                "title": "DRM Policy",
-                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "Hallazgo\n\nLa Política de Gestión del Riesgo de Desastres de la Cruz Roja Hondureña reconoce la importancia de integrar las consideraciones ambientales y climáticas en todas las fases de la respuesta, desde la evaluación y planificación hasta la implementación, el seguimiento y la recuperación.\n\nEste enfoque se complementa con las políticas institucionales de Ambiente y Cambio Climático, las cuales orientan la reducción de impactos ambientales, el uso responsable de los recursos y la incorporación de información climática en la toma de decisiones. No obstante, se requiere fortalecer la articulación entre estas políticas y asegurar que sus lineamientos se reflejen de manera uniforme en los planes, procedimientos y operaciones de la sede central y las filiales.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44871,
-              "component": 4,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 4,
-                "component_num": 4,
-                "area": 1,
-                "title": "DRM Laws, Advocacy and Dissemination",
-                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "Para garantizar una respuesta humanitaria ambientalmente responsible y alineada con la legislación de Honduras, la Cruz Roja incorpora activamente el marco normativo nacional en la planificación de sus operaciones. En materia de infraestructura y apoyo técnico, se aplican diagnósticos socioambientales que respetan la Ley General del Ambiente (MiAmbiente+) para prevenir impactos ecológicos antes de realizar una acción. En la entrega de kits e insumos se atiende la normativa municipal reduciendo los plásticos de un solo uso mediante el reemplazo de materiales de multiple uso, Asimismo, el manejo de desechos en albergues y puestos médicos se realiza de forma clasificada según el Reglamento para la Gestión Integral de Residuos Sólidos y Salud, priorizando la recolección municipal e incineradores autorizados para evitar la quema abierta. Finalmente, el uso de materiales de construcción como la madera se verifica bajo los parámetros de legalidad del ICF, promoviendo insumos sostenibles y educando a las comunidades asistidas sobre la disposición adecuada de residuos para proteger los recursos naturales locales.",
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": true,

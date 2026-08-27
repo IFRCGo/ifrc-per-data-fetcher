@@ -4419,21 +4419,6 @@
     "updated_at": "2025-11-21T11:53:30.058417Z",
     "prioritized_components": [
       {
-        "componentId": 35,
-        "componentTitle": "Information Management (IM)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 54,
-        "componentTitle": "Staff and volunteer management",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 3,
         "componentTitle": "DRM Policy",
         "areaTitle": "Policy Strategy and Standards"
@@ -4452,6 +4437,21 @@
         "componentId": 17,
         "componentTitle": "HEALTH IN EMERGENCIES",
         "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 35,
+        "componentTitle": "Information Management (IM)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": false,
@@ -7828,6 +7828,21 @@
     "updated_at": "2025-11-22T14:17:43.898570Z",
     "prioritized_components": [
       {
+        "componentId": 5,
+        "componentTitle": "Quality and accountability",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 6,
+        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 8,
+        "componentTitle": "Risk management",
+        "areaTitle": "Analysis and planning"
+      },
+      {
         "componentId": 14,
         "componentTitle": "NS-specific areas of intervention",
         "areaTitle": "Operational capacity"
@@ -7851,21 +7866,6 @@
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 5,
-        "componentTitle": "Quality and accountability",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 6,
-        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 8,
-        "componentTitle": "Risk management",
-        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": false,
@@ -8957,21 +8957,6 @@
     "updated_at": "2025-11-26T19:40:02.781765Z",
     "prioritized_components": [
       {
-        "componentId": 46,
-        "componentTitle": "Finance and Admin policy and emergency procedures",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 48,
-        "componentTitle": "Logistics, procurement and supply chain",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 2,
         "componentTitle": "DRM Strategy",
         "areaTitle": "Policy Strategy and Standards"
@@ -9010,6 +8995,21 @@
         "componentId": 39,
         "componentTitle": "Coordination with authorities",
         "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 48,
+        "componentTitle": "Logistics, procurement and supply chain",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": true,
@@ -10108,6 +10108,11 @@
     "updated_at": "2025-11-21T12:26:58.701394Z",
     "prioritized_components": [
       {
+        "componentId": 4,
+        "componentTitle": "DRM Laws, Advocacy and Dissemination",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 5,
         "componentTitle": "Quality and accountability",
         "areaTitle": "Policy Strategy and Standards"
@@ -10141,11 +10146,6 @@
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 4,
-        "componentTitle": "DRM Laws, Advocacy and Dissemination",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -11158,6 +11158,21 @@
     "updated_at": "2025-11-21T12:33:30.901752Z",
     "prioritized_components": [
       {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 4,
+        "componentTitle": "DRM Laws, Advocacy and Dissemination",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 8,
         "componentTitle": "Risk management",
         "areaTitle": "Analysis and planning"
@@ -11201,21 +11216,6 @@
         "componentId": 48,
         "componentTitle": "Logistics, procurement and supply chain",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 1,
-        "componentTitle": "RC auxiliary role, Mandate and Law",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 2,
-        "componentTitle": "DRM Strategy",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 4,
-        "componentTitle": "DRM Laws, Advocacy and Dissemination",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -12338,6 +12338,11 @@
     "updated_at": "2025-11-26T19:58:38.017857Z",
     "prioritized_components": [
       {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 3,
         "componentTitle": "DRM Policy",
         "areaTitle": "Policy Strategy and Standards"
@@ -12361,11 +12366,6 @@
         "componentId": 54,
         "componentTitle": "Staff and volunteer management",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 1,
-        "componentTitle": "RC auxiliary role, Mandate and Law",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -12842,21 +12842,6 @@
     "updated_at": "2025-11-22T14:22:09.830022Z",
     "prioritized_components": [
       {
-        "componentId": 46,
-        "componentTitle": "Finance and Admin policy and emergency procedures",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 47,
-        "componentTitle": "Information and Communication Technology (ICT)",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 54,
-        "componentTitle": "Staff and volunteer management",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 8,
         "componentTitle": "Risk management",
         "areaTitle": "Analysis and planning"
@@ -12889,6 +12874,21 @@
       {
         "componentId": 44,
         "componentTitle": "Safety and security management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 47,
+        "componentTitle": "Information and Communication Technology (ICT)",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
         "areaTitle": "Operations support"
       }
     ],
@@ -20313,11 +20313,6 @@
     "updated_at": "2025-11-26T18:43:29.197663Z",
     "prioritized_components": [
       {
-        "componentId": 48,
-        "componentTitle": "Logistics, procurement and supply chain",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 6,
         "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "areaTitle": "Analysis and planning"
@@ -20351,6 +20346,11 @@
         "componentId": 39,
         "componentTitle": "Coordination with authorities",
         "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 48,
+        "componentTitle": "Logistics, procurement and supply chain",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": false,
@@ -25229,6 +25229,11 @@
     "updated_at": "2025-11-22T14:27:25.709120Z",
     "prioritized_components": [
       {
+        "componentId": 14,
+        "componentTitle": "NS-specific areas of intervention",
+        "areaTitle": "Operational capacity"
+      },
+      {
         "componentId": 12,
         "componentTitle": "Response and recovery planning",
         "areaTitle": "Analysis and planning"
@@ -25257,11 +25262,6 @@
         "componentId": 48,
         "componentTitle": "Logistics, procurement and supply chain",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 14,
-        "componentTitle": "NS-specific areas of intervention",
-        "areaTitle": "Operational capacity"
       }
     ],
     "epi_considerations": false,
@@ -31189,16 +31189,6 @@
     "updated_at": "2025-11-21T15:29:32.437287Z",
     "prioritized_components": [
       {
-        "componentId": 36,
-        "componentTitle": "Testing and Learning",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 42,
-        "componentTitle": "Coordination with local community level responders",
-        "areaTitle": "Coordination"
-      },
-      {
         "componentId": 10,
         "componentTitle": "Business continuity",
         "areaTitle": "Analysis and planning"
@@ -31247,6 +31237,16 @@
         "componentId": 35,
         "componentTitle": "Information Management (IM)",
         "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 36,
+        "componentTitle": "Testing and Learning",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 42,
+        "componentTitle": "Coordination with local community level responders",
+        "areaTitle": "Coordination"
       }
     ],
     "epi_considerations": false,
@@ -33396,11 +33396,6 @@
     "updated_at": "2025-11-23T11:16:30.732100Z",
     "prioritized_components": [
       {
-        "componentId": 29,
-        "componentTitle": "Mapping of NS capacities",
-        "areaTitle": "Operational capacity"
-      },
-      {
         "componentId": 55,
         "componentTitle": "Communication in emergencies",
         "areaTitle": "Operations support"
@@ -33419,6 +33414,11 @@
         "componentId": 39,
         "componentTitle": "Coordination with authorities",
         "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 29,
+        "componentTitle": "Mapping of NS capacities",
+        "areaTitle": "Operational capacity"
       }
     ],
     "epi_considerations": false,
@@ -40023,31 +40023,6 @@
     "updated_at": "2025-11-27T12:06:56.923107Z",
     "prioritized_components": [
       {
-        "componentId": 40,
-        "componentTitle": "Coordination with External Agencies and NGOs",
-        "areaTitle": "Coordination"
-      },
-      {
-        "componentId": 46,
-        "componentTitle": "Finance and Admin policy and emergency procedures",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 48,
-        "componentTitle": "Logistics, procurement and supply chain",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 54,
-        "componentTitle": "Staff and volunteer management",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 1,
         "componentTitle": "RC auxiliary role, Mandate and Law",
         "areaTitle": "Policy Strategy and Standards"
@@ -40071,6 +40046,31 @@
         "componentId": 35,
         "componentTitle": "Information Management (IM)",
         "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 40,
+        "componentTitle": "Coordination with External Agencies and NGOs",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 48,
+        "componentTitle": "Logistics, procurement and supply chain",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": false,
@@ -47503,6 +47503,26 @@
     "updated_at": "2025-11-24T12:30:27.246578Z",
     "prioritized_components": [
       {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 5,
+        "componentTitle": "Quality and accountability",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 8,
+        "componentTitle": "Risk management",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 10,
+        "componentTitle": "Business continuity",
+        "areaTitle": "Analysis and planning"
+      },
+      {
         "componentId": 29,
         "componentTitle": "Mapping of NS capacities",
         "areaTitle": "Operational capacity"
@@ -47531,26 +47551,6 @@
         "componentId": 55,
         "componentTitle": "Communication in emergencies",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 1,
-        "componentTitle": "RC auxiliary role, Mandate and Law",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 5,
-        "componentTitle": "Quality and accountability",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 8,
-        "componentTitle": "Risk management",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 10,
-        "componentTitle": "Business continuity",
-        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": false,
@@ -48027,16 +48027,6 @@
     "updated_at": "2025-11-24T12:28:27.309464Z",
     "prioritized_components": [
       {
-        "componentId": 44,
-        "componentTitle": "Safety and security management",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 8,
-        "componentTitle": "Risk management",
-        "areaTitle": "Analysis and planning"
-      },
-      {
         "componentId": 3,
         "componentTitle": "DRM Policy",
         "areaTitle": "Policy Strategy and Standards"
@@ -48050,6 +48040,16 @@
         "componentId": 56,
         "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 44,
+        "componentTitle": "Safety and security management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 8,
+        "componentTitle": "Risk management",
+        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": false,
@@ -52988,11 +52988,6 @@
     "updated_at": "2025-11-26T17:19:20.866005Z",
     "prioritized_components": [
       {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 1,
         "componentTitle": "RC auxiliary role, Mandate and Law",
         "areaTitle": "Policy Strategy and Standards"
@@ -53025,6 +53020,11 @@
       {
         "componentId": 54,
         "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
         "areaTitle": "Operations support"
       }
     ],
@@ -54136,31 +54136,6 @@
     "updated_at": "2025-11-26T19:03:44.724220Z",
     "prioritized_components": [
       {
-        "componentId": 32,
-        "componentTitle": "Emergency Needs Assessment",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 34,
-        "componentTitle": "Emergency Operations Centre (EOC)",
-        "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 38,
-        "componentTitle": "Coordination with Movement",
-        "areaTitle": "Coordination"
-      },
-      {
-        "componentId": 39,
-        "componentTitle": "Coordination with authorities",
-        "areaTitle": "Coordination"
-      },
-      {
-        "componentId": 45,
-        "componentTitle": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 2,
         "componentTitle": "DRM Strategy",
         "areaTitle": "Policy Strategy and Standards"
@@ -54184,6 +54159,31 @@
         "componentId": 11,
         "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 32,
+        "componentTitle": "Emergency Needs Assessment",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 34,
+        "componentTitle": "Emergency Operations Centre (EOC)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 38,
+        "componentTitle": "Coordination with Movement",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 39,
+        "componentTitle": "Coordination with authorities",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 45,
+        "componentTitle": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": false,
@@ -58087,6 +58087,16 @@
     "updated_at": "2025-12-02T12:16:18.510978Z",
     "prioritized_components": [
       {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 11,
+        "componentTitle": "Emergency Response Procedures (SOPs)",
+        "areaTitle": "Analysis and planning"
+      },
+      {
         "componentId": 12,
         "componentTitle": "Response and recovery planning",
         "areaTitle": "Analysis and planning"
@@ -58119,16 +58129,6 @@
       {
         "componentId": 6,
         "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 2,
-        "componentTitle": "DRM Strategy",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 11,
-        "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
       }
     ],
@@ -59625,6 +59625,16 @@
     "updated_at": "2025-11-27T15:52:02.502197Z",
     "prioritized_components": [
       {
+        "componentId": 1,
+        "componentTitle": "RC auxiliary role, Mandate and Law",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 3,
+        "componentTitle": "DRM Policy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 9,
         "componentTitle": "Preparedness plans and budgets",
         "areaTitle": "Analysis and planning"
@@ -59638,16 +59648,6 @@
         "componentId": 54,
         "componentTitle": "Staff and volunteer management",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 1,
-        "componentTitle": "RC auxiliary role, Mandate and Law",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 3,
-        "componentTitle": "DRM Policy",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -60200,21 +60200,6 @@
     "updated_at": "2025-11-21T16:04:10.550823Z",
     "prioritized_components": [
       {
-        "componentId": 42,
-        "componentTitle": "Coordination with local community level responders",
-        "areaTitle": "Coordination"
-      },
-      {
-        "componentId": 55,
-        "componentTitle": "Communication in emergencies",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
         "componentId": 6,
         "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "areaTitle": "Analysis and planning"
@@ -60228,6 +60213,21 @@
         "componentId": 36,
         "componentTitle": "Testing and Learning",
         "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 42,
+        "componentTitle": "Coordination with local community level responders",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 55,
+        "componentTitle": "Communication in emergencies",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
       }
     ],
     "epi_considerations": false,
@@ -60740,31 +60740,6 @@
     "updated_at": "2025-11-21T16:02:32.036216Z",
     "prioritized_components": [
       {
-        "componentId": 42,
-        "componentTitle": "Coordination with local community level responders",
-        "areaTitle": "Coordination"
-      },
-      {
-        "componentId": 46,
-        "componentTitle": "Finance and Admin policy and emergency procedures",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 54,
-        "componentTitle": "Staff and volunteer management",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 56,
-        "componentTitle": "Resource Mobilisation",
-        "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 30,
-        "componentTitle": "Early Action Mechanisms",
-        "areaTitle": "Operational capacity"
-      },
-      {
         "componentId": 1,
         "componentTitle": "RC auxiliary role, Mandate and Law",
         "areaTitle": "Policy Strategy and Standards"
@@ -60797,6 +60772,31 @@
       {
         "componentId": 35,
         "componentTitle": "Information Management (IM)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 42,
+        "componentTitle": "Coordination with local community level responders",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 46,
+        "componentTitle": "Finance and Admin policy and emergency procedures",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 30,
+        "componentTitle": "Early Action Mechanisms",
         "areaTitle": "Operational capacity"
       }
     ],
@@ -61884,6 +61884,11 @@
     "updated_at": "2025-11-27T16:01:07.983306Z",
     "prioritized_components": [
       {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 6,
         "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "areaTitle": "Analysis and planning"
@@ -61907,11 +61912,6 @@
         "componentId": 46,
         "componentTitle": "Finance and Admin policy and emergency procedures",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 2,
-        "componentTitle": "DRM Strategy",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -63562,6 +63562,16 @@
     "updated_at": "2025-11-27T16:04:10.227720Z",
     "prioritized_components": [
       {
+        "componentId": 2,
+        "componentTitle": "DRM Strategy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 3,
+        "componentTitle": "DRM Policy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 11,
         "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
@@ -63585,16 +63595,6 @@
         "componentId": 45,
         "componentTitle": "Operations Monitoring, Evaluation, Reporting and Learning",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 2,
-        "componentTitle": "DRM Strategy",
-        "areaTitle": "Policy Strategy and Standards"
-      },
-      {
-        "componentId": 3,
-        "componentTitle": "DRM Policy",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -71481,6 +71481,11 @@
     "updated_at": "2026-05-01T10:44:24.870515Z",
     "prioritized_components": [
       {
+        "componentId": 5,
+        "componentTitle": "Quality and accountability",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
         "componentId": 11,
         "componentTitle": "Emergency Response Procedures (SOPs)",
         "areaTitle": "Analysis and planning"
@@ -71499,11 +71504,6 @@
         "componentId": 44,
         "componentTitle": "Safety and security management",
         "areaTitle": "Operations support"
-      },
-      {
-        "componentId": 5,
-        "componentTitle": "Quality and accountability",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
@@ -75308,6 +75308,16 @@
     "updated_at": "2025-11-26T19:17:14.028769Z",
     "prioritized_components": [
       {
+        "componentId": 6,
+        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 7,
+        "componentTitle": "Scenario planning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
         "componentId": 32,
         "componentTitle": "Emergency Needs Assessment",
         "areaTitle": "Operational capacity"
@@ -75321,16 +75331,6 @@
         "componentId": 35,
         "componentTitle": "Information Management (IM)",
         "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 6,
-        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-        "areaTitle": "Analysis and planning"
-      },
-      {
-        "componentId": 7,
-        "componentTitle": "Scenario planning",
-        "areaTitle": "Analysis and planning"
       }
     ],
     "epi_considerations": false,
