@@ -23065,8 +23065,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 210,
@@ -24603,8 +24603,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -47717,8 +47717,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -49266,8 +49266,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -52353,8 +52353,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 1,
+          "rating_title": "Does Not Exist"
         },
         {
           "assessment_id": 210,
@@ -55440,8 +55440,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 2,
-          "rating_title": "Partially Exists"
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 210,
@@ -60054,8 +60054,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 3,
-          "rating_title": "Needs Improvement"
+          "rating_value": 0,
+          "rating_title": ""
         },
         {
           "assessment_id": 210,
@@ -61592,8 +61592,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 210,
@@ -64668,8 +64668,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 210,
@@ -136991,42 +136991,6 @@
             "rating_title": "Exists – Could be Strengthened"
           },
           {
-            "component_id": 34,
-            "component_name": "Emergency Operations Centre (EOC)",
-            "component_num": 20,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 35,
-            "component_name": "Information Management (IM)",
-            "component_num": 21,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 36,
-            "component_name": "Testing and Learning",
-            "component_num": 22,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
-            "component_id": 37,
-            "component_name": "Activation of regional and international support",
-            "component_num": 23,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
-          },
-          {
             "component_id": 15,
             "component_name": "COMMUNITY-BASED DP AND DRR",
             "component_num": 14,
@@ -137158,8 +137122,8 @@
             "component_num": 15,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 30,
@@ -137167,8 +137131,8 @@
             "component_num": 16,
             "area_id": 3,
             "area_name": "Operational capacity",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 31,
@@ -137198,13 +137162,49 @@
             "rating_title": "Partially Exists"
           },
           {
+            "component_id": 34,
+            "component_name": "Emergency Operations Centre (EOC)",
+            "component_num": 20,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 35,
+            "component_name": "Information Management (IM)",
+            "component_num": 21,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 4,
+            "rating_title": "Exists – Could be Strengthened"
+          },
+          {
+            "component_id": 36,
+            "component_name": "Testing and Learning",
+            "component_num": 22,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 37,
+            "component_name": "Activation of regional and international support",
+            "component_num": 23,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
             "component_id": 40,
             "component_name": "Coordination with External Agencies and NGOs",
             "component_num": 26,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 3,
-            "rating_title": "Needs Improvement"
+            "rating_value": 0,
+            "rating_title": ""
           },
           {
             "component_id": 41,
@@ -137212,8 +137212,8 @@
             "component_num": 27,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 42,
@@ -137230,8 +137230,8 @@
             "component_num": 29,
             "area_id": 4,
             "area_name": "Coordination",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 38,
@@ -137297,24 +137297,6 @@
             "rating_title": "Needs Improvement"
           },
           {
-            "component_id": 11,
-            "component_name": "Emergency Response Procedures (SOPs)",
-            "component_num": 11,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 13,
-            "component_name": "Pre-disaster meetings and agreements",
-            "component_num": 13,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
             "component_id": 12,
             "component_name": "Response and recovery planning",
             "component_num": 12,
@@ -137329,8 +137311,8 @@
             "component_num": 6,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 7,
@@ -137338,8 +137320,8 @@
             "component_num": 7,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 8,
@@ -137356,8 +137338,8 @@
             "component_num": 9,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
           },
           {
             "component_id": 10,
@@ -137367,6 +137349,24 @@
             "area_name": "Analysis and planning",
             "rating_value": 1,
             "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 11,
+            "component_name": "Emergency Response Procedures (SOPs)",
+            "component_num": 11,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
+          },
+          {
+            "component_id": 13,
+            "component_name": "Pre-disaster meetings and agreements",
+            "component_num": 13,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 0,
+            "rating_title": ""
           }
         ],
         "phase": 2,

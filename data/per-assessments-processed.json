@@ -124102,10 +124102,10 @@
       "id": 156,
       "area_responses": [
         {
-          "id": 4832,
+          "id": 5251,
           "component_responses": [
             {
-              "id": 42914,
+              "id": 46468,
               "component": 56,
               "rating": 4,
               "rating_details": {
@@ -124126,10 +124126,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Absence of a clear resource mobilization strategy and internal alignment.\nCVP demonstrates operational and logistical capacity to mobilize resources during emergencies. However, there are gaps in the structuring of processes, including the lack of clear procedures, defined roles and responsibilities, and weaknesses in internal communication.\nNo verification mechanisms or predefined criteria are in place for the management of in-kind donations."
+              "notes": "ASK about pre-disaster agreements (with partners and donors as the Spanish RC) and formalized collaboration and fundraising mechanisms with the private sector (there is evidence on the agreements but the mechanisms is formalized?)\n\nAbsence of a clear resource mobilization strategy and internal alignment.\nCVP demonstrates operational and logistical capacity to mobilize resources during emergencies. However, there are gaps in the structuring of processes, including the lack of clear procedures, defined roles and responsibilities, and weaknesses in internal communication.\nNo verification mechanisms or predefined criteria are in place for the management of in-kind donations."
             },
             {
-              "id": 42915,
+              "id": 46469,
               "component": 44,
               "rating": null,
               "rating_details": {
@@ -124150,10 +124150,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "GAP, ASK Learning & training team, Not mentioned,\nImpact.\nASK for volunteers. CVP Manual de Acolhimento defines institutional rules, procedures and working arrangements to new staff."
+              "notes": "ASK Safer access, Stay Safe, Impact, Context and risk analysis information provided to responders\n Learning & training team, Not mentioned,"
             },
             {
-              "id": 42916,
+              "id": 46470,
               "component": 45,
               "rating": null,
               "rating_details": {
@@ -124177,7 +124177,7 @@
               "notes": "GAP, \nPM was doing the PMER in the Fires operation,\nAsk about the systems in place (M&E, Lessons learned integrated in next planning)"
             },
             {
-              "id": 42917,
+              "id": 46471,
               "component": 46,
               "rating": null,
               "rating_details": {
@@ -124198,10 +124198,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Finance,"
+              "notes": "ASK  IF THERE ARE MoUs or agreements for compliance."
             },
             {
-              "id": 42918,
+              "id": 46472,
               "component": 47,
               "rating": 5,
               "rating_details": {
@@ -124222,10 +124222,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": null
+              "notes": "ASK to confirm: No consolidated emergency contact list  with critical numbers; contacts are dispersed by function (RLF focal points, a branch-president email/WhatsApp chain, fragmented CNE/HQ responder databases, and informal volunteer WhatsApp chains), with no formal activation channel."
             },
             {
-              "id": 42919,
+              "id": 46473,
               "component": 48,
               "rating": 5,
               "rating_details": {
@@ -124246,10 +124246,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK\nWhat about the islands?\nThe implementation phase was particularly demanding, partly due to challenges in aligning support services, with procurement centralized in Lisbon and other logistics functions based in Coimbra"
+              "notes": "ASK Do branches use the \"requisição logística\" template or just the HQ and CNE?\nASK NS drivers are trained in First Aid, defensive driving and Safer Access.\nASK NS has an approved warehouse and stock management manual.\n\nCVP has a national logistics function, a central platform and regional warehouses, a substantial vehicle fleet, pre-positioned equipment, transport capacity and partners able to provide trucks and drivers. Kristin showed rapid sourcing, Movement support and effective deployment of generators, Starlink and specialist modules. Important weaknesses remain: emergency procurement depends heavily on incumbent knowledge and is not documented; habitual suppliers are contacted without a formal emergency supplier base; asset information is divided between Património, CNE, IT and Logistics and reconciled manually; support functions may be engaged only after an acquisition; and pre-defined criteria for in-kind donations were absent. The capability is strong but vulnerable to staff turnover, fragmented data and inconsistent controls."
             },
             {
-              "id": 42920,
+              "id": 46474,
               "component": 54,
               "rating": 4,
               "rating_details": {
@@ -124270,10 +124270,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "CVP Manual de Acolhimento da Cruz Vermelha Portuguesa establishes the formal onboarding process, including institutional induction.\nASK training on sef-care...CVP Política de Voluntariado (2026) includes measures for volunteer safety, protection and well-being. No evidence was provided to demonstrate their implementation in practice."
+              "notes": "Routine onboarding is formalised through the CVP Manual de Acolhimento (institutional induction). For emergencies, deployment lacks ToRs, emergency-specific training is not evidenced, mobilisation is slow, informal and reactive, and volunteer databases are fragmented and not shared across CNE and HQ. Minimum safeguards, insurance and a Code of Conduct exist on paper but with weak central visibility and no proof of practical implementation. Spontaneous-volunteer, rotation/retention and self-care procedures are largely absent, driving fatigue on a small core team."
             },
             {
-              "id": 42921,
+              "id": 46475,
               "component": 55,
               "rating": 5,
               "rating_details": {
@@ -124294,111 +124294,15 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK  Guidelines for post on social media.\n\"Política de Comunicação e Publicidade\" of the CVP Code of Conduct (2018, section 10) defines standards for institutional communication. CVP Manual de Acolhimento defines internal communication procedures and the use of institutional communication channels."
+              "notes": "ASK NS coordinates with IFRC/ICRC on joint communication (SMCC)"
             }
           ]
         },
         {
-          "id": 4833,
+          "id": 5252,
           "component_responses": [
             {
-              "id": 42944,
-              "component": 34,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 34,
-                "component_num": 20,
-                "area": 3,
-                "title": "Emergency Operations Centre (EOC)",
-                "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Karen and the EOC manager.\nDM Level it is strong. They have all the structure but the current EOC manager is restricted to the ambulance services. It is activate when there is an emergency but there is still disconnected."
-            },
-            {
-              "id": 42922,
-              "component": 35,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 35,
-                "component_num": 21,
-                "area": 3,
-                "title": "Information Management (IM)",
-                "description": "Ability to manage information including requesting, receiving, analyzing and disseminating as per its procedures and partner requirements (IFRC and public authorities in particular). There should be a clear digital/paper trail that documents what, when and how the NS has acted and provides key information for the development of Emergency Plan of Actions. Includes IM between levels, between departments and Situational Reports, mapping, visualisation of data, GO platform (IFRC)."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK EOC Manager"
-            },
-            {
-              "id": 42923,
-              "component": 36,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 36,
-                "component_num": 22,
-                "area": 3,
-                "title": "Testing and Learning",
-                "description": "Drills and Simulations allow the organization to test, identify and learn from the results of these type of exercises and incorporate learning into future preparedness and response planning."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "Lessons learned, IMPACT\nASK are they organizing drills or simulations?"
-            },
-            {
-              "id": 42924,
-              "component": 37,
-              "rating": 4,
-              "rating_details": {
-                "id": 4,
-                "value": 3,
-                "title": "Needs Improvement"
-              },
-              "component_details": {
-                "id": 37,
-                "component_num": 23,
-                "area": 3,
-                "title": "Activation of regional and international support",
-                "description": "Procedures for requesting and accepting regional and international support in operations, including triggering coordination mechanisms for funding, materials and human resources deployments."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "In progress. NS is familiar with DREF (Fires 2024), Go platform"
-            },
-            {
-              "id": 42925,
+              "id": 46476,
               "component": 15,
               "rating": 2,
               "rating_details": {
@@ -124422,7 +124326,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42926,
+              "id": 46477,
               "component": 16,
               "rating": 2,
               "rating_details": {
@@ -124446,7 +124350,7 @@
               "notes": "ASK CVP 2024 activity report explicitly records preventive population evacuations (Sept 2024 rural fires response). Is it institutionalised?"
             },
             {
-              "id": 42927,
+              "id": 46478,
               "component": 17,
               "rating": 2,
               "rating_details": {
@@ -124470,7 +124374,7 @@
               "notes": "ASK Pre-hospital care services, Ambulances services."
             },
             {
-              "id": 42928,
+              "id": 46479,
               "component": 18,
               "rating": 2,
               "rating_details": {
@@ -124494,7 +124398,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42929,
+              "id": 46480,
               "component": 19,
               "rating": 2,
               "rating_details": {
@@ -124518,7 +124422,7 @@
               "notes": "House cleaning (new) not institutionalised before. They want to. ASK status now.\nCVP emergency framework (“Organização Sistémica da Emergência e sua Hierarquia”) includes “tratamento de água” during the relief phase and “condições sanitárias” during recovery, and the onboarding (Manual de Acolhimento, 2024) includes water and hygiene in emergency logistics/survival support."
             },
             {
-              "id": 42930,
+              "id": 46481,
               "component": 20,
               "rating": 1,
               "rating_details": {
@@ -124542,7 +124446,7 @@
               "notes": null
             },
             {
-              "id": 42931,
+              "id": 46482,
               "component": 21,
               "rating": 1,
               "rating_details": {
@@ -124566,7 +124470,7 @@
               "notes": null
             },
             {
-              "id": 42932,
+              "id": 46483,
               "component": 22,
               "rating": 1,
               "rating_details": {
@@ -124590,7 +124494,7 @@
               "notes": "ASK Confirm if there is another actor responding or they have the role"
             },
             {
-              "id": 42933,
+              "id": 46484,
               "component": 23,
               "rating": 2,
               "rating_details": {
@@ -124614,7 +124518,7 @@
               "notes": "ASK They do but confirm  details. They stablish the shelter but they do not operationalize, the municipality does."
             },
             {
-              "id": 42934,
+              "id": 46485,
               "component": 24,
               "rating": 1,
               "rating_details": {
@@ -124638,7 +124542,7 @@
               "notes": "ASK Capacity?"
             },
             {
-              "id": 42935,
+              "id": 46486,
               "component": 25,
               "rating": 3,
               "rating_details": {
@@ -124662,7 +124566,7 @@
               "notes": "CVP has established RFL procedures, workflows and trained capacity, including 2 HQ FPs and a network of 40 FPs, supported by ICRC tools and guidance. However, RFL remains primarily focused on migration and has not yet been fully integrated into domestic emergency response arrangements. Coordination and information-sharing mechanisms between RFL FPs, the CNE, ZCAPs and HQ are not formally defined, and personnel lack specific “RFL in emergencies” training."
             },
             {
-              "id": 42936,
+              "id": 46487,
               "component": 26,
               "rating": 1,
               "rating_details": {
@@ -124686,7 +124590,7 @@
               "notes": "ASK"
             },
             {
-              "id": 42937,
+              "id": 46488,
               "component": 27,
               "rating": 1,
               "rating_details": {
@@ -124710,7 +124614,7 @@
               "notes": null
             },
             {
-              "id": 42938,
+              "id": 46489,
               "component": 28,
               "rating": 1,
               "rating_details": {
@@ -124734,13 +124638,13 @@
               "notes": null
             },
             {
-              "id": 42939,
+              "id": 46490,
               "component": 29,
-              "rating": 3,
+              "rating": 4,
               "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
               },
               "component_details": {
                 "id": 29,
@@ -124755,16 +124659,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Gonzalo and Logistics, Volunteer Management.\nDuring the operation they did"
+              "notes": "CVP has substantial capacity data. The systems are fragmented, manually reconciled and not all accessible to the functions that need them. Availability is often confirmed through successive local and regional calls only after activation. Youth lacks a shared map of active structures; equipment inventories sit in separate functions; and records can diverge. Capacity is also geographically concentrated, with weaker coverage in some regions. Capacity mapping therefore exists but is not a single current, operational picture linked to mobilisation."
             },
             {
-              "id": 42940,
+              "id": 46491,
               "component": 30,
-              "rating": 2,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 30,
@@ -124779,10 +124683,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Gonzalo. Coimbra got alerted. In the CNE meetings there is a system in place (risk watch).\nEOC 24/7\nNot sure if they hav"
+              "notes": "ASK Branches have functioning local networks to inform communities of potential threats and activate early action (respecting mandates of public authorities).\n\nCVP receives advance warnings from ANEPC, deploys liaison officers before impact and uses fire-season readiness levels to issue internal instructions. These arrangements allowed Kristin preparation before landfall and provide a practical foundation for early action. There is no documented all-hazards early-action mechanism with forecast thresholds, pre-agreed activities, decision authority, financing and target communities. The current approach depends mainly on official alerts, managerial judgement and adaptation of the rural-fire system."
             },
             {
-              "id": 42941,
+              "id": 46492,
               "component": 31,
               "rating": 3,
               "rating_details": {
@@ -124806,7 +124710,7 @@
               "notes": "CVA experience in the fires and they are trying to run a program."
             },
             {
-              "id": 42942,
+              "id": 46493,
               "component": 32,
               "rating": 3,
               "rating_details": {
@@ -124830,7 +124734,7 @@
               "notes": "GAP. At sectoral level they should have (ASK to confirm, in the Fires they did). \nDrones program (security in events, in emergencies to assess damage). They use the CNE ones. Can not act directly."
             },
             {
-              "id": 42943,
+              "id": 46494,
               "component": 33,
               "rating": 3,
               "rating_details": {
@@ -124852,20 +124756,116 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": "GAP is it formalised? ASK- Data Protection Policy TO SHARE. The CVP Code of Conduct (2018, section 11-POLÍTICA DE PRIVACIDADE E PROTECÇÃO DE DADOS PESSOAIS) refers to the existence of a Data Protection Policy and establishes privacy, confidentiality and personal data protection requirements. The organizational chart identifies a dedicated \"Gabinete de Proteção de Dados\".\nCVP had previous experience during the Fires DREF(2024). In the Kristin emergency (2026), selection is carried out by government authorities, with CVP implementing based on externally defined criteria and lists."
-            }
-          ]
-        },
-        {
-          "id": 4834,
-          "component_responses": [
+            },
             {
-              "id": 42945,
-              "component": 40,
+              "id": 46495,
+              "component": 34,
               "rating": 4,
               "rating_details": {
                 "id": 4,
                 "value": 3,
                 "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 34,
+                "component_num": 20,
+                "area": 3,
+                "title": "Emergency Operations Centre (EOC)",
+                "description": "A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyze data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals. Generally located at the headquarter level of an organization."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK Karen and the EOC manager.\nDM Level it is strong. They have all the structure but the current EOC manager is restricted to the ambulance services. It is activate when there is an emergency but there is still disconnected."
+            },
+            {
+              "id": 46496,
+              "component": 35,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 35,
+                "component_num": 21,
+                "area": 3,
+                "title": "Information Management (IM)",
+                "description": "Ability to manage information including requesting, receiving, analyzing and disseminating as per its procedures and partner requirements (IFRC and public authorities in particular). There should be a clear digital/paper trail that documents what, when and how the NS has acted and provides key information for the development of Emergency Plan of Actions. Includes IM between levels, between departments and Situational Reports, mapping, visualisation of data, GO platform (IFRC)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK EOC Manager"
+            },
+            {
+              "id": 46497,
+              "component": 36,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 36,
+                "component_num": 22,
+                "area": 3,
+                "title": "Testing and Learning",
+                "description": "Drills and Simulations allow the organization to test, identify and learn from the results of these type of exercises and incorporate learning into future preparedness and response planning."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Lessons learned, IMPACT\nASK are they organizing drills or simulations?"
+            },
+            {
+              "id": 46498,
+              "component": 37,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 37,
+                "component_num": 23,
+                "area": 3,
+                "title": "Activation of regional and international support",
+                "description": "Procedures for requesting and accepting regional and international support in operations, including triggering coordination mechanisms for funding, materials and human resources deployments."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "In progress. NS is familiar with DREF (Fires 2024), Go platform"
+            }
+          ]
+        },
+        {
+          "id": 5253,
+          "component_responses": [
+            {
+              "id": 46499,
+              "component": 40,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
               },
               "component_details": {
                 "id": 40,
@@ -124880,16 +124880,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK about EU civil protection."
+              "notes": "ASK about EU civil protection and Camões Foundation coordination.\nCoordination exists and that collaboration takes place with DG ECHO. Other mechanisms exist through the Camões Foundation."
             },
             {
-              "id": 42946,
+              "id": 46500,
               "component": 41,
-              "rating": 5,
+              "rating": 4,
               "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
               },
               "component_details": {
                 "id": 41,
@@ -124904,10 +124904,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Historical good relation with the military. Still linked to the MoD."
+              "notes": "CVP has an established historical good relationship with the Armed Forces and a formal cooperation protocol ( and is still linked to the MoD).  The institutional relationship with the MoD is so normalised that the risks to independence and perception are assumed rather than assessed, with no analysis of the impact on the affected population."
             },
             {
-              "id": 42947,
+              "id": 46501,
               "component": 42,
               "rating": null,
               "rating_details": {
@@ -124931,13 +124931,13 @@
               "notes": "ASK"
             },
             {
-              "id": 42948,
+              "id": 46502,
               "component": 43,
-              "rating": null,
+              "rating": 4,
               "rating_details": {
-                "id": null,
-                "value": null,
-                "title": null
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
               },
               "component_details": {
                 "id": 43,
@@ -124952,10 +124952,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Resource Mobilization and Volunteers manager (Tiago)."
+              "notes": "CVP actively mobilises private-sector support (donated goods, transport, funding, corporate volunteers), and existing relationships enabled rapid support during Kristin. Independence is protected mainly through contract review, emblem separation is actively maintained, and corporate volunteers receive institutional training when interacting with affected people while remaining under CVP supervision. Cooperation relies heavily on informal, ad hoc arrangements and needs a defined due-diligence, activation, safeguarding, supervision and accountability framework."
             },
             {
-              "id": 42949,
+              "id": 46503,
               "component": 38,
               "rating": 5,
               "rating_details": {
@@ -124976,10 +124976,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "International missions (provide support). Used to engaged with other NS. Spanish RC involved in the emergency.\nStill to articulate."
+              "notes": "CVP has active relationships with IFRC, ICRC and neighbouring NSs. Kristin showed that bilateral operational support can be mobilised quickly while RFL uses ICRC systems. CVP is working with ICRC to strengthen emergency integration. \nIFRC DREF engagement is established. \nThe main weakness is internal articulation: International Relations, CNE, support services and specialist functions do not yet share a fully defined Movement-coordination procedure, and domestic-emergency RFL roles are not formalised."
             },
             {
-              "id": 42950,
+              "id": 46504,
               "component": 39,
               "rating": 5,
               "rating_details": {
@@ -125000,15 +125000,15 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Gonzalo if Each NS area of intervention has an established coordination mechanism with local and national authorities.\n\nProtocolo de Colaboração entre o INEM e CVP establish formal coordination mechanisms (roles and responsibilities) , joint planning and resource-sharing arrangements with national authorities. They are audited for the minister."
+              "notes": "ASK if Each NS area of intervention has an established coordination mechanism with local and national authorities or just the liaisons officers?\n\nCoordination with authorities is a clear strength. They are audited for the minister. CVP is embedded through pre-identified liaison officers at national, regional and sub-regional levels, receives official warnings and requests, participates in command briefings and operates within ANEPC coordination. Protocols with INEM and the Armed Forces define important areas of cooperation, and the external national command structure was reported to have worked strongly during Kristin. Strengthening is still required because CVP's precise role is not settled across all intervention areas, CVP is not a full member of national DRR forums, some local structures were bypassed or omitted, and internal liaison officers did not initially have visibility over every deployed CVP module."
             }
           ]
         },
         {
-          "id": 4835,
+          "id": 5254,
           "component_responses": [
             {
-              "id": 42951,
+              "id": 46505,
               "component": 2,
               "rating": 2,
               "rating_details": {
@@ -125032,7 +125032,7 @@
               "notes": "There is no articulated DRM strategy at NS level. \n\"Organização Sistémica da Emergência e sua Hierarquia\" defines CVP’s operational DRM framework, aligned with CNE and covering main DRM phases, however, discussions indicate that current practice remains mainly response-oriented, with less emphasis on preparedness, risk reduction, resilience and recovery. \"Organização Sistémica da Emergência e sua Hierarquia\" does not include risk-based priorities and objectives, or an implementation roadmap."
             },
             {
-              "id": 42952,
+              "id": 46506,
               "component": 3,
               "rating": 2,
               "rating_details": {
@@ -125056,7 +125056,7 @@
               "notes": null
             },
             {
-              "id": 42953,
+              "id": 46507,
               "component": 4,
               "rating": null,
               "rating_details": {
@@ -125077,10 +125077,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ask Gonzalo"
+              "notes": "ASK Gonzalo"
             },
             {
-              "id": 42954,
+              "id": 46508,
               "component": 5,
               "rating": 3,
               "rating_details": {
@@ -125104,7 +125104,7 @@
               "notes": "ASK but probably is not in place (through the benchmarks). Needs development. Fires: they do not have it institutionalised feedback mechanisms but they informally do in field. MHPSS Programs (response). \n\nASK about the MHPSS program"
             },
             {
-              "id": 42955,
+              "id": 46509,
               "component": 1,
               "rating": 4,
               "rating_details": {
@@ -125125,63 +125125,15 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "CVP is recognized under national legislation as an agent of civil protection and is formally integrated into the SIOPS. CVP mandate is defined in its Statutes. \nHowever, there is ambiguity in the practical exercise of institutional independence. CVP receives funding from different ministries, its President is appointed by the MoD, and the current legislation do not fully reflect the specific role of CVP in comparison to other public entities.\nThere are some gaps in understanding among staff and volunteers, particularly regarding the distinction between the auxiliary role and institutional independence in relation to the State.\nASK evidence of advocacy or humanitarian diplomacy initiatives."
+              "notes": "CVP is recognized under national legislation as an agent of civil protection and is formally integrated into the SIOPS. CVP mandate is defined in its Statutes. \nHowever, there is ambiguity in the practical exercise of institutional independence. CVP receives funding from different ministries, its President is appointed by the MoD, and the current legislation do not fully reflect the specific role of CVP in comparison to other public entities.\nThere are some gaps in undestanding among staff and volunteers, particularly regarding the distinction between the auxiliary role and institutional independence in relation to the State."
             }
           ]
         },
         {
-          "id": 4836,
+          "id": 5255,
           "component_responses": [
             {
-              "id": 42956,
-              "component": 11,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 11,
-                "component_num": 11,
-                "area": 2,
-                "title": "Emergency Response Procedures (SOPs)",
-                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "GASP ASK Directly because now is a no. Some systems are in place but they are not articulated (Some mentions of certains status that defined roles and responsabilities but there is not evicence on the document)"
-            },
-            {
-              "id": 42957,
-              "component": 13,
-              "rating": null,
-              "rating_details": {
-                "id": null,
-                "value": null,
-                "title": null
-              },
-              "component_details": {
-                "id": 13,
-                "component_num": 13,
-                "area": 2,
-                "title": "Pre-disaster meetings and agreements",
-                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Logistics"
-            },
-            {
-              "id": 42958,
+              "id": 46510,
               "component": 12,
               "rating": 2,
               "rating_details": {
@@ -125202,16 +125154,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "There is a National Response Plan (CNE) and they are a supporting agent there. But There is no standardized national emergency response procedure or Response Plan in place (procedimento nacional de emergência estandar)."
+              "notes": "CVP can organise rapid operational deployment using its hierarchy, national directive, liaison system and experienced personnel. It does not yet have an approved multi-sectoral response and recovery plan covering objectives, affected-population engagement, technical and support functions, budgeting, DREF/Emergency Appeal interfaces, transition, recovery information flows and exit. Interviewees described the recovery transition as ad hoc and dependent on personal contacts, while several functions were unclear about when and how they should join the response. A national all-hazards plan was the most consistent recommendation across interviews."
             },
             {
-              "id": 42959,
+              "id": 46511,
               "component": 6,
-              "rating": 2,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 6,
@@ -125226,16 +125178,16 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "CVP planning is informed by the government's National Risk Assessment (Avaliação Nacional de Risco, 2023), coordinated by ANEPC.  \nASK Does CVP do it jointly with the CNE? What do they discuss during the meetings with the CNE about risk analysis? \nASK directly benchmarks one by one"
+              "notes": "ASK The current/likely gaps, barriers, risks and challenges to NS acceptance, security and access have been identified.\nASK What do they discuss during the meetings with the ANEPC about risk analysis? \n\nCVP receives official monitoring and early-warning information through ANEPC and uses the government National Risk Assessment, maintains liaison arrangements and translates technical-operational notices into internal readiness actions.  However, interviewees did not identify a systematic CVP all-hazards context, vulnerability and risk-analysis process that combines authority, branch and community information, assigns ownership and drives preparedness decisions across sectors."
             },
             {
-              "id": 42960,
+              "id": 46512,
               "component": 7,
-              "rating": 2,
+              "rating": 3,
               "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
               },
               "component_details": {
                 "id": 7,
@@ -125250,10 +125202,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "CVP uses the government National Risk Assessment (Avaliação Nacional de Risco, 2023). No evidence was provided of a CVP humanitarian multi-sectoral scenario analysis.\nASK: \nIs CVP involved in the scenarios prepared by CNE?\nIs the \"Diretiva Operacional Nacional – Resposta Integrada no DECIR 2025\" reviewed annually or periodically?\nHas CVP other \"directivas operacional\" for other hazards?"
+              "notes": "CVP has a developed annual operational directive for rural fires (DON).  Kristin was managed by adapting that model, and interviewees consistently stated that there was no equivalent all-hazards scenario or contingency plan. Post-Kristin work on an all-hazards directive is positive but was not yet approved. Scenario planning therefore partially exists for one major seasonal hazard but is not multi-sectoral or consistently linked to branch-developed response strategies, recovery, access or slow-onset triggers."
             },
             {
-              "id": 42961,
+              "id": 46513,
               "component": 8,
               "rating": null,
               "rating_details": {
@@ -125277,13 +125229,13 @@
               "notes": "GAP (ASK Interview)\nGuia \"Para Resolução de Conflitos, Tratamento de Suspeitas e Queixas, Quebras de Integridade\". \nASK There was an audit."
             },
             {
-              "id": 42962,
+              "id": 46514,
               "component": 9,
-              "rating": null,
+              "rating": 2,
               "rating_details": {
-                "id": null,
-                "value": null,
-                "title": null
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
               },
               "component_details": {
                 "id": 9,
@@ -125298,10 +125250,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Coimbra Annua Plan (ASK for the doc)\nThe annual strategic plan (2024) includes strengthening emergency response through the development of a dedicated command and training campus, alignment with international standards, optimization of operational services, improved information management and logistics, and the establishment of internal funding mechanisms to support emergency actions."
+              "notes": "ASK for the doc Coimbra Annua Plan \nThe annual strategic plan (2024) includes strengthening emergency response through the development of a dedicated command and training campus, alignment with international standards, optimization of operational services, improved information management and logistics, and the establishment of internal funding mechanisms to support emergency actions."
             },
             {
-              "id": 42963,
+              "id": 46515,
               "component": 10,
               "rating": 2,
               "rating_details": {
@@ -125322,7 +125274,55 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "During the emergency, services were overshelmed at both local and national levels. There is not a BC plan."
+              "notes": "There is not a BCP. Kristin overloaded central and local services, pulled functional leads away from coordination duties, deferred routine Finance work and left the EOC without a formally defined emergency operating mode. Telecommunications and power redundancy are important continuity assets, but they do not constitute an organisation-wide plan for maintaining critical functions, protecting personnel and data, relocating work, delegating authority or recovering services."
+            },
+            {
+              "id": 46516,
+              "component": 11,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 11,
+                "component_num": 11,
+                "area": 2,
+                "title": "Emergency Response Procedures (SOPs)",
+                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK about SOPs at branch level.\nASK about organogram with contact details.\n\nCVP has a base of SOPs: a national operational directive, a continuously operating SALOP, response instructions, liaison arrangements, situation reporting and alert-level scaling. However, coverage is incomplete and uneven: the principal directive was designed for rural fires, several support areas lack approved emergency SOPs, roles across HQ, branches and communities are not comprehensively defined, and several new guides remain unapproved drafts. Response therefore relies on experience and adaptation rather than a complete, approved, all-hazards SOP system that is consistently disseminated and followed."
+            },
+            {
+              "id": 46517,
+              "component": 13,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 13,
+                "component_num": 13,
+                "area": 2,
+                "title": "Pre-disaster meetings and agreements",
+                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CVP has standing coordination through the civil-protection system, formal protocols with INEM and the Armed Forces, annual/seasonal meetings and practical relationships with the Spanish Red Cross, transport partners and regular suppliers. These arrangements enabled rapid liaison, transport and external sourcing during Kristin. The evidence is not yet a comprehensive pre-disaster agreement portfolio: emergency suppliers are not consistently preselected or activated through written mechanisms; the exact CVP operational role remains unsettled with ANEPC in some areas; and agreements for RLF, cash providers, incoming international assistance and other external actors were not established or verified."
             }
           ]
         }
@@ -187900,131 +187900,6 @@
       "id": 182,
       "area_responses": [
         {
-          "id": 5090,
-          "component_responses": [
-            {
-              "id": 44867,
-              "component": 5,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 5,
-                "component_num": 5,
-                "area": 1,
-                "title": "Quality and accountability",
-                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "1. Sí, La Cruz Roja Hondureña incorpora la sostenibilidad ambiental y los riesgos climáticos en su enfoque de rendición de cuentas ante las comunidades afectadas. La Participación Comunitaria y Rendición de Cuentas a la Comunidad (CEA) se aplica transversalmente en los programas, proyectos y operaciones, en articulación con las políticas institucionales de Cambio Climático y Gestión del Riesgo de Desastres.\n\nEste enfoque promueve la participación de las comunidades en la identificación y comunicación de riesgos climáticos, la definición de medidas de adaptación y la toma de decisiones relacionadas con la respuesta. Asimismo, permite recopilar conocimientos y percepciones comunitarias para adaptar los mensajes, seleccionar los canales de comunicación y orientar acciones que reduzcan los posibles impactos ambientales de la asistencia.\n\nNo obstante, se requiere fortalecer la aplicación uniforme y documentada de estos compromisos en todas las intervenciones y filiales, incorporando indicadores específicos de participación comunitaria, sostenibilidad ambiental, comunicación de riesgos climáticos y respuesta verde.\n\n2. Existe parcialmente, La Cruz Roja Hondureña ha respaldado la Carta sobre el Clima y el Medio Ambiente para Organizaciones Humanitarias, asumiendo el compromiso de fortalecer la preparación y respuesta institucional ante la crisis climática y reducir los impactos ambientales de su acción humanitaria.\n\nEn consonancia con este compromiso, los programas y proyectos implementan medidas de adaptación al cambio climático, entre ellas el fortalecimiento de la resiliencia comunitaria, la gestión sostenible del agua, la seguridad hídrica, la reducción de riesgos, la acción anticipatoria y la preparación frente a amenazas climáticas.\n\n3: Existe parcialmente, La Cruz Roja Hondureña implementa acciones institucionales para mejorar la sostenibilidad ambiental y reducir su huella de carbono y ambiental. Estas incluyen la renovación de vehículos por unidades más eficientes, la adquisición de productos de mayor duración, evaluaciones del sistema eléctrico y la reducción de plásticos en el empaquetado de la asistencia humanitaria.\n\nAsimismo, mantiene alianzas con empresas recicladoras para la gestión y aprovechamiento de materiales reutilizables, y cuenta con un convenio con una empresa especializada para la recolección, tratamiento e incineración segura de desechos biológicos. Adicionalmente, el proyecto de construcción del Hemocentro contempla un sistema para el tratamiento de aguas residuales, con el propósito de disminuir los impactos ambientales y sanitarios de sus operaciones.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44868,
-              "component": 1,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 1,
-                "component_num": 1,
-                "area": 1,
-                "title": "RC auxiliary role, Mandate and Law",
-                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "1. Sí.  Falta de credibilidad por entidades externas, dar conocimiento de la estructura a la población. Diseñar y establecer mecanismos de sociablización.\n\n2. Sí, Existe política gestión de riesgos, cambio climático, salud y migración.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44869,
-              "component": 2,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 2,
-                "component_num": 2,
-                "area": 1,
-                "title": "DRM Strategy",
-                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "1: Sí. El enfoque de cafetía y la consideración de epidemias van relaciones en el enfoque ONEHEALTH.\n\n2: Si, ya exite una matriz evaluación de impacto ambiental , falta mejorar la socibilización interna y extarna.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44870,
-              "component": 3,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 3,
-                "component_num": 3,
-                "area": 1,
-                "title": "DRM Policy",
-                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "Hallazgo\n\nLa Política de Gestión del Riesgo de Desastres de la Cruz Roja Hondureña reconoce la importancia de integrar las consideraciones ambientales y climáticas en todas las fases de la respuesta, desde la evaluación y planificación hasta la implementación, el seguimiento y la recuperación.\n\nEste enfoque se complementa con las políticas institucionales de Ambiente y Cambio Climático, las cuales orientan la reducción de impactos ambientales, el uso responsable de los recursos y la incorporación de información climática en la toma de decisiones. No obstante, se requiere fortalecer la articulación entre estas políticas y asegurar que sus lineamientos se reflejen de manera uniforme en los planes, procedimientos y operaciones de la sede central y las filiales.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            },
-            {
-              "id": 44871,
-              "component": 4,
-              "rating": 5,
-              "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
-              },
-              "component_details": {
-                "id": 4,
-                "component_num": 4,
-                "area": 1,
-                "title": "DRM Laws, Advocacy and Dissemination",
-                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": "Para garantizar una respuesta humanitaria ambientalmente responsible y alineada con la legislación de Honduras, la Cruz Roja incorpora activamente el marco normativo nacional en la planificación de sus operaciones. En materia de infraestructura y apoyo técnico, se aplican diagnósticos socioambientales que respetan la Ley General del Ambiente (MiAmbiente+) para prevenir impactos ecológicos antes de realizar una acción. En la entrega de kits e insumos se atiende la normativa municipal reduciendo los plásticos de un solo uso mediante el reemplazo de materiales de multiple uso, Asimismo, el manejo de desechos en albergues y puestos médicos se realiza de forma clasificada según el Reglamento para la Gestión Integral de Residuos Sólidos y Salud, priorizando la recolección municipal e incineradores autorizados para evitar la quema abierta. Finalmente, el uso de materiales de construcción como la madera se verifica bajo los parámetros de legalidad del ICF, promoviendo insumos sostenibles y educando a las comunidades asistidas sobre la disposición adecuada de residuos para proteger los recursos naturales locales.",
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": true,
-              "notes": null
-            }
-          ]
-        },
-        {
           "id": 5091,
           "component_responses": [
             {
@@ -188166,6 +188041,131 @@
               "urban_considerations": null,
               "epi_considerations": null,
               "climate_environmental_considerations": "Hallazgo\n\nLa Cruz Roja Hondureña coordina con diferentes socios y mecanismos del Movimiento para intercambiar experiencias, fortalecer sus capacidades y mantenerse actualizada sobre buenas prácticas relacionadas con el clima y el medio ambiente. Esta coordinación incluye el trabajo conjunto con el Centro Climático de la Cruz Roja y la Media Luna Roja, así como la participación en espacios técnicos y conferencias nacionales sobre cambio climático.\n\nLa Sociedad Nacional también mantiene coordinación con el Centro de Estudios Atmosféricos, Oceanográficos y Sísmicos (CENAOS) para analizar información meteorológica y definir o actualizar los umbrales de activación de los Protocolos de Acción Temprana (PAT). Asimismo, realiza seguimiento continuo de eventos climatológicos y de la situación climática nacional para apoyar la toma de decisiones, activar acciones anticipatorias y valorar posibles solicitudes de fondos DREF.\n\nEstas acciones permiten vincular la información científica con la planificación y la respuesta humanitaria. No obstante, se requiere fortalecer la documentación de las lecciones aprendidas, la participación sistemática en redes como Climate Champions y el Grupo de Trabajo de Respuesta Verde, así como la difusión de buenas prácticas en la sede central y las filiales.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            }
+          ]
+        },
+        {
+          "id": 5090,
+          "component_responses": [
+            {
+              "id": 44867,
+              "component": 5,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 5,
+                "component_num": 5,
+                "area": 1,
+                "title": "Quality and accountability",
+                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "1. Sí, La Cruz Roja Hondureña incorpora la sostenibilidad ambiental y los riesgos climáticos en su enfoque de rendición de cuentas ante las comunidades afectadas. La Participación Comunitaria y Rendición de Cuentas a la Comunidad (CEA) se aplica transversalmente en los programas, proyectos y operaciones, en articulación con las políticas institucionales de Cambio Climático y Gestión del Riesgo de Desastres.\n\nEste enfoque promueve la participación de las comunidades en la identificación y comunicación de riesgos climáticos, la definición de medidas de adaptación y la toma de decisiones relacionadas con la respuesta. Asimismo, permite recopilar conocimientos y percepciones comunitarias para adaptar los mensajes, seleccionar los canales de comunicación y orientar acciones que reduzcan los posibles impactos ambientales de la asistencia.\n\nNo obstante, se requiere fortalecer la aplicación uniforme y documentada de estos compromisos en todas las intervenciones y filiales, incorporando indicadores específicos de participación comunitaria, sostenibilidad ambiental, comunicación de riesgos climáticos y respuesta verde.\n\n2. Existe parcialmente, La Cruz Roja Hondureña ha respaldado la Carta sobre el Clima y el Medio Ambiente para Organizaciones Humanitarias, asumiendo el compromiso de fortalecer la preparación y respuesta institucional ante la crisis climática y reducir los impactos ambientales de su acción humanitaria.\n\nEn consonancia con este compromiso, los programas y proyectos implementan medidas de adaptación al cambio climático, entre ellas el fortalecimiento de la resiliencia comunitaria, la gestión sostenible del agua, la seguridad hídrica, la reducción de riesgos, la acción anticipatoria y la preparación frente a amenazas climáticas.\n\n3: Existe parcialmente, La Cruz Roja Hondureña implementa acciones institucionales para mejorar la sostenibilidad ambiental y reducir su huella de carbono y ambiental. Estas incluyen la renovación de vehículos por unidades más eficientes, la adquisición de productos de mayor duración, evaluaciones del sistema eléctrico y la reducción de plásticos en el empaquetado de la asistencia humanitaria.\n\nAsimismo, mantiene alianzas con empresas recicladoras para la gestión y aprovechamiento de materiales reutilizables, y cuenta con un convenio con una empresa especializada para la recolección, tratamiento e incineración segura de desechos biológicos. Adicionalmente, el proyecto de construcción del Hemocentro contempla un sistema para el tratamiento de aguas residuales, con el propósito de disminuir los impactos ambientales y sanitarios de sus operaciones.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44868,
+              "component": 1,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 1,
+                "component_num": 1,
+                "area": 1,
+                "title": "RC auxiliary role, Mandate and Law",
+                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "1. Sí.  Falta de credibilidad por entidades externas, dar conocimiento de la estructura a la población. Diseñar y establecer mecanismos de sociablización.\n\n2. Sí, Existe política gestión de riesgos, cambio climático, salud y migración.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44869,
+              "component": 2,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 2,
+                "component_num": 2,
+                "area": 1,
+                "title": "DRM Strategy",
+                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "1: Sí. El enfoque de cafetía y la consideración de epidemias van relaciones en el enfoque ONEHEALTH.\n\n2: Si, ya exite una matriz evaluación de impacto ambiental , falta mejorar la socibilización interna y extarna.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44870,
+              "component": 3,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 3,
+                "component_num": 3,
+                "area": 1,
+                "title": "DRM Policy",
+                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "Hallazgo\n\nLa Política de Gestión del Riesgo de Desastres de la Cruz Roja Hondureña reconoce la importancia de integrar las consideraciones ambientales y climáticas en todas las fases de la respuesta, desde la evaluación y planificación hasta la implementación, el seguimiento y la recuperación.\n\nEste enfoque se complementa con las políticas institucionales de Ambiente y Cambio Climático, las cuales orientan la reducción de impactos ambientales, el uso responsable de los recursos y la incorporación de información climática en la toma de decisiones. No obstante, se requiere fortalecer la articulación entre estas políticas y asegurar que sus lineamientos se reflejen de manera uniforme en los planes, procedimientos y operaciones de la sede central y las filiales.",
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": true,
+              "notes": null
+            },
+            {
+              "id": 44871,
+              "component": 4,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 4,
+                "component_num": 4,
+                "area": 1,
+                "title": "DRM Laws, Advocacy and Dissemination",
+                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": "Para garantizar una respuesta humanitaria ambientalmente responsible y alineada con la legislación de Honduras, la Cruz Roja incorpora activamente el marco normativo nacional en la planificación de sus operaciones. En materia de infraestructura y apoyo técnico, se aplican diagnósticos socioambientales que respetan la Ley General del Ambiente (MiAmbiente+) para prevenir impactos ecológicos antes de realizar una acción. En la entrega de kits e insumos se atiende la normativa municipal reduciendo los plásticos de un solo uso mediante el reemplazo de materiales de multiple uso, Asimismo, el manejo de desechos en albergues y puestos médicos se realiza de forma clasificada según el Reglamento para la Gestión Integral de Residuos Sólidos y Salud, priorizando la recolección municipal e incineradores autorizados para evitar la quema abierta. Finalmente, el uso de materiales de construcción como la madera se verifica bajo los parámetros de legalidad del ICF, promoviendo insumos sostenibles y educando a las comunidades asistidas sobre la disposición adecuada de residuos para proteger los recursos naturales locales.",
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": true,
