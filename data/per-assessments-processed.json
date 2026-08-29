@@ -124102,10 +124102,10 @@
       "id": 156,
       "area_responses": [
         {
-          "id": 5251,
+          "id": 5281,
           "component_responses": [
             {
-              "id": 46468,
+              "id": 46768,
               "component": 56,
               "rating": 4,
               "rating_details": {
@@ -124129,7 +124129,7 @@
               "notes": "ASK about pre-disaster agreements (with partners and donors as the Spanish RC) and formalized collaboration and fundraising mechanisms with the private sector (there is evidence on the agreements but the mechanisms is formalized?)\n\nAbsence of a clear resource mobilization strategy and internal alignment.\nCVP demonstrates operational and logistical capacity to mobilize resources during emergencies. However, there are gaps in the structuring of processes, including the lack of clear procedures, defined roles and responsibilities, and weaknesses in internal communication.\nNo verification mechanisms or predefined criteria are in place for the management of in-kind donations."
             },
             {
-              "id": 46469,
+              "id": 46769,
               "component": 44,
               "rating": null,
               "rating_details": {
@@ -124153,7 +124153,7 @@
               "notes": "ASK Safer access, Stay Safe, Impact, Context and risk analysis information provided to responders\n Learning & training team, Not mentioned,"
             },
             {
-              "id": 46470,
+              "id": 46770,
               "component": 45,
               "rating": null,
               "rating_details": {
@@ -124177,7 +124177,7 @@
               "notes": "GAP, \nPM was doing the PMER in the Fires operation,\nAsk about the systems in place (M&E, Lessons learned integrated in next planning)"
             },
             {
-              "id": 46471,
+              "id": 46771,
               "component": 46,
               "rating": null,
               "rating_details": {
@@ -124201,7 +124201,7 @@
               "notes": "ASK  IF THERE ARE MoUs or agreements for compliance."
             },
             {
-              "id": 46472,
+              "id": 46772,
               "component": 47,
               "rating": 5,
               "rating_details": {
@@ -124225,7 +124225,7 @@
               "notes": "ASK to confirm: No consolidated emergency contact list  with critical numbers; contacts are dispersed by function (RLF focal points, a branch-president email/WhatsApp chain, fragmented CNE/HQ responder databases, and informal volunteer WhatsApp chains), with no formal activation channel."
             },
             {
-              "id": 46473,
+              "id": 46773,
               "component": 48,
               "rating": 5,
               "rating_details": {
@@ -124249,7 +124249,7 @@
               "notes": "ASK Do branches use the \"requisição logística\" template or just the HQ and CNE?\nASK NS drivers are trained in First Aid, defensive driving and Safer Access.\nASK NS has an approved warehouse and stock management manual.\n\nCVP has a national logistics function, a central platform and regional warehouses, a substantial vehicle fleet, pre-positioned equipment, transport capacity and partners able to provide trucks and drivers. Kristin showed rapid sourcing, Movement support and effective deployment of generators, Starlink and specialist modules. Important weaknesses remain: emergency procurement depends heavily on incumbent knowledge and is not documented; habitual suppliers are contacted without a formal emergency supplier base; asset information is divided between Património, CNE, IT and Logistics and reconciled manually; support functions may be engaged only after an acquisition; and pre-defined criteria for in-kind donations were absent. The capability is strong but vulnerable to staff turnover, fragmented data and inconsistent controls."
             },
             {
-              "id": 46474,
+              "id": 46774,
               "component": 54,
               "rating": 4,
               "rating_details": {
@@ -124273,7 +124273,7 @@
               "notes": "Routine onboarding is formalised through the CVP Manual de Acolhimento (institutional induction). For emergencies, deployment lacks ToRs, emergency-specific training is not evidenced, mobilisation is slow, informal and reactive, and volunteer databases are fragmented and not shared across CNE and HQ. Minimum safeguards, insurance and a Code of Conduct exist on paper but with weak central visibility and no proof of practical implementation. Spontaneous-volunteer, rotation/retention and self-care procedures are largely absent, driving fatigue on a small core team."
             },
             {
-              "id": 46475,
+              "id": 46775,
               "component": 55,
               "rating": 5,
               "rating_details": {
@@ -124299,202 +124299,10 @@
           ]
         },
         {
-          "id": 5252,
+          "id": 5282,
           "component_responses": [
             {
-              "id": 46476,
-              "component": 15,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 15,
-                "component_num": 14,
-                "area": 3,
-                "title": "COMMUNITY-BASED DP AND DRR",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK"
-            },
-            {
-              "id": 46477,
-              "component": 16,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 16,
-                "component_num": 14,
-                "area": 3,
-                "title": "EVACUATION",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK CVP 2024 activity report explicitly records preventive population evacuations (Sept 2024 rural fires response). Is it institutionalised?"
-            },
-            {
-              "id": 46478,
-              "component": 17,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 17,
-                "component_num": 14,
-                "area": 3,
-                "title": "HEALTH IN EMERGENCIES",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Pre-hospital care services, Ambulances services."
-            },
-            {
-              "id": 46479,
-              "component": 18,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 18,
-                "component_num": 14,
-                "area": 3,
-                "title": "FIRST AID",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK"
-            },
-            {
-              "id": 46480,
-              "component": 19,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 19,
-                "component_num": 14,
-                "area": 3,
-                "title": "WATER AND SANITATION",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "House cleaning (new) not institutionalised before. They want to. ASK status now.\nCVP emergency framework (“Organização Sistémica da Emergência e sua Hierarquia”) includes “tratamento de água” during the relief phase and “condições sanitárias” during recovery, and the onboarding (Manual de Acolhimento, 2024) includes water and hygiene in emergency logistics/survival support."
-            },
-            {
-              "id": 46481,
-              "component": 20,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 20,
-                "component_num": 14,
-                "area": 3,
-                "title": "FOOD SECURITY",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": null
-            },
-            {
-              "id": 46482,
-              "component": 21,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 21,
-                "component_num": 14,
-                "area": 3,
-                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": null
-            },
-            {
-              "id": 46483,
-              "component": 22,
-              "rating": 1,
-              "rating_details": {
-                "id": 1,
-                "value": 0,
-                "title": "Not Reviewed"
-              },
-              "component_details": {
-                "id": 22,
-                "component_num": 14,
-                "area": 3,
-                "title": "SEARCH AND RESCUE",
-                "description": ""
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK Confirm if there is another actor responding or they have the role"
-            },
-            {
-              "id": 46484,
+              "id": 46784,
               "component": 23,
               "rating": 2,
               "rating_details": {
@@ -124518,7 +124326,7 @@
               "notes": "ASK They do but confirm  details. They stablish the shelter but they do not operationalize, the municipality does."
             },
             {
-              "id": 46485,
+              "id": 46785,
               "component": 24,
               "rating": 1,
               "rating_details": {
@@ -124542,7 +124350,7 @@
               "notes": "ASK Capacity?"
             },
             {
-              "id": 46486,
+              "id": 46786,
               "component": 25,
               "rating": 3,
               "rating_details": {
@@ -124566,7 +124374,7 @@
               "notes": "CVP has established RFL procedures, workflows and trained capacity, including 2 HQ FPs and a network of 40 FPs, supported by ICRC tools and guidance. However, RFL remains primarily focused on migration and has not yet been fully integrated into domestic emergency response arrangements. Coordination and information-sharing mechanisms between RFL FPs, the CNE, ZCAPs and HQ are not formally defined, and personnel lack specific “RFL in emergencies” training."
             },
             {
-              "id": 46487,
+              "id": 46787,
               "component": 26,
               "rating": 1,
               "rating_details": {
@@ -124590,7 +124398,7 @@
               "notes": "ASK"
             },
             {
-              "id": 46488,
+              "id": 46788,
               "component": 27,
               "rating": 1,
               "rating_details": {
@@ -124614,7 +124422,7 @@
               "notes": null
             },
             {
-              "id": 46489,
+              "id": 46789,
               "component": 28,
               "rating": 1,
               "rating_details": {
@@ -124638,7 +124446,7 @@
               "notes": null
             },
             {
-              "id": 46490,
+              "id": 46790,
               "component": 29,
               "rating": 4,
               "rating_details": {
@@ -124662,7 +124470,7 @@
               "notes": "CVP has substantial capacity data. The systems are fragmented, manually reconciled and not all accessible to the functions that need them. Availability is often confirmed through successive local and regional calls only after activation. Youth lacks a shared map of active structures; equipment inventories sit in separate functions; and records can diverge. Capacity is also geographically concentrated, with weaker coverage in some regions. Capacity mapping therefore exists but is not a single current, operational picture linked to mobilisation."
             },
             {
-              "id": 46491,
+              "id": 46791,
               "component": 30,
               "rating": 3,
               "rating_details": {
@@ -124686,7 +124494,7 @@
               "notes": "ASK Branches have functioning local networks to inform communities of potential threats and activate early action (respecting mandates of public authorities).\n\nCVP receives advance warnings from ANEPC, deploys liaison officers before impact and uses fire-season readiness levels to issue internal instructions. These arrangements allowed Kristin preparation before landfall and provide a practical foundation for early action. There is no documented all-hazards early-action mechanism with forecast thresholds, pre-agreed activities, decision authority, financing and target communities. The current approach depends mainly on official alerts, managerial judgement and adaptation of the rural-fire system."
             },
             {
-              "id": 46492,
+              "id": 46792,
               "component": 31,
               "rating": 3,
               "rating_details": {
@@ -124707,10 +124515,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "CVA experience in the fires and they are trying to run a program."
+              "notes": "ASK no details on the CVA experience in the fires and they are trying to run a program."
             },
             {
-              "id": 46493,
+              "id": 46793,
               "component": 32,
               "rating": 3,
               "rating_details": {
@@ -124731,10 +124539,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "GAP. At sectoral level they should have (ASK to confirm, in the Fires they did). \nDrones program (security in events, in emergencies to assess damage). They use the CNE ones. Can not act directly."
+              "notes": "Needs assessment occurs but is not standardised. During Kristin, national-level information was obtained through the liaison officer and Civil Protection's 68 municipality network, while specific field checks were assigned ad hoc to experienced personnel and local structures. Some teams used Google Forms, WhatsApp, ENAP or psychosocial contacts, but there is no trained deployable assessment team, no common tool or defined methodology, no consolidated institutional analysis, and no reliable flow from field evidence to strategic decisions. The consequences were visible in conflicting reports on local needs and the omission of RFL and some social action needs.\nMore structured assessment does happen where other frameworks require it, under DREF in fire operations, or through the regular drone programme for damage assessment,  but not as a CVP emergency capacity."
             },
             {
-              "id": 46494,
+              "id": 46794,
               "component": 33,
               "rating": 3,
               "rating_details": {
@@ -124755,10 +124563,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "GAP is it formalised? ASK- Data Protection Policy TO SHARE. The CVP Code of Conduct (2018, section 11-POLÍTICA DE PRIVACIDADE E PROTECÇÃO DE DADOS PESSOAIS) refers to the existence of a Data Protection Policy and establishes privacy, confidentiality and personal data protection requirements. The organizational chart identifies a dedicated \"Gabinete de Proteção de Dados\".\nCVP had previous experience during the Fires DREF(2024). In the Kristin emergency (2026), selection is carried out by government authorities, with CVP implementing based on externally defined criteria and lists."
+              "notes": "ASK NS communicates selection criteria to the affected population using preferred communication channels and involves community leaders/representatives.\n\nCVP data-protection governance and prior operational experience, but no CVP-wide emergency selection framework. Kristin selection and beneficiary lists were frequently generated by public authorities or programme partners, with CVP implementing or paying against externally defined arrangements. Needs information was inconsistent and community-facing functions lacked a closed reporting loop. Data protection is a positive institutional control, but the evidence did not show standard criteria, transparent communication, community participation, appeals, deduplication or trained enumerators across emergency programmes."
             },
             {
-              "id": 46495,
+              "id": 46795,
               "component": 34,
               "rating": 4,
               "rating_details": {
@@ -124782,13 +124590,13 @@
               "notes": "ASK Karen and the EOC manager.\nDM Level it is strong. They have all the structure but the current EOC manager is restricted to the ambulance services. It is activate when there is an emergency but there is still disconnected."
             },
             {
-              "id": 46496,
+              "id": 46796,
               "component": 35,
-              "rating": 5,
+              "rating": 4,
               "rating_details": {
-                "id": 5,
-                "value": 4,
-                "title": "Exists – Could be Strengthened"
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
               },
               "component_details": {
                 "id": 35,
@@ -124803,10 +124611,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK EOC Manager"
+              "notes": "CVP uses Fita do Tempo, daily POSITs, operational registers, liaison briefings and shared spreadsheets to capture and circulate response information. Kristin nevertheless exposed a fragmented information environment: data arrived through WhatsApp, radio, calls and separate files; not all actions and decisions passed through SALOP; field-to-national flows were not procedurally defined; headquarters and CNE sometimes requested the same information separately; asset and volunteer systems were disconnected; and local structures did not receive a consolidated account of decisions, allocations and results. Systems remain Excel-based with no single implemented platform, and secure case-management tools reach only a couple of staff. The function therefore operates, but analysis, governance, interoperability and closed-loop dissemination require material improvement."
             },
             {
-              "id": 46497,
+              "id": 46797,
               "component": 36,
               "rating": 4,
               "rating_details": {
@@ -124827,10 +124635,10 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "Lessons learned, IMPACT\nASK are they organizing drills or simulations?"
+              "notes": "ASK does branches organize drills or simulations? (to answer Branches in high-risk areas test their response system, including early action, through drills and simulations?)\nASK about Safe Access (Testing includes issues of safe access (access, perception, acceptance and security)?).\nASK NS conducts cross-border simulations in relevant contexts (for example Fires with Spanish RC)"
             },
             {
-              "id": 46498,
+              "id": 46798,
               "component": 37,
               "rating": 4,
               "rating_details": {
@@ -124851,28 +124659,23 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "In progress. NS is familiar with DREF (Fires 2024), Go platform"
-            }
-          ]
-        },
-        {
-          "id": 5253,
-          "component_responses": [
+              "notes": "ASK: NS SOPs include procedures to request and incorporate regional and global support/teams into their response system, including prior to imminent crisis/disaster?\n\nCVP is familiar with DREF and IFRC coordination, has international-relations capacity and can request bilateral material support, as shown by rapid Spanish Red Cross assistance during Kristin. Key contacts and senior focal points exist. The international and emergency functions have overlapping responsibilities that have not been formally allocated; Finance may be brought into DREF reporting only after budget and implementation decisions; and no comprehensive SOP was evidenced for requesting, receiving, integrating, briefing, supporting and reporting on regional or international personnel, funding and materials."
+            },
             {
-              "id": 46499,
-              "component": 40,
-              "rating": null,
+              "id": 46776,
+              "component": 15,
+              "rating": 2,
               "rating_details": {
-                "id": null,
-                "value": null,
-                "title": null
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
               },
               "component_details": {
-                "id": 40,
-                "component_num": 26,
-                "area": 4,
-                "title": "Coordination with External Agencies and NGOs",
-                "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country."
+                "id": 15,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY-BASED DP AND DRR",
+                "description": ""
               },
               "urban_considerations": null,
               "epi_considerations": null,
@@ -124880,10 +124683,183 @@
               "urban_considerations_simplified": false,
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
-              "notes": "ASK about EU civil protection and Camões Foundation coordination.\nCoordination exists and that collaboration takes place with DG ECHO. Other mechanisms exist through the Camões Foundation."
+              "notes": "ASK"
             },
             {
-              "id": 46500,
+              "id": 46777,
+              "component": 16,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 16,
+                "component_num": 14,
+                "area": 3,
+                "title": "EVACUATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK CVP 2024 activity report explicitly records preventive population evacuations (Sept 2024 rural fires response). Is it institutionalised?"
+            },
+            {
+              "id": 46778,
+              "component": 17,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 17,
+                "component_num": 14,
+                "area": 3,
+                "title": "HEALTH IN EMERGENCIES",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK Pre-hospital care services, Ambulances services."
+            },
+            {
+              "id": 46779,
+              "component": 18,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 18,
+                "component_num": 14,
+                "area": 3,
+                "title": "FIRST AID",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK"
+            },
+            {
+              "id": 46780,
+              "component": 19,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 19,
+                "component_num": 14,
+                "area": 3,
+                "title": "WATER AND SANITATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "House cleaning (new) not institutionalised before. They want to. ASK status now.\nCVP emergency framework (“Organização Sistémica da Emergência e sua Hierarquia”) includes “tratamento de água” during the relief phase and “condições sanitárias” during recovery, and the onboarding (Manual de Acolhimento, 2024) includes water and hygiene in emergency logistics/survival support."
+            },
+            {
+              "id": 46781,
+              "component": 20,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 20,
+                "component_num": 14,
+                "area": 3,
+                "title": "FOOD SECURITY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 46782,
+              "component": 21,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 21,
+                "component_num": 14,
+                "area": 3,
+                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 46783,
+              "component": 22,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 22,
+                "component_num": 14,
+                "area": 3,
+                "title": "SEARCH AND RESCUE",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK Confirm if there is another actor responding or they have the role"
+            }
+          ]
+        },
+        {
+          "id": 5283,
+          "component_responses": [
+            {
+              "id": 46800,
               "component": 41,
               "rating": 4,
               "rating_details": {
@@ -124907,7 +124883,7 @@
               "notes": "CVP has an established historical good relationship with the Armed Forces and a formal cooperation protocol ( and is still linked to the MoD).  The institutional relationship with the MoD is so normalised that the risks to independence and perception are assumed rather than assessed, with no analysis of the impact on the affected population."
             },
             {
-              "id": 46501,
+              "id": 46801,
               "component": 42,
               "rating": null,
               "rating_details": {
@@ -124931,7 +124907,7 @@
               "notes": "ASK"
             },
             {
-              "id": 46502,
+              "id": 46802,
               "component": 43,
               "rating": 4,
               "rating_details": {
@@ -124955,7 +124931,7 @@
               "notes": "CVP actively mobilises private-sector support (donated goods, transport, funding, corporate volunteers), and existing relationships enabled rapid support during Kristin. Independence is protected mainly through contract review, emblem separation is actively maintained, and corporate volunteers receive institutional training when interacting with affected people while remaining under CVP supervision. Cooperation relies heavily on informal, ad hoc arrangements and needs a defined due-diligence, activation, safeguarding, supervision and accountability framework."
             },
             {
-              "id": 46503,
+              "id": 46803,
               "component": 38,
               "rating": 5,
               "rating_details": {
@@ -124979,7 +124955,7 @@
               "notes": "CVP has active relationships with IFRC, ICRC and neighbouring NSs. Kristin showed that bilateral operational support can be mobilised quickly while RFL uses ICRC systems. CVP is working with ICRC to strengthen emergency integration. \nIFRC DREF engagement is established. \nThe main weakness is internal articulation: International Relations, CNE, support services and specialist functions do not yet share a fully defined Movement-coordination procedure, and domestic-emergency RFL roles are not formalised."
             },
             {
-              "id": 46504,
+              "id": 46804,
               "component": 39,
               "rating": 5,
               "rating_details": {
@@ -125001,14 +124977,38 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": "ASK if Each NS area of intervention has an established coordination mechanism with local and national authorities or just the liaisons officers?\n\nCoordination with authorities is a clear strength. They are audited for the minister. CVP is embedded through pre-identified liaison officers at national, regional and sub-regional levels, receives official warnings and requests, participates in command briefings and operates within ANEPC coordination. Protocols with INEM and the Armed Forces define important areas of cooperation, and the external national command structure was reported to have worked strongly during Kristin. Strengthening is still required because CVP's precise role is not settled across all intervention areas, CVP is not a full member of national DRR forums, some local structures were bypassed or omitted, and internal liaison officers did not initially have visibility over every deployed CVP module."
+            },
+            {
+              "id": 46799,
+              "component": 40,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 40,
+                "component_num": 26,
+                "area": 4,
+                "title": "Coordination with External Agencies and NGOs",
+                "description": "Mechanism that facilitates coordination and collaboration with Non-Governmental Organization (NGO), both local and international NGOs, civil society organizations (CSOs) and United Nations agencies in country."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK about EU civil protection and Camões Foundation coordination.\nCoordination exists and that collaboration takes place with DG ECHO. Other mechanisms exist through the Camões Foundation."
             }
           ]
         },
         {
-          "id": 5254,
+          "id": 5284,
           "component_responses": [
             {
-              "id": 46505,
+              "id": 46805,
               "component": 2,
               "rating": 2,
               "rating_details": {
@@ -125032,7 +125032,7 @@
               "notes": "There is no articulated DRM strategy at NS level. \n\"Organização Sistémica da Emergência e sua Hierarquia\" defines CVP’s operational DRM framework, aligned with CNE and covering main DRM phases, however, discussions indicate that current practice remains mainly response-oriented, with less emphasis on preparedness, risk reduction, resilience and recovery. \"Organização Sistémica da Emergência e sua Hierarquia\" does not include risk-based priorities and objectives, or an implementation roadmap."
             },
             {
-              "id": 46506,
+              "id": 46806,
               "component": 3,
               "rating": 2,
               "rating_details": {
@@ -125056,7 +125056,7 @@
               "notes": null
             },
             {
-              "id": 46507,
+              "id": 46807,
               "component": 4,
               "rating": null,
               "rating_details": {
@@ -125080,7 +125080,7 @@
               "notes": "ASK Gonzalo"
             },
             {
-              "id": 46508,
+              "id": 46808,
               "component": 5,
               "rating": 3,
               "rating_details": {
@@ -125104,7 +125104,7 @@
               "notes": "ASK but probably is not in place (through the benchmarks). Needs development. Fires: they do not have it institutionalised feedback mechanisms but they informally do in field. MHPSS Programs (response). \n\nASK about the MHPSS program"
             },
             {
-              "id": 46509,
+              "id": 46809,
               "component": 1,
               "rating": 4,
               "rating_details": {
@@ -125130,154 +125130,10 @@
           ]
         },
         {
-          "id": 5255,
+          "id": 5285,
           "component_responses": [
             {
-              "id": 46510,
-              "component": 12,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 12,
-                "component_num": 12,
-                "area": 2,
-                "title": "Response and recovery planning",
-                "description": "A documented set of procedures for the disaster/crisis response and recovery process. Including use of local capacities, transition to recovery, type of activities and serivices provided during response and recovery activities and exit strategies, procedures for DREF & EA, and templates for planning, budgeting and accessing funds."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "CVP can organise rapid operational deployment using its hierarchy, national directive, liaison system and experienced personnel. It does not yet have an approved multi-sectoral response and recovery plan covering objectives, affected-population engagement, technical and support functions, budgeting, DREF/Emergency Appeal interfaces, transition, recovery information flows and exit. Interviewees described the recovery transition as ad hoc and dependent on personal contacts, while several functions were unclear about when and how they should join the response. A national all-hazards plan was the most consistent recommendation across interviews."
-            },
-            {
-              "id": 46511,
-              "component": 6,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 6,
-                "component_num": 6,
-                "area": 2,
-                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
-                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK The current/likely gaps, barriers, risks and challenges to NS acceptance, security and access have been identified.\nASK What do they discuss during the meetings with the ANEPC about risk analysis? \n\nCVP receives official monitoring and early-warning information through ANEPC and uses the government National Risk Assessment, maintains liaison arrangements and translates technical-operational notices into internal readiness actions.  However, interviewees did not identify a systematic CVP all-hazards context, vulnerability and risk-analysis process that combines authority, branch and community information, assigns ownership and drives preparedness decisions across sectors."
-            },
-            {
-              "id": 46512,
-              "component": 7,
-              "rating": 3,
-              "rating_details": {
-                "id": 3,
-                "value": 2,
-                "title": "Partially Exists"
-              },
-              "component_details": {
-                "id": 7,
-                "component_num": 7,
-                "area": 2,
-                "title": "Scenario planning",
-                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "CVP has a developed annual operational directive for rural fires (DON).  Kristin was managed by adapting that model, and interviewees consistently stated that there was no equivalent all-hazards scenario or contingency plan. Post-Kristin work on an all-hazards directive is positive but was not yet approved. Scenario planning therefore partially exists for one major seasonal hazard but is not multi-sectoral or consistently linked to branch-developed response strategies, recovery, access or slow-onset triggers."
-            },
-            {
-              "id": 46513,
-              "component": 8,
-              "rating": null,
-              "rating_details": {
-                "id": null,
-                "value": null,
-                "title": null
-              },
-              "component_details": {
-                "id": 8,
-                "component_num": 8,
-                "area": 2,
-                "title": "Risk management",
-                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "GAP (ASK Interview)\nGuia \"Para Resolução de Conflitos, Tratamento de Suspeitas e Queixas, Quebras de Integridade\". \nASK There was an audit."
-            },
-            {
-              "id": 46514,
-              "component": 9,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 9,
-                "component_num": 9,
-                "area": 2,
-                "title": "Preparedness plans and budgets",
-                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "ASK for the doc Coimbra Annua Plan \nThe annual strategic plan (2024) includes strengthening emergency response through the development of a dedicated command and training campus, alignment with international standards, optimization of operational services, improved information management and logistics, and the establishment of internal funding mechanisms to support emergency actions."
-            },
-            {
-              "id": 46515,
-              "component": 10,
-              "rating": 2,
-              "rating_details": {
-                "id": 2,
-                "value": 1,
-                "title": "Does Not Exist"
-              },
-              "component_details": {
-                "id": 10,
-                "component_num": 10,
-                "area": 2,
-                "title": "Business continuity",
-                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
-              },
-              "urban_considerations": null,
-              "epi_considerations": null,
-              "climate_environmental_considerations": null,
-              "urban_considerations_simplified": false,
-              "epi_considerations_simplified": false,
-              "climate_environmental_considerations_simplified": false,
-              "notes": "There is not a BCP. Kristin overloaded central and local services, pulled functional leads away from coordination duties, deferred routine Finance work and left the EOC without a formally defined emergency operating mode. Telecommunications and power redundancy are important continuity assets, but they do not constitute an organisation-wide plan for maintaining critical functions, protecting personnel and data, relocating work, delegating authority or recovering services."
-            },
-            {
-              "id": 46516,
+              "id": 46816,
               "component": 11,
               "rating": 4,
               "rating_details": {
@@ -125301,7 +125157,7 @@
               "notes": "ASK about SOPs at branch level.\nASK about organogram with contact details.\n\nCVP has a base of SOPs: a national operational directive, a continuously operating SALOP, response instructions, liaison arrangements, situation reporting and alert-level scaling. However, coverage is incomplete and uneven: the principal directive was designed for rural fires, several support areas lack approved emergency SOPs, roles across HQ, branches and communities are not comprehensively defined, and several new guides remain unapproved drafts. Response therefore relies on experience and adaptation rather than a complete, approved, all-hazards SOP system that is consistently disseminated and followed."
             },
             {
-              "id": 46517,
+              "id": 46817,
               "component": 13,
               "rating": null,
               "rating_details": {
@@ -125323,6 +125179,150 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": "CVP has standing coordination through the civil-protection system, formal protocols with INEM and the Armed Forces, annual/seasonal meetings and practical relationships with the Spanish Red Cross, transport partners and regular suppliers. These arrangements enabled rapid liaison, transport and external sourcing during Kristin. The evidence is not yet a comprehensive pre-disaster agreement portfolio: emergency suppliers are not consistently preselected or activated through written mechanisms; the exact CVP operational role remains unsettled with ANEPC in some areas; and agreements for RLF, cash providers, incoming international assistance and other external actors were not established or verified."
+            },
+            {
+              "id": 46810,
+              "component": 12,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 12,
+                "component_num": 12,
+                "area": 2,
+                "title": "Response and recovery planning",
+                "description": "A documented set of procedures for the disaster/crisis response and recovery process. Including use of local capacities, transition to recovery, type of activities and serivices provided during response and recovery activities and exit strategies, procedures for DREF & EA, and templates for planning, budgeting and accessing funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CVP can organise rapid operational deployment using its hierarchy, national directive, liaison system and experienced personnel. It does not yet have an approved multi-sectoral response and recovery plan covering objectives, affected-population engagement, technical and support functions, budgeting, DREF/Emergency Appeal interfaces, transition, recovery information flows and exit. Interviewees described the recovery transition as ad hoc and dependent on personal contacts, while several functions were unclear about when and how they should join the response. A national all-hazards plan was the most consistent recommendation across interviews."
+            },
+            {
+              "id": 46811,
+              "component": 6,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 6,
+                "component_num": 6,
+                "area": 2,
+                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK The current/likely gaps, barriers, risks and challenges to NS acceptance, security and access have been identified.\nASK What do they discuss during the meetings with the ANEPC about risk analysis? \n\nCVP receives official monitoring and early-warning information through ANEPC and uses the government National Risk Assessment, maintains liaison arrangements and translates technical-operational notices into internal readiness actions.  However, interviewees did not identify a systematic CVP all-hazards context, vulnerability and risk-analysis process that combines authority, branch and community information, assigns ownership and drives preparedness decisions across sectors."
+            },
+            {
+              "id": 46812,
+              "component": 7,
+              "rating": 3,
+              "rating_details": {
+                "id": 3,
+                "value": 2,
+                "title": "Partially Exists"
+              },
+              "component_details": {
+                "id": 7,
+                "component_num": 7,
+                "area": 2,
+                "title": "Scenario planning",
+                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "CVP has a developed annual operational directive for rural fires (DON).  Kristin was managed by adapting that model, and interviewees consistently stated that there was no equivalent all-hazards scenario or contingency plan. Post-Kristin work on an all-hazards directive is positive but was not yet approved. Scenario planning therefore partially exists for one major seasonal hazard but is not multi-sectoral or consistently linked to branch-developed response strategies, recovery, access or slow-onset triggers."
+            },
+            {
+              "id": 46813,
+              "component": 8,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 8,
+                "component_num": 8,
+                "area": 2,
+                "title": "Risk management",
+                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "GAP (ASK Interview)\nGuia \"Para Resolução de Conflitos, Tratamento de Suspeitas e Queixas, Quebras de Integridade\". \nASK There was an audit."
+            },
+            {
+              "id": 46814,
+              "component": 9,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 9,
+                "component_num": 9,
+                "area": 2,
+                "title": "Preparedness plans and budgets",
+                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "ASK for the doc Coimbra Annua Plan \nThe annual strategic plan (2024) includes strengthening emergency response through the development of a dedicated command and training campus, alignment with international standards, optimization of operational services, improved information management and logistics, and the establishment of internal funding mechanisms to support emergency actions."
+            },
+            {
+              "id": 46815,
+              "component": 10,
+              "rating": 2,
+              "rating_details": {
+                "id": 2,
+                "value": 1,
+                "title": "Does Not Exist"
+              },
+              "component_details": {
+                "id": 10,
+                "component_num": 10,
+                "area": 2,
+                "title": "Business continuity",
+                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "There is not a BCP. Kristin overloaded central and local services, pulled functional leads away from coordination duties, deferred routine Finance work and left the EOC without a formally defined emergency operating mode. Telecommunications and power redundancy are important continuity assets, but they do not constitute an organisation-wide plan for maintaining critical functions, protecting personnel and data, relocating work, delegating authority or recovering services."
             }
           ]
         }

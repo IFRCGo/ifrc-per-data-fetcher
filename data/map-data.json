@@ -58682,78 +58682,6 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
-        "component_id": 15,
-        "component_name": "COMMUNITY-BASED DP AND DRR",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 16,
-        "component_name": "EVACUATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 17,
-        "component_name": "HEALTH IN EMERGENCIES",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 18,
-        "component_name": "FIRST AID",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 19,
-        "component_name": "WATER AND SANITATION",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 1,
-        "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 20,
-        "component_name": "FOOD SECURITY",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 21,
-        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
-        "component_id": 22,
-        "component_name": "SEARCH AND RESCUE",
-        "component_num": 14,
-        "area_id": 3,
-        "area_name": "Operational capacity",
-        "rating_value": 0,
-        "rating_title": "Not Reviewed"
-      },
-      {
         "component_id": 23,
         "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
         "component_num": 14,
@@ -58867,8 +58795,8 @@
         "component_num": 21,
         "area_id": 3,
         "area_name": "Operational capacity",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
       },
       {
         "component_id": 36,
@@ -58889,13 +58817,76 @@
         "rating_title": "Needs Improvement"
       },
       {
-        "component_id": 40,
-        "component_name": "Coordination with External Agencies and NGOs",
-        "component_num": 26,
-        "area_id": 4,
-        "area_name": "Coordination",
+        "component_id": 15,
+        "component_name": "COMMUNITY-BASED DP AND DRR",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 16,
+        "component_name": "EVACUATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 17,
+        "component_name": "HEALTH IN EMERGENCIES",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 18,
+        "component_name": "FIRST AID",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 19,
+        "component_name": "WATER AND SANITATION",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 1,
+        "rating_title": "Does Not Exist"
+      },
+      {
+        "component_id": 20,
+        "component_name": "FOOD SECURITY",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
         "rating_value": 0,
-        "rating_title": ""
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 21,
+        "component_name": "LIVELIHOOD SECURITY AND SAFETY NETS",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
+      },
+      {
+        "component_id": 22,
+        "component_name": "SEARCH AND RESCUE",
+        "component_num": 14,
+        "area_id": 3,
+        "area_name": "Operational capacity",
+        "rating_value": 0,
+        "rating_title": "Not Reviewed"
       },
       {
         "component_id": 41,
@@ -58943,6 +58934,15 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
+        "component_id": 40,
+        "component_name": "Coordination with External Agencies and NGOs",
+        "component_num": 26,
+        "area_id": 4,
+        "area_name": "Coordination",
+        "rating_value": 0,
+        "rating_title": ""
+      },
+      {
         "component_id": 2,
         "component_name": "DRM Strategy",
         "component_num": 2,
@@ -58986,6 +58986,24 @@
         "area_name": "Policy Strategy and Standards",
         "rating_value": 3,
         "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 11,
+        "component_name": "Emergency Response Procedures (SOPs)",
+        "component_num": 11,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 3,
+        "rating_title": "Needs Improvement"
+      },
+      {
+        "component_id": 13,
+        "component_name": "Pre-disaster meetings and agreements",
+        "component_num": 13,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 0,
+        "rating_title": ""
       },
       {
         "component_id": 12,
@@ -59040,24 +59058,6 @@
         "area_name": "Analysis and planning",
         "rating_value": 1,
         "rating_title": "Does Not Exist"
-      },
-      {
-        "component_id": 11,
-        "component_name": "Emergency Response Procedures (SOPs)",
-        "component_num": 11,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 3,
-        "rating_title": "Needs Improvement"
-      },
-      {
-        "component_id": 13,
-        "component_name": "Pre-disaster meetings and agreements",
-        "component_num": 13,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 0,
-        "rating_title": ""
       }
     ]
   },
