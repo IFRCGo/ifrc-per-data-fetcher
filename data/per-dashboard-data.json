@@ -41532,8 +41532,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -46157,8 +46157,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 210,
@@ -50815,8 +50815,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -52353,8 +52353,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 1,
-          "rating_title": "Does Not Exist"
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -66206,8 +66206,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -67744,8 +67744,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -69282,8 +69282,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 0,
-          "rating_title": ""
+          "rating_value": 2,
+          "rating_title": "Partially Exists"
         },
         {
           "assessment_id": 210,
@@ -80934,8 +80934,8 @@
           "region_id": 3,
           "region_name": "Europe",
           "date_of_assessment": "2026-04-13",
-          "rating_value": 4,
-          "rating_title": "Exists – Could be Strengthened"
+          "rating_value": 3,
+          "rating_title": "Needs Improvement"
         },
         {
           "assessment_id": 210,
@@ -136933,8 +136933,8 @@
             "component_num": 30,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 45,
@@ -136942,8 +136942,8 @@
             "component_num": 31,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 46,
@@ -136951,8 +136951,8 @@
             "component_num": 32,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 47,
@@ -136987,62 +136987,8 @@
             "component_num": 36,
             "area_id": 5,
             "area_name": "Operations support",
-            "rating_value": 4,
-            "rating_title": "Exists – Could be Strengthened"
-          },
-          {
-            "component_id": 23,
-            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
-          },
-          {
-            "component_id": 24,
-            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": "Not Reviewed"
-          },
-          {
-            "component_id": 25,
-            "component_name": "RESTORING FAMILY LINKS (RFL)",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 26,
-            "component_name": "TRANSITION TO RECOVERY",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": "Not Reviewed"
-          },
-          {
-            "component_id": 27,
-            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": "Not Reviewed"
-          },
-          {
-            "component_id": 28,
-            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
-            "component_num": 14,
-            "area_id": 3,
-            "area_name": "Operational capacity",
-            "rating_value": 0,
-            "rating_title": "Not Reviewed"
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 29,
@@ -137198,6 +137144,60 @@
             "rating_title": "Not Reviewed"
           },
           {
+            "component_id": 23,
+            "component_name": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
+            "component_id": 24,
+            "component_name": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 25,
+            "component_name": "RESTORING FAMILY LINKS (RFL)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 26,
+            "component_name": "TRANSITION TO RECOVERY",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 27,
+            "component_name": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
+            "component_id": 28,
+            "component_name": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+            "component_num": 14,
+            "area_id": 3,
+            "area_name": "Operational capacity",
+            "rating_value": 0,
+            "rating_title": "Not Reviewed"
+          },
+          {
             "component_id": 41,
             "component_name": "Civil Military Relations",
             "component_num": 27,
@@ -137275,8 +137275,8 @@
             "component_num": 4,
             "area_id": 1,
             "area_name": "Policy Strategy and Standards",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
           },
           {
             "component_id": 5,
@@ -137297,6 +137297,42 @@
             "rating_title": "Needs Improvement"
           },
           {
+            "component_id": 7,
+            "component_name": "Scenario planning",
+            "component_num": 7,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 8,
+            "component_name": "Risk management",
+            "component_num": 8,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 9,
+            "component_name": "Preparedness plans and budgets",
+            "component_num": 9,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 2,
+            "rating_title": "Partially Exists"
+          },
+          {
+            "component_id": 10,
+            "component_name": "Business continuity",
+            "component_num": 10,
+            "area_id": 2,
+            "area_name": "Analysis and planning",
+            "rating_value": 1,
+            "rating_title": "Does Not Exist"
+          },
+          {
             "component_id": 11,
             "component_name": "Emergency Response Procedures (SOPs)",
             "component_num": 11,
@@ -137311,8 +137347,8 @@
             "component_num": 13,
             "area_id": 2,
             "area_name": "Analysis and planning",
-            "rating_value": 0,
-            "rating_title": ""
+            "rating_value": 3,
+            "rating_title": "Needs Improvement"
           },
           {
             "component_id": 12,
@@ -137331,42 +137367,6 @@
             "area_name": "Analysis and planning",
             "rating_value": 2,
             "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 7,
-            "component_name": "Scenario planning",
-            "component_num": 7,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 2,
-            "rating_title": "Partially Exists"
-          },
-          {
-            "component_id": 8,
-            "component_name": "Risk management",
-            "component_num": 8,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 0,
-            "rating_title": ""
-          },
-          {
-            "component_id": 9,
-            "component_name": "Preparedness plans and budgets",
-            "component_num": 9,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
-          },
-          {
-            "component_id": 10,
-            "component_name": "Business continuity",
-            "component_num": 10,
-            "area_id": 2,
-            "area_name": "Analysis and planning",
-            "rating_value": 1,
-            "rating_title": "Does Not Exist"
           }
         ],
         "phase": 2,
