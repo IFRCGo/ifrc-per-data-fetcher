@@ -52978,14 +52978,14 @@
     "country_name": "Pakistan",
     "phase": 5,
     "phase_display": "Action & accountability",
-    "type_of_assessment": 2,
-    "type_of_assessment_name": "Simulation",
+    "type_of_assessment": 1,
+    "type_of_assessment_name": "Self assessment",
     "country_iso3": "PAK",
     "region_id": 2,
     "region_name": "Asia Pacific",
     "latitude": 30.375321,
     "longitude": 69.345116,
-    "updated_at": "2025-11-26T17:19:20.866005Z",
+    "updated_at": "2026-09-08T16:10:59.569731Z",
     "prioritized_components": [
       {
         "componentId": 1,
@@ -67917,8 +67917,8 @@
     "date_of_assessment": "2022-09-09",
     "country_id": 210,
     "country_name": "Timor-Leste",
-    "phase": 5,
-    "phase_display": "Action & accountability",
+    "phase": 4,
+    "phase_display": "Workplan",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "TLS",
@@ -67926,7 +67926,7 @@
     "region_name": "Asia Pacific",
     "latitude": -8.874217,
     "longitude": 125.72753899999957,
-    "updated_at": "2025-11-26T17:39:16.164051Z",
+    "updated_at": "2026-09-08T17:14:16.044679Z",
     "prioritized_components": [
       {
         "componentId": 30,
@@ -67957,11 +67957,6 @@
         "componentId": 17,
         "componentTitle": "HEALTH IN EMERGENCIES",
         "areaTitle": "Operational capacity"
-      },
-      {
-        "componentId": 4,
-        "componentTitle": "DRM Laws, Advocacy and Dissemination",
-        "areaTitle": "Policy Strategy and Standards"
       }
     ],
     "epi_considerations": false,
