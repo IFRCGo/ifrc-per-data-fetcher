@@ -33391,23 +33391,887 @@
       ]
     },
     {
-      "id": 197,
-      "area_responses": []
-    },
-    {
       "id": 196,
-      "area_responses": []
+      "area_responses": [
+        {
+          "id": 5367,
+          "component_responses": [
+            {
+              "id": 47521,
+              "component": 44,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 44,
+                "component_num": 30,
+                "area": 5,
+                "title": "Safety and security management",
+                "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Existen las herramientas aprobadas por la SN. Sin embargo, existen falencias en temas de divulgación, alcance y acatamiento de las normas."
+            },
+            {
+              "id": 47522,
+              "component": 45,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 45,
+                "component_num": 31,
+                "area": 5,
+                "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+                "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47523,
+              "component": 46,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 46,
+                "component_num": 32,
+                "area": 5,
+                "title": "Finance and Admin policy and emergency procedures",
+                "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Si existen diversos procedimientos, pero se necesitan homologarlos y juntarlos con las áreas operativas de la SN."
+            },
+            {
+              "id": 47524,
+              "component": 47,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 47,
+                "component_num": 33,
+                "area": 5,
+                "title": "Information and Communication Technology (ICT)",
+                "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47525,
+              "component": 48,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47526,
+              "component": 54,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 54,
+                "component_num": 35,
+                "area": 5,
+                "title": "Staff and volunteer management",
+                "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47527,
+              "component": 55,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 55,
+                "component_num": 36,
+                "area": 5,
+                "title": "Communication in emergencies",
+                "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47528,
+              "component": 56,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 56,
+                "component_num": 37,
+                "area": 5,
+                "title": "Resource Mobilisation",
+                "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 195,
-      "area_responses": []
+      "area_responses": [
+        {
+          "id": 5366,
+          "component_responses": [
+            {
+              "id": 47520,
+              "component": 28,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 28,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47507,
+              "component": 15,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 15,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY-BASED DP AND DRR",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47508,
+              "component": 16,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 16,
+                "component_num": 14,
+                "area": 3,
+                "title": "EVACUATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47509,
+              "component": 17,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 17,
+                "component_num": 14,
+                "area": 3,
+                "title": "HEALTH IN EMERGENCIES",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47510,
+              "component": 18,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 18,
+                "component_num": 14,
+                "area": 3,
+                "title": "FIRST AID",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47511,
+              "component": 19,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 19,
+                "component_num": 14,
+                "area": 3,
+                "title": "WATER AND SANITATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47512,
+              "component": 20,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 20,
+                "component_num": 14,
+                "area": 3,
+                "title": "FOOD SECURITY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Acciones relacionadas con seguridad alimentaria son parte del componente medios de subsitencia."
+            },
+            {
+              "id": 47513,
+              "component": 21,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 21,
+                "component_num": 14,
+                "area": 3,
+                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47514,
+              "component": 22,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 22,
+                "component_num": 14,
+                "area": 3,
+                "title": "SEARCH AND RESCUE",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Asociación Cruz Roja Costarricense dispone de una capacidad formal de búsqueda y rescate integrada dentro de la Dirección Nacional de Respuesta a Emergencias (DINARE), con una estructura nacional compuesta por una Coordinación Nacional de Búsqueda y Rescate, Unidades Especializadas (UBRA, K-SAR, UBRT, UBRU y UEPI), Grupos Regionales de Intervención y Coordinaciones Operativas Regionales. El reglamento establece procesos de capacitación, recertificación periódica, protocolos de seguridad, planes de despliegue y ejercicios regulares, además de una línea clara de autoridad y movilización de recursos a través del PLANRED, lo que evidencia una capacidad institucional robusta para la preparación y respuesta en operaciones de búsqueda y rescate."
+            },
+            {
+              "id": 47515,
+              "component": 23,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 23,
+                "component_num": 14,
+                "area": 3,
+                "title": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Las competencias institucionales en términos de alojamiento temporal actualmente son exclusivas de la Comisión Nacional de Emergencias. La SN apoya con solicitudes puntuales de capacitación comunitaria bajo su rectoría y atención extrahospitalaria en caso necesario."
+            },
+            {
+              "id": 47516,
+              "component": 24,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 24,
+                "component_num": 14,
+                "area": 3,
+                "title": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Actualmente, la Sociedad Nacional no cuenta con un rol formal dentro de este mecanismo ni se prevé, en el corto plazo, asumir funciones relacionadas con el manejo e identificación de cadáveres, dado que no forman parte de sus competencias institucionales."
+            },
+            {
+              "id": 47517,
+              "component": 25,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 25,
+                "component_num": 14,
+                "area": 3,
+                "title": "RESTORING FAMILY LINKS (RFL)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47518,
+              "component": 26,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 26,
+                "component_num": 14,
+                "area": 3,
+                "title": "TRANSITION TO RECOVERY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47519,
+              "component": 27,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 27,
+                "component_num": 14,
+                "area": 3,
+                "title": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 194,
-      "area_responses": []
+      "area_responses": [
+        {
+          "id": 5365,
+          "component_responses": [
+            {
+              "id": 47499,
+              "component": 6,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 6,
+                "component_num": 6,
+                "area": 2,
+                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con diferentes mecanismos y herramientas para la identificación, monitoreo y análisis de riesgos, entre ellos los AVC, AVCA, PAT y el Plan RED, complementados con información proveniente de la Comisión Nacional de Emergencias y de los Comités Municipales de Emergencia. Estos instrumentos permiten recopilar y analizar información sobre amenazas, vulnerabilidades y capacidades de las comunidades, incluyendo variables relacionadas con edad, género, discapacidad, condiciones socioeconómicas y otros factores de diversidad. Asimismo, la Sociedad Nacional dispone de un Área de Análisis de Datos y de mecanismos de coordinación territorial que contribuyen a fortalecer la preparación, la alerta temprana y la toma de decisiones para la acción humanitaria.\nEn materia de aceptación, seguridad y acceso, se cuenta con mecanismos de coordinación con actores comunitarios e institucionales, preingresos con líderes de las comunidades, protocolos y guías de la Oficina de Seguridad Operacional, así como talleres de Acceso Más Seguro (AMS) en las regiones. También existen mecanismos específicos para la atención en zonas transfronterizas, como el Acuerdo Binacional para la Atención de Emergencias y el Protocolo de Atención en Zonas Transfronterizas. Como principal brecha, se identifica que actualmente no ha sido posible mantener una participación periódica de las comunidades y el voluntariado en la actualización de los mapas de riesgos y AVC, debido a las restricciones financieras y a las medidas institucionales de contención del gasto. Además, se reconoce la necesidad de fortalecer la evidencia documental y la sistematización de algunos de estos procesos para demostrar su aplicación de manera uniforme."
+            },
+            {
+              "id": 47500,
+              "component": 7,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 7,
+                "component_num": 7,
+                "area": 2,
+                "title": "Scenario planning",
+                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con mecanismos para el análisis y planificación de escenarios humanitarios mediante los AVCA, los cuales permiten considerar las vulnerabilidades, capacidades y factores que pueden determinar los posibles impactos en las comunidades. Asimismo, la participación activa de la Sociedad Nacional en los Comités Municipales de Emergencia, con capacidad de voz y voto, y en el Sistema Nacional de Gestión del Riesgo, facilita la coordinación con las autoridades públicas y la participación de las estructuras territoriales en la definición de estrategias de respuesta y planes de contingencia de acuerdo con las características de cada zona.\n\nLos planes de contingencia contemplan diferentes escenarios y mecanismos para su activación, principalmente a través del Plan RED y los Planes de Acción Temprana (PAT). También se consideran los riesgos que pueden afectar la aceptación, seguridad y acceso durante las operaciones, así como la capacidad de respuesta de los Comités y la posibilidad de activar la estructura institucional para brindar apoyo. En el ámbito transfronterizo, existen acuerdos binacionales y mecanismos de coordinación para atender situaciones que puedan afectar a poblaciones fronterizas, incluyendo desplazamientos derivados de emergencias. Finalmente, los riesgos regionales son evaluados cada seis meses, permitiendo realizar análisis específicos y ajustar las acciones de contingencia cuando se presentan cambios relevantes en el contexto."
+            },
+            {
+              "id": 47501,
+              "component": 8,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 8,
+                "component_num": 8,
+                "area": 2,
+                "title": "Risk management",
+                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con una estructura institucional para la gestión integral de riesgos, que involucra tanto la operación como el control institucional. La Dirección Nacional de Respuesta a Emergencias gestiona los riesgos desde el ámbito operativo mediante planes de respuesta, planes de contingencia y AVCA, mientras que el Área de Control Interno identifica, evalúa y da seguimiento a los riesgos institucionales, trabajando conjuntamente con las áreas responsables en la definición de medidas de mitigación. Asimismo, se mantienen mecanismos de coordinación con actores clave, tanto internos como externos, incluyendo reuniones previas con líderes comunales, gobiernos locales y fuerzas vivas antes del ingreso a las comunidades, con el propósito de favorecer la coordinación, confianza y aceptación de las intervenciones.\n\nEn materia de integridad, transparencia y gestión de crisis, la Sociedad Nacional cuenta con un Código de Conducta y se encuentra en proceso de elaboración de una Política Anticorrupción, manteniendo además vinculación con los lineamientos de la IFRC para la prevención y control del fraude y la corrupción. El Consejo Nacional brinda especial importancia a la transparencia, rendición de cuentas y reputación institucional. Para la atención de situaciones críticas se dispone de un Comité de Crisis, complementado por la Oficina de Monitoreo de Servicios Humanitarios, que gestiona las inconformidades relacionadas con los servicios brindados por la SN. Estos mecanismos permiten fortalecer la prevención, detección y atención oportuna de riesgos que puedan afectar las operaciones, la integridad y la confianza en la institución."
+            },
+            {
+              "id": 47502,
+              "component": 9,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 9,
+                "component_num": 9,
+                "area": 2,
+                "title": "Preparedness plans and budgets",
+                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con una estructura definida para la preparación y respuesta ante emergencias y desastres, bajo la responsabilidad de la Jefatura de Respuesta a Desastres. De manera complementaria, se realizan evaluaciones constantes para identificar brechas de preparación y orientar acciones de fortalecimiento mediante capacitaciones, instructivos de trabajo, orientación y seguimiento continuo. Los Planes de Acción Temprana (PAT) constituyen además un instrumento para fortalecer las capacidades y atender las necesidades identificadas.\nEn materia de recursos, se utilizan los fondos disponibles en proyectos como los PAT y se realizan ajustes cuando se identifican carencias, complementándose con un plan a demanda que permite activar recursos según las necesidades. Asimismo, el Plan RED establece un monto económico mínimo para iniciar la atención de emergencias. Como mecanismo de aprendizaje y mejora, después de cada desastre se realizan Análisis Posteriores al Incidente (API) y se establecen hojas de ruta; sin embargo, actualmente no existe una planificación formal a dos años para actualizar las acciones de preparación, por lo que este constituye un aspecto pendiente de fortalecimiento."
+            },
+            {
+              "id": 47503,
+              "component": 10,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 10,
+                "component_num": 10,
+                "area": 2,
+                "title": "Business continuity",
+                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con el Plan RED como instrumento para asegurar la continuidad de sus actividades durante situaciones de emergencia o crisis que puedan afectar su capacidad operativa. Este plan permite orientar la activación y organización de las capacidades institucionales, procurando mantener la prestación de servicios y la atención de las necesidades humanitarias durante eventos de impacto significativo.\nEn cuanto a la gestión de recursos provenientes de donaciones, la Sociedad Nacional dispone del procedimiento PGA-CF-04-08 Gestión y Trámite de Donaciones, de acuerdo con lo indicado por la Dirección de Cooperación. Este procedimiento establece el marco institucional para la gestión y trámite de donaciones y permite orientar su administración y atención de necesidades que puedan surgir durante el desarrollo de las acciones institucionales."
+            },
+            {
+              "id": 47504,
+              "component": 11,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 11,
+                "component_num": 11,
+                "area": 2,
+                "title": "Emergency Response Procedures (SOPs)",
+                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con el Plan RED y el procedimiento para el Establecimiento del CECOE como instrumentos principales para orientar la organización y coordinación de la respuesta ante desastres y crisis. Estos contemplan los roles y responsabilidades de los diferentes niveles de actuación, así como los mecanismos para el escalamiento de los niveles de alerta y la toma de decisiones. Además, el Plan RED establece lineamientos aplicables a las filiales y cuenta con un organigrama actualizado que facilita la identificación de responsables y sus datos de contacto.\nPor otra parte, la Sociedad Nacional realiza la divulgación de estos instrumentos mediante correo electrónico y webinars, dirigidos al personal y voluntariado. En cuanto a los procedimientos específicos para las distintas fases de la respuesta, existe un desarrollo parcial, ya que actualmente se encuentran en construcción los procedimientos relacionados con alerta temprana, acción temprana, evaluaciones de emergencia y planificación de la respuesta, incluyendo la incorporación progresiva de plantillas estandarizadas."
+            },
+            {
+              "id": 47505,
+              "component": 12,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 12,
+                "component_num": 12,
+                "area": 2,
+                "title": "Response and recovery planning",
+                "description": "A documented set of procedures for the disaster/crisis response and recovery process. Including use of local capacities, transition to recovery, type of activities and serivices provided during response and recovery activities and exit strategies, procedures for DREF & EA, and templates for planning, budgeting and accessing funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con el Plan RED como principal instrumento para organizar y orientar la respuesta ante emergencias y desastres, contemplando la movilización de recursos, las necesidades diferenciadas de la población y la articulación con comunidades, personal, voluntariado y gobiernos locales. Asimismo, el plan se desarrolla en concordancia con los principios y normas de gestión de desastres y con los Principios Fundamentales del Movimiento, y toma como referencia herramientas globales de la FICR, adaptándolas a las necesidades del contexto nacional.\nLa respuesta se articula con otros actores del Sistema Nacional de Gestión del Riesgo, incluyendo la CNE, AyA y Ministerio de Salud, y el Plan RED puede adaptarse a los cambios de contexto y necesidades que surjan durante una emergencia. La Sociedad Nacional incorpora aprendizajes mediante API, simulacros y simulaciones; sin embargo, su participación en procesos de recuperación es parcial, dado que la conducción de esta fase corresponde al Gobierno. Además, la Dirección de Cooperación cuenta con una persona encargada de coordinar las donaciones durante desastres y crisis, de acuerdo con las necesidades prioritarias identificadas."
+            },
+            {
+              "id": 47506,
+              "component": 13,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 13,
+                "component_num": 13,
+                "area": 2,
+                "title": "Pre-disaster meetings and agreements",
+                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional mantiene una coordinación activa y permanente con los principales actores del Sistema Nacional de Gestión del Riesgo, socios del Movimiento y otras organizaciones relevantes, mediante espacios de articulación, acuerdos formales y mecanismos de cooperación previamente establecidos. Asimismo, el personal conoce y aplica los instrumentos de coordinación institucional, lo que favorece una respuesta oportuna y alineada con los principios y estándares del Movimiento.\nEn términos generales, existe una base sólida de alianzas y acuerdos para la gestión de emergencias. Esto evidencia una buena capacidad de coordinación y colaboración interinstitucional para la preparación y respuesta ante desastres."
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 193,
+      "area_responses": [
+        {
+          "id": 5359,
+          "component_responses": [
+            {
+              "id": 47449,
+              "component": 1,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 1,
+                "component_num": 1,
+                "area": 1,
+                "title": "RC auxiliary role, Mandate and Law",
+                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Cruz Roja Costarricense es una institución humanitaria, voluntaria y auxiliar de los poderes públicos, reconocida tanto por su Estatuto como por la Ley de Cruz Roja Costarricense. Su mandato consiste en prevenir y aliviar el sufrimiento humano, proteger la vida y la salud, atender emergencias y fortalecer la resiliencia de las comunidades, actuando bajo los Principios Fundamentales de humanidad, imparcialidad, neutralidad e independencia. Como parte del Movimiento Internacional de la Cruz Roja y de la Media Luna Roja, mantiene una relación de cooperación con el Estado sin perder su autonomía institucional. \n\nLa Ley N.° 10632 consolidó jurídicamente este rol al reconocer formalmente a la Cruz Roja Costarricense como auxiliar de los poderes públicos en el ámbito humanitario. Además de proteger sus principios, personal y emblemas, la ley establece los mecanismos de coordinación con instituciones públicas, municipalidades y otros actores para la atención de emergencias, desastres, tensiones internas y conflictos armados. Este marco legal se complementa con el Plan Estratégico 2021-2030 y otros instrumentos de gestión que orientan la implementación del mandato institucional en todo el territorio nacional. \n\nLa difusión y aplicación de este mandato se realiza de forma permanente mediante canales institucionales, procesos de rendición de cuentas y espacios de formación para personal, voluntariado y comunidades. Asimismo, la Cruz Roja Costarricense fortalece su papel auxiliar y de incidencia humanitaria mediante su participación en la Comisión Costarricense de Derecho Internacional Humanitario (CCDIH), donde promueve la adopción y difusión del Derecho Internacional Humanitario y contribuye al desarrollo de políticas y acciones que protejan a las personas en condición de vulnerabilidad."
+            },
+            {
+              "id": 47450,
+              "component": 2,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 2,
+                "component_num": 2,
+                "area": 1,
+                "title": "DRM Strategy",
+                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "El Plan Nacional de Respuesta a Emergencias (PLANRED) de la Cruz Roja Costarricense constituye el principal instrumento para operacionalizar la Estrategia de Gestión del Riesgo de Desastres (GRD), sustentado en un sólido marco normativo e institucional. Su implementación se fundamenta en el Reglamento del Programa de Gestión del Riesgo y Respuesta a Emergencias, que define competencias, roles y procesos internos, garantizando una toma de decisiones transparente, coordinada y alineada con el mandato humanitario de la institución. Asimismo, la Cruz Roja Costarricense fortalece su rol estratégico al formar parte de la Junta Directiva de la Comisión Nacional de Emergencias, conforme a la Ley N.° 8488. \n\nLa estrategia incorpora de manera dinámica el análisis del contexto nacional y las tendencias emergentes, incluyendo los efectos del cambio climático, el incremento de eventos hidrometeorológicos y los desafíos humanitarios asociados a los flujos migratorios. En respuesta a estos riesgos, se establecen metas concretas para fortalecer la capacidad institucional, entre ellas la reducción de los tiempos de respuesta, el fortalecimiento logístico regional y la certificación del personal bajo estándares internacionales de respuesta en desastres. \n\nLa GRD se actualiza periódicamente según las amenazas, vulnerabilidades y capacidades institucionales identificadas, integrándose de forma transversal en la planificación estratégica de la Sociedad Nacional. Este enfoque se refleja en instrumentos como el Plan Estratégico 2021-2030, la Política de Gestión del Riesgo de Desastres, el Reglamento del Programa de Gestión del Riesgo y Respuesta a Emergencias y el PLANRED. Además, estos lineamientos son difundidos al personal y al voluntariado mediante los canales institucionales, promoviendo el conocimiento de sus responsabilidades y fortaleciendo una respuesta humanitaria integral, articulada y multidisciplinaria."
+            },
+            {
+              "id": 47451,
+              "component": 3,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 3,
+                "component_num": 3,
+                "area": 1,
+                "title": "DRM Policy",
+                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Política de Gestión del Riesgo de Desastres (GRD) de la Cruz Roja Costarricense, aprobada mediante el acuerdo IV-2 de la sesión 21-2018, se encuentra alineada con los lineamientos de la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y tiene como propósito fortalecer el desarrollo seguro y sostenible del país mediante la reducción de vulnerabilidades, el fortalecimiento de capacidades y la promoción de una cultura preventiva. Esta política orienta la toma de decisiones institucionales con base en principios de derechos humanos, desarrollo sostenible e inclusión social, garantizando una acción humanitaria centrada en las personas y las comunidades. \n\nLa política se desarrolla a través de tres líneas estratégicas: reducción de riesgos, preparación y respuesta ante emergencias, y recuperación temprana. Asimismo, establece que la gestión del riesgo debe incorporarse en todas las decisiones estratégicas de la institución y vincularse directamente con los planes, reglamentos, procedimientos y lineamientos institucionales. Este enfoque promueve una participación integral de las distintas áreas organizacionales, trascendiendo las funciones operativas e involucrando componentes de salud, apoyo psicosocial, resiliencia comunitaria, capacitación, logística, gestión de flota y tecnologías de información. \n\nAdemás, la Política de GRD tiene un alcance institucional amplio, siendo de cumplimiento obligatorio para todo el voluntariado y personal asalariado en los diferentes niveles de gobierno, gestión y operación de la Sociedad Nacional. También promueve el cumplimiento de sus disposiciones por parte de contratistas, visitantes y usuarios, fortaleciendo una cultura organizacional orientada a la prevención, preparación, respuesta y recuperación ante emergencias. De esta manera, la política garantiza que la gestión del riesgo sea un compromiso transversal y una responsabilidad compartida en toda la Cruz Roja Costarricense."
+            },
+            {
+              "id": 47452,
+              "component": 4,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 4,
+                "component_num": 4,
+                "area": 1,
+                "title": "DRM Laws, Advocacy and Dissemination",
+                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Cruz Roja Costarricense mantiene una estrategia activa de Diplomacia Humanitaria en materia de Derecho Relativo a Desastres (IDRL), basada en la Lista de Verificación de la FICR. Como parte de este proceso, realizó un análisis del marco normativo nacional, validó resultados con diversos actores y desarrolló tres estrategias de abogacía legislativa orientadas al fortalecimiento de las capacidades municipales en gestión del riesgo, la aplicación de conceptos estandarizados de gestión del riesgo y la caracterización de poblaciones vulnerables. Asimismo, implementa acciones de divulgación, sensibilización e incidencia para fortalecer el marco jurídico relacionado con la reducción del riesgo de desastres.\n\nLa institución ha identificado y aplica la normativa nacional relevante para su labor humanitaria, incluyendo la Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488), la Ley General de Salud, el Reglamento para la Atención Extrahospitalaria y la Política Nacional de Gestión del Riesgo.\n\nEn cuanto a capacidades institucionales, cuenta con personal especializado en Derecho Internacional Humanitario (DIH) e IDRL, liderado por la Dirección Nacional de Doctrina y Protección, que funge como punto focal para el DIH y la SUb Gerencia Administrativa como punto focal de IDRL Además, participa activamente en espacios nacionales como la Comisión Costarricense de Derecho Internacional Humanitario.\n\nLa Cruz Roja Costarricense también ha promovido legislación alineada con los principios de facilitación de la asistencia humanitaria internacional. En este sentido, la Ley N.° 10.632 de la Cruz Roja Costarricense incorpora mecanismos que facilitan el ingreso, tránsito y recepción de ayuda internacional, incluyendo exoneraciones tributarias, facilidades migratorias y procedimientos simplificados para operaciones de respuesta.\n\nLa institución utiliza las lecciones aprendidas y los hallazgos obtenidos de sus análisis sobre IDRL para fortalecer la coordinación con actores nacionales, mejorar la preparación jurídica ante desastres y orientar futuras acciones de diplomacia humanitaria."
+            },
+            {
+              "id": 47453,
+              "component": 5,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 5,
+                "component_num": 5,
+                "area": 1,
+                "title": "Quality and accountability",
+                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Cruz Roja Costarricense ha fortalecido la implementación del enfoque de Participación Comunitaria y Rendición de Cuentas a la Comunidad (CEA), garantizando que las poblaciones afectadas participen en la identificación de necesidades, la toma de decisiones y la evaluación de la asistencia humanitaria. Para ello, cuenta con mecanismos institucionales de retroalimentación, como el Monitoreo de los Servicios Humanitarios, que permite adaptar las intervenciones a las prioridades de las comunidades.\n\nHa desarrollado capacidades en CEA mediante la capacitación de puntos focales y referentes regionales, complementadas con procesos formativos continuos para personal y voluntariado. Asimismo, ha integrado este enfoque en sus políticas, procedimientos, indicadores y herramientas institucionales, asegurando su aplicación en programas, proyectos, operativos y respuestas a emergencias.\n\nDispone de mecanismos seguros y accesibles para la recepción y gestión de quejas, sugerencias y denuncias relacionadas con la asistencia humanitaria y temas de protección. Estos mecanismos se apoyan en políticas institucionales, reglamentos disciplinarios y canales especializados que garantizan confidencialidad y seguimiento adecuado a los casos.\n\nEn materia de protección, aunque aún no cuenta con una política específica de Protección contra la Explotación y el Abuso Sexual (PEAS), ha implementado políticas y procedimientos relacionados con la integridad, la prevención del acoso y hostigamiento sexual, y la protección de las personas participantes. Asimismo, mantiene el compromiso de fortalecer este ámbito mediante la adopción futura de una política especializada.\n\nIncorpora los principios de las Normas Esfera y la Norma Humanitaria Esencial (CHS), promoviendo la participación comunitaria, la inclusión, la igualdad de género y la protección de grupos vulnerables. Estas acciones se respaldan en diversas políticas institucionales orientadas a la inclusión social, la equidad de género, la cultura de paz y la rendición de cuentas.\n\nAplica el principio de “no hacer daño” mediante procesos de evaluación, monitoreo y participación comunitaria que permiten minimizar impactos negativos de la asistencia. De igual forma, integra de manera transversal los enfoques de género, diversidad e inclusión en todas las etapas de preparación, respuesta y recuperación ante emergencias, garantizando servicios más equitativos, accesibles y centrados en las personas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 197,
       "area_responses": []
     },
     {
@@ -180101,22 +180965,6 @@
       ]
     },
     {
-      "id": 194,
-      "area_responses": []
-    },
-    {
-      "id": 195,
-      "area_responses": []
-    },
-    {
-      "id": 196,
-      "area_responses": []
-    },
-    {
-      "id": 197,
-      "area_responses": []
-    },
-    {
       "id": 176,
       "area_responses": [
         {
@@ -182577,6 +183425,136 @@
       ]
     },
     {
+      "id": 193,
+      "area_responses": [
+        {
+          "id": 5359,
+          "component_responses": [
+            {
+              "id": 47449,
+              "component": 1,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 1,
+                "component_num": 1,
+                "area": 1,
+                "title": "RC auxiliary role, Mandate and Law",
+                "description": "A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/ recognized in the National Response System."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Cruz Roja Costarricense es una institución humanitaria, voluntaria y auxiliar de los poderes públicos, reconocida tanto por su Estatuto como por la Ley de Cruz Roja Costarricense. Su mandato consiste en prevenir y aliviar el sufrimiento humano, proteger la vida y la salud, atender emergencias y fortalecer la resiliencia de las comunidades, actuando bajo los Principios Fundamentales de humanidad, imparcialidad, neutralidad e independencia. Como parte del Movimiento Internacional de la Cruz Roja y de la Media Luna Roja, mantiene una relación de cooperación con el Estado sin perder su autonomía institucional. \n\nLa Ley N.° 10632 consolidó jurídicamente este rol al reconocer formalmente a la Cruz Roja Costarricense como auxiliar de los poderes públicos en el ámbito humanitario. Además de proteger sus principios, personal y emblemas, la ley establece los mecanismos de coordinación con instituciones públicas, municipalidades y otros actores para la atención de emergencias, desastres, tensiones internas y conflictos armados. Este marco legal se complementa con el Plan Estratégico 2021-2030 y otros instrumentos de gestión que orientan la implementación del mandato institucional en todo el territorio nacional. \n\nLa difusión y aplicación de este mandato se realiza de forma permanente mediante canales institucionales, procesos de rendición de cuentas y espacios de formación para personal, voluntariado y comunidades. Asimismo, la Cruz Roja Costarricense fortalece su papel auxiliar y de incidencia humanitaria mediante su participación en la Comisión Costarricense de Derecho Internacional Humanitario (CCDIH), donde promueve la adopción y difusión del Derecho Internacional Humanitario y contribuye al desarrollo de políticas y acciones que protejan a las personas en condición de vulnerabilidad."
+            },
+            {
+              "id": 47450,
+              "component": 2,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 2,
+                "component_num": 2,
+                "area": 1,
+                "title": "DRM Strategy",
+                "description": "An outline of the overall goal that the NS seeks to achieve in its disaster and crisis response operations. The goal considers: context analysis, ongoing/regular all-hazards risk assessments: it may define the target proportion of affected population that will be reached, and a definition of the areas/sectors where a NS will usually respond during an emergency."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "El Plan Nacional de Respuesta a Emergencias (PLANRED) de la Cruz Roja Costarricense constituye el principal instrumento para operacionalizar la Estrategia de Gestión del Riesgo de Desastres (GRD), sustentado en un sólido marco normativo e institucional. Su implementación se fundamenta en el Reglamento del Programa de Gestión del Riesgo y Respuesta a Emergencias, que define competencias, roles y procesos internos, garantizando una toma de decisiones transparente, coordinada y alineada con el mandato humanitario de la institución. Asimismo, la Cruz Roja Costarricense fortalece su rol estratégico al formar parte de la Junta Directiva de la Comisión Nacional de Emergencias, conforme a la Ley N.° 8488. \n\nLa estrategia incorpora de manera dinámica el análisis del contexto nacional y las tendencias emergentes, incluyendo los efectos del cambio climático, el incremento de eventos hidrometeorológicos y los desafíos humanitarios asociados a los flujos migratorios. En respuesta a estos riesgos, se establecen metas concretas para fortalecer la capacidad institucional, entre ellas la reducción de los tiempos de respuesta, el fortalecimiento logístico regional y la certificación del personal bajo estándares internacionales de respuesta en desastres. \n\nLa GRD se actualiza periódicamente según las amenazas, vulnerabilidades y capacidades institucionales identificadas, integrándose de forma transversal en la planificación estratégica de la Sociedad Nacional. Este enfoque se refleja en instrumentos como el Plan Estratégico 2021-2030, la Política de Gestión del Riesgo de Desastres, el Reglamento del Programa de Gestión del Riesgo y Respuesta a Emergencias y el PLANRED. Además, estos lineamientos son difundidos al personal y al voluntariado mediante los canales institucionales, promoviendo el conocimiento de sus responsabilidades y fortaleciendo una respuesta humanitaria integral, articulada y multidisciplinaria."
+            },
+            {
+              "id": 47451,
+              "component": 3,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 3,
+                "component_num": 3,
+                "area": 1,
+                "title": "DRM Policy",
+                "description": "Reflects the NS mission, RCRC principles and mandate. It acknowledges other relevant NS policies, and aligns with the government policy (where applicable), incorporating the general rules that the NS will obey in order to achieve something (i.e mandate, strategy, etc.)"
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Política de Gestión del Riesgo de Desastres (GRD) de la Cruz Roja Costarricense, aprobada mediante el acuerdo IV-2 de la sesión 21-2018, se encuentra alineada con los lineamientos de la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) y tiene como propósito fortalecer el desarrollo seguro y sostenible del país mediante la reducción de vulnerabilidades, el fortalecimiento de capacidades y la promoción de una cultura preventiva. Esta política orienta la toma de decisiones institucionales con base en principios de derechos humanos, desarrollo sostenible e inclusión social, garantizando una acción humanitaria centrada en las personas y las comunidades. \n\nLa política se desarrolla a través de tres líneas estratégicas: reducción de riesgos, preparación y respuesta ante emergencias, y recuperación temprana. Asimismo, establece que la gestión del riesgo debe incorporarse en todas las decisiones estratégicas de la institución y vincularse directamente con los planes, reglamentos, procedimientos y lineamientos institucionales. Este enfoque promueve una participación integral de las distintas áreas organizacionales, trascendiendo las funciones operativas e involucrando componentes de salud, apoyo psicosocial, resiliencia comunitaria, capacitación, logística, gestión de flota y tecnologías de información. \n\nAdemás, la Política de GRD tiene un alcance institucional amplio, siendo de cumplimiento obligatorio para todo el voluntariado y personal asalariado en los diferentes niveles de gobierno, gestión y operación de la Sociedad Nacional. También promueve el cumplimiento de sus disposiciones por parte de contratistas, visitantes y usuarios, fortaleciendo una cultura organizacional orientada a la prevención, preparación, respuesta y recuperación ante emergencias. De esta manera, la política garantiza que la gestión del riesgo sea un compromiso transversal y una responsabilidad compartida en toda la Cruz Roja Costarricense."
+            },
+            {
+              "id": 47452,
+              "component": 4,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 4,
+                "component_num": 4,
+                "area": 1,
+                "title": "DRM Laws, Advocacy and Dissemination",
+                "description": "Designed to support the NS in improving legal preparedness for disasters and crisis and to promote the use of the IDRL Guidelines in order to reduce human vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Cruz Roja Costarricense mantiene una estrategia activa de Diplomacia Humanitaria en materia de Derecho Relativo a Desastres (IDRL), basada en la Lista de Verificación de la FICR. Como parte de este proceso, realizó un análisis del marco normativo nacional, validó resultados con diversos actores y desarrolló tres estrategias de abogacía legislativa orientadas al fortalecimiento de las capacidades municipales en gestión del riesgo, la aplicación de conceptos estandarizados de gestión del riesgo y la caracterización de poblaciones vulnerables. Asimismo, implementa acciones de divulgación, sensibilización e incidencia para fortalecer el marco jurídico relacionado con la reducción del riesgo de desastres.\n\nLa institución ha identificado y aplica la normativa nacional relevante para su labor humanitaria, incluyendo la Ley Nacional de Emergencias y Prevención del Riesgo (Ley 8488), la Ley General de Salud, el Reglamento para la Atención Extrahospitalaria y la Política Nacional de Gestión del Riesgo.\n\nEn cuanto a capacidades institucionales, cuenta con personal especializado en Derecho Internacional Humanitario (DIH) e IDRL, liderado por la Dirección Nacional de Doctrina y Protección, que funge como punto focal para el DIH y la SUb Gerencia Administrativa como punto focal de IDRL Además, participa activamente en espacios nacionales como la Comisión Costarricense de Derecho Internacional Humanitario.\n\nLa Cruz Roja Costarricense también ha promovido legislación alineada con los principios de facilitación de la asistencia humanitaria internacional. En este sentido, la Ley N.° 10.632 de la Cruz Roja Costarricense incorpora mecanismos que facilitan el ingreso, tránsito y recepción de ayuda internacional, incluyendo exoneraciones tributarias, facilidades migratorias y procedimientos simplificados para operaciones de respuesta.\n\nLa institución utiliza las lecciones aprendidas y los hallazgos obtenidos de sus análisis sobre IDRL para fortalecer la coordinación con actores nacionales, mejorar la preparación jurídica ante desastres y orientar futuras acciones de diplomacia humanitaria."
+            },
+            {
+              "id": 47453,
+              "component": 5,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 5,
+                "component_num": 5,
+                "area": 1,
+                "title": "Quality and accountability",
+                "description": "Describes the essential elements of principled, accountable, and high-quality humanitarian action. The RCRC Movement provides support to the most vulnerable people in line with the Sphere and CHS standards, Code of Conduct for the RCRC Movement and NGOS in Disaster Relief and the Code for Good Partnership of the RCRC Movement, Gender & Diversity, inclusion and protection, BPI/ Do no harm, context-sensitive analysis, violence prevention, accountability to affected population and disability considerations, Community engagement and accountability (CEA)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Cruz Roja Costarricense ha fortalecido la implementación del enfoque de Participación Comunitaria y Rendición de Cuentas a la Comunidad (CEA), garantizando que las poblaciones afectadas participen en la identificación de necesidades, la toma de decisiones y la evaluación de la asistencia humanitaria. Para ello, cuenta con mecanismos institucionales de retroalimentación, como el Monitoreo de los Servicios Humanitarios, que permite adaptar las intervenciones a las prioridades de las comunidades.\n\nHa desarrollado capacidades en CEA mediante la capacitación de puntos focales y referentes regionales, complementadas con procesos formativos continuos para personal y voluntariado. Asimismo, ha integrado este enfoque en sus políticas, procedimientos, indicadores y herramientas institucionales, asegurando su aplicación en programas, proyectos, operativos y respuestas a emergencias.\n\nDispone de mecanismos seguros y accesibles para la recepción y gestión de quejas, sugerencias y denuncias relacionadas con la asistencia humanitaria y temas de protección. Estos mecanismos se apoyan en políticas institucionales, reglamentos disciplinarios y canales especializados que garantizan confidencialidad y seguimiento adecuado a los casos.\n\nEn materia de protección, aunque aún no cuenta con una política específica de Protección contra la Explotación y el Abuso Sexual (PEAS), ha implementado políticas y procedimientos relacionados con la integridad, la prevención del acoso y hostigamiento sexual, y la protección de las personas participantes. Asimismo, mantiene el compromiso de fortalecer este ámbito mediante la adopción futura de una política especializada.\n\nIncorpora los principios de las Normas Esfera y la Norma Humanitaria Esencial (CHS), promoviendo la participación comunitaria, la inclusión, la igualdad de género y la protección de grupos vulnerables. Estas acciones se respaldan en diversas políticas institucionales orientadas a la inclusión social, la equidad de género, la cultura de paz y la rendición de cuentas.\n\nAplica el principio de “no hacer daño” mediante procesos de evaluación, monitoreo y participación comunitaria que permiten minimizar impactos negativos de la asistencia. De igual forma, integra de manera transversal los enfoques de género, diversidad e inclusión en todas las etapas de preparación, respuesta y recuperación ante emergencias, garantizando servicios más equitativos, accesibles y centrados en las personas."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 182,
       "area_responses": [
         {
@@ -183801,6 +184779,756 @@
               "epi_considerations_simplified": false,
               "climate_environmental_considerations_simplified": false,
               "notes": "Cruz Roja Hondureña conoce y utiliza los formatos y mecanismos establecidos para solicitar apoyo, manteniendo además una comunicación permanente con la FICR y con autoridades e instituciones de los niveles nacionales y local. Esta articulación facilita la coordinación, gestión de recursos y activación de apoyos durante situaciones de emergencia. Como oportunidad de mejora, se recomienda socializar de manera sistemática, al menos una vez al año, los sistemas de respuesta, procedimientos, formatos y canales de coordinación en todos los niveles de la Sociedad Nacional, fortaleciendo el conocimiento institucional y asegurando una activación más oportuna, homogénea y coordinada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "area_responses": [
+        {
+          "id": 5365,
+          "component_responses": [
+            {
+              "id": 47499,
+              "component": 6,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 6,
+                "component_num": 6,
+                "area": 2,
+                "title": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+                "description": "Describes how the NS monitors and maps past, present and potential hazards, disasters and crises (e.g. hazard, vulnerability assessments, gathering information from communities and government authorities) and systematically evaluates the damage that could be caused by a potential disaster/crisis, the frequency, severity of the impact, and the alert the relevant areas to scale the preparedness actions to reduce population vulnerability."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con diferentes mecanismos y herramientas para la identificación, monitoreo y análisis de riesgos, entre ellos los AVC, AVCA, PAT y el Plan RED, complementados con información proveniente de la Comisión Nacional de Emergencias y de los Comités Municipales de Emergencia. Estos instrumentos permiten recopilar y analizar información sobre amenazas, vulnerabilidades y capacidades de las comunidades, incluyendo variables relacionadas con edad, género, discapacidad, condiciones socioeconómicas y otros factores de diversidad. Asimismo, la Sociedad Nacional dispone de un Área de Análisis de Datos y de mecanismos de coordinación territorial que contribuyen a fortalecer la preparación, la alerta temprana y la toma de decisiones para la acción humanitaria.\nEn materia de aceptación, seguridad y acceso, se cuenta con mecanismos de coordinación con actores comunitarios e institucionales, preingresos con líderes de las comunidades, protocolos y guías de la Oficina de Seguridad Operacional, así como talleres de Acceso Más Seguro (AMS) en las regiones. También existen mecanismos específicos para la atención en zonas transfronterizas, como el Acuerdo Binacional para la Atención de Emergencias y el Protocolo de Atención en Zonas Transfronterizas. Como principal brecha, se identifica que actualmente no ha sido posible mantener una participación periódica de las comunidades y el voluntariado en la actualización de los mapas de riesgos y AVC, debido a las restricciones financieras y a las medidas institucionales de contención del gasto. Además, se reconoce la necesidad de fortalecer la evidencia documental y la sistematización de algunos de estos procesos para demostrar su aplicación de manera uniforme."
+            },
+            {
+              "id": 47500,
+              "component": 7,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 7,
+                "component_num": 7,
+                "area": 2,
+                "title": "Scenario planning",
+                "description": "A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type (e.g. earthquake, dengue epidemic, floods, cyclone) and a specific scenario (i.e. number of people affected, their locations and other important factors)."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con mecanismos para el análisis y planificación de escenarios humanitarios mediante los AVCA, los cuales permiten considerar las vulnerabilidades, capacidades y factores que pueden determinar los posibles impactos en las comunidades. Asimismo, la participación activa de la Sociedad Nacional en los Comités Municipales de Emergencia, con capacidad de voz y voto, y en el Sistema Nacional de Gestión del Riesgo, facilita la coordinación con las autoridades públicas y la participación de las estructuras territoriales en la definición de estrategias de respuesta y planes de contingencia de acuerdo con las características de cada zona.\n\nLos planes de contingencia contemplan diferentes escenarios y mecanismos para su activación, principalmente a través del Plan RED y los Planes de Acción Temprana (PAT). También se consideran los riesgos que pueden afectar la aceptación, seguridad y acceso durante las operaciones, así como la capacidad de respuesta de los Comités y la posibilidad de activar la estructura institucional para brindar apoyo. En el ámbito transfronterizo, existen acuerdos binacionales y mecanismos de coordinación para atender situaciones que puedan afectar a poblaciones fronterizas, incluyendo desplazamientos derivados de emergencias. Finalmente, los riesgos regionales son evaluados cada seis meses, permitiendo realizar análisis específicos y ajustar las acciones de contingencia cuando se presentan cambios relevantes en el contexto."
+            },
+            {
+              "id": 47501,
+              "component": 8,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 8,
+                "component_num": 8,
+                "area": 2,
+                "title": "Risk management",
+                "description": "A mapping of the potential risks in every area, along with its related mitigation measures. Including financial, reputational, organizational risks etc."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con una estructura institucional para la gestión integral de riesgos, que involucra tanto la operación como el control institucional. La Dirección Nacional de Respuesta a Emergencias gestiona los riesgos desde el ámbito operativo mediante planes de respuesta, planes de contingencia y AVCA, mientras que el Área de Control Interno identifica, evalúa y da seguimiento a los riesgos institucionales, trabajando conjuntamente con las áreas responsables en la definición de medidas de mitigación. Asimismo, se mantienen mecanismos de coordinación con actores clave, tanto internos como externos, incluyendo reuniones previas con líderes comunales, gobiernos locales y fuerzas vivas antes del ingreso a las comunidades, con el propósito de favorecer la coordinación, confianza y aceptación de las intervenciones.\n\nEn materia de integridad, transparencia y gestión de crisis, la Sociedad Nacional cuenta con un Código de Conducta y se encuentra en proceso de elaboración de una Política Anticorrupción, manteniendo además vinculación con los lineamientos de la IFRC para la prevención y control del fraude y la corrupción. El Consejo Nacional brinda especial importancia a la transparencia, rendición de cuentas y reputación institucional. Para la atención de situaciones críticas se dispone de un Comité de Crisis, complementado por la Oficina de Monitoreo de Servicios Humanitarios, que gestiona las inconformidades relacionadas con los servicios brindados por la SN. Estos mecanismos permiten fortalecer la prevención, detección y atención oportuna de riesgos que puedan afectar las operaciones, la integridad y la confianza en la institución."
+            },
+            {
+              "id": 47502,
+              "component": 9,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 9,
+                "component_num": 9,
+                "area": 2,
+                "title": "Preparedness plans and budgets",
+                "description": "Plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities in order to reach a level of preparedness to be able to respond effectively to a disaster or crisis. Budgets ensure that the necessary financial support is secured to allow capacities to be built and readiness maintained."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con una estructura definida para la preparación y respuesta ante emergencias y desastres, bajo la responsabilidad de la Jefatura de Respuesta a Desastres. De manera complementaria, se realizan evaluaciones constantes para identificar brechas de preparación y orientar acciones de fortalecimiento mediante capacitaciones, instructivos de trabajo, orientación y seguimiento continuo. Los Planes de Acción Temprana (PAT) constituyen además un instrumento para fortalecer las capacidades y atender las necesidades identificadas.\nEn materia de recursos, se utilizan los fondos disponibles en proyectos como los PAT y se realizan ajustes cuando se identifican carencias, complementándose con un plan a demanda que permite activar recursos según las necesidades. Asimismo, el Plan RED establece un monto económico mínimo para iniciar la atención de emergencias. Como mecanismo de aprendizaje y mejora, después de cada desastre se realizan Análisis Posteriores al Incidente (API) y se establecen hojas de ruta; sin embargo, actualmente no existe una planificación formal a dos años para actualizar las acciones de preparación, por lo que este constituye un aspecto pendiente de fortalecimiento."
+            },
+            {
+              "id": 47503,
+              "component": 10,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 10,
+                "component_num": 10,
+                "area": 2,
+                "title": "Business continuity",
+                "description": "A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con el Plan RED como instrumento para asegurar la continuidad de sus actividades durante situaciones de emergencia o crisis que puedan afectar su capacidad operativa. Este plan permite orientar la activación y organización de las capacidades institucionales, procurando mantener la prestación de servicios y la atención de las necesidades humanitarias durante eventos de impacto significativo.\nEn cuanto a la gestión de recursos provenientes de donaciones, la Sociedad Nacional dispone del procedimiento PGA-CF-04-08 Gestión y Trámite de Donaciones, de acuerdo con lo indicado por la Dirección de Cooperación. Este procedimiento establece el marco institucional para la gestión y trámite de donaciones y permite orientar su administración y atención de necesidades que puedan surgir durante el desarrollo de las acciones institucionales."
+            },
+            {
+              "id": 47504,
+              "component": 11,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 11,
+                "component_num": 11,
+                "area": 2,
+                "title": "Emergency Response Procedures (SOPs)",
+                "description": "Written guidelines that describe duties and rights of personnel, command structures, coordination with other organizations, and reporting requirements, etc. Includes detailed organogram, decision-making flow chart, and defined roles and responsibilities."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con el Plan RED y el procedimiento para el Establecimiento del CECOE como instrumentos principales para orientar la organización y coordinación de la respuesta ante desastres y crisis. Estos contemplan los roles y responsabilidades de los diferentes niveles de actuación, así como los mecanismos para el escalamiento de los niveles de alerta y la toma de decisiones. Además, el Plan RED establece lineamientos aplicables a las filiales y cuenta con un organigrama actualizado que facilita la identificación de responsables y sus datos de contacto.\nPor otra parte, la Sociedad Nacional realiza la divulgación de estos instrumentos mediante correo electrónico y webinars, dirigidos al personal y voluntariado. En cuanto a los procedimientos específicos para las distintas fases de la respuesta, existe un desarrollo parcial, ya que actualmente se encuentran en construcción los procedimientos relacionados con alerta temprana, acción temprana, evaluaciones de emergencia y planificación de la respuesta, incluyendo la incorporación progresiva de plantillas estandarizadas."
+            },
+            {
+              "id": 47505,
+              "component": 12,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 12,
+                "component_num": 12,
+                "area": 2,
+                "title": "Response and recovery planning",
+                "description": "A documented set of procedures for the disaster/crisis response and recovery process. Including use of local capacities, transition to recovery, type of activities and serivices provided during response and recovery activities and exit strategies, procedures for DREF & EA, and templates for planning, budgeting and accessing funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional cuenta con el Plan RED como principal instrumento para organizar y orientar la respuesta ante emergencias y desastres, contemplando la movilización de recursos, las necesidades diferenciadas de la población y la articulación con comunidades, personal, voluntariado y gobiernos locales. Asimismo, el plan se desarrolla en concordancia con los principios y normas de gestión de desastres y con los Principios Fundamentales del Movimiento, y toma como referencia herramientas globales de la FICR, adaptándolas a las necesidades del contexto nacional.\nLa respuesta se articula con otros actores del Sistema Nacional de Gestión del Riesgo, incluyendo la CNE, AyA y Ministerio de Salud, y el Plan RED puede adaptarse a los cambios de contexto y necesidades que surjan durante una emergencia. La Sociedad Nacional incorpora aprendizajes mediante API, simulacros y simulaciones; sin embargo, su participación en procesos de recuperación es parcial, dado que la conducción de esta fase corresponde al Gobierno. Además, la Dirección de Cooperación cuenta con una persona encargada de coordinar las donaciones durante desastres y crisis, de acuerdo con las necesidades prioritarias identificadas."
+            },
+            {
+              "id": 47506,
+              "component": 13,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 13,
+                "component_num": 13,
+                "area": 2,
+                "title": "Pre-disaster meetings and agreements",
+                "description": "A commitment to arrange meetings and agreements with Movement stakeholders and external actors to identify, plan for and address gaps for any upcoming disaster season (e.g. monsoon, floods or cyclones, or for any generic disaster/crisis event (e.g Epidemic, pandemic, confilict situations). Pre-disaster agreements should set out each partner's role in the event of a disaster/crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Sociedad Nacional mantiene una coordinación activa y permanente con los principales actores del Sistema Nacional de Gestión del Riesgo, socios del Movimiento y otras organizaciones relevantes, mediante espacios de articulación, acuerdos formales y mecanismos de cooperación previamente establecidos. Asimismo, el personal conoce y aplica los instrumentos de coordinación institucional, lo que favorece una respuesta oportuna y alineada con los principios y estándares del Movimiento.\nEn términos generales, existe una base sólida de alianzas y acuerdos para la gestión de emergencias. Esto evidencia una buena capacidad de coordinación y colaboración interinstitucional para la preparación y respuesta ante desastres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "area_responses": [
+        {
+          "id": 5366,
+          "component_responses": [
+            {
+              "id": 47520,
+              "component": 28,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 28,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY BASED HEALTH & FIRST AID (CBHFA)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47507,
+              "component": 15,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 15,
+                "component_num": 14,
+                "area": 3,
+                "title": "COMMUNITY-BASED DP AND DRR",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47508,
+              "component": 16,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 16,
+                "component_num": 14,
+                "area": 3,
+                "title": "EVACUATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47509,
+              "component": 17,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 17,
+                "component_num": 14,
+                "area": 3,
+                "title": "HEALTH IN EMERGENCIES",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47510,
+              "component": 18,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 18,
+                "component_num": 14,
+                "area": 3,
+                "title": "FIRST AID",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47511,
+              "component": 19,
+              "rating": 4,
+              "rating_details": {
+                "id": 4,
+                "value": 3,
+                "title": "Needs Improvement"
+              },
+              "component_details": {
+                "id": 19,
+                "component_num": 14,
+                "area": 3,
+                "title": "WATER AND SANITATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47512,
+              "component": 20,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 20,
+                "component_num": 14,
+                "area": 3,
+                "title": "FOOD SECURITY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Acciones relacionadas con seguridad alimentaria son parte del componente medios de subsitencia."
+            },
+            {
+              "id": 47513,
+              "component": 21,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 21,
+                "component_num": 14,
+                "area": 3,
+                "title": "LIVELIHOOD SECURITY AND SAFETY NETS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47514,
+              "component": 22,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 22,
+                "component_num": 14,
+                "area": 3,
+                "title": "SEARCH AND RESCUE",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "La Asociación Cruz Roja Costarricense dispone de una capacidad formal de búsqueda y rescate integrada dentro de la Dirección Nacional de Respuesta a Emergencias (DINARE), con una estructura nacional compuesta por una Coordinación Nacional de Búsqueda y Rescate, Unidades Especializadas (UBRA, K-SAR, UBRT, UBRU y UEPI), Grupos Regionales de Intervención y Coordinaciones Operativas Regionales. El reglamento establece procesos de capacitación, recertificación periódica, protocolos de seguridad, planes de despliegue y ejercicios regulares, además de una línea clara de autoridad y movilización de recursos a través del PLANRED, lo que evidencia una capacidad institucional robusta para la preparación y respuesta en operaciones de búsqueda y rescate."
+            },
+            {
+              "id": 47515,
+              "component": 23,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 23,
+                "component_num": 14,
+                "area": 3,
+                "title": "SHELTER, HOUSEHOLD ITEMS, SETTLEMENTS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Las competencias institucionales en términos de alojamiento temporal actualmente son exclusivas de la Comisión Nacional de Emergencias. La SN apoya con solicitudes puntuales de capacitación comunitaria bajo su rectoría y atención extrahospitalaria en caso necesario."
+            },
+            {
+              "id": 47516,
+              "component": 24,
+              "rating": 1,
+              "rating_details": {
+                "id": 1,
+                "value": 0,
+                "title": "Not Reviewed"
+              },
+              "component_details": {
+                "id": 24,
+                "component_num": 14,
+                "area": 3,
+                "title": "MANAGEMENT OF DEAD BODIES TO FACILITATE THEIR IDENTIFICATION",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Actualmente, la Sociedad Nacional no cuenta con un rol formal dentro de este mecanismo ni se prevé, en el corto plazo, asumir funciones relacionadas con el manejo e identificación de cadáveres, dado que no forman parte de sus competencias institucionales."
+            },
+            {
+              "id": 47517,
+              "component": 25,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 25,
+                "component_num": 14,
+                "area": 3,
+                "title": "RESTORING FAMILY LINKS (RFL)",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47518,
+              "component": 26,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 26,
+                "component_num": 14,
+                "area": 3,
+                "title": "TRANSITION TO RECOVERY",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47519,
+              "component": 27,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 27,
+                "component_num": 14,
+                "area": 3,
+                "title": "CHEMICAL, BIOLOGICAL, RADIOLOGICAL AND NUCLEAR (CBRN) EMERGENCY PREPAREDNESS",
+                "description": ""
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "area_responses": [
+        {
+          "id": 5367,
+          "component_responses": [
+            {
+              "id": 47521,
+              "component": 44,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 44,
+                "component_num": 30,
+                "area": 5,
+                "title": "Safety and security management",
+                "description": "Addresses policy and procedures to ensure the safety of staff and volunteers. This include awareness, effective recruitment, training and management processes in place to ensure that personnel are capable of undertaking the roles demanded of them (from NS operational, management and leaders) according to the Stay Safe (IFRC) and Safer Access (ICRC). Based on safer access framework, including concepts of access, perception, identification and acceptance, and protection and violence prevention."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Existen las herramientas aprobadas por la SN. Sin embargo, existen falencias en temas de divulgación, alcance y acatamiento de las normas."
+            },
+            {
+              "id": 47522,
+              "component": 45,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 45,
+                "component_num": 31,
+                "area": 5,
+                "title": "Operations Monitoring, Evaluation, Reporting and Learning",
+                "description": "The PMERL is designed to implement a results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact. A reliable and trusted organization is accountable, providing transparent and timely information and building systems to strengthen data collection and reporting. It is data-driven, analytical and results-based."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47523,
+              "component": 46,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 46,
+                "component_num": 32,
+                "area": 5,
+                "title": "Finance and Admin policy and emergency procedures",
+                "description": "Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations. it also includes the efficient delivery , cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis. These must meet transparency, oversight and accountability standards. Procedures may include faster approval processes, fewer signatures, different authority levels. The Emergency Procedures are activated for a specific period of time."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": "Si existen diversos procedimientos, pero se necesitan homologarlos y juntarlos con las áreas operativas de la SN."
+            },
+            {
+              "id": 47524,
+              "component": 47,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 47,
+                "component_num": 33,
+                "area": 5,
+                "title": "Information and Communication Technology (ICT)",
+                "description": "Refers to technologies that provide access to information through telecommunications. This includes the Internet, wireless networks, mobile phones, radios and other communication mediums."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47525,
+              "component": 48,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 48,
+                "component_num": 34,
+                "area": 5,
+                "title": "Logistics, procurement and supply chain",
+                "description": null
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47526,
+              "component": 54,
+              "rating": 5,
+              "rating_details": {
+                "id": 5,
+                "value": 4,
+                "title": "Exists – Could be Strengthened"
+              },
+              "component_details": {
+                "id": 54,
+                "component_num": 35,
+                "area": 5,
+                "title": "Staff and volunteer management",
+                "description": "Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47527,
+              "component": 55,
+              "rating": 6,
+              "rating_details": {
+                "id": 6,
+                "value": 5,
+                "title": "High Performance"
+              },
+              "component_details": {
+                "id": 55,
+                "component_num": 36,
+                "area": 5,
+                "title": "Communication in emergencies",
+                "description": "Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
+            },
+            {
+              "id": 47528,
+              "component": 56,
+              "rating": null,
+              "rating_details": {
+                "id": null,
+                "value": null,
+                "title": null
+              },
+              "component_details": {
+                "id": 56,
+                "component_num": 37,
+                "area": 5,
+                "title": "Resource Mobilisation",
+                "description": "A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response. This would include allocation of responsibilities, practical mechanisms for accepting funds and for being accountable on funds."
+              },
+              "urban_considerations": null,
+              "epi_considerations": null,
+              "climate_environmental_considerations": null,
+              "urban_considerations_simplified": false,
+              "epi_considerations_simplified": false,
+              "climate_environmental_considerations_simplified": false,
+              "notes": null
             }
           ]
         }
