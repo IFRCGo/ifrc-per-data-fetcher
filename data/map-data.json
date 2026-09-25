@@ -11162,51 +11162,6 @@
     "urban_considerations": false,
     "components": [
       {
-        "component_id": 1,
-        "component_name": "RC auxiliary role, Mandate and Law",
-        "component_num": 1,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 2,
-        "component_name": "DRM Strategy",
-        "component_num": 2,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 3,
-        "component_name": "DRM Policy",
-        "component_num": 3,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 4,
-        "component_name": "DRM Laws, Advocacy and Dissemination",
-        "component_num": 4,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 5,
-        "component_name": "Quality and accountability",
-        "component_num": 5,
-        "area_id": 1,
-        "area_name": "Policy Strategy and Standards",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
         "component_id": 38,
         "component_name": "Coordination with Movement",
         "component_num": 24,
@@ -11230,8 +11185,8 @@
         "component_num": 28,
         "area_id": 4,
         "area_name": "Coordination",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
+        "rating_value": 5,
+        "rating_title": "High Performance"
       },
       {
         "component_id": 41,
@@ -11259,42 +11214,6 @@
         "area_name": "Coordination",
         "rating_value": 5,
         "rating_title": "High Performance"
-      },
-      {
-        "component_id": 7,
-        "component_name": "Scenario planning",
-        "component_num": 7,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 8,
-        "component_name": "Risk management",
-        "component_num": 8,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 5,
-        "rating_title": "High Performance"
-      },
-      {
-        "component_id": 9,
-        "component_name": "Preparedness plans and budgets",
-        "component_num": 9,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
-      },
-      {
-        "component_id": 10,
-        "component_name": "Business continuity",
-        "component_num": 10,
-        "area_id": 2,
-        "area_name": "Analysis and planning",
-        "rating_value": 4,
-        "rating_title": "Exists – Could be Strengthened"
       },
       {
         "component_id": 11,
@@ -11327,6 +11246,42 @@
         "component_id": 6,
         "component_name": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
         "component_num": 6,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 7,
+        "component_name": "Scenario planning",
+        "component_num": 7,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 8,
+        "component_name": "Risk management",
+        "component_num": 8,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 9,
+        "component_name": "Preparedness plans and budgets",
+        "component_num": 9,
+        "area_id": 2,
+        "area_name": "Analysis and planning",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 10,
+        "component_name": "Business continuity",
+        "component_num": 10,
         "area_id": 2,
         "area_name": "Analysis and planning",
         "rating_value": 4,
@@ -11540,6 +11495,33 @@
         "rating_title": "Not Reviewed"
       },
       {
+        "component_id": 45,
+        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
+        "component_num": 31,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
+      },
+      {
+        "component_id": 46,
+        "component_name": "Finance and Admin policy and emergency procedures",
+        "component_num": 32,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 47,
+        "component_name": "Information and Communication Technology (ICT)",
+        "component_num": 33,
+        "area_id": 5,
+        "area_name": "Operations support",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
         "component_id": 48,
         "component_name": "Logistics, procurement and supply chain",
         "component_num": 34,
@@ -11585,31 +11567,49 @@
         "rating_title": "Exists – Could be Strengthened"
       },
       {
-        "component_id": 45,
-        "component_name": "Operations Monitoring, Evaluation, Reporting and Learning",
-        "component_num": 31,
-        "area_id": 5,
-        "area_name": "Operations support",
+        "component_id": 1,
+        "component_name": "RC auxiliary role, Mandate and Law",
+        "component_num": 1,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 5,
+        "rating_title": "High Performance"
+      },
+      {
+        "component_id": 2,
+        "component_name": "DRM Strategy",
+        "component_num": 2,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
         "rating_value": 4,
         "rating_title": "Exists – Could be Strengthened"
       },
       {
-        "component_id": 46,
-        "component_name": "Finance and Admin policy and emergency procedures",
-        "component_num": 32,
-        "area_id": 5,
-        "area_name": "Operations support",
+        "component_id": 3,
+        "component_name": "DRM Policy",
+        "component_num": 3,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
         "rating_value": 5,
         "rating_title": "High Performance"
       },
       {
-        "component_id": 47,
-        "component_name": "Information and Communication Technology (ICT)",
-        "component_num": 33,
-        "area_id": 5,
-        "area_name": "Operations support",
+        "component_id": 4,
+        "component_name": "DRM Laws, Advocacy and Dissemination",
+        "component_num": 4,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
         "rating_value": 5,
         "rating_title": "High Performance"
+      },
+      {
+        "component_id": 5,
+        "component_name": "Quality and accountability",
+        "component_num": 5,
+        "area_id": 1,
+        "area_name": "Policy Strategy and Standards",
+        "rating_value": 4,
+        "rating_title": "Exists – Could be Strengthened"
       }
     ]
   },
