@@ -11146,8 +11146,8 @@
     "date_of_assessment": "2026-09-21",
     "country_id": 51,
     "country_name": "Costa Rica",
-    "phase": 2,
-    "phase_display": "Assessment",
+    "phase": 4,
+    "phase_display": "Workplan",
     "type_of_assessment": 1,
     "type_of_assessment_name": "Self assessment",
     "country_iso3": "CRI",
@@ -11155,8 +11155,89 @@
     "region_name": "Americas",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "updated_at": "2026-09-23T13:01:35.971901Z",
-    "prioritized_components": [],
+    "updated_at": "2026-09-25T15:24:25.756515Z",
+    "prioritized_components": [
+      {
+        "componentId": 3,
+        "componentTitle": "DRM Policy",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 5,
+        "componentTitle": "Quality and accountability",
+        "areaTitle": "Policy Strategy and Standards"
+      },
+      {
+        "componentId": 6,
+        "componentTitle": "Hazard, Context and Risk Analysis, Monitoring and Early Warning",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 9,
+        "componentTitle": "Preparedness plans and budgets",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 10,
+        "componentTitle": "Business continuity",
+        "areaTitle": "Analysis and planning"
+      },
+      {
+        "componentId": 17,
+        "componentTitle": "HEALTH IN EMERGENCIES",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 19,
+        "componentTitle": "WATER AND SANITATION",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 29,
+        "componentTitle": "Mapping of NS capacities",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 32,
+        "componentTitle": "Emergency Needs Assessment",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 34,
+        "componentTitle": "Emergency Operations Centre (EOC)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 35,
+        "componentTitle": "Information Management (IM)",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 36,
+        "componentTitle": "Testing and Learning",
+        "areaTitle": "Operational capacity"
+      },
+      {
+        "componentId": 39,
+        "componentTitle": "Coordination with authorities",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 40,
+        "componentTitle": "Coordination with External Agencies and NGOs",
+        "areaTitle": "Coordination"
+      },
+      {
+        "componentId": 54,
+        "componentTitle": "Staff and volunteer management",
+        "areaTitle": "Operations support"
+      },
+      {
+        "componentId": 56,
+        "componentTitle": "Resource Mobilisation",
+        "areaTitle": "Operations support"
+      }
+    ],
     "epi_considerations": false,
     "climate_environmental_considerations": false,
     "urban_considerations": false,
